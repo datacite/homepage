@@ -1,0 +1,67 @@
+labs_links:
+ - name: Blog
+   url: http://blog.labs.datacite.org
+   icon: rss
+ - name: Homepage
+   url: /
+   icon: globe
+ - name: Schema
+   url: http://schema.labs.datacite.org
+   icon: file-code-o
+ - name: Search
+   url: http://search.labs.datacite.org
+   icon: search
+production_links:
+ - name: MDS
+   url: http://mds.datacite.org
+   icon: database
+ - name: Statistics
+   url: http://stats.datacite.org
+   icon: bar-chart
+about_links:
+ - name: What we do
+   url: /about/what-we-do.html
+ - name: Board
+   url: /about/board.html
+ - name: Staff
+   url: /about/staff.html
+ - name: Members
+   url: /about/members.html
+ - name: Resources
+   url: /resources.html
+ - name: Working groups
+   url: /about/working-groups.html
+ - name: Partners
+   url: /about/partners
+ - name: Job opportunities
+   url: /about/job-opportunities.html
+foryou_links:
+ - name: Cite your data
+   url: /services/cite-your-data.html
+ - name: Format your citations
+   url: /services/format-your-citation.html
+ - name: Find a repository
+   url: /services/find-repository.html
+ - name: Find a dataset
+   url: /services/find-dataset.html
+ - name: Get your DOI statistics
+   url: /services/get-your-doi-statistics.html
+ - name: Content negotiation
+   url: /services/content-negotiation.html
+ - name: OAI provider
+   url: /services/oai-provider.html
+ - name: Metadata store
+   url: /services/metadata-store.html
+ - name: Test environment
+   url: /services/test-environment.html
+participate_links:
+ - name: Researchers
+   url: /participate/researchers.html
+ - name: Research organizations
+   url: /participate/research-organisations.html
+ - name: Libraries
+   url: /participate/libraries.html
+ - name: Journal editors
+   url: /participate/journal-editors.html
+ - name: Data centres
+   url: /participate/data-centres.html
