@@ -15,7 +15,7 @@ exclude:
   - assets/jquery/*
 
 # Site settings
-title: "DataCite Homepage"
+title: Home
 
 defaults:
   - values:
