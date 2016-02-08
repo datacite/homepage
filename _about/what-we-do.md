@@ -1,8 +1,7 @@
 ---
 title: What we do
+layout: about
 ---
-
-# What we do
 
 We want to help make data more accessible and more useful; our purpose is to develop and support methods to locate, identify and cite data and other research objects. Specifically, we develop and support the standards behind persistent identifiers for data, and our members assign them.
 

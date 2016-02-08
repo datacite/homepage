@@ -15,7 +15,7 @@ exclude:
   - assets/jquery/*
 
 # Site settings
-title: Home
+title: "DataCite Homepage"
 
 defaults:
   - values:
@@ -52,8 +52,8 @@ google_analytics: UA-22806196-8
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/datacite
+  - icon: twitter
+    url:  https://twitter.com/datacite
     desc: Follow DataCite on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -66,9 +66,9 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/datacite
-    desc:	Visit DataCite on Github
+  - icon: github
+    url:  https://github.com/datacite
+    desc: Visit DataCite on Github
     share_url:
     share_title:
     share_link:

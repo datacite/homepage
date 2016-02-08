@@ -7,7 +7,7 @@
   <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>DataCite Homepage</title>
+  <title>Home</title>
   <meta name="description" content="" />
 
   <meta name="HandheldFriendly" content="True" />
@@ -16,157 +16,147 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
   <!-- DublinCore Metadata -->
-  <meta property="dc:title" content="" />
+  <meta property="dc:title" content="Home" />
   <meta property="dc:format" content="text/html" />
   <meta property="dc:language" content="en" />
   <meta property="dc:identifier" content="http://www.labs.datacite.org/" />
   <meta property="dc:rights" content="CC-BY" />
-  <meta property="dc:source" content="DataCite Homepage" />
+  <meta property="dc:source" content="Home" />
   <meta property="dc:subject" content="Scholarly Communication" />
   <meta property="dc:type" content="website" />
 
   
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@datacite" />
-  <meta name="twitter:title" content="DataCite Homepage" />
-  <meta name="twitter:image" content="http://www.labs.datacite.org/assets/images/logo-small.png" />
+  <meta name="twitter:title" content="Home" />
+  <meta name="twitter:image" content="http://www.labs.datacite.org/assets/images/logo.png" />
 
-  <meta property="og:site_name" content="DataCite Homepage" />
-  <meta property="og:title" content="DataCite Homepage"/>
-  <meta property="og:image" content="http://www.labs.datacite.org/assets/images/logo-small.png" />
+  <meta property="og:site_name" content="Home" />
+  <meta property="og:title" content="Home"/>
+  <meta property="og:image" content="http://www.labs.datacite.org/assets/images/logo.png" />
   <meta property="og:url" content="http://www.labs.datacite.org/" >
   <meta property="og:type" content="blog" />
   
 
   <link rel="canonical" href="http://www.labs.datacite.org/">
-
+  <link rel="alternate" type="application/rss+xml" title="DataCite" href="http://www.labs.datacite.org/feed.xml" />
   <link rel="shortcut icon" href="/assets/images/favicon.ico">
-  <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+  <link href='//fonts.googleapis.com/css?family=Source+Serif+Pro:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
 
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
-  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+  <link rel="stylesheet" type="text/css" media="all" href="/css/datacite.css" />
+
+  <script
+    src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js"
+    data-apikey="">
+  </script>
 </head>
 
   <body>
     <!-- header start -->
 
-<header class="header">
-  <div class="container-fluid">
-    <div class='profile pull-right'>
-      <div class='btn-toolbar profile'>
-        <div class='btn-group' role='group'>
-          <button aria-expanded='false' aria-haspopup='true' class='btn btn-default dropdown-toggle' data-toggle='dropdown' role='button'>
-            <i class='fa fa-navicon'></i>
-          </button>
-          <ul class='dropdown-menu dropdown-menu-right' role='menu'>
-            <li class='dropdown-header'>DataCite Labs</li>
-            
-              <li>
-                <a href='http://blog.labs.datacite.org'>
-                  <i class='fa fa-rss fa-fw'></i>
-                  Blog
-                </a>
-              </li>
-            
-              <li>
-                <a href='/'>
-                  <i class='fa fa-globe fa-fw'></i>
-                  Homepage
-                </a>
-              </li>
-            
-              <li>
-                <a href='http://schema.labs.datacite.org'>
-                  <i class='fa fa-file-code-o fa-fw'></i>
-                  Schema
-                </a>
-              </li>
-            
-              <li>
-                <a href='http://search.labs.datacite.org'>
-                  <i class='fa fa-search fa-fw'></i>
-                  Search
-                </a>
-              </li>
-            
-            <li class='divider'></li>
-            <li class='dropdown-header'>DataCite</li>
-            
-              <li>
-                <a href='http://mds.datacite.org'>
-                  <i class='fa fa-database fa-fw'></i>
-                  MDS
-                </a>
-              </li>
-            
-              <li>
-                <a href='http://stats.datacite.org'>
-                  <i class='fa fa-bar-chart fa-fw'></i>
-                  Statistics
-                </a>
-              </li>
-            
-          </ul>
-        </div>
+<div class="header" id="navtop">
+  <div class="navbar navbar-default navbar-static-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header"
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <a class="navbar-brand" href="/">
+        <img class="logo" src="/assets/images/logo.png" />
+        <span class="logo">Data</span><span>Cite Home</span>
+      </a>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="account_menu_link"><i class='fa fa-th'></i> <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li class='dropdown-header'>DataCite Labs</li>
+              
+                <li>
+                  <a href='http://blog.labs.datacite.org'>
+                    <i class='fa fa-rss fa-fw'></i>
+                    Blog
+                  </a>
+                </li>
+              
+                <li>
+                  <a href='/'>
+                    <i class='fa fa-globe fa-fw'></i>
+                    Homepage
+                  </a>
+                </li>
+              
+                <li>
+                  <a href='http://schema.labs.datacite.org'>
+                    <i class='fa fa-file-code-o fa-fw'></i>
+                    Schema
+                  </a>
+                </li>
+              
+                <li>
+                  <a href='http://search.labs.datacite.org'>
+                    <i class='fa fa-search fa-fw'></i>
+                    Search
+                  </a>
+                </li>
+              
+              <li class='divider'></li>
+              <li class='dropdown-header'>DataCite</li>
+              
+                <li>
+                  <a href='http://mds.datacite.org'>
+                    <i class='fa fa-database fa-fw'></i>
+                    MDS
+                  </a>
+                </li>
+              
+                <li>
+                  <a href='http://stats.datacite.org'>
+                    <i class='fa fa-bar-chart fa-fw'></i>
+                    Statistics
+                  </a>
+                </li>
+              
+            </ul>
+          </li>
+        </ul>
       </div>
     </div>
-
-    <div class='logo'>
-      <a href='/'>
-        <img alt='DataCite Homepage' class='logo-small' src='/assets/images/logo-small.png'>
-      </a>
-    </div>
   </div>
-</header>
+</div>
 
 <!-- header end -->
 
-    <main>
-      <div class="container-fluid">
-        <div class="teaserimage">
-  <div class="teaserimage-image" >
-    Teaser Image
-  </div>
-  <div class="blog-header">
-    <h1 class="blog-title">DataCite Homepage</h1>
-    <h2 class="blog-description"></h2>
-  </div>
-</div>
-
-<div class="container-fluid">
-  <div class="post-list">
-    <a name="topofpage"></a>
-
-    <div class="cf frame">
-      
+    <div class="navbar subnav hidden-xs" role="navigation">
+  <div class="navbar-inner">
+    <div class="container-fluid">
+      <h1 class="navbar-text">Home</h1>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="hidden-sm"><a href="/about">About</a></li>
+        <li class="hidden-sm"><a href="/members">Members</a></li>
+        <li class="hidden-sm"><a href="/services">Services</a></li>
+        <li class="dropdown hidden-sm hidden-md">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Support <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="https://github.com/datacite/homepage/issues">Github Issues</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
-
-    <nav class="pagination" role="navigation">
-      
-      <span class="page-number">Page  of </span>
-      
-    </nav>
   </div>
 </div>
 
-<script type="text/javascript">
-  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-  var disqus_shortname = 'datacite';
+    <div class="container-fluid">
+  <img src="/assets/images/dc_2.svg"/>
+</div>
 
-  /* * * DON'T EDIT BELOW THIS LINE * * */
-  (function () {
-  var s = document.createElement('script'); s.async = true;
-  s.type = 'text/javascript';
-  s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-  }());
-</script>
-
-      </div>
-    </main>
     <!-- footer start -->
 
 <footer class='row footer'>
@@ -239,30 +229,31 @@
       
       </ul>
     </div>
-    <div class='col-md-3 share-footer'>
+    <div class='col-md-3 share'>
       <h4>Join us on</h4>
       <a href='https://twitter.com/datacite'>
-        <i class='fa fa-twitter'></i>
+        <i class='fa fa-twitter fa-2x'></i>
       </a>
       <a href='https://www.facebook.com/datacite'>
-        <i class='fa fa-facebook'></i>
+        <i class='fa fa-facebook fa-2x'></i>
       </a>
       <a href='https://www.youtube.com/user/datacite'>
-        <i class='fa fa-youtube'></i>
+        <i class='fa fa-youtube fa-2x'></i>
       </a>
       <a href='https://www.linkedin.com/company/datacite'>
-        <i class='fa fa-linkedin'></i>
+        <i class='fa fa-linkedin fa-2x'></i>
       </a>
     </div>
   </div>
 </div>
+
 <!-- footer end -->
 
-    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-<script type="text/javascript" src="/assets/js/index.js"></script>
+    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/fitvids/jquery.fitvids.js"></script>
 <script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
 <script>
 (function ($) {
   "use strict";

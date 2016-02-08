@@ -1,0 +1,25 @@
+---
+title: Members
+---
+
+<div class="container-fluid">
+  <div class='row'>
+    <div class='col-md-9'>
+      <div class="post-list">
+        {% for page in site.members %}
+        {% if page.title != "Members" %}
+        <div class="panel panel-default post-list">
+          <div class="panel-body post-content">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ page.url }}" itemprop="url">{{ page.title }}</a></h2>
+            </header>
+          </div>
+          <div class="panel-footer">
+            <span class="meta">{{ page.category }}</span>
+            <span class="pull-right">{{ page.country }}</span>
+          </div>
+        </div>{% endif %}{% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

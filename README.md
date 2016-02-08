@@ -1,4 +1,4 @@
-DataCite Hoempage
-==========================
+DataCite Homepage
+=================
 
-[![Build Status](https://travis-ci.org/datacite/homepage.svg?branch=labs)](https://travis-ci.org/datacite/homepage)
+[![Build Status](https://travis-ci.org/datacite/homepage.svg?branch=master)](https://travis-ci.org/datacite/homepage)

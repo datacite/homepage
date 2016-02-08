@@ -1,13 +1,12 @@
 ---
-name: Harvard University Library
+title: Harvard University Library
 category: Affiliate member
 country: United States
 logo: harvard.jpg
 email: support@thedata.org
 website: http://thedata.harvard.edu
+layout: member
 ---
-
-# {{ page.name }}
 
 The Harvard Library’s holdings range from traditional print collections to
 rapidly expanding digital resources. It is the mission of the Harvard Library

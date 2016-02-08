@@ -1,8 +1,8 @@
 ---
-layout: default
+title: Format your citation
+description: "Use the DOI Citation Formatter, a service created in collaboration with CrossRef, to format your citation."
+layout: about
 ---
-
-# Format your citation
 
 Use the DOI Citation Formatter, a service created in collaboration with CrossRef, to format your citation. This service creates different citation formats for DataCite and CrossRef DOIs.
 

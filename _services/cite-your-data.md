@@ -1,7 +1,8 @@
 ---
+title: Cite your data
+description: "Why is it so important to cite data? Books and journal articles have long benefited from an infrastructure that makes them easy to cite, a key element in the process of research and academic discourse."
+layout: about
 ---
-
-# Cite your data
 
 Why is it so important to cite data? Books and journal articles have long benefited from an infrastructure that makes them easy to cite, a key element in the process of research and academic discourse. We believe that you should cite data in just the same way that you can cite other sources of information, such as articles and books. Data citation can help by:
 

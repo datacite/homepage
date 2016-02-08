@@ -1,14 +1,13 @@
 ---
-name: Australian National Data Service
+title: Australian National Data Service
 category: Full member
 country: Australia
 logo: ands.png
 email: contact@ands.org.au
 website: http://www.ands.org.au
 phone: +61 3 9902 0585
+layout: member
 ---
-
-# {{page.name }}
 
 The task of the Australian National Data Service (ANDS) is to build the
 Australian Research Data Commons by creating the infrastructure to enable

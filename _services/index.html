@@ -1,0 +1,22 @@
+---
+title: Services
+---
+
+<div class="container-fluid">
+  <div class='row'>
+    <div class='col-md-9'>
+      <div class="post-list">
+        {% for page in site.services %}
+        {% if page.title != "Services" %}
+        <div class="panel panel-default post-list">
+          <div class="panel-body post-content">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ page.url }}" itemprop="url">{{ page.title }}</a></h2>
+            </header>
+            {{ page.description }}
+          </div>
+        </div>{% endif %}{% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
