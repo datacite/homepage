@@ -1,0 +1,22 @@
+---
+title: Services
+layout: layout
+---
+
+<div class="container-fluid">
+  <div class='row'>
+    <div class='col-md-9'>
+      <div class="post-list">
+        <% data.services.each do |service| %>
+          <div class="panel panel-default post-list">
+            <div class="panel-body post-content">
+              <header class="post-header">
+                <h2 class="post-title" itemprop="name"><a href="/services/<%= service.id %>.html" itemprop="url"><%= service.title %></a></h2>
+              </header>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>

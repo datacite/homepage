@@ -1,0 +1,26 @@
+---
+title: Members
+layout: layout
+---
+
+<div class="container-fluid">
+  <div class='row'>
+    <div class='col-md-9'>
+      <div class="post-list">
+        <% data.members.each do |member| %>
+          <div class="panel panel-default post-list">
+            <div class="panel-body post-content">
+              <header class="post-header">
+                <h2 class="post-title" itemprop="name"><a href="/members/<%= member.id %>.html" itemprop="url"><%= member.title %></a></h2>
+              </header>
+            </div>
+            <div class="panel-footer">
+              <span class="meta"><%= member.category %></span>
+              <span class="pull-right"><%= member.country %></span>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>

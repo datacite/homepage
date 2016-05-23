@@ -1,0 +1,16 @@
+- id: ands
+  title: Australian National Data Service
+  category: Allocating member
+  country: Australia
+  logo: ands.png
+  email: contact@ands.org.au
+  website: http://www.ands.org.au
+  phone: +61 3 9902 0585
+- id: cern
+  title: CERN - European Organization for Nuclear Research
+  category: Allocating member
+  country: Switzerland
+  logo: cern.png
+  email: doi-service@cern.ch
+  website: http://doi.web.cern.ch/
+  phone: +41 22 76 62754
