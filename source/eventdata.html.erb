@@ -1,0 +1,41 @@
+---
+title: DataCite - Event Data
+---
+
+    <header class="image-bg-fixed-height-small">
+		<div class="jumbotron">
+		  <h1>Event Data</h1>
+		</div>
+    </header>
+
+	<section>
+		<div class="container section-content">
+			<h1>service description</h1>
+			<p>DataCite Event Data service (prototype) retrieves and exposes the activity that occurs around research data objects. 
+				In particular, Event Data brings to light links between publications and data, citations, software, reuse, documentation, 
+				etc. This service is developed in collaboration with Crossref and follows the Scholix Guidelines developed by the joint 
+				Research Data Alliance/ICSU World Data System Data Publishing Services Working Group.
+			</p>
+			<p>
+				The events are found via the relatedIdentifier and nameIdentifier attributes of DataCite Metadata, and via external 
+				services (so-called sources) that collect information about DataCite DOIs. Examples of events include references to related 
+				data, data citations in journal articles, and new versions of a work.
+			</p>
+			<h1>access details</h1>
+			<p>		 
+			- Accessible through: <%= link_to 'http://eventdata.datacite.org', 'http://eventdata.datacite.org' %> (API) and 
+			<%= link_to 'http://search.labs.datacite.org', 'http://search.labs.datacite.org' %> <br />
+			- DataCite Labs API: <%= link_to 'http://api.labs.datacite.org', 'http://api.labs.datacite.org' %> <br />
+			- API users: DataCite Members, Member Users, Integrators<br />
+			- Web interface users: DataCite Members, Member Users, Community<br />
+			- Availability: <%= link_to 'http://status.datacite.org', 'http://status.datacite.org' %> 
+			</p>
+			<h1>learn more</h1>
+			<p>
+			- Crossref Event Data: <%= link_to 'http://eventdata.crossref.org', 'http://eventdata.crossref.org' %> <br />
+			- Scholix Guidelines: <%= link_to 'http://scholix.org', 'http://scholix.org' %>  <br />
+			- DataCite blog: <%= link_to 'http://blog.datacite.org/its-all-about-relations/', 'http://blog.datacite.org/its-all-about-relations/' %>  
+			</p>			
+		</div>
+	</section>
+
