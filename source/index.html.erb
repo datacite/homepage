@@ -8,11 +8,13 @@ title: Welcome to DataCite
 		  <div class="row">
 		    <div class="col-md-2"></div>
 		    <div class="col-md-8">
-				<p>DataCite is a leading global non-profit organisation that provides DOIs for research data.
-					We help the research community locate, identify, and cite research with confidence.</p></div>
+				<p>
+					Locate, identify, and cite research data with the leading global provider of DOIs for research data.
+				</p>
+			</div>
 		    <div class="col-md-2"></div>
 		  </div>	  
-		  <p><a class="btn btn-primary btn-lg" href="pages/become.html" role="button">Learn more</a></p>
+		  <p><a class="btn btn-primary btn-lg" href="become.html" role="button">Learn more</a></p>
 		</div>
     </header>
 
@@ -24,7 +26,7 @@ title: Welcome to DataCite
 						<%= image_tag "home_search.svg", :width => '70' %>
 					</h1>
 					<p class="section-paragraph">
-						Search and find more than 7 million data records with extensive and reliable metadata.
+						Find what you’re looking for by searching millions of records with extensive, reliable metadata.
 					</p>
 				</div>
 				<div class="col-md-3">
@@ -32,7 +34,7 @@ title: Welcome to DataCite
 						<%= image_tag "home_reuse.svg", :width => '70' %>
 					</h1>
 					<p class="section-paragraph">
-						Share your data and reuse other's, creating the highest impact in the community.
+						Share your data and reuse the data of others to create the highest impact in the research community.
 					</p>
 				</div>
 				<div class="col-md-3">
@@ -40,7 +42,7 @@ title: Welcome to DataCite
 						<%= image_tag "home_quotes.svg", :width => '70' %>
 					</h1>
 					<p class="section-paragraph">
-						Cite your sources with confidence and receive credit whenever your work is reused.
+						Cite your research sources with confidence, and receive proper credit when your work is reused.
 					</p>
 				</div>
 				<div class="col-md-3">
@@ -48,7 +50,8 @@ title: Welcome to DataCite
 						<%= image_tag "home_reuse.svg", :width => '70' %>
 					</h1>
 					<p class="section-paragraph">
-						Connect your research: publications, datasets, software, authors, institutions and funding.
+						Connect your research – publications, datasets, software, authors, institutions, and funding
+						data all in one place.
 					</p>
 				</div>
 			</div>
@@ -59,27 +62,26 @@ title: Welcome to DataCite
         <div class="container-fluid bg-primary">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="svc-heading">Get started!</h1>
+                    <h1 class="svc-heading">Get started with DataCite!</h1>
 				</div>
 				<div class="container">
 					<div class="row text-center">
 						<div class="col-md-4 col-sm-4 svc-item">
 							<div class="thumbnail">
 								<div class="caption">
+									
 									<a href=""><h1><i class="fa fa-search"></i></h1></a>
-									<p>Explore our collection to find datasets, software, images
-										and other research material.</p>
+									<p>Search our collection to find datasets, software, images, and other research material.</p>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-4 col-sm-4 svc-item">
 							<div class="thumbnail">
 								<div class="caption">
-									<a href="http://re3data.org">
+									<% link_to 'http://re3data.org4' do %>
 										<%= image_tag "home_re3data.png" %>
-									</a>
-									<p>Find the right place for your work with re3data, the Registry of Research 
-										Data Repositories.</p>
+									<% end %>
+									<p>Store and access your work with re3data.org, the Registry of Research Data Repositories.</p>
 								</div>
 							</div>
 						</div>
@@ -87,8 +89,7 @@ title: Welcome to DataCite
 							<div class="thumbnail">
 								<div class="caption">
 									<a href=""><h1><i class="fa fa-quote-right"></i></h1></a>
-									<p>Generate your references automatically using our easy citation formatting 
-										tool.</p>
+									<p>Generate your references automatically with our easy-to-use citation formatting tool.</p>
 								</div>
 							</div>
 						</div>
