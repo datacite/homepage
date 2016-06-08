@@ -1,62 +1,208 @@
 <!DOCTYPE html>
-  <html>
-    <head>
+<html lang="en">
+
+<head>
     <meta charset="utf-8">
-    <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="DataCite - ">
+    <meta name="author" content="DataCite Team">
 
-    <title><%= ENV['SITE_TITLE'] %></title>
-    <meta name="description" content="<%= ENV['SITE_DESCRIPTION'] %>" />
+    <title><%= current_page.data.title || "DataCite" %></title>
+	
+	<%= stylesheet_link_tag :bootstrap %>
+    <%= stylesheet_link_tag :dc %>
+	
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+		
+	<link rel="icon" type="image/gif" href="images/favicon.gif" />
 
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="MobileOptimized" content="320" />
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-    <!-- DublinCore Metadata -->
-    <meta property="dc:title" content="<%= ENV['SITE_TITLE'] %>" />
-    <meta property="dc:format" content="text/html" />
-    <meta property="dc:language" content="en" />
-    <meta property="dc:rights" content="CC-BY" />
-    <meta property="dc:source" content="<%= ENV['SITE_TITLE'] %>" />
-    <meta property="dc:subject" content="Scholarly Communication" />
-    <meta property="dc:type" content="website" />
+    <%= javascript_include_tag :jquery %>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	
+	<script type="text/javascript">
+    $(document).ready(function() {
+        var images = ['cern.jpg', 'dryad.jpg', 'erara.jpg', 'ethz.jpg', 'ethz2.jpg', 'rutgers.jpg'];
 
-    <% if ENV['TWITTER_HANDLE'] %>
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="<%= ENV['TWITTER_HANDLE'] %>" />
-    <meta name="twitter:title" content="<%= ENV['SITE_TITLE'] %>" />
-    <meta name="twitter:image" content="/images/datacite.png" />
-    <meta name="twitter:description" content="<%= ENV['SITE_DESCRIPTION'] %>" />
-    <% end %>
+        $('.randimg').css({'background-image': 'url(images/home_' + images[Math.floor(Math.random() * images.length)] + ')'});
+    });
+	</script>
 
-    <meta property="og:site_name" content="<%= ENV['SITE_TITLE'] %>" />
-    <meta property="og:description" content="<%= ENV['SITE_DESCRIPTION'] %>" />
-    <meta property="og:image" content="/images/datacite.png" />
-    <meta property="og:type" content="blog" />
+</head>
 
-    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic|Source+Code+Pro:400,600' rel='stylesheet' type='text/css'>
-    <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
-    <link href="//<%= ENV['CDN_HOST'] %>/stylesheets/homepage.css" rel='stylesheet' type='text/css'>
+<body>
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.html"></a>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						aria-expanded="false">About us <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><%= link_to 'What we do', 'mission.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Board', 'board.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Steering groups', 'steering.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Staff', 'staff.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Job opportunities', 'jobopportunities.html' %> </li>
+						</ul>
+					</li>
+					
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						aria-expanded="false">Services <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><%= link_to 'Assign DOIS', 'dois.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Metadata Search', 'search.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Event data', 'eventdata.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Profiles', 'profiles.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 're3data', 're3data.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Citation formatter', 'citation.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Statistics', 'stats.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Service status', 'service.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Content negotiation', 'content.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'OAI-PMH', 'oaipmh.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Test environment', 'test.html' %></li>
+						</ul>
+					</li>
+					
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						aria-expanded="false">Resources <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><%= link_to 'Metadata schema', 'http://schema.datacite.org' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Technical documentation', 'technical.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Outreach material', 'outreach.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Events', 'events.html' %></li>
+						</ul>
+					</li>
+					
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						aria-expanded="false">Community <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><%= link_to 'Members', 'members.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Partners', 'partners.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Steering groups', 'steering.html' %></li><li role="separator" class="divider"></li>
+							<li><%= link_to 'Events', 'events.html' %>	</li>
+						</ul>
+					</li>
+					
+					<li class="active"><%= link_to 'Become a member', 'become.html' %><span class="sr-only">(current)</span></a></li>
+					
+					<li>
+					<% link_to 'contact.html' do %>
+					  <i class="fa fa-envelope fa-lg"></i>
+					<% end %>
+					</li>
 
-    <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+					<li>
+					<% link_to 'http://blog.datacite.org' do %>
+					  <i class="fa fa-pencil-square-o fa-lg"></i>
+					<% end %>
+					</li>
+					
+					<li>
+					<% link_to 'http://twitter.com/datacite' do %>
+					  <i class="fa fa-twitter fa-lg"></i>
+					<% end %>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</nav>
 
-    <% if ENV['BUGSNAG_JS_KEY'] %>
-      <script
-        src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js"
-        data-apikey="<%= ENV['BUGSNAG_JS_KEY'] %>">
-      </script>
-    <% end %>
-  </head>
-  <body>
-    <%= partial "includes/header.html.erb" %>
+	<%= yield %>
 
-    <%= yield %>
+    <footer>
+		<div class="container-fluid bg-primary">
+			<div class="container">
+				<div class="col-md-3 col-sm-3">
+					<h4>About DataCite</h4>
+					<%= link_to 'What we do', 'mission.html' %><br />
+					<%= link_to 'Board', 'board.html' %><br />
+					<%= link_to 'Steering groups', 'steering.html' %><br />
+					<%= link_to 'Staff', 'staff.html' %><br />
+					<%= link_to 'Job opportunities', 'jobopportunities.html' %> <br /><br />
+				</div>
+				<div class="col-md-3 col-sm-3">
+					<h4>Services</h4>
+					<%= link_to 'Assign DOIS', 'dois.html' %><br />
+					<%= link_to 'Metadata Search', 'search.html' %><br />
+					<%= link_to 'Event data', 'eventdata.html' %><br />
+					<%= link_to 'Profiles', 'profiles.html' %><br />
+					<%= link_to 're3data', 're3data.html' %><br />
+					<%= link_to 'Citation formatter', 'citation.html' %><br />
+					<%= link_to 'Statistics', 'stats.html' %><br />
+					<%= link_to 'Service status', 'service.html' %><br />
+					<%= link_to 'Content negotiation', 'content.html' %><br />
+					<%= link_to 'OAI-PMH', 'oaipmh.html' %><br />
+					<%= link_to 'Test environment', 'test.html' %><br />
+				</div>
+				<div class="col-md-3 col-sm-3">
+					<h4>Resources</h4>
+					<%= link_to 'Metadata schema', 'http://schema.datacite.org' %><br />
+					<%= link_to 'Technical documentation', 'technical.html' %><br />
+					<%= link_to 'Outreach material', 'outreach.html' %><br />
+					<%= link_to 'Events', 'events.html' %><br /><br />
 
-    <%= partial "includes/footer.html.erb" %>
-    <%= partial "includes/google_analytics.html.erb" %>
+					<h4>Community</h4>
+					<%= link_to 'Members', 'members.html' %><br />
+					<%= link_to 'Partners', 'partners.html' %><br />
+					<%= link_to 'Steering groups', 'steering.html' %><br />
+					<%= link_to 'Events', 'events.html' %>	<br /><br />			  
+				</div>
+				<div class="col-md-3 col-sm-3">
+					<h4>Contact us</h4>
+					<% link_to 'mailto:support@datacite.org' do %>
+					  <i class='fa fa-envelope fa-2x'></i>
+					<% end %>
+					<%= link_to 'support@datacite.org', 'mailto:support@datacite.org' %>
+					
+					<br />
+					<% link_to 'https://blog.datacite.org' do %>
+					  <i class='fa fa-pencil-square-o fa-2x'></i>
+					<% end %>
+					<%= link_to 'Blog', 'https://blog.datacite.org' %>
+					<br />
+					
+					<% link_to 'https://twitter.com/datacite' do %>
+					  <i class='fa fa-twitter fa-2x'></i>
+					<% end %>
+					<%= link_to '@datacite', 'https://twitter.com/datacite' %>
+					<br />
+					
+					<% link_to 'https://www.linkedin.com/company/datacite' do %>
+					  <i class='fa fa-linkedin fa-2x'></i>
+					<% end %>
+					<%= link_to 'Linkedin', 'https://www.linkedin.com/company/datacite' %>
+					<br /><br />
+					
+					<%= link_to 'Terms and conditions', 'terms.html' %><br />
+					<%= link_to 'Privacy policy', 'privacy.html' %><br />
+					<%= link_to 'Acknowledgements', 'acknowledgments.html' %><br /><br />
+		    	</div>
+			</div>
+		</div>
+    </footer>
+
   </body>
 </html>
