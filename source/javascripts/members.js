@@ -31,9 +31,9 @@ function formatMembers(response) {
 						+ '<div id=\"' 
 						+  response.data[i].id 
 						+ '\" class=\"collapse stakeholderdescription\">'
-						+ '<h2>' 
-						+ response.data[i].id 
-						+ '</h2>' 
+						//+ '<h2>' 
+						//+ response.data[i].id 
+						//+ '</h2>' 
 						+ '<h3>' 
 						+ response.data[i].attributes.title 
 						+ '</h3>'
