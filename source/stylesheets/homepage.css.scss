@@ -131,6 +131,11 @@ section h1 {
 
 footer {
   margin: 50px 0 0 0;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
 }
 
 .section-content {
