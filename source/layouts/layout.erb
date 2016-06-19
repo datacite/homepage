@@ -9,14 +9,13 @@
     <meta name="author" content="DataCite Team">
 
     <title><%= current_page.data.title || "DataCite" %></title>
-	
+
 	<%= stylesheet_link_tag :bootstrap %>
     <%= stylesheet_link_tag :dc %>
-	
+
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-		
+
 	<link rel="icon" type="image/gif" href="images/favicon.gif" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -28,7 +27,7 @@
 
     <%= javascript_include_tag :jquery %>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-	
+
 	<script type="text/javascript">
     $(document).ready(function() {
         var images = ['cern.jpg', 'dryad.jpg', 'erara.jpg', 'ethz.jpg', 'ethz2.jpg', 'rutgers.jpg'];
@@ -54,7 +53,7 @@
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right">
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 						aria-expanded="false">About us <span class="caret"></span></a>
 						<ul class="dropdown-menu">
 							<li><%= link_to 'What we do', 'mission.html' %></li><li role="separator" class="divider"></li>
@@ -64,9 +63,9 @@
 							<li><%= link_to 'Job opportunities', 'jobopportunities.html' %> </li>
 						</ul>
 					</li>
-					
+
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 						aria-expanded="false">Services <span class="caret"></span></a>
 						<ul class="dropdown-menu">
 							<li><%= link_to 'Assign DOIs', 'dois.html' %></li><li role="separator" class="divider"></li>
@@ -82,9 +81,9 @@
 							<li><%= link_to 'Test environment', 'test.html' %></li>
 						</ul>
 					</li>
-					
+
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 						aria-expanded="false">Resources <span class="caret"></span></a>
 						<ul class="dropdown-menu">
 							<li><%= link_to 'Metadata schema', 'http://schema.datacite.org' %></li><li role="separator" class="divider"></li>
@@ -93,9 +92,9 @@
 							<li><%= link_to 'Events', 'events.html' %></li>
 						</ul>
 					</li>
-					
+
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" 
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 						aria-expanded="false">Community <span class="caret"></span></a>
 						<ul class="dropdown-menu">
 							<li><%= link_to 'Members', 'members.html' %></li><li role="separator" class="divider"></li>
@@ -104,9 +103,9 @@
 							<li><%= link_to 'Events', 'events.html' %>	</li>
 						</ul>
 					</li>
-					
+
 					<li class="active"><%= link_to 'Become a member', 'become.html' %><span class="sr-only">(current)</span></a></li>
-					
+
 					<li>
 					<% link_to 'contact.html' do %>
 					  <i class="fa fa-envelope fa-lg"></i>
@@ -118,13 +117,13 @@
 					  <i class="fa fa-pencil-square-o fa-lg"></i>
 					<% end %>
 					</li>
-					
+
 					<li>
 					<% link_to 'http://twitter.com/datacite' do %>
 					  <i class="fa fa-twitter fa-lg"></i>
 					<% end %>
 					</li>
-					
+
 				</ul>
 			</div>
 		</div>
@@ -168,7 +167,7 @@
 					<%= link_to 'Members', 'members.html' %><br />
 					<%= link_to 'Partners', 'partners.html' %><br />
 					<%= link_to 'Steering groups', 'steering.html' %><br />
-					<%= link_to 'Events', 'events.html' %>	<br /><br />			  
+					<%= link_to 'Events', 'events.html' %>	<br /><br />
 				</div>
 				<div class="col-md-3 col-sm-3">
 					<h4>Contact us</h4>
@@ -176,26 +175,26 @@
 					  <i class='fa fa-envelope fa-2x'></i>
 					<% end %>
 					<%= link_to 'support@datacite.org', 'mailto:support@datacite.org' %>
-					
+
 					<br />
 					<% link_to 'https://blog.datacite.org' do %>
 					  <i class='fa fa-pencil-square-o fa-2x'></i>
 					<% end %>
 					<%= link_to 'Blog', 'https://blog.datacite.org' %>
 					<br />
-					
+
 					<% link_to 'https://twitter.com/datacite' do %>
 					  <i class='fa fa-twitter fa-2x'></i>
 					<% end %>
 					<%= link_to '@datacite', 'https://twitter.com/datacite' %>
 					<br />
-					
+
 					<% link_to 'https://www.linkedin.com/company/datacite' do %>
 					  <i class='fa fa-linkedin fa-2x'></i>
 					<% end %>
 					<%= link_to 'Linkedin', 'https://www.linkedin.com/company/datacite' %>
 					<br /><br />
-					
+
 					<%= link_to 'Terms and conditions', 'terms.html' %><br />
 					<%= link_to 'Privacy policy', 'privacy.html' %><br />
 					<%= link_to 'Acknowledgements', 'acknowledgments.html' %><br /><br />
