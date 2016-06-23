@@ -1,5 +1,5 @@
 var xmlhttp = new XMLHttpRequest();
-var url = "http://api.labs.datacite.org/pages?tag=featured";
+var url = "https://api.labs.datacite.org/pages?tag=featured";
 
 xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -14,9 +14,6 @@ function formatBlog(response) {
 	var div = document.getElementById('bloglist');
 	
 	for (var i in response.data){
-		if (i == 0) {
-			div.innerHTML += '<div class=\"row text-center\">'
-		}
 		div.innerHTML += '<div class=\"col-md-4 col-sm-4 svc-item\">' 
 						+ '<div class=\"thumbnail\">'
 						+ '<img src=\"' 
@@ -34,7 +31,6 @@ function formatBlog(response) {
 						+ '\">Read more</a></p>'
 						+ '</div></div>'
 		if (i == 2) {
-			div.innerHTML += '</div>'
 			break;
 		}
 	}
