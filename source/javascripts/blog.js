@@ -10,16 +10,13 @@ xmlhttp.open("GET", url, true);
 xmlhttp.send();
 
 function formatBlog(response) {
-	window.alert("sometext");
-	
 	var response = JSON.parse(response);
 	var div = document.getElementById('bloglist');
-
-	// response.meta.total;
 	
-	div.innerHTML += '<div class=\"row text-center\">'
-		
 	for (var i in response.data){
+		if (i == 0) {
+			div.innerHTML += '<div class=\"row text-center\">'
+		}
 		div.innerHTML += '<div class=\"col-md-4 col-sm-4 svc-item\">' 
 						+ '<div class=\"thumbnail\">'
 						+ '<img src=\"' 
@@ -36,7 +33,9 @@ function formatBlog(response) {
 			 			+ response.data[i].id 
 						+ '\">Read more</a></p>'
 						+ '</div></div>'
+		if (i == 2) {
+			div.innerHTML += '</div>'
+			break;
+		}
 	}
-	
-	div.innerHTML += '</div>'
 }
