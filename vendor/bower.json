@@ -1,0 +1,8 @@
+{
+  "name": "vendor",
+  "dependencies": {
+    "es5-shim": "~4.1.0",
+    "bootstrap-sass": "~3.3.6",
+    "bootstrap-social": "~5.0.0"
+  }
+}
