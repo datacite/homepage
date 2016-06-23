@@ -10,7 +10,120 @@ title: DataCite - Technical documentation
 
 	<section>
 		<div class="container section-content">
-			<h1>Title</h1>
-			<p>Content.</p>
+			<h1>service integration</h1>
+			<p>
+				This Technical Documentation section provides information on how to handle or integrate DataCite services. 
+			 	It is available openly and supplies detailed descriptions of functionality and architecture for both 
+				production and labs services.
+			</p>
+			<p>
+				Should you have any question or request, please <%= link_to 'contact us', 'contact.html' %>!
+			</p>
 		</div>
 	</section>
+	
+    <section>
+        <div class="container-fluid bg-primary">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="svc-heading">How to...</h1>
+				</div>
+				<div class="container">
+					<div class="row text-center">
+						<div class="col-md-6 col-sm-12 svc-item">
+							<div class="thumbnail">
+								<div class="caption" data-toggle="collapse" data-target="#mds">
+									<h2>Assign DOIs (MDS)</h2>
+								</div>
+								<div id="mds" class="collapse documentation">
+									<ul>
+										<li>Schema: <%= link_to 'DataCite Metadata Schema', 'https://schema.datacite.org/' %>
+										<li>API documentation: <%= link_to 'MDS API Doc', 'https://mds.datacite.org/static/apidoc' %>
+										<li>DOI Documentation: <%= link_to 'DOI Handbook', 'http://doi.org/10.1000/182' %>
+									</ul>
+								</div>								
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-12 svc-item">
+							<div class="thumbnail">
+								<div class="caption" data-toggle="collapse" data-target="#search">
+									<h2>Search</h2>
+								</div>
+								<div id="search" class="collapse documentation">
+									<ul>
+										<li>Traditional search: <%= link_to 'Search examples and UI', 'http://search.datacite.org/ui' %>
+										<li>New labs search: <%= link_to 'Common API Labs', 'https://api.labs.datacite.org' %>
+										<li>Common DataCite API development: 
+											<%= link_to 'Github', 'https://github.com/datacite/spinone/issues' %>
+									</ul>
+								</div>								
+							</div>
+						</div>
+					</div>
+					
+					<div class="row text-center">
+						<div class="col-md-6 col-sm-12 svc-item">
+							<div class="thumbnail">
+								<div class="caption" data-toggle="collapse" data-target="#event">
+									<h2>Event data</h2>
+								</div>
+								<div id="event" class="collapse documentation">
+									<ul>
+										<li>New labs search: <%= link_to 'Common API Labs', 'https://api.labs.datacite.org' %>
+										<li>Common DataCite API development: 
+											<%= link_to 'Github', 'https://github.com/datacite/spinone/issues' %>
+									</ul>
+								</div>								
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-12 svc-item">
+							<div class="thumbnail">
+								<div class="caption" data-toggle="collapse" data-target="#re3data">
+									<h2>re3data</h2>
+								</div>
+								<div id="re3data" class="collapse documentation">
+									<ul>
+										<li>Schema: <%= link_to 'Schema 3.0 XML Schema', 'http://doi.org/10.2312/re3.009' %>
+										<li>Schema documentation: <%= link_to 'Schema 3.0 Documentation', 'http://doi.org/10.2312/re3.008' %>
+										<li>API documentation: <%= link_to 'REST V1 and REST Beta', 'http://service.re3data.org/api/doc' %>
+									</ul>
+								</div>								
+							</div>
+						</div>
+					</div>
+					
+					<div class="row text-center">
+						<div class="col-md-6 col-sm-12 svc-item">
+							<div class="thumbnail">
+								<div class="caption" data-toggle="collapse" data-target="#cn">
+									<h2>Content negotiation</h2>
+								</div>
+								<div id="cn" class="collapse documentation">
+									<ul>
+										<li>Content resolver: <%= link_to 'Links and examples', 'http://data.datacite.org/' %>
+										<li>DOI Content Negotiation: <%= link_to 'Description and examples', 'http://crosscite.org/cn/' %>
+									</ul>
+								</div>								
+							</div>
+						</div>
+						<div class="col-md-6 col-sm-12 svc-item">
+							<div class="thumbnail">
+								<div class="caption" data-toggle="collapse" data-target="#oai">
+									<h2>OAI-PMH</h2>
+								</div>
+								<div id="oai" class="collapse documentation">
+									<ul>
+										<li>OAI-PMH : <%= link_to 'Documentation', 'http://oai.datacite.org' %>
+										<li>Service identifier: <%= link_to 'OAI 2.0', 'http://oai.datacite.org/oai?verb=Identify' %>
+										<li>OAI-PMH Standard: <%= link_to 'Specification',
+											'http://www.openarchives.org/OAI/openarchivesprotocol.html' %>	
+									</ul>
+								</div>								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+    </section>
