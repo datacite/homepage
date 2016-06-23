@@ -190,6 +190,29 @@ footer {
   padding-right: 30px;
 }
 
+.sidebox {
+	margin-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	color: gray;
+	
+	h1 {
+	    font-size: x-large;
+	    font-variant: small-caps;
+	    text-align: left;
+	}
+	
+    ul {
+      list-style: none;
+      padding-left: 10px;
+    }
+	
+	li {
+		padding-bottom: 5px;
+	}
+}
+
+
 footer h4 {
   color: gray;
 }

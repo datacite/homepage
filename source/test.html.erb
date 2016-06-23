@@ -10,17 +10,37 @@ title: DataCite - Test environment
     </header>
 
 	<section>
-		<div class="container section-content">
-			<h1>service description</h1>
-			<p>
-				In addition to the Metadata Store, DataCite has set up an environment for testing all of our services, 
-				including the DOI registration. The test environment is a closed system: DOI names registered here 
-				are not resolvable with any resolvers other than that of the test system. 
-			</p>	
-			<p>
-				This service is intended to test new integrations, schemas, etc. If are planning to make use of it, 
-				please contact <%= link_to 'support@datacite.org', 'mailto:support@datacite.org' %>  to create an account.
-			</p>
+		<div class="container">
+            <div class="row">
+                <div class="col-md-9 section-content">	
+					<h1>service description</h1>
+				<p>
+					In addition to the Metadata Store, DataCite has set up an environment for testing all of our services, 
+					including the DOI registration. The test environment is a closed system: DOI names registered here 
+					are not resolvable with any resolvers other than that of the test system. 
+				</p>	
+				<p>
+					This service is intended to test new integrations, schemas, etc. If are planning to make use of it, 
+					please contact <%= link_to 'support@datacite.org', 'mailto:support@datacite.org' %>  to create an account.
+				</p>
+				</div>
+				
+				<div class="col-md-3 bg-primary sidebox">
+					<h1>access details</h1>
+					<ul>
+						<li> Accessible through:
+							<br /> <i class="fa fa-external-link"></i>
+							<%= link_to 'http://test.datacite.org', 'http://test.datacite.org' %>
+						<li> Intended users: 
+							<ul>
+								<li>- DataCite members
+								<br />- Users and integrators
+							</ul>
+						<li> Availability: 
+							<br /> <i class="fa fa-external-link"></i>
+							<%= link_to 'http://status.datacite.org', 'http://status.datacite.org' %>  
+					</ul>
+				</div>
+			</div>
 		</div>
 	</section>
-

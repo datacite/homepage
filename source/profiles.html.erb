@@ -9,28 +9,45 @@ title: DataCite - Profiles
     </header>
 
 	<section>
-		<div class="container section-content">
-			<h1>service description</h1>
-			<p>
-				DataCite Profiles integrates DataCite services from a user’s perspective and provides tools for personal use. 
-				In particular, it is a key piece of integration with <%= link_to 'ORCID', 'http://orcid.org' %>, where researchers
-				can connect their profiles and automatically update their ORCID record when any of their works contain a DOI.
-			</p>
-			<p>
-				From the members' perspective, this service provides them an interface to manage their membership information 
-				and the contact details of their organisation. 
-			</p>
-			
-			<h1>access details</h1>
-			<p>
-				- Accessible through: <%= link_to 'http://profiles.labs.datacite.org', 'http://profiles.labs.datacite.org' %> <br />
-				- Intended users: DataCite Members, Member Users, Community<br />
-				- Availability: <%= link_to 'http://status.datacite.org', 'http://status.datacite.org' %> 
-			</p>
-			<h1>learn more</h1>
-			<p>
-				- DataCite blog: <%= link_to 'http://blog.datacite.org/announcing-datacite-profiles-service/', 'http://blog.datacite.org/announcing-datacite-profiles-service/' %> 
-			</p>
-			
+		<div class="container">
+            <div class="row">
+                <div class="col-md-9 section-content">	
+					<h1>service description</h1>
+					<p>
+						DataCite Profiles integrates DataCite services from a user’s perspective and provides tools for personal use. 
+						In particular, it is a key piece of integration with <%= link_to 'ORCID', 'http://orcid.org' %>, where researchers
+						can connect their profiles and automatically update their ORCID record when any of their works contain a DOI.
+					</p>
+					<p>
+						From the members' perspective, this service provides them an interface to manage their membership information 
+						and the contact details of their organisation. 
+					</p>
+				</div>
+				
+				<div class="col-md-3 bg-primary sidebox">
+					<h1>access details</h1>
+					<ul>
+						<li> Accessible through:
+							<br /> <i class="fa fa-external-link"></i>
+							<%= link_to 'http://profiles.labs.datacite.org', 'http://profiles.labs.datacite.org' %>
+						<li> Intended users: 
+							<ul>
+								<li>- DataCite members
+								<br />- Users and integrators
+								<br />- Community
+							</ul>
+						<li> Availability: 
+							<br /> <i class="fa fa-external-link"></i>
+							<%= link_to 'http://status.datacite.org', 'http://status.datacite.org' %> 
+					</ul>
+					<h1>learn more</h1>
+					<ul>
+						<li>DataCite blog: 
+							<br /> <i class="fa fa-external-link"></i>
+							<%= link_to 'http://blog.datacite.org/announ...',
+							'http://blog.datacite.org/announcing-datacite-profiles-service/' %> 
+					</ul>
+				</div>
+			</div>
 		</div>
 	</section>
