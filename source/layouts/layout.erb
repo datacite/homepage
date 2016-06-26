@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+	  <meta charset="utf-8">
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <meta name="description" content="DataCite - ">
+	  <meta name="author" content="DataCite Team">
+
+	  <title><%= current_page.data.title || "DataCite" %></title>
+
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
+		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+
+		<%= stylesheet_link_tag 'homepage' %>
+	  <%= favicon_tag 'favicon.gif' %>
+
+	  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	  <!--[if lt IE 9]>
+	      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	  <![endif]-->
+
+	  <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+	  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+	  <% if ENV['BUGSNAG_JS_KEY'] %>
+	    <script
+	      src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js"
+	      data-apikey="<%= ENV['BUGSNAG_JS_KEY'] %>">
+	    </script>
+	  <% end %>
+
+		<script type="text/javascript">
+	    $(document).ready(function() {
+	      var images = ['cern.jpg', 'dryad.jpg', 'erara.jpg', 'ethz.jpg', 'ethz2.jpg', 'rutgers.jpg'];
+
+	      $('.randimg').css({'background-image': 'url(images/home_' + images[Math.floor(Math.random() * images.length)] + ')'});
+	    });
+		</script>
+	</head>
+
+  <body>
+    <%= partial "includes/header.html" %>
+    <%= yield %>
+    <%= partial "includes/footer.html" %>
+    <%= partial "includes/javascripts.html" %>
+    <%= partial "includes/google_analytics.html" %>
+  </body>
+</html>
