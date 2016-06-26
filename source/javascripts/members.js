@@ -59,10 +59,10 @@ function formatMembers(response) {
 			div.innerHTML += '</div>'
 		}
 	}
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> origin/labs
 }
-
-
-
