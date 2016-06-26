@@ -81,7 +81,7 @@ about_links:
 services_links:
  - name: Assign DOIs
    url: /dois.html
- - name: Metadata search
+ - name: Find data
    url: /search.html
  - name: Event data
    url: /eventdata.html
