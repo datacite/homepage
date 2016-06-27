@@ -1,13 +1,20 @@
-/*!
+4/*!
  * DataCite website
  */
 
 @import 'application';
 
-body {
-    margin-top: 50px;
-  font-family: 'Raleway', sans-serif !important;
+html {
+  position: relative;
+  min-height: 100%;
 }
+
+body {
+  margin-top: 50px;
+  font-family: 'Raleway', sans-serif !important;
+  margin-bottom: 260px;
+}
+
 
 a:hover {
   background-color: transparent !important;
@@ -200,6 +207,7 @@ footer {
 
 .sidebox {
 	margin-top: 20px;
+	margin-bottom: 20px;
 	padding-left: 20px;
 	padding-bottom: 20px;
 	color: gray;
@@ -220,11 +228,16 @@ footer {
 	}
 }
 
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 260px;
+}
 
 footer h4 {
   color: gray;
 }
-
 
 @media(max-width:768px) {
   section {
