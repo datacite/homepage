@@ -16,6 +16,31 @@ function formatMembers(response) {
 	// response.meta.total;
 
 	for (var i in response.data){
+		if (response.data[i].attributes.title == null){
+			title = '-';
+		}
+		else {
+			title = response.data[i].attributes.title;
+		}
+		if (response.data[i].attributes.description == null){
+			description = 'The description of this member is not available';
+		}
+		else {
+			description = response.data[i].attributes.description;
+		}	
+		if (response.data[i].attributes.email == null){
+			email = 'Email not available (please contact  <a href=\"mailto:support@datacite.org\">support@datacite.org</a>)';
+		}
+		else {
+			email = response.data[i].attributes.email;
+		}
+		if (response.data[i].attributes.phone == null){
+			phone = 'Phone number not available';
+		}
+		else {
+			phone = response.data[i].attributes.phone;
+		}
+		
 		if (i/2 == 0){ //new row
 			div.innerHTML += '<div class=\"row text-center\">'
 		}
@@ -35,10 +60,10 @@ function formatMembers(response) {
 						//+ response.data[i].id
 						//+ '</h2>'
 						+ '<h3>'
-						+ response.data[i].attributes.title
+						+ title
 						+ '</h3>'
 						+ '<p>'
-						+ response.data[i].attributes.description
+						+ description
 						+ '</p>'
 						+ '<p>Country: '
 						+ response.data[i].attributes.country
@@ -48,10 +73,10 @@ function formatMembers(response) {
 						+ '\">' + response.data[i].attributes.website
 						+ '</a></p>'
 						+ '<p>E-mail: '
-						+ response.data[i].attributes.email
+						+ email
 						+ '</p>'
 						+ '<p>Phone: '
-						+ response.data[i].attributes.phone
+						+ phone
 						+ '</p>'
 						+ '</div></div></div>'
 
