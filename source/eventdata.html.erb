@@ -2,64 +2,77 @@
 title: DataCite - Event Data
 ---
 
-    <header class="image-bg-fixed-height-small">
-		<div class="jumbotron">
-		  <h1>Event Data</h1>
-		</div>
-    </header>
+<header class="image-bg-fixed-height-small">
+  <div class="jumbotron">
+    <h1>
+      Event Data
+    </h1>
+  </div>
+</header>
 
-	<section>
-		<div class="container">
-            <div class="row">
-                <div class="col-md-9 section-content">
-					<h1>service description</h1>
-				<p>DataCite Event Data service (prototype) retrieves and exposes the activity that occurs around research data objects.
-					In particular, Event Data brings to light links between publications and data, citations, software, reuse, documentation,
-					etc. This service is developed in collaboration with <%= link_to 'Crossref', 'http://crossref.org' %> and follows the
-					<%= link_to 'Scholix Framework', 'http://scholix.org' %> developed by the joint
-					<%= link_to 'Research Data Alliance/ICSU World Data System Data Publishing Services Working Group',
-					'https://rd-alliance.org/groups/rdawds-publishing-data-ig.html' %>.
-				</p>
-				<p>
-					The events are found via the relatedIdentifier and nameIdentifier attributes of
-					<%= link_to 'DataCite Metadata', 'http://schema.datacite.org' %>, and via external
-					services (so-called 'sources') that collect information about DataCite DOIs. Examples of events include references to related
-					data, data citations in journal articles, and new versions of a work.
-				</p>
-				</div>
-
-				<div class="col-md-3 bg-primary sidebox">
-					<h1>access details</h1>
-					<ul>
-						<li> Accessible through:
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'https://api.datacite.org', 'https://api.datacite.org' %> (API)
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://search.datacite.org', 'http://search.datacite.org' %>
-
-						<li> Intended users:
-							<ul>
-								<li>- DataCite members
-								<br />- Users and integrators
-							</ul>
-						<li> Availability:
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://status.datacite.org', 'http://status.datacite.org' %>
-					</ul>
-					<h1>learn more</h1>
-					<ul>
-						<li>Crossref Event Data:
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://eventdata.crossref.org', 'http://eventdata.crossref.org' %>
-						<li>Scholix Guidelines:
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://scholix.org', 'http://scholix.org' %>
-						<li>DataCite blog:
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://blog.datacite.org/its-all...',
-							'http://blog.datacite.org/its-all-about-relations/' %>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9 section-content">
+        <h1>service description</h1>
+        <p>
+          DataCite Event Data service (prototype) retrieves and exposes the
+          activity that occurs around research data objects. In particular,
+          Event Data brings to light links between publications and data,
+          citations, software, reuse, documentation, etc. This service is
+          developed in collaboration with
+          <%= link_to 'Crossref', 'http://crossref.org' %> and follows the
+          <%= link_to 'Scholix Framework', 'http://scholix.org' %> developed by
+          the joint
+          <%= link_to 'Research Data Alliance/ICSU World Data System Data
+          Publishing Services Working Group',
+          'https://rd-alliance.org/groups/rdawds-publishing-data-ig.html' %>.
+        </p>
+        <p>
+          The events are found via the relatedIdentifier and nameIdentifier
+          attributes of <%= link_to 'DataCite Metadata',
+          'http://schema.datacite.org' %>, and via external services (so-called
+          'sources') that collect information about DataCite DOIs. Examples of
+          events include references to related data, data citations in journal
+          articles, and new versions of a work.
+        </p>
+      </div>
+      <div class="col-md-3 bg-primary sidebox">
+        <h1>access details</h1>
+        <ul>
+          <li> Accessible through:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'https://api.datacite.org',
+            'https://api.datacite.org' %> (API)
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://search.datacite.org',
+            'http://search.datacite.org' %>
+          <li>
+            Intended users:
+            <ul>
+              <li>- DataCite members
+                <br />- Users and integrators
+            </ul>
+          <li> Availability:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://status.datacite.org',
+            'http://status.datacite.org' %>
+        </ul>
+        <h1>learn more</h1>
+        <ul>
+          <li>Crossref Event Data:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://eventdata.crossref.org',
+            'http://eventdata.crossref.org' %>
+          <li>Scholix Guidelines:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://scholix.org', 'http://scholix.org' %>
+          <li>DataCite blog:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://blog.datacite.org/its-all...',
+            'http://blog.datacite.org/its-all-about-relations/' %>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

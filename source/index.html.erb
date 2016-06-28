@@ -2,119 +2,137 @@
 title: Welcome to DataCite
 ---
 
-    <header class="image-bg-fixed-height randimg">
-		<div class="jumbotron">
-		  <h1>Welcome to DataCite</h1>
-		  <div class="row">
-		    <div class="col-md-2"></div>
-		    <div class="col-md-8">
-				<p>
-					Locate, identify, and cite research data with the leading global provider of DOIs for research data.
-				</p>
-			</div>
-		    <div class="col-md-2"></div>
-		  </div>	  
-		  <p><a class="btn btn-primary btn-lg" href="become.html" role="button">Learn more</a></p>
-		</div>
-    </header>
+<header class="image-bg-fixed-height randimg">
+  <div class="jumbotron">
+    <h1>
+      Welcome to DataCite
+    </h1>
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <p>
+          Locate, identify, and cite research data with the leading global
+          provider of DOIs for research data.
+        </p>
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+    <p>
+      <a class="btn btn-primary btn-lg" href="become.html" role="button">
+        Learn more
+      </a>
+    </p>
+  </div>
+</header>
 
-	<section>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3">
-					<h1 class="section-heading">
-						<%= image_tag "home_search.svg", :width => '70' %>
-					</h1>
-					<p class="section-paragraph">
-						Find what you’re looking for by searching millions of records with extensive, reliable metadata.
-					</p>
-				</div>
-				<div class="col-md-3">
-					<h1 class="section-heading">
-						<%= image_tag "home_reuse.svg", :width => '70' %>
-					</h1>
-					<p class="section-paragraph">
-						Share your data and reuse the data of others to create the highest impact in the research community.
-					</p>
-				</div>
-				<div class="col-md-3">
-					<h1 class="section-heading">
-						<%= image_tag "home_quotes.svg", :width => '70' %>
-					</h1>
-					<p class="section-paragraph">
-						Cite your research sources with confidence, and receive proper credit when your work is reused.
-					</p>
-				</div>
-				<div class="col-md-3">
-					<h1 class="section-heading">
-						<%= image_tag "home_reuse.svg", :width => '70' %>
-					</h1>
-					<p class="section-paragraph">
-						Connect your research – publications, datasets, software, authors, institutions, and funding
-						data all in one place.
-					</p>
-				</div>
-			</div>
-		</div>
-	</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <h1 class="section-heading">
+          <%= image_tag "home_search.svg", :width => '70' %>
+        </h1>
+        <p class="section-paragraph">
+          Find what you’re looking for by searching millions of records with
+          extensive, reliable metadata.
+        </p>
+      </div>
+      <div class="col-md-3">
+        <h1 class="section-heading">
+          <%= image_tag "home_reuse.svg", :width => '70' %>
+        </h1>
+        <p class="section-paragraph">
+          Share your data and reuse the data of others to create the highest
+          impact in the research community.
+        </p>
+      </div>
+      <div class="col-md-3">
+        <h1 class="section-heading">
+          <%= image_tag "home_quotes.svg", :width => '70' %>
+        </h1>
+        <p class="section-paragraph">
+          Cite your research sources with confidence, and receive proper credit
+          when your work is reused.
+        </p>
+      </div>
+      <div class="col-md-3">
+        <h1 class="section-heading">
+          <%= image_tag "home_reuse.svg", :width => '70' %>
+        </h1>
+        <p class="section-paragraph">
+          Connect your research – publications, datasets, software, authors,
+          institutions, and funding data all in one place.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
 
-    <section>
-        <div class="container-fluid bg-primary">
-            <div class="row">
-                <div class="col-md-12">
-                    <h1 class="svc-heading">Get started with DataCite!</h1>
-				</div>
-				<div class="container">
-					<div class="row text-center">
-						<div class="col-md-4 col-sm-4 svc-item">
-							<div class="thumbnail">
-								<div class="caption">
-									<% link_to 'http://search.datacite.org' do %>
-										<%= image_tag "home_search2.svg", :width => '200' %>
-									<% end %>
-									
-									<p>Search our registry to find datasets, software, images, and other research material.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 svc-item">
-							<div class="thumbnail">
-								<div class="caption">
-									<% link_to 'http://re3data.org' do %>
-										<%= image_tag "home_re3data.png" %>
-									<% end %>
-									<p>Store and access your work with re3data.org, the Registry of Research Data Repositories.</p>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 svc-item">
-							<div class="thumbnail">
-								<div class="caption">
-									<% link_to 'http://crosscite.org/citeproc/' do %>
-										<%= image_tag "home_citation.svg", :width => '200' %>
-									<% end %>
-									<p>Generate your references automatically with our easy-to-use citation formatting tool.</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+<section>
+  <div class="container-fluid bg-primary">
+    <div class="row">
+      <div class="col-md-12">
+        <h1 class="svc-heading">Get started with DataCite!</h1>
+      </div>
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-md-4 col-sm-4 svc-item">
+            <div class="thumbnail">
+              <div class="caption">
+                <% link_to 'http://search.datacite.org' do %>
+                <%= image_tag "home_search2.svg", :width => '200' %>
+                <% end %>
+                <p>
+                  Search our registry to find datasets, software, images,
+                  and other research material.
+                </p>
+              </div>
             </div>
-        </div>
-    </section>
-	
-    <section>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-12">
-                    <h1 class="svc-heading">Latest news</h1>
-				</div>
-				<div class="container">
-					<div class="row text-center">
-						<script src="javascripts/blog.js"></script>			
-						<div id="bloglist"></div>
-					</div>
-				</div>
+          </div>
+          <div class="col-md-4 col-sm-4 svc-item">
+            <div class="thumbnail">
+              <div class="caption">
+                <% link_to 'http://re3data.org' do %>
+                <%= image_tag "home_re3data.png" %>
+                <% end %>
+                <p>
+                  Store and access your work with re3data.org, the Registry
+                  of Research Data Repositories.
+                </p>
+              </div>
             </div>
+          </div>
+          <div class="col-md-4 col-sm-4 svc-item">
+            <div class="thumbnail">
+              <div class="caption">
+                <% link_to 'http://crosscite.org/citeproc/' do %>
+                <%= image_tag "home_citation.svg", :width => '200' %>
+                <% end %>
+                <p>
+                  Generate your references automatically with our easy-to-use
+                  citation formatting tool.
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
-    </section>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        <h1 class="svc-heading">Latest news</h1>
+      </div>
+      <div class="container">
+        <div class="row text-center">
+          <script src="javascripts/blog.js"></script>
+          <div id="bloglist"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

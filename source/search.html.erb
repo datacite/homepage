@@ -2,56 +2,68 @@
 title: DataCite - Search
 ---
 
-    <header class="image-bg-fixed-height-small">
-		<div class="jumbotron">
-		  <h1>Search</h1>
-		</div>
-    </header>
+<header class="image-bg-fixed-height-small">
+  <div class="jumbotron">
+    <h1>
+      Search
+    </h1>
+  </div>
+</header>
 
-	<section>
-		<div class="container">
-            <div class="row">
-                <div class="col-md-9 section-content">	
-					<h1>service description</h1>
-				<p>
-				DataCite gathers metadata for each DOI assigned to an object. The metadata is used  for a large index of research data that can be queried directly to find data, obtain stats and explore connections. All the metadata is free to access and review.
-				</p>
-				<p>
-				To showcase and expose the metadata gathered, DataCite provides an integrated search interface, where it is possible to search, filter and extract all the details from a collection of millions of records.
-				</p>
-				<p>
-				This interface complements the OAI-PMH service, providing an actionable end-point to query DataCite's metadata collection. 
-				</p>
-				</div>
-				
-				<div class="col-md-3 bg-primary sidebox">
-					<h1>access details</h1>
-					<ul>
-						<li> Accessible through:
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://search.datacite.org', 'http://search.datacite.org' %>
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'Old search UI', 'http://search.datacite.org/ui' %>
-						<li> Intended users: 
-							<ul>
-								<li>- DataCite members
-								<br />- Users and integrators
-								<br />- Community
-							</ul>
-						<li> Availability: 
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://status.datacite.org', 'http://status.datacite.org' %>  
-					</ul>
-					<h1>learn more</h1>
-					<ul>
-						<li>DataCite Metadata Schema: 
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://schema.datacite.org', 'http://schema.datacite.org' %>
-						<li>DataCite blog: 
-							<br /> <i class="fa fa-external-link"></i>
-							<%= link_to 'http://blog.datacite.org/from...', 'http://blog.datacite.org/from-pilot-to-service/' %> 
-					</ul>
-				</div>
-			</div>
-		</div>
-	</section>
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9 section-content">
+        <h1>service description</h1>
+        <p>
+          DataCite gathers metadata for each DOI assigned to an object. The
+          metadata is used  for a large index of research data that can be
+          queried directly to find data, obtain stats and explore connections.
+          All the metadata is free to access and review.
+        </p>
+        <p>
+          To showcase and expose the metadata gathered, DataCite provides an
+          integrated search interface, where it is possible to search, filter
+          and extract all the details from a collection of millions of records.
+        </p>
+        <p>
+          This interface complements the OAI-PMH service, providing an
+          actionable end-point to query DataCite's metadata collection.
+        </p>
+      </div>
+      <div class="col-md-3 bg-primary sidebox">
+        <h1>access details</h1>
+        <ul>
+          <li> Accessible through:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://search.datacite.org',
+            'http://search.datacite.org' %>
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'Old search UI', 'http://search.datacite.org/ui' %>
+          <li>
+            Intended users:
+            <ul>
+              <li>- DataCite members
+                <br />- Users and integrators
+                <br />- Community
+            </ul>
+          <li> Availability:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://status.datacite.org',
+            'http://status.datacite.org' %>
+        </ul>
+        <h1>learn more</h1>
+        <ul>
+          <li>DataCite Metadata Schema:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://schema.datacite.org',
+            'http://schema.datacite.org' %>
+          <li>DataCite blog:
+            <br /> <i class="fa fa-external-link"></i>
+            <%= link_to 'http://blog.datacite.org/from...',
+            'http://blog.datacite.org/from-pilot-to-service/' %>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

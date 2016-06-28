@@ -12,7 +12,7 @@ html {
 body {
   margin-top: 50px;
   font-family: 'Raleway', sans-serif !important;
-  margin-bottom: 260px;
+  margin-bottom: 340px;
 }
 
 
@@ -206,33 +206,33 @@ footer {
 
 
 .sidebox {
-	margin-top: 20px;
-	margin-bottom: 20px;
-	padding-left: 20px;
-	padding-bottom: 20px;
-	color: gray;
-	
-	h1 {
-	    font-size: x-large;
-	    font-variant: small-caps;
-	    text-align: left;
-	}
-	
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  color: gray;
+
+  h1 {
+      font-size: x-large;
+      font-variant: small-caps;
+      text-align: left;
+  }
+
     ul {
       list-style: none;
       padding-left: 10px;
     }
-	
-	li {
-		padding-bottom: 5px;
-	}
+
+  li {
+    padding-bottom: 5px;
+  }
 }
 
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 260px;
+  height: 340px;
+  border-top: 80px solid white;
 }
 
 footer h4 {
