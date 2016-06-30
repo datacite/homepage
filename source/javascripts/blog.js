@@ -16,9 +16,12 @@ function formatBlog(response) {
 	for (var i in response.data){
 		div.innerHTML += '<div class=\"col-md-4 col-sm-4 svc-item\">'
 						+ '<div class=\"thumbnail\">'
+						+ '<a href=\"'
+			 			+ response.data[i].id
+						+ '\">'
 						+ '<img src=\"'
 						+ response.data[i].attributes['image-url']
-						+ '\" /><br /></div>'
+						+ '\" /></a><br /></div>'
 						+ '<h4>'
 						+ response.data[i].attributes.title
 						+ '</h4>'
