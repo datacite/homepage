@@ -177,10 +177,12 @@ footer {
   font-size: x-large;
 }
 
-.section-content p {
-  padding-left: 50px;
-  padding-right: 50px;
-  text-align: justify;
+.section-content {
+  p, ul, ol {
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+  }
 }
 
 .section-content img {

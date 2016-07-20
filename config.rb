@@ -16,6 +16,10 @@ configure :development do
   activate :livereload
 end
 
+# Set markdown template engine
+set :markdown_engine, :kramdown
+set :markdown, :fenced_code_blocks => true, :smartypants => true
+
 # Use sprockets for asset compilation
 activate :sprockets
 sprockets.append_path File.join(root, 'vendor', 'bower_components')
