@@ -36,3 +36,4 @@ deploy:
 
 notifications:
   slack: datacite:Wt8En0ALoTA6Kjc5EOKNDWxN
+  email: false
