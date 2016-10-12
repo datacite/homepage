@@ -16,6 +16,12 @@ configure :development do
   activate :livereload
 end
 
+# Set markdown template engine
+set :markdown_engine, :pandoc
+set :markdown, smartypants: true,
+               csl: "styles/apa.csl",
+               bibliography: "bibliography/references.bib"
+
 # Use sprockets for asset compilation
 activate :sprockets
 sprockets.append_path File.join(root, 'vendor', 'bower_components')

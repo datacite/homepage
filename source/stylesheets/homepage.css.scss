@@ -4,10 +4,17 @@
 
 @import 'application';
 
-body {
-    margin-top: 50px;
-  font-family: 'Raleway', sans-serif !important;
+html {
+  position: relative;
+  min-height: 100%;
 }
+
+body {
+  margin-top: 50px;
+  font-family: 'Raleway', sans-serif !important;
+  margin-bottom: 340px;
+}
+
 
 a:hover {
   background-color: transparent !important;
@@ -170,10 +177,12 @@ footer {
   font-size: x-large;
 }
 
-.section-content p {
-  padding-left: 50px;
-  padding-right: 50px;
-  text-align: justify;
+.section-content {
+  p, ul, ol {
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+  }
 }
 
 .section-content img {
@@ -199,32 +208,51 @@ footer {
 
 
 .sidebox {
-	margin-top: 20px;
-	padding-left: 20px;
-	padding-bottom: 20px;
-	color: gray;
-	
-	h1 {
-	    font-size: x-large;
-	    font-variant: small-caps;
-	    text-align: left;
-	}
-	
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  color: gray;
+
+  h1 {
+      font-size: x-large;
+      font-variant: small-caps;
+      text-align: left;
+  }
+
     ul {
       list-style: none;
       padding-left: 10px;
     }
-	
-	li {
-		padding-bottom: 5px;
-	}
+
+    ul.dashed {
+      margin: 0;
+      list-style-type: none;
+    }
+    ul.dashed > li {
+      text-indent: 0;
+      padding-bottom: 0;
+    }
+    ul.dashed > li:before {
+      content: "- ";
+      text-indent: -5px;
+    }
+
+  li {
+    padding-bottom: 5px;
+  }
 }
 
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 340px;
+  border-top: 80px solid white;
+}
 
 footer h4 {
   color: gray;
 }
-
 
 @media(max-width:768px) {
   section {
