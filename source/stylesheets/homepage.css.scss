@@ -47,6 +47,13 @@ a:hover {
   height: 350px;
 }
 
+.image-bg-extra {
+  background: #dddddd;
+  height: 65px;
+	margin-top: -10px;
+	margin-bottom: -40px;
+}
+
 .image-bg-fixed-height-small {
   background: url('../images/header2.jpg') no-repeat center top scroll;
   background-size: 100% auto;
@@ -120,6 +127,13 @@ section h1 {
   padding-top: 10px;
   margin-bottom: 30px;
   font-size: xx-large;
+  color: gray;
+}
+
+.svc-heading-2 {
+  padding-top: 5px;
+  margin-bottom: 0px;
+  font-size: large;
   color: gray;
 }
 
