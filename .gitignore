@@ -21,3 +21,5 @@
 /vendor/bower_components
 /vendor/node_modules
 /vendor/bundle
+
+.env
