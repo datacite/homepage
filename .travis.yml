@@ -7,12 +7,15 @@ before_install:
   - set -e
   - if [ "$TRAVIS_BRANCH" == "master" ]; then
       AWS_BUCKET="www.datacite.org";
+      RACK_ENV="production";
+      cp .env.master .env;
     elif [ "$TRAVIS_BRANCH" == "labs" ]; then
       AWS_BUCKET="www.labs.datacite.org";
+      RACK_ENV="stage";
+      cp .env.labs .env;
     else
       exit 1;
     fi
-  - rvm install 2.3.1
 
   - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb
   - sudo dpkg -i pandoc-1.15.2-1-amd64.deb
@@ -23,7 +26,7 @@ before_script:
   - cd ../
 
 script:
-  - bundle exec middleman build -e production
+  - bundle exec middleman build -e $RACK_ENV
 
 deploy:
   provider: s3
