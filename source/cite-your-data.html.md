@@ -30,4 +30,4 @@ It may also be desirable to include information about two optional properties, V
 ## References
 
 1. Data Citation Synthesis Group (2014). Joint Declaration of Data Citation Principles. Martone M. (ed.) San Diego CA: FORCE11 [https://www.force11.org/group/joint-declaration-data-citation-principles-final](https://www.force11.org/group/joint-declaration-data-citation-principles-final)
-1. Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., … Bourne, P. E. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci. Data, 3, 160018. [http://doi.org/10.1038/sdata.2016.18](http://doi.org/10.1038/sdata.2016.18)
+1. Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., … Bourne, P. E. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Sci. Data, 3, 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
