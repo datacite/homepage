@@ -268,6 +268,11 @@ footer h4 {
   color: gray;
 }
 
+table, th, td {
+	width: 30%;
+  margin-left: 80px;
+}
+
 @media(max-width:768px) {
   section {
     padding-top: 25px;
