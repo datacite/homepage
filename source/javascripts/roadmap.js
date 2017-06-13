@@ -32,7 +32,6 @@ function roadmapResult(data) {
 
   for (var i=0; i<data.length; i++) {
     var quarter = data[i];
-    console.log(quarter)
 
     d3.select("#content").append("h1")
       .text("2017 Q" + quarter.key);
