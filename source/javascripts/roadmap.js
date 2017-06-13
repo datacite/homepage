@@ -47,12 +47,17 @@ function roadmapResult(data) {
         .attr("href", function() { return encodeURI(github_url + "/milestone/" + milestone.id); })
         .text(milestone.attributes.title);
 
-      d3.select("#content").append("p")
-        .html(milestone.attributes.description);
-
       if (milestone.attributes.released !== null) {
         d3.select("#content").append("p")
+          .attr("class", "released")
+          .html(milestone.attributes.description);
+
+        d3.select("#content").append("p")
+          .attr("class", "released")
           .html("Released " + formattedDate(milestone.attributes.released.substring(0, 10)) + ".");
+      } else {
+        d3.select("#content").append("p")
+          .html(milestone.attributes.description);
       }
     }
   }
