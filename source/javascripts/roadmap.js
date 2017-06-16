@@ -30,6 +30,12 @@ function roadmapResult(data) {
     return;
   }
 
+  var markdown = new Remarkable('full', {
+    html: true,
+    linkify: true,
+    typographer: true
+  });
+
   for (var i=0; i<data.length; i++) {
     var quarter = data[i];
 
@@ -49,14 +55,14 @@ function roadmapResult(data) {
       if (milestone.attributes.released !== null) {
         d3.select("#content").append("p")
           .attr("class", "released")
-          .html(milestone.attributes.description);
+          .html(markdown.render(milestone.attributes.description));
 
         d3.select("#content").append("p")
           .attr("class", "released")
           .html("Released " + formattedDate(milestone.attributes.released.substring(0, 10)) + ".");
       } else {
         d3.select("#content").append("p")
-          .html(milestone.attributes.description);
+          .html(markdown.render(milestone.attributes.description));
       }
     }
   }
