@@ -47,7 +47,7 @@ function roadmapResult(data) {
         .text(milestone.attributes.title);
 
       if (milestone.attributes.released !== null) {
-        d3.select("#content").append("p")
+        d3.select("#content").append("div")
           .attr("class", "released")
           .html(milestone.attributes.description);
 
@@ -55,7 +55,7 @@ function roadmapResult(data) {
           .attr("class", "released")
           .html("Released " + formattedDate(milestone.attributes.released.substring(0, 10)) + ".");
       } else {
-        d3.select("#content").append("p")
+        d3.select("#content").append("div")
           .html(milestone.attributes.description);
       }
     }

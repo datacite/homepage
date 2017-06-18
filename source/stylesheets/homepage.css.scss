@@ -4,6 +4,10 @@
 
 @import 'application';
 
+$lighter-gray:               #F4F5F5 !default;
+$medium-gray:                #DDDDDD !default;
+$darker-gray:                darken($medium-gray, 40%) !default;
+
 html {
   position: relative;
   min-height: 100%;
@@ -188,22 +192,64 @@ footer {
   padding-right: 50px;
   padding-top: 30px;
   padding-bottom: 20px;
-  font-size: x-large;
 }
 
 .section-content h3.milestone {
-  padding-top: 0;
+  font-size: 21px;
+  padding-top: 10px;
   padding-bottom: 0;
 }
 
-.section-content p.released {
+.section-content p.released, .section-content div.released {
   font-weight: bold;
   color: lighten(gray, 20%);
 }
 
+.section-content p, .section-content pre code {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
+}
+
+.label-category {
+  color: black;
+  background-color: #b1c9f0;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
+.label-stakeholder {
+  color: black;
+  background-color: #f9cfb9;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
+.label-state {
+  color: black;
+  background-color: #ededed;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
+.section-content .search-wide {
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 .section-content {
-  p, ul, ol {
-    padding-left: 50px;
+  ul, ol {
+    padding-left: 70px;
     padding-right: 50px;
     text-align: justify;
   }
@@ -215,6 +261,61 @@ footer {
     margin-right: auto;
   padding-top: 10px;
   padding-bottom: 20px;
+}
+
+.facets {
+  color: $darker-gray;
+  font-size: 1em;
+  padding: 0;
+  margin: 0;
+  border: 0 !important;
+  box-shadow: none !important;
+
+  .panel-body {
+    background-color: white;
+  }
+
+  ul {
+    list-style: none;
+    list-style-position: outside;
+    padding-left: 0;
+  }
+  h4 {
+    color: $darker-gray;
+    font-size: 1.25em;
+    border-bottom: 1px solid $darker-gray;
+    padding-bottom: .15em;
+    margin: 0 0 .5em 0;
+  }
+  .link {
+    border-bottom: 0;
+
+    a {
+      color: $darker-gray;
+    }
+  }
+  div {
+    border: 0;
+  }
+  li a, li.active a, li a:hover, li.active a:hover {
+    font-size: 1em;
+    float: left;
+    display: inline;
+    color: $darker-gray;
+    background-color: white;
+    padding: 0 .5em 0 0;
+    margin-left: 0;
+  }
+  .facet-title {
+    float: left;
+    max-width: 170px;
+  }
+  .panel-body {
+    padding-top: 3px;
+  }
+  .panel-body + .panel-body {
+    border-top: none;
+  }
 }
 
 .stakeholderdescription {

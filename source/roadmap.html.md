@@ -1,6 +1,6 @@
 ---
-title: DataCite - Roadmap 2017
-layout: service
+title: DataCite - Roadmap
+layout: roadmap
 ---
 
 # Introduction
