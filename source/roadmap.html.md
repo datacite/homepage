@@ -5,22 +5,24 @@ layout: roadmap
 
 # Introduction
 
-This document provides an overview of the DataCite development roadmap for 2017. It
+This page provides an overview of the DataCite development roadmap for 2017. It
 details the list of projects, their requirements and impact, as well as their
 current status.
 
 Last year, DataCite focused on building backend services with the outcome of
-increased reliability. In the coming months, we will be transitioning to a r
-edesign of the Metadata Store (MDS) and the development of new member-facing
+increased reliability. In the coming months, we will be transitioning to a
+redesign of the Metadata Store (MDS) and the development of new member-facing
 services. This shift is reflected in the roadmap as the backend and consolidation
 tasks are nearing completion and as the design and development of new member-facing
 functions ramp up.
 
-The Roadmap was developed by the DataCite team taking into account the User
-Stories provided by Members, General Assembly feedback, priorities set by the
+The Roadmap was developed by the DataCite team taking into account the user
+stories provided by members, General Assembly feedback, priorities set by the
 DataCite Board and Services Steering Group, combined with DataCite’s resources.
 
-If you have any comments, feedback or questions, please contact us at
+For a more detailed view of the roadmap and associated user stories, go to the
+[DataCite waffle.io board](https://waffle.io/datacite/datacite). If you have any
+comments, feedback or questions, please contact us at
 [support@datacite.org](mailto:support@datacite.org).
 
 # Glossary
