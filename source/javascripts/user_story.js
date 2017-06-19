@@ -14,7 +14,11 @@ if (query !== null) { query_url += "&query=" + query; }
 if (milestone !== null) { query_url += "&milestone=" + milestone; }
 if (category !== null) { query_url += "&category=" + category; }
 if (stakeholder !== null) { query_url += "&stakeholder=" + stakeholder; }
-if (state !== null) { query_url += "&state=" + state; }
+if (state !== null) {
+  query_url += "&state=" + state;
+} else {
+  query_url += "&state=open";
+}
 
 // load the data from the DataCite API
 if (query_url) {
@@ -169,19 +173,22 @@ function userStoryResult(json) {
       if (milestone === key) {
         d3.select("#milestones .panel-body ul").insert("li")
           .append("a")
-          .attr("href", function() { return "/user-stories.html"; }).insert("i")
+          .attr("href", function() { return formatUserStoriesQuery({ milestone: null }); }).insert("i")
           .attr("class", "fa fa-check-square-o");
       } else {
         d3.select("#milestones .panel-body ul").insert("li")
           .append("a")
-          .attr("href", function() { return "/user-stories.html?milestone=" + key; }).insert("i")
+          .attr("href", function() { return formatUserStoriesQuery({ milestone: key }); }).insert("i")
           .attr("class", "fa fa-square-o");
       }
-      d3.select("#milestones .panel-body ul li:last-child").insert("span")
+      d3.select("#milestones .panel-body ul li:last-child").insert("div")
+        .attr("class", "facet-title")
         .text(capitalizeFirstLetter(key));
       d3.select("#milestones .panel-body ul li:last-child").insert("span")
         .attr("class", "number pull-right")
         .text(meta.milestones[key]);
+      d3.select("#milestones .panel-body ul li:last-child").insert("div")
+        .attr("class", "clearfix");
     }
   }
 
@@ -196,19 +203,22 @@ function userStoryResult(json) {
     if (category === key) {
       d3.select("#categories .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return "/user-stories.html"; }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ category: null }); }).insert("i")
         .attr("class", "fa fa-check-square-o");
     } else {
       d3.select("#categories .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return "/user-stories.html?category=" + key; }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ category: key }); }).insert("i")
         .attr("class", "fa fa-square-o");
     }
-    d3.select("#categories .panel-body ul li:last-child").insert("span")
+    d3.select("#categories .panel-body ul li:last-child").insert("div")
+      .attr("class", "facet-title")
       .text(capitalizeFirstLetter(key));
     d3.select("#categories .panel-body ul li:last-child").insert("span")
       .attr("class", "number pull-right")
       .text(meta.categories[key]);
+    d3.select("#categories .panel-body ul li:last-child").insert("div")
+      .attr("class", "clearfix");
   }
 
   d3.select("#stakeholders")
@@ -222,19 +232,22 @@ function userStoryResult(json) {
     if (stakeholder === key) {
       d3.select("#stakeholders .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return "/user-stories.html"; }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ stakeholder: null }); }).insert("i")
         .attr("class", "fa fa-check-square-o");
     } else {
       d3.select("#stakeholders .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return "/user-stories.html?stakeholder=" + key; }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ stakeholder: key });; }).insert("i")
         .attr("class", "fa fa-square-o");
     }
-    d3.select("#stakeholders .panel-body ul li:last-child").insert("span")
+    d3.select("#stakeholders .panel-body ul li:last-child").insert("div")
+      .attr("class", "facet-title")
       .text(capitalizeFirstLetter(key));
     d3.select("#stakeholders .panel-body ul li:last-child").insert("span")
       .attr("class", "number pull-right")
       .text(meta.stakeholders[key]);
+    d3.select("#stakeholders .panel-body ul li:last-child").insert("div")
+      .attr("class", "clearfix");
   }
 
   d3.select("#state")
@@ -248,18 +261,41 @@ function userStoryResult(json) {
     if (state === key) {
       d3.select("#state .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return "/user-stories.html"; }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ state: null }); }).insert("i")
         .attr("class", "fa fa-check-square-o");
     } else {
       d3.select("#state .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return "/user-stories.html?state=" + key; }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ state: key }); }).insert("i")
         .attr("class", "fa fa-square-o");
     }
-    d3.select("#state .panel-body ul li:last-child").insert("span")
+    d3.select("#state .panel-body ul li:last-child").insert("div")
+      .attr("class", "facet-title")
       .text(capitalizeFirstLetter(key));
     d3.select("#state .panel-body ul li:last-child").insert("span")
       .attr("class", "number pull-right")
       .text(meta.state[key]);
+    d3.select("#state .panel-body ul li:last-child").insert("div")
+      .attr("class", "clearfix");
   }
+}
+
+// support multiple query parameters
+function formatUserStoriesQuery(options) {
+  if (typeof options === "undefined") options = {};
+  if (typeof options.milestone !== "undefined") milestone = options.milestone;
+  if (typeof options.category !== "undefined") category = options.category;
+  if (typeof options.stakeholder !== "undefined") stakeholder = options.stakeholder;
+  if (typeof options.state !== "undefined") state = options.state;
+
+  var url = "/user-stories.html?";
+  var params = { query: query,
+                 milestone: milestone,
+                 category: category,
+                 stakeholder: stakeholder,
+                 state: state };
+  params = removeEmpty(params);
+  params = jQuery.param(params);
+
+  return url + params + "#user-stories";
 }
