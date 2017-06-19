@@ -254,6 +254,16 @@ footer {
   }
 }
 
+.label-inactive {
+  color: black;
+  background-color: #c8d1da;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
 .section-content .search-wide {
   padding-top: 20px;
   padding-left: 50px;

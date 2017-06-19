@@ -100,6 +100,12 @@ function userStoryResult(json) {
         .attr("href", function() { return encodeURI("/roadmap.html?state=" + user_story.attributes.state); })
         .text(user_story.attributes.state);
 
+      for (j = 0; j<user_story.attributes.inactive.length; j++) {
+        d3.select("#labels-" + user_story.id).append("span")
+          .attr("class", "label label-inactive")
+          .text(user_story.attributes.inactive[j]);
+      }
+
       d3.select("#content").append("p")
         .attr("class", "released")
         .html("Created " + created_date + " Closed " + closed_date + comments);
@@ -139,6 +145,12 @@ function userStoryResult(json) {
         .append("a")
         .attr("href", function() { return encodeURI("/user-stories.html?state=" + user_story.attributes.state); })
         .text(user_story.attributes.state);
+
+      for (j = 0; j<user_story.attributes.inactive.length; j++) {
+        d3.select("#labels-" + user_story.id).append("span")
+          .attr("class", "label label-inactive")
+          .text(user_story.attributes.inactive[j]);
+      }
 
       d3.select("#content").append("p")
         .html("Created " + created_date + comments);
