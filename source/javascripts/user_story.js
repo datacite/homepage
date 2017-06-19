@@ -5,11 +5,13 @@ var github_url = 'https://github.com/datacite/datacite';
 // construct query string
 var api_url = 'https://api.test.datacite.org';
 var query = getParameterByName('query');
+var milestone = getParameterByName('milestone');
 var category = getParameterByName('category');
 var stakeholder = getParameterByName('stakeholder');
 var state = getParameterByName('state');
 var query_url = encodeURI(api_url + "/user-stories?rows=100");
 if (query !== null) { query_url += "&query=" + query; }
+if (milestone !== null) { query_url += "&milestone=" + milestone; }
 if (category !== null) { query_url += "&category=" + category; }
 if (stakeholder !== null) { query_url += "&stakeholder=" + stakeholder; }
 if (state !== null) { query_url += "&state=" + state; }
@@ -72,8 +74,8 @@ function userStoryResult(json) {
         d3.select("#labels-" + user_story.id).append("span")
           .attr("class", "label label-milestone")
           .append("a")
-          .attr("href", function() { return encodeURI("/roadmap.html?milestone=" + user_story.attributes.milestone.id); })
-          .text(user_story.attributes.milestone.title);
+          .attr("href", function() { return encodeURI("/user-stories.html?milestone=" + user_story.attributes.milestone); })
+          .text(user_story.attributes.milestone);
       }
 
       for (j = 0; j<user_story.attributes.categories.length; j++) {
@@ -112,8 +114,8 @@ function userStoryResult(json) {
         d3.select("#labels-" + user_story.id).append("span")
           .attr("class", "label label-milestone")
           .append("a")
-          .attr("href", function() { return encodeURI("/roadmap.html?milestone=" + user_story.attributes.milestone.id); })
-          .text(user_story.attributes.milestone.title);
+          .attr("href", function() { return encodeURI("/user-stories.html?milestone=" + user_story.attributes.milestone); })
+          .text(user_story.attributes.milestone);
       }
 
       for (j = 0; j<user_story.attributes.categories.length; j++) {
@@ -143,6 +145,34 @@ function userStoryResult(json) {
     }
   }
 
+  if (!isEmpty(meta.milestones)) {
+    d3.select("#milestones")
+      .classed("panel facets", true).insert("div")
+      .attr("class", "panel-body").insert("h4")
+      .text("Milestones");
+
+    d3.select("#milestones .panel-body").insert("ul");
+
+    for (var key in meta.milestones) {
+      if (milestone === key) {
+        d3.select("#milestones .panel-body ul").insert("li")
+          .append("a")
+          .attr("href", function() { return "/user-stories.html"; }).insert("i")
+          .attr("class", "fa fa-check-square-o");
+      } else {
+        d3.select("#milestones .panel-body ul").insert("li")
+          .append("a")
+          .attr("href", function() { return "/user-stories.html?milestone=" + key; }).insert("i")
+          .attr("class", "fa fa-square-o");
+      }
+      d3.select("#milestones .panel-body ul li:last-child").insert("span")
+        .text(capitalizeFirstLetter(key));
+      d3.select("#milestones .panel-body ul li:last-child").insert("span")
+        .attr("class", "number pull-right")
+        .text(meta.milestones[key]);
+    }
+  }
+
   d3.select("#categories")
     .classed("panel facets", true).insert("div")
     .attr("class", "panel-body").insert("h4")
@@ -163,7 +193,7 @@ function userStoryResult(json) {
         .attr("class", "fa fa-square-o");
     }
     d3.select("#categories .panel-body ul li:last-child").insert("span")
-      .text(key);
+      .text(capitalizeFirstLetter(key));
     d3.select("#categories .panel-body ul li:last-child").insert("span")
       .attr("class", "number pull-right")
       .text(meta.categories[key]);
@@ -189,7 +219,7 @@ function userStoryResult(json) {
         .attr("class", "fa fa-square-o");
     }
     d3.select("#stakeholders .panel-body ul li:last-child").insert("span")
-      .text(key);
+      .text(capitalizeFirstLetter(key));
     d3.select("#stakeholders .panel-body ul li:last-child").insert("span")
       .attr("class", "number pull-right")
       .text(meta.stakeholders[key]);
@@ -211,11 +241,11 @@ function userStoryResult(json) {
     } else {
       d3.select("#state .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return "/user-stories.html?stakeholder=" + key; }).insert("i")
+        .attr("href", function() { return "/user-stories.html?state=" + key; }).insert("i")
         .attr("class", "fa fa-square-o");
     }
     d3.select("#state .panel-body ul li:last-child").insert("span")
-      .text(key);
+      .text(capitalizeFirstLetter(key));
     d3.select("#state .panel-body ul li:last-child").insert("span")
       .attr("class", "number pull-right")
       .text(meta.state[key]);
