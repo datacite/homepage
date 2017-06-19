@@ -224,6 +224,20 @@ footer {
   }
 }
 
+.label-released {
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin-right: 4px;
+  vertical-align: 2px;
+
+  a {
+    color: black;
+  }
+}
+
 .label-category {
   color: black;
   background-color: #b1c9f0;
