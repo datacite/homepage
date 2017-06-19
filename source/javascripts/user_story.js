@@ -297,5 +297,5 @@ function formatUserStoriesQuery(options) {
   params = removeEmpty(params);
   params = jQuery.param(params);
 
-  return url + params + "#user-stories";
+  return url + params + "#how-to-provide-feedback";
 }
