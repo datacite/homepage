@@ -211,6 +211,19 @@ footer {
   text-align: justify;
 }
 
+.label-milestone {
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
 .label-category {
   color: black;
   background-color: #b1c9f0;

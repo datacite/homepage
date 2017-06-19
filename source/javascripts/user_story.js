@@ -44,6 +44,12 @@ function userStoryResult(json) {
     var created_date = formattedDate(user_story.attributes.created.substring(0, 10)) + ".";
     var categories = user_story.attributes.categories;
     var stakeholders = user_story.attributes.stakeholders;
+    var comments = '';
+    if (user_story.attributes.comments > 1) {
+      comments = ' ' + user_story.attributes.comments + ' comments.'
+    } else if (user_story.attributes.comments == 1) {
+      comments = ' 1 comment.'
+    }
 
     d3.select("#content").append("h3")
       .attr("class", "milestone")
@@ -61,6 +67,14 @@ function userStoryResult(json) {
 
       d3.select("#content").append("p")
         .attr("id", "labels-" + user_story.id);
+
+      if (user_story.attributes.milestone !== null) {
+        d3.select("#labels-" + user_story.id).append("span")
+          .attr("class", "label label-milestone")
+          .append("a")
+          .attr("href", function() { return encodeURI("/roadmap.html?milestone=" + user_story.attributes.milestone.id); })
+          .text(user_story.attributes.milestone.title);
+      }
 
       for (j = 0; j<user_story.attributes.categories.length; j++) {
         d3.select("#labels-" + user_story.id).append("span")
@@ -81,45 +95,51 @@ function userStoryResult(json) {
       d3.select("#labels-" + user_story.id).append("span")
         .attr("class", "label label-state")
         .append("a")
-        .attr("href", function() { return encodeURI("/roadmap.html?state" + user_story.attributes.state); })
+        .attr("href", function() { return encodeURI("/roadmap.html?state=" + user_story.attributes.state); })
         .text(user_story.attributes.state);
 
       d3.select("#content").append("p")
         .attr("class", "released")
-        .html("Created " + created_date + ". Closed " + closed_date);
+        .html("Created " + created_date + " Closed " + closed_date + comments);
     } else {
       d3.select("#content").append("div")
         .html(description);
 
-      if (user_story.attributes.categories.length > 0 || user_story.attributes.stakeholders.length > 0) {
-        d3.select("#content").append("p")
-          .attr("id", "labels-" + user_story.id);
+      d3.select("#content").append("p")
+        .attr("id", "labels-" + user_story.id);
 
-        for (j = 0; j<user_story.attributes.categories.length; j++) {
-          d3.select("#labels-" + user_story.id).append("span")
-            .attr("class", "label label-category")
-            .append("a")
-            .attr("href", function() { return encodeURI("/user-stories.html?category=" + user_story.attributes.categories[j]); })
-            .text(user_story.attributes.categories[j]);
-        }
-
-        for (j = 0; j<user_story.attributes.stakeholders.length; j++) {
-          d3.select("#labels-" + user_story.id).append("span")
-            .attr("class", "label label-stakeholder")
-            .append("a")
-            .attr("href", function() { return encodeURI("/user-stories.html?stakeholder=" + user_story.attributes.stakeholders[j]); })
-            .text(user_story.attributes.stakeholders[j]);
-        }
-
+      if (user_story.attributes.milestone !== null) {
         d3.select("#labels-" + user_story.id).append("span")
-          .attr("class", "label label-state")
+          .attr("class", "label label-milestone")
           .append("a")
-          .attr("href", function() { return encodeURI("/user-stories.html?state=" + user_story.attributes.state); })
-          .text(user_story.attributes.state);
+          .attr("href", function() { return encodeURI("/roadmap.html?milestone=" + user_story.attributes.milestone.id); })
+          .text(user_story.attributes.milestone.title);
       }
 
+      for (j = 0; j<user_story.attributes.categories.length; j++) {
+        d3.select("#labels-" + user_story.id).append("span")
+          .attr("class", "label label-category")
+          .append("a")
+          .attr("href", function() { return encodeURI("/user-stories.html?category=" + user_story.attributes.categories[j]); })
+          .text(user_story.attributes.categories[j]);
+      }
+
+      for (j = 0; j<user_story.attributes.stakeholders.length; j++) {
+        d3.select("#labels-" + user_story.id).append("span")
+          .attr("class", "label label-stakeholder")
+          .append("a")
+          .attr("href", function() { return encodeURI("/user-stories.html?stakeholder=" + user_story.attributes.stakeholders[j]); })
+          .text(user_story.attributes.stakeholders[j]);
+      }
+
+      d3.select("#labels-" + user_story.id).append("span")
+        .attr("class", "label label-state")
+        .append("a")
+        .attr("href", function() { return encodeURI("/user-stories.html?state=" + user_story.attributes.state); })
+        .text(user_story.attributes.state);
+
       d3.select("#content").append("p")
-        .html("Created " + created_date + ".");
+        .html("Created " + created_date + comments);
     }
   }
 
