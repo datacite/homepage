@@ -28,6 +28,7 @@ with a particular development milestone, and where the user story is on our deve
 
 # How to provide feedback
 
-All user stories are stored as GitHub issues. You can add comments and/or upvotes by clicking on the title and going to the respective GitHub issue. You can also add new GitHub issues [here](https://github.com/datacite/datacite/issues/new), and we will turn them into user stories that show up on this page. For a more detailed view of the roadmap and associated user stories, go to the [DataCite waffle.io board](https://waffle.io/datacite/datacite).
+All user stories are stored as GitHub issues. You can add comments and/or upvotes by clicking on the title and going to the respective GitHub issue. You can also add new GitHub issues [here](https://github.com/datacite/datacite/issues/new), and we will turn them into user stories that show up on this page. For a more detailed view of the roadmap and associated user stories, go to the [DataCite GitHub repository](https://github.com/datacite/datacite) or the
+[DataCite waffle.io board](https://waffle.io/datacite/datacite).
 
 # User Stories
