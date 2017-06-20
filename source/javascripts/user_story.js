@@ -283,19 +283,15 @@ function userStoryResult(json) {
 // support multiple query parameters
 function formatUserStoriesQuery(options) {
   if (typeof options === "undefined") options = {};
-  if (typeof options.milestone !== "undefined") milestone = options.milestone;
-  if (typeof options.category !== "undefined") category = options.category;
-  if (typeof options.stakeholder !== "undefined") stakeholder = options.stakeholder;
-  if (typeof options.state !== "undefined") state = options.state;
 
   var url = "/user-stories.html?";
-  var params = { query: query,
-                 milestone: milestone,
-                 category: category,
-                 stakeholder: stakeholder,
-                 state: state };
+  var params = Object.assign(getQueryParameters(), options)
   params = removeEmpty(params);
   params = jQuery.param(params);
 
-  return url + params + "#how-to-provide-feedback";
+  return url + decodeURIComponent(params) + "#how-to-provide-feedback";
+}
+
+function getQueryParameters() {
+	return document.location.search.replace(/(^\?)/,'').split("&").map(function(n){return n = n.split("="),this[n[0]] = n[1],this}.bind({}))[0];
 }
