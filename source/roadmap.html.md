@@ -22,7 +22,7 @@ priorities set by the DataCite Board and Services Steering Group, combined with
 DataCite’s resources.
 
 For a more detailed view of the roadmap and associated user stories, go to the
-[DataCite GitHub repository](https://github.com/datacite/datacite) or the
+[DataCite GitHub repository](https://github.com/datacite/datacite) or go the
 [DataCite waffle.io board](https://waffle.io/datacite/datacite). If you have any
 comments, feedback or questions, please contact us at
 [support@datacite.org](mailto:support@datacite.org).
