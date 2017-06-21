@@ -119,6 +119,10 @@ community_links:
    url: /partners.html
  - name: Steering groups
    url: /steering.html
+ - name: Roadmap
+   url: /roadmap.html
+ - name: User Stories
+   url: /user-stories.html
  - name: Events
    url: /events.html
 contact_links:
