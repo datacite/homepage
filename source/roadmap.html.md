@@ -16,6 +16,8 @@ services. This shift is reflected in the roadmap as the backend and consolidatio
 tasks are nearing completion and as the design and development of new member-facing
 functions ramp up.
 
+![](/images/map.svg)
+
 The Roadmap was developed by the DataCite team taking into account the [user
 stories](/user-stories.html) provided by members, General Assembly feedback,
 priorities set by the DataCite Board and Services Steering Group, combined with
