@@ -106,12 +106,8 @@ services_links:
 resources_links:
  - name: Metadata schema
    url: https://schema.datacite.org
- - name: Technical documentation
-   url: /technical.html
- - name: Outreach material
-   url: /outreach.html
- - name: Events
-   url: /events.html
+ - name: Support
+   url: http://support.datacite.org
 community_links:
  - name: Members
    url: /members.html
