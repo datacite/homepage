@@ -3,7 +3,7 @@
 var github_url = 'https://github.com/datacite/datacite';
 
 // construct query string
-var api_url = 'https://api.test.datacite.org';
+var api_url = 'https://api.datacite.org';
 var query = getParameterByName('query');
 var milestone = getParameterByName('milestone');
 var category = getParameterByName('category');

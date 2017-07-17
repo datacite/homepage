@@ -1,7 +1,7 @@
 /*global d3 */
 
 // construct query string
-var api_url = 'https://api.test.datacite.org';
+var api_url = 'https://api.datacite.org';
 var github_url = 'https://github.com/datacite/datacite';
 var year = '2017';
 var query_url = encodeURI(api_url + "/milestones?year=" + year);
