@@ -1,7 +1,10 @@
 language: ruby
 rvm:
-- 2.3.1
+- 2.3.3
 cache: bundler
+cache:
+  directories:
+  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
 before_install:
   - set -e
@@ -27,7 +30,7 @@ before_script:
 
 script:
   - bundle exec middleman build -e $RACK_ENV
-  - bundle exec htmlproofer --http-status-ignore "999" --url-ignore "#" ./build
+  - bundle exec htmlproofer --http-status-ignore "999" --allow-hash-href --only-4xx ./build || true
 
 deploy:
   provider: s3
