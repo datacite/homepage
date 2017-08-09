@@ -106,6 +106,8 @@ services_links:
 resources_links:
  - name: Metadata schema
    url: https://schema.datacite.org
+ - name: DataCite Statutes
+   url: statutes.html
  - name: Support
    url: https://support.datacite.org
 community_links:
