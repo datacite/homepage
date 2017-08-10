@@ -3,7 +3,7 @@ title: DataCite - Job opportunities
 layout: service
 ---
 
-## Application Developer
+# Application Developer
 
 Are you passionate about data sharing and moving research forward? We are looking
 for an application developer to join our DataCite team, bringing a mix of skills
@@ -64,5 +64,5 @@ opportunities employer.
 ### How to apply
 
 Please send a short email, stating your interest in the position, and CV with your
-github username to Martin Fenner, DataCite Technical Director, mfenner@datacite.org.
+github username to Martin Fenner, DataCite Technical Director, [mfenner@datacite.org](mailto:mfenner@datacite.org).
 Applications will be considered beginning August 30th, 2017.
