@@ -15,4 +15,4 @@ The DOI Citation Formatter is a service created in collaboration with
 [ISTIC](http://www.doi.org.cn/portal/index.htm). It provides a simple
 interface to extract metadata automatically from a DOI and build a full
 citation. It supports more than 5,000 different citation styles in 45 different
-languages, using the [Citation Style Language](citationstyles.org).
+languages, using the [Citation Style Language](http://citationstyles.org).
