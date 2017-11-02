@@ -3,8 +3,7 @@
 // construct query string
 var api_url = 'https://api.datacite.org';
 var github_url = 'https://github.com/datacite/datacite';
-var year = '2017';
-var query_url = encodeURI(api_url + "/milestones?year=" + year);
+var query_url = encodeURI(api_url + "/milestones");
 
 // load the data from the DataCite API
 if (query_url) {
@@ -13,7 +12,7 @@ if (query_url) {
       if (error) { return console.warn(error); }
 
       var data = d3.nest()
-        .key(function(d) { return d.attributes.quarter; })
+        .key(function(d) { return d.attributes.year + ' Q' + d.attributes.quarter; })
         .entries(json.data);
 
       roadmapResult(data);
@@ -34,7 +33,7 @@ function roadmapResult(data) {
     var quarter = data[i];
 
     d3.select("#content").append("h1")
-      .text("2017 Q" + quarter.key);
+      .text(quarter.key);
 
     for (var j=0; j<quarter.values.length; j++) {
       var milestone = quarter.values[j]
