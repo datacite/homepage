@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.3.3
+- 2.4.1
 cache: bundler
 cache:
   directories:
@@ -8,11 +8,11 @@ cache:
 
 before_install:
   - set -e
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then
+  - if [ "${TRAVIS_TAG?}" ]; then
       AWS_BUCKET="www.datacite.org";
       RACK_ENV="production";
       cp .env.master .env;
-    elif [ "$TRAVIS_BRANCH" == "test" ]; then
+    elif [ "$TRAVIS_BRANCH" == "master" ]; then
       AWS_BUCKET="www.test.datacite.org";
       RACK_ENV="stage";
       cp .env.stage .env;
