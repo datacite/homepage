@@ -1,11 +1,11 @@
 ---
-title: Continuous Integration Status
+title: Continuous Integration
 layout: service
 ---
 
 # Description
 
-DataCite uses the [Travis CI](https://travis-ci.org/) continuous integration service for automated tests and builds of Docker images, static websites, and Rubygems. Please click on the repo name or a badge for more information.
+DataCite uses the [Travis CI](https://travis-ci.org/) [continuous integration](https://www.thoughtworks.com/continuous-integration) service for automated tests and builds of Docker images, static websites, and Rubygems. Please click on the repo name or a badge for more information.
 
 #### [Blog](https://github.com/datacite/blog)
 [![Build Status](https://travis-ci.org/datacite/blog.svg)](https://travis-ci.org/datacite/blog)
