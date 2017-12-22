@@ -24,7 +24,7 @@ set :markdown, smartypants: true,
 
 # Use sprockets for asset compilation
 activate :sprockets
-sprockets.append_path File.join(root, 'vendor', 'bower_components')
+sprockets.append_path File.join(root, 'vendor', 'node_modules')
 
 # put configuration variables into .env file
 activate :dotenv
