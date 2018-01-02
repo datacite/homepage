@@ -12,12 +12,15 @@ before_install:
       AWS_BUCKET="www.datacite.org";
       RACK_ENV="production";
       cp .env.master .env;
+      AUTO_DEPLOY=true;
     elif [ "$TRAVIS_BRANCH" == "master" ]; then
-      AWS_BUCKET="www.test.datacite.org";
+      AWS_BUCKET="www.stage.datacite.org";
       RACK_ENV="stage";
+      CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID_STAGE;
       cp .env.stage .env;
+      AUTO_DEPLOY=true;
     else
-      exit 1;
+      AUTO_DEPLOY=false;
     fi
 
   - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb
@@ -43,7 +46,15 @@ deploy:
   region: eu-west-1
   detect_encoding: true
   on:
-    all_branches: true
+    condition: $AUTO_DEPLOY = true
+
+after_deploy:
+  - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY
+  - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_KEY
+  # Allow `awscli` to make requests to CloudFront.
+  - aws configure set preview.cloudfront true
+  # Invalidate every object in the targeted distribution.
+  - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 
 notifications:
   slack: datacite:Wt8En0ALoTA6Kjc5EOKNDWxN
