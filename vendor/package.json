@@ -2,9 +2,7 @@
   "name": "vendor",
   "version": "0.2.0",
   "private": true,
-  "scripts": {
-    "postinstall": "node_modules/.bin/bower install"
-  },
+  "scripts": {},
   "repository": "",
   "engines": {
     "node": ">= 0.10.0"
@@ -12,6 +10,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bower": "1.8.0"
+    "es5-shim": "~4.1.0",
+    "bootstrap-sass": "~3.3.6",
+    "bootstrap-social": "~5.0.0"
   }
 }

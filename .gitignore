@@ -18,7 +18,6 @@
 .DS_Store
 
 # ignore vendored assets and gems
-/vendor/bower_components
 /vendor/node_modules
 /vendor/bundle
 
