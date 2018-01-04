@@ -27,6 +27,10 @@ before_install:
   - sudo dpkg -i pandoc-1.15.2-1-amd64.deb
   - rm pandoc-1.15.2-1-amd64.deb
 
+install:
+  - bundle install
+  - sudo pip install awscli
+
 before_script:
   - cd vendor && npm install
   - cd ../
