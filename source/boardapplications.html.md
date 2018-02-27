@@ -11,7 +11,7 @@ Our goal is to help the research community locate, identify, and cite research d
 
 #### [Apply before March 15, 2018](https://docs.google.com/forms/d/1K4hbua9FsnLsipBC7ip2xHXxoCvgzUnB08fb9K9pvYA/prefill).
 
-The process is simple. An [application form](https://docs.google.com/forms/d/1K4hbua9FsnLsipBC7ip2xHXxoCvgzUnB08fb9K9pvYA/prefill)
+The process is simple. An [application form](https://docs.google.com/forms/d/e/1FAIpQLSfC4uI3yfgu5mYmejqEUlKPV8pjpXfy7cCvn1wK9FOM8bWrRg/viewform?usp=pp_url&entry.575910104&entry.93629845&entry.291278732&entry.224361534&entry.963682759&entry.1383174877&entry.390925559&entry.421650911)
 asks for a few paragraphs with your vision for DataCite and how you can personally contribute your skills and experience.
 
 ## Criteria and frequently asked questions
@@ -47,7 +47,7 @@ Individuals affiliated with any DataCite member institutions.
  Board members are not compensated for their contributions to DataCite. Costs (including travel to meetings) must be covered by their home institutions.
 
 #### 7. How do I apply?
-Simply fill out the [application form](https://docs.google.com/forms/d/1K4hbua9FsnLsipBC7ip2xHXxoCvgzUnB08fb9K9pvYA/prefill) by March 15, 2018.
+Simply fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfC4uI3yfgu5mYmejqEUlKPV8pjpXfy7cCvn1wK9FOM8bWrRg/viewform?usp=pp_url&entry.575910104&entry.93629845&entry.291278732&entry.224361534&entry.963682759&entry.1383174877&entry.390925559&entry.421650911) by March 15, 2018.
 
 #### 8. When will the new term begin?
 New board terms will begin after confirmation by the General Assembly in March 2018.
