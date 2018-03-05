@@ -6,13 +6,13 @@ var github_url = 'https://github.com/datacite/datacite';
 var api_url = 'https://api.datacite.org';
 var query = getParameterByName('query');
 var milestone = getParameterByName('milestone');
-var category = getParameterByName('category');
+var project = getParameterByName('project');
 var stakeholder = getParameterByName('stakeholder');
 var state = getParameterByName('state');
 var query_url = encodeURI(api_url + "/user-stories?rows=100");
 if (query !== null) { query_url += "&query=" + query; }
 if (milestone !== null) { query_url += "&milestone=" + milestone; }
-if (category !== null) { query_url += "&category=" + category; }
+if (project !== null) { query_url += "&project=" + project; }
 if (stakeholder !== null) { query_url += "&stakeholder=" + stakeholder; }
 if (state !== null) {
   query_url += "&state=" + state;
@@ -48,7 +48,7 @@ function userStoryResult(json) {
     var user_story = data[i];
     var description = user_story.attributes.description.split("\n")[0];
     var created_date = formattedDate(user_story.attributes.created.substring(0, 10)) + ".";
-    var categories = user_story.attributes.categories;
+    var projects = user_story.attributes.projects;
     var stakeholders = user_story.attributes.stakeholders;
     var comments = '';
     if (user_story.attributes.comments > 1) {
@@ -82,12 +82,12 @@ function userStoryResult(json) {
           .text(user_story.attributes.milestone);
       }
 
-      for (j = 0; j<user_story.attributes.categories.length; j++) {
+      for (j = 0; j<user_story.attributes.projects.length; j++) {
         d3.select("#labels-" + user_story.id).append("span")
-          .attr("class", "label label-category")
+          .attr("class", "label label-project")
           .append("a")
-          .attr("href", function() { return encodeURI("/user-stories.html?category=" + user_story.attributes.categories[j]); })
-          .text(user_story.attributes.categories[j]);
+          .attr("href", function() { return encodeURI("/user-stories.html?project=" + user_story.attributes.projects[j]); })
+          .text(user_story.attributes.projects[j]);
       }
 
       for (j = 0; j<user_story.attributes.stakeholders.length; j++) {
@@ -128,12 +128,12 @@ function userStoryResult(json) {
           .text(user_story.attributes.milestone);
       }
 
-      for (j = 0; j<user_story.attributes.categories.length; j++) {
+      for (j = 0; j<user_story.attributes.projects.length; j++) {
         d3.select("#labels-" + user_story.id).append("span")
-          .attr("class", "label label-category")
+          .attr("class", "label label-project")
           .append("a")
-          .attr("href", function() { return encodeURI("/user-stories.html?category=" + user_story.attributes.categories[j]); })
-          .text(user_story.attributes.categories[j]);
+          .attr("href", function() { return encodeURI("/user-stories.html?project=" + user_story.attributes.projects[j]); })
+          .text(user_story.attributes.projects[j]);
       }
 
       for (j = 0; j<user_story.attributes.stakeholders.length; j++) {
@@ -192,32 +192,32 @@ function userStoryResult(json) {
     }
   }
 
-  d3.select("#categories")
+  d3.select("#projects")
     .classed("panel facets", true).insert("div")
     .attr("class", "panel-body").insert("h4")
-    .text("Categories");
+    .text("Projects");
 
-  d3.select("#categories .panel-body").insert("ul");
+  d3.select("#projects .panel-body").insert("ul");
 
-  for (var key in meta.categories) {
-    if (category === key) {
-      d3.select("#categories .panel-body ul").insert("li")
+  for (var key in meta.projects) {
+    if (project === key) {
+      d3.select("#projects .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return formatUserStoriesQuery({ category: null }); }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ project: null }); }).insert("i")
         .attr("class", "fa fa-check-square-o");
     } else {
-      d3.select("#categories .panel-body ul").insert("li")
+      d3.select("#projects .panel-body ul").insert("li")
         .append("a")
-        .attr("href", function() { return formatUserStoriesQuery({ category: key }); }).insert("i")
+        .attr("href", function() { return formatUserStoriesQuery({ project: key }); }).insert("i")
         .attr("class", "fa fa-square-o");
     }
-    d3.select("#categories .panel-body ul li:last-child").insert("div")
+    d3.select("#projects .panel-body ul li:last-child").insert("div")
       .attr("class", "facet-title")
       .text(capitalizeFirstLetter(key));
-    d3.select("#categories .panel-body ul li:last-child").insert("span")
+    d3.select("#projects .panel-body ul li:last-child").insert("span")
       .attr("class", "number pull-right")
-      .text(meta.categories[key]);
-    d3.select("#categories .panel-body ul li:last-child").insert("div")
+      .text(meta.projects[key]);
+    d3.select("#projects .panel-body ul li:last-child").insert("div")
       .attr("class", "clearfix");
   }
 
