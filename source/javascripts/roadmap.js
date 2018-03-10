@@ -11,53 +11,74 @@ if (query_url) {
     .get(function(error, json) {
       if (error) { return console.warn(error); }
 
-      var data = d3.nest()
-        .key(function(d) { return d.attributes.year + ' Q' + d.attributes.quarter; })
-        .entries(json.data);
+      var currentDate = new Date();
+      var formatYear = d3.time.format("%Y");
+      var formatMonth = d3.time.format("%m");
+      var year = formatYear(currentDate);
+      var quarter = Math.ceil(3 / formatMonth(currentDate));
 
-      roadmapResult(data);
+      var open = json.data.filter(function(d) {
+        return !d.attributes.closed;
+      });
+
+      var roadmap = d3.nest()
+        .key(function(d) { return d.attributes.year + ' Q' + d.attributes.quarter; })
+        .entries(open);
+
+      var closed = json.data.filter(function(d) {
+        return d.attributes.closed;
+      });
+
+      var completed = d3.nest()
+        .key(function(d) { return d.attributes.year + ' Q' + d.attributes.quarter; })
+        .entries(closed);
+
+      roadmapResult(roadmap, "#content", "Roadmap");
+      roadmapResult(completed, "#completed", "Completed Milestones");
   });
 }
 
-// add milestones to page
-function roadmapResult(data) {
-
+// add open milestones to page
+function roadmapResult(data, tag, title) {
   if (typeof data === "undefined" || data.length === 0) {
-    d3.select("#content").append("h1")
+    d3.select(tag).append("h1")
       .attr("class", "alert alert-info")
       .text("No milestones found.");
     return;
   }
 
+  d3.select(tag).append("h1")
+    .text(title);
+
   for (var i=0; i<data.length; i++) {
     var quarter = data[i];
 
-    d3.select("#content").append("h1")
+    d3.select(tag).append("h2")
       .text(quarter.key);
 
     for (var j=0; j<quarter.values.length; j++) {
       var milestone = quarter.values[j]
 
       if (milestone.attributes.released !== null) {
-        d3.select("#content").append("h3")
+        d3.select(tag).append("h3")
           .attr("class", "milestone")
           .attr("id", "milestone-" + milestone.id)
           .append("a")
           .attr("href", function() { return encodeURI(github_url + "/milestone/" + milestone.id); })
           .html(milestone.attributes.title + ' <span class="label label-released small">Released ' + formattedDate(milestone.attributes.released.substring(0, 10)) + '</span>');
 
-        d3.select("#content").append("div")
+        d3.select(tag).append("div")
           .attr("class", "released")
           .html(milestone.attributes.description);
       } else {
-        d3.select("#content").append("h3")
+        d3.select(tag).append("h3")
           .attr("class", "milestone")
           .attr("id", "milestone-" + milestone.id)
           .append("a")
           .attr("href", function() { return encodeURI(github_url + "/milestone/" + milestone.id); })
           .html(milestone.attributes.title);
 
-        d3.select("#content").append("div")
+        d3.select(tag).append("div")
           .html(milestone.attributes.description);
       }
     }

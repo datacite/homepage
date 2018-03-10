@@ -11,6 +11,11 @@
         <div class="col-md-9 section-content" id="content">
           <%= yield %>
         </div>
+        <div class="col-md-9 section-content" id="completed">
+        </div>
+        <div class="col-md-9 section-content">
+          <%= partial "includes/glossary.html.md" %>
+        </div>
         <% if current_page.data.link.present? || current_page.data.intended_users.present? %>
           <div class="col-md-3 bg-primary sidebox">
             <h1>access details</h1>
