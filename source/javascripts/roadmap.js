@@ -54,6 +54,7 @@ function roadmapResult(data, tag, title) {
     var quarter = data[i];
 
     d3.select(tag).append("h2")
+      .attr("class", "roadmap")
       .text(quarter.key);
 
     for (var j=0; j<quarter.values.length; j++) {
@@ -68,7 +69,6 @@ function roadmapResult(data, tag, title) {
           .html(milestone.attributes.title + ' <span class="label label-released small">Released ' + formattedDate(milestone.attributes.released.substring(0, 10)) + '</span>');
 
         d3.select(tag).append("div")
-          .attr("class", "released")
           .html(milestone.attributes.description);
       } else {
         d3.select(tag).append("h3")
