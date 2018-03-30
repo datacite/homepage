@@ -1,5 +1,5 @@
 var xmlhttp = new XMLHttpRequest();
-var url = "https://app.datacite.org/members";
+var url = "https://app.datacite.org/members?page[size]=250";
 
 xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
