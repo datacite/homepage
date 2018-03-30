@@ -16,7 +16,7 @@ function formatMembers(response) {
 	// response.meta.total;
 
 	for (var i in response.data) {
-    // don't show DataCite providers
+    // don't show DataCite providers or members with missing logo
     if (response.data[i].attributes['logo-url'] == null || ["DATACITE", "DEMO", "SML"].includes(response.data[i].id.toUpperCase())) {
       continue;
     }
