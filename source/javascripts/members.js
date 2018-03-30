@@ -1,5 +1,5 @@
 var xmlhttp = new XMLHttpRequest();
-var url = "https://api.datacite.org/members";
+var url = "https://app.datacite.org/members";
 
 xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -15,7 +15,12 @@ function formatMembers(response) {
 
 	// response.meta.total;
 
-	for (var i in response.data){
+	for (var i in response.data) {
+    // don't show DataCite providers
+    if (response.data[i].attributes['logo-url'] == null || ["DATACITE", "DEMO", "SML"].includes(response.data[i].id.toUpperCase())) {
+      continue;
+    }
+
 		if (response.data[i].attributes.title == null){
 			title = '-';
 		}
@@ -23,24 +28,30 @@ function formatMembers(response) {
 			title = response.data[i].attributes.title;
 		}
 		if (response.data[i].attributes.description == null){
-			description = 'The description of this member is not available';
+			description = 'Description not available';
 		}
 		else {
 			description = response.data[i].attributes.description;
-		}	
+		}
+    if (response.data[i].attributes.website == null){
+			website = 'website not available';
+		}
+		else {
+			website = '<a href="' + response.data[i].attributes.website + '">' + response.data[i].attributes.website + '</a>';
+		}
 		if (response.data[i].attributes.email == null){
-			email = 'Email not available (please contact  <a href=\"mailto:support@datacite.org\">support@datacite.org</a>)';
+			email = 'email not available (please contact  <a href=\"mailto:support@datacite.org\">support@datacite.org</a>)';
 		}
 		else {
 			email = response.data[i].attributes.email;
 		}
 		if (response.data[i].attributes.phone == null){
-			phone = 'Phone number not available';
+			phone = 'phone number not available';
 		}
 		else {
 			phone = response.data[i].attributes.phone;
 		}
-		
+
 		if (i/2 == 0){ //new row
 			div.innerHTML += '<div class=\"row text-center\">'
 		}
@@ -68,10 +79,9 @@ function formatMembers(response) {
 						+ '<p>Country: '
 						+ response.data[i].attributes.country
 						+ '</p>'
-						+ '<p>Website: <a href=\"'
-						+ response.data[i].attributes.website
-						+ '\">' + response.data[i].attributes.website
-						+ '</a></p>'
+						+ '<p>Website: '
+            + website
+						+ '</p>'
 						+ '<p>E-mail: '
 						+ email
 						+ '</p>'
