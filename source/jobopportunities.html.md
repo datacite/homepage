@@ -5,6 +5,8 @@ layout: service
 
 # Member Support Manager
 
+### Job description
+
 DataCite is a leading global non-profit organisation that provides persistent identifiers (DOIs) for research. DataCite was founded in 2009 to support the research community in identifying, locating, accessing, and citing research datasets with confidence. DataCite develops services that enable easier access to research data and provide a way for researchers to share and get credit for the datasets they generate.
 
 DataCite is a membership organization so our members are central to everything we do. We want to ensure all members can use our core DOI services, understand all DataCite services, receive support when needed, and feel valued and listened to. Therefore, we are looking for a member support manager to optimize our support procedures.
