@@ -4,7 +4,7 @@ layout: service
 ---
 
 # Member Support Manager
-DataCite is a leading global non-profit organisation that provides persistent identifiers (DOIs) for research. DataCite was founded in 2009 to support the research community in identifying, locating, accessing and citing research datasets with confidence. DataCite develops services that enable easier access to research data and provide a way for researchers to share and get credit for the datasets they generate.
+DataCite is a leading global non-profit organisation that provides persistent identifiers (DOIs) for research. DataCite was founded in 2009 to support the research community in identifying, locating, accessing, and citing research datasets with confidence. DataCite develops services that enable easier access to research data and provide a way for researchers to share and get credit for the datasets they generate.
 
 DataCite is a membership organization so our members are central to everything we do. We want to ensure all members can use our core DOI services, understand all DataCite services, receive support when needed, and feel valued and listened to. Therefore, we are looking for a member support manager to optimize our support procedures.
 
@@ -38,4 +38,4 @@ In this role, you are responsible for first-level support for DataCite services.
 This is a fixed-term contract for 1 year with possibility of extension. Base salary from €40.000 per year dependent on experience.
 
  ### To apply
- Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>](mailto:helena.cousijn@datacite.org) by October 1, 2018. Please don’t hesitate to contact us with any questions.
+Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>](mailto:helena.cousijn@datacite.org) by September 15, 2018. Interviews will take place the third week of September. Please don’t hesitate to contact us with any questions.
