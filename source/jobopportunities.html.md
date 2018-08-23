@@ -13,7 +13,8 @@ DataCite is a membership organization so our members are central to everything w
 
 In this role, you are responsible for first-level support for DataCite services. When our members need help using our services, they come to you. You assist in problem diagnosis, handling, tracking, and resolution. You are friendly and approachable but also have sufficient technical knowledge to understand our services and the issues members may encounter. You optimize our support procedures through soliciting, managing, and analyzing member feedback and ensure the team is equipped to provide optimal support.
 
-  ### Your responsibilities
+
+### Your responsibilities
   
 * You provide online support to our globally-distributed customers as part of a geographically-dispersed team.
 * You investigate problems, determine causes, and take the steps necessary to resolve the issue.
@@ -28,7 +29,8 @@ In this role, you are responsible for first-level support for DataCite services.
 * You analyze the results of member surveys and member usage metrics to improve support materials and uptake of services.
 * You assist in communication of product and feature launches.
 
- ### Required skills and qualifications
+
+### Required skills and qualifications
  
 * University degree
 * Customer service experience
@@ -42,6 +44,7 @@ In this role, you are responsible for first-level support for DataCite services.
 
 This is a fixed-term contract for 1 year with possibility of extension. Base salary from €40.000 per year dependent on experience.
 
- ### To apply
+
+### To apply
  
 Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>](mailto:helena.cousijn@datacite.org) by September 15, 2018. Interviews will take place the third week of September. Please don’t hesitate to contact us with any questions.
