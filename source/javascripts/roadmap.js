@@ -25,6 +25,19 @@ if (query_url) {
         .key(function(d) { return d.attributes.year + ' Q' + d.attributes.quarter; })
         .entries(open);
 
+      roadmapResult(roadmap, "#content", "Roadmap");
+  });
+
+  d3.json(query_url + '?state=closed')
+    .get(function(error, json) {
+      if (error) { return console.warn(error); }
+
+      var currentDate = new Date();
+      var formatYear = d3.time.format("%Y");
+      var formatMonth = d3.time.format("%m");
+      var year = formatYear(currentDate);
+      var quarter = Math.ceil(3 / formatMonth(currentDate));
+
       var closed = json.data.filter(function(d) {
         return d.attributes.closed;
       });
@@ -33,7 +46,6 @@ if (query_url) {
         .key(function(d) { return d.attributes.year + ' Q' + d.attributes.quarter; })
         .entries(closed);
 
-      roadmapResult(roadmap, "#content", "Roadmap");
       roadmapResult(completed, "#completed", "Completed Milestones");
   });
 }
