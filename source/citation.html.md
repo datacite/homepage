@@ -10,9 +10,4 @@ intended_users:
 
 # service description
 
-The DOI Citation Formatter is a service created in collaboration with
-[Crossref](http://crossref.org), [mEDRA](https://www.medra.org), and
-[ISTIC](http://www.doi.org.cn/portal/index.htm). It provides a simple
-interface to extract metadata automatically from a DOI and build a full
-citation. It supports more than 5,000 different citation styles in 45 different
-languages, using the [Citation Style Language](http://citationstyles.org).
+The DOI Citation Formatter is a service created in collaboration with [Crossref](http://crossref.org), [mEDRA](https://www.medra.org), [ISTIC](http://www.doi.org.cn/portal/index.htm), and [JaLC](https://japanlinkcenter.org/top/english.html). It provides a simpleinterface to extract metadata automatically from a DOI and build a full citation. It supports more than 5,000 different citation styles in 45 differentlanguages, using the [Citation Style Language](http://citationstyles.org).
