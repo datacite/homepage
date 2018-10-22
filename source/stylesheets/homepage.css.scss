@@ -441,3 +441,7 @@ table {
     font-size: 2em;
   }
 }
+
+.thumbnail>img, .thumbnail a>img {
+  max-height: 205px;
+}
