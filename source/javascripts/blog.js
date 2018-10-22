@@ -19,7 +19,7 @@ function formatBlog(response) {
 						+ '<a href=\"'
 			 			+ response.data[i].id
 						+ '\">'
-						+ '<img src=\"'
+						+ '<img src=\"https://blog.datacite.org'
 						+ response.data[i].attributes['image-url']
 						+ '\" /></a><br /></div>'
 						+ '<h4>'
