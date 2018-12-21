@@ -50,4 +50,4 @@ Individuals affiliated with any DataCite member institutions.
 Simply fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfC4uI3yfgu5mYmejqEUlKPV8pjpXfy7cCvn1wK9FOM8bWrRg/viewform?usp=pp_url&entry.575910104&entry.93629845&entry.291278732&entry.224361534&entry.963682759&entry.1383174877&entry.390925559&entry.421650911) by March 15, 2019.
 
 #### 8. When will the new term begin?
-New board terms will begin after confirmation by the General Assembly in March 2018.
+New board terms will begin after confirmation by the General Assembly in April 2019.
