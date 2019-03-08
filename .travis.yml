@@ -37,7 +37,7 @@ before_script:
 
 script:
   - bundle exec middleman build -e $RACK_ENV
-  - bundle exec htmlproofer --http-status-ignore "999" --allow-hash-href --only-4xx ./build || true
+  - bundle exec htmlproofer --http-status-ignore "999,403" --allow-hash-href --empty_alt_ignore --only-4xx ./build
 
 deploy:
   provider: s3
