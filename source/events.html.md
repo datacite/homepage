@@ -5,9 +5,9 @@ layout: service
 
 # Upcoming DataCite Webinars
 
-## Repository Implementation Webinar - Wednesday, March 26, 2019, 8:00am PST/4:00pm GMT
+## Repository Implementation Webinar - Wednesday, March 26, 2019, 17:00-18.00 CET
 
-Join us on March 26th at 8:00am PST/4:00pm GMT for a webinar on repository implementation of our COUNTER Code of Practice
+Join us on March 26th at 17.00 CET for a webinar on repository implementation of our COUNTER Code of Practice
 for Research Data and Make Data Count recommendations. This webinar will feature a panel of developers from repositories
 that have implemented or are about to release standardized data metrics: Dataverse, Dryad, and Zenodo. We will interview
 each repository on their implementation process. This recorded discussion between our technical team and repositories,
