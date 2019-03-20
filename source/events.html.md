@@ -14,8 +14,7 @@ each repository on their implementation process. This recorded discussion betwee
 providing various perspectives of implementation, should be a helpful guidance for any repository interested in
 implementing!
 
-To register for our webinar, please fill out this form (https://ucop.zoom.us/meeting/regist
-/4f6fe43b065ba682dc2040ba88984b7b).
+To register for the webinar, fill out this[form](https://ucop.zoom.us/meeting/regist/4f6fe43b065ba682dc2040ba88984b7b).
 
 
 # Past Events
