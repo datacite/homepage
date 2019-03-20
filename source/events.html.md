@@ -5,7 +5,7 @@ layout: service
 
 # Upcoming DataCite Webinars
 
-## Repository Implementation Webinar - Wednesday, March 26, 2018, 8:00am PST/4:00pm GMT
+## Repository Implementation Webinar - Wednesday, March 26, 2019, 8:00am PST/4:00pm GMT
 
 Join us on March 26th at 8:00am PST/4:00pm GMT for a webinar on repository implementation of our COUNTER Code of Practice
 for Research Data and Make Data Count recommendations. This webinar will feature a panel of developers from repositories
