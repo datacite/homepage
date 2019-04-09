@@ -5,6 +5,20 @@ layout: service
 
 # Upcoming DataCite Webinars
 
+## Repository Implementation Webinar - Wednesday, March 26, 2019, 17:00-18.00 CET
+
+Join us on March 26th at 17.00 CET for a webinar on repository implementation of our COUNTER Code of Practice
+for Research Data and Make Data Count recommendations. This webinar will feature a panel of developers from repositories
+that have implemented or are about to release standardized data metrics: Dataverse, Dryad, and Zenodo. We will interview
+each repository on their implementation process. This recorded discussion between our technical team and repositories,
+providing various perspectives of implementation, should be a helpful guidance for any repository interested in
+implementing!
+
+To register for the webinar, fill out this [form](https://ucop.zoom.us/meeting/regist/4f6fe43b065ba682dc2040ba88984b7b).
+
+
+# Past Events
+
 ## Google Dataset Search - Wednesday, November 28, 2018, 17:00-18:00 CET
 
 Dataset Search enables users to find datasets across thousands of repositories on the web. They range from various 
@@ -19,7 +33,6 @@ leads the team building Google Dataset Search. Prior to joining Google, Natasha 
 Biomedical Informatics Research where she made major contributions in the areas of ontology development and alignment, 
 and collaborative ontology engineering. 
 
-# Past Events
 	  
 ## Data Citation Roadmap for Scholarly Data Repositories - Thursday, February 23, 2017, 16:00-17:00 CET
 
