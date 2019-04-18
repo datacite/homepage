@@ -18,7 +18,7 @@ If you find content on the DataCite’s website, support site, or blog, that you
 ### DataCite -- Website, Support Site, Blog, and Services
 
 
-### DataCite operates a website at [https://datacite.org/](https://datacite.org/), a support site at [https://support.datacite.org/](https://support.datacite.org/), blog at [https://blog.datacite.org/](https://blog.datacite.org/), Fabrica, a DOI service, at [https://doi.datacite.org/](https://doi.datacite.org/) and a Help Desk at [support@datacite.org](mailto:support@datacite.org). It is DataCite’s policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on our please contact our [support team](mailto:support@datacite.org). \
+DataCite operates a website at [https://datacite.org/](https://datacite.org/), a support site at [https://support.datacite.org/](https://support.datacite.org/), blog at [https://blog.datacite.org/](https://blog.datacite.org/), Fabrica, a DOI service, at [https://doi.datacite.org/](https://doi.datacite.org/) and a Help Desk at [support@datacite.org](mailto:support@datacite.org). It is DataCite’s policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on our please contact our [support team](mailto:support@datacite.org). 
 
 
 
@@ -104,4 +104,4 @@ If you are a member of DataCite and/or a user of DataCite services and have supp
 
 ### Privacy Policy Changes
 
-The DataCite Privacy Policy goes into effect April 18, 2019. Although most changes are likely to be minor, DataCite may change its Privacy Policy from time to time, and at DataCite’s sole discretion. DataCite encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+The DataCite Privacy Policy goes into effect as of April 18, 2019. Although most changes are likely to be minor, DataCite may change its Privacy Policy from time to time, and at DataCite’s sole discretion. DataCite encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
