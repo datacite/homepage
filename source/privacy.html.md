@@ -1,5 +1,6 @@
 ---
 title: DataCite - Privacy policy
+layout: service
 ---
 
 # Privacy Policy
@@ -37,7 +38,7 @@ For example, we ask visitors who send a message to our [Help Desk](mailto:suppor
 ### Cookies
 
 
-### A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. DataCite uses cookies to help DataCite identify and track visitors, their usage of DataCite’s sites.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. DataCite uses cookies to help DataCite identify and track visitors, their usage of DataCite’s sites.
 
 DataCite visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using DataCite’s sites, with the drawback that certain features of DataCite’s sites may not function properly without the aid of cookies.
 
