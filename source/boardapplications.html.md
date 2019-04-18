@@ -7,7 +7,7 @@ layout: service
 
 DataCite, a global non-profit organization that provides persistent identifiers (DOIs) for research data, is looking for new members to join our Executive Board.
 
-Our goal is to help the research community locate, identify, and cite research data with confidence. The [Executive Board](/board.html) is critical to achieving this goal, supporting the DataCite staff in executing the vision of the organization. Individuals affiliated with [DataCite member organizations](/members.html) are encouraged to apply. The current Executive Board will prepare a candidate slate representing organization diversity and balanced skills sets. The General Assembly will formally elect the Board in April 2019 and successful candidates will take office in May 2019. Board members will serve two-year terms.
+Our goal is to help the research community locate, identify, and cite research data with confidence. The [Executive Board](/governance.html) is critical to achieving this goal, supporting the DataCite staff in executing the vision of the organization. Individuals affiliated with [DataCite member organizations](/members.html) are encouraged to apply. The current Executive Board will prepare a candidate slate representing organization diversity and balanced skills sets. The General Assembly will formally elect the Board in April 2019 and successful candidates will take office in May 2019. Board members will serve two-year terms.
 
 #### [Apply before March 15, 2019](https://docs.google.com/forms/d/e/1FAIpQLSfC4uI3yfgu5mYmejqEUlKPV8pjpXfy7cCvn1wK9FOM8bWrRg/viewform?usp=pp_url&entry.575910104&entry.93629845&entry.291278732&entry.224361534&entry.963682759&entry.1383174877&entry.390925559&entry.421650911).
 
