@@ -3,6 +3,8 @@ title: DataCite - Mission
 layout: service
 ---
 
+### Mission
+
 **Our Vision: ** Connecting research, identifying knowledge.
 
 **Our Mission: ** DataCite’s mission is to be the world's leading provider of persistent identifiers for research. Through our portfolio of services, we provide the means to create, find, cite, connect, and use research. We seek to create value and develop community-driven, innovative, open, integrated, useable, and sustainable services for research.
