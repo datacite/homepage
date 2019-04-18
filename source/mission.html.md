@@ -21,5 +21,4 @@ DataCite is an active participant in the research community and promotes data sh
 *   We provide timely support to our members – we respond quickly to the changing needs of our community, adding new services as needed.
 *   We actively involve our membership in the building of new services – we’re open to building services for all types of technologies.
 *   We’re a global leader – we have an international reputation for providing DOIs for traditional and non-traditional research outputs.
-*   We’re transparent – we have a structure that allows us to be proactive, agile, and
-*   responsive to the needs of the research community.
+*   We’re transparent – we have a structure that allows us to be proactive, agile, and responsive to the needs of the research community.
