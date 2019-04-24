@@ -431,6 +431,11 @@ table {
   margin-left: 80px;
 }
 
+table.board {
+	width: 30%;
+  margin-left: 10px;
+}
+
 @media(max-width:768px) {
   section {
     padding-top: 25px;
