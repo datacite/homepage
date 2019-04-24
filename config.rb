@@ -28,7 +28,7 @@ sprockets.append_path File.join(root, 'vendor', 'node_modules')
 # put configuration variables into .env file
 activate :dotenv
 
-redirect "board.html", to: "governance.html"
+# redirect "board.html", to: "governance.html"
 
 ###
 # Helpers
