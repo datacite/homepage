@@ -5,6 +5,11 @@ layout: service
 
 # Upcoming DataCite Webinars
 
+
+
+# Past Events
+
+
 ## Repository Implementation Webinar - Wednesday, March 26, 2019, 17:00-18.00 CET
 
 Join us on March 26th at 17.00 CET for a webinar on repository implementation of our COUNTER Code of Practice
@@ -15,9 +20,6 @@ providing various perspectives of implementation, should be a helpful guidance f
 implementing!
 
 To register for the webinar, fill out this [form](https://ucop.zoom.us/meeting/regist/4f6fe43b065ba682dc2040ba88984b7b).
-
-
-# Past Events
 
 ## Google Dataset Search - Wednesday, November 28, 2018, 17:00-18:00 CET
 
