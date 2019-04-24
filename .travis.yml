@@ -36,7 +36,7 @@ before_script:
   - cd ../
 
 script:
-  - bundle exec middleman build -e $RACK_ENV
+  - bundle exec middleman build -e $RACK_ENV --verbose
   - bundle exec htmlproofer --http-status-ignore "999,403" --allow-hash-href --empty_alt_ignore --only-4xx ./build
 
 deploy:
