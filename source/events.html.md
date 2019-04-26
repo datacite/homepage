@@ -5,7 +5,7 @@ layout: service
 
 # Upcoming DataCite Webinars 
 
-## Repository Implementation Webinar - Wednesday, May 28, 2019 17:00 - 18:00 CET 
+## After Make Data Count: the building blocks of data metrics - Wednesday, May 28, 2019 17:00 - 18:00 CET 
 
 During the last 2 years a lot of work took place within the Make Data Count project to take the first steps towards data
 metrics. Now that MDC has come to an end, we would like to show you what infrastructure DataCite has available as a result of
