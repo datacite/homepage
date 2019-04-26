@@ -3,11 +3,16 @@ title: DataCite - Events
 layout: service
 ---
 
-# Upcoming DataCite Webinars
+# Upcoming DataCite Webinars 
 
+## Repository Implementation Webinar - Wednesday, May 28, 2019 17:00 - 18:00 CET 
 
-
-
+During the last 2 years a lot of work took place within the Make Data Count project to take the first steps towards data
+metrics. Now that MDC has come to an end, we would like to show you what infrastructure DataCite has available as a result of
+the project. We will demo how you can contribute usage stats and citations and show the different ways in which we're sharing
+these numbers with the community. There will also be plenty of time to discuss next steps. 
+ 
+To register for the webinar, click [here](https://zoom.us/webinar/register/WN_niyE8PoVTMWHj3x4x_RAlA)
 
 # Past Events
 
