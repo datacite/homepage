@@ -5,6 +5,15 @@ layout: service
 
 # Upcoming DataCite Webinars 
 
+## MDC Spring Webinar - Wednesday, May 8, 2019 17:00 - 18:00 CET 
+
+Following advice from our workshop attendees at RDA13, we invite you to join us for our spring webinar.
+Join us on May 8th at 8am PST/3pm GMT as we demo our new aggregation services at DataCite and DataONE. This webinar is
+intended to spotlight the features and services we can build off of our central infrastructure such as aggregated usage and
+citations. This webinar will be recorded and posted on our website.
+
+To register for the webinar, click [here](bit.ly/MDCSpringWebinar)
+
 ## After Make Data Count: the building blocks of data metrics - Wednesday, May 28, 2019 17:00 - 18:00 CET 
 
 During the last 2 years a lot of work took place within the Make Data Count project to take the first steps towards data
