@@ -12,7 +12,7 @@ Join us on May 8th at 8am PST/3pm GMT as we demo our new aggregation services at
 intended to spotlight the features and services we can build off of our central infrastructure such as aggregated usage and
 citations. This webinar will be recorded and posted on our website.
 
-To register for the webinar, click [here](bit.ly/MDCSpringWebinar)
+To register for the webinar, click [here](https://dataone.zoom.us/webinar/register/WN_9kLWw9AJT3G85qLxi_GSRg)
 
 ## After Make Data Count: the building blocks of data metrics - Wednesday, May 28, 2019 17:00 - 18:00 CET 
 
