@@ -1,5 +1,5 @@
 var xmlhttp = new XMLHttpRequest();
-var url = "https://api.datacite.org/members?page[size]=250";
+var url = "https://api.datacite.org/providers?page[size]=250";
 
 xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
@@ -9,89 +9,87 @@ xmlhttp.onreadystatechange = function() {
 xmlhttp.open("GET", url, true);
 xmlhttp.send();
 
+function humanize(str) {
+  var words = str.match(/[A-Za-z][a-z]*/g) || [];
+
+  return words.map(capitalize).join(" ");
+}
+
+function capitalize(word) {
+  return word.charAt(0).toUpperCase() + word.substring(1);
+}
+
 function formatMembers(response) {
-	var response = JSON.parse(response);
-	var div = document.getElementById('memberslist');
+  var response = JSON.parse(response);
+  var div = document.getElementById('memberslist');
 
-	// response.meta.total;
+  // response.meta.total;
 
-	for (var i in response.data) {
+  for (var i in response.data) {
     // don't show DataCite providers or members with missing logo
-    if (response.data[i].attributes['logo-url'] == null || ["DATACITE", "DEMO", "SML"].includes(response.data[i].id.toUpperCase())) {
+    if (response.data[i].attributes['logoUrl'] == null || ["DATACITE", "DEMO", "SML"].includes(response.data[i].id.toUpperCase())) {
       continue;
     }
 
-		if (response.data[i].attributes.title == null){
-			title = '-';
-		}
-		else {
-			title = response.data[i].attributes.title;
-		}
-		if (response.data[i].attributes.description == null){
-			description = 'Description not available';
-		}
-		else {
-			description = response.data[i].attributes.description;
-		}
+    if (response.data[i].attributes.country == null){
+      country = '-';
+    }
+    else {
+      country = response.data[i].attributes.country;
+    }
+
+    if (response.data[i].attributes.organizationType == null){
+      orgType = '-';
+    }
+    else {
+      orgType = humanize(response.data[i].attributes.organizationType);
+    }
+
+    if (response.data[i].attributes.focusArea == null){
+      area = '-';
+    }
+    else {
+      area = humanize(response.data[i].attributes.focusArea);
+    }
+
+    if (response.data[i].attributes.name == null){
+      title = '-';
+    }
+    else {
+      title = response.data[i].attributes.name;
+    }
+
     if (response.data[i].attributes.website == null){
-			website = 'website not available';
-		}
-		else {
-			website = '<a href="' + response.data[i].attributes.website + '">' + response.data[i].attributes.website + '</a>';
-		}
-		if (response.data[i].attributes.email == null){
-			email = 'email not available (please contact  <a href=\"mailto:support@datacite.org\">support@datacite.org</a>)';
-		}
-		else {
-			email = response.data[i].attributes.email;
-		}
-		if (response.data[i].attributes.phone == null){
-			phone = 'phone number not available';
-		}
-		else {
-			phone = response.data[i].attributes.phone;
-		}
+      website = 'Website N/A';
+    }
+    else {
+      website = '<a href="' + response.data[i].attributes.website + '">' + response.data[i].attributes.website + '</a>';
+    }
 
-		if (i/2 == 0){ //new row
-			div.innerHTML += '<div class=\"row text-center\">'
-		}
-
-		div.innerHTML += '<div class=\"col-md-6 col-sm-12 svc-item\">'
-						+ '<div class=\"thumbnail\">'
-						+ '<div class=\"caption\" data-toggle=\"collapse\" data-target=\"#'
-						+ response.data[i].id
-						+ '\">'
-						+ '<img src=\"'
-						+ response.data[i].attributes['logo-url']
-						+ '\" /><br /></div>'
-						+ '<div id=\"'
-						+  response.data[i].id
-						+ '\" class=\"collapse stakeholderdescription\">'
-						//+ '<h2>'
-						//+ response.data[i].id
-						//+ '</h2>'
-						+ '<h3>'
-						+ title
-						+ '</h3>'
-						+ '<p>'
-						+ description
-						+ '</p>'
-						+ '<p>Country: '
-						+ response.data[i].attributes.country
-						+ '</p>'
-						+ '<p>Website: '
-            + website
-						+ '</p>'
-						+ '<p>E-mail: '
-						+ email
-						+ '</p>'
-						+ '<p>Phone: '
-						+ phone
-						+ '</p>'
-						+ '</div></div></div>'
-
-		if (i/2 != 0){ //end row
-			div.innerHTML += '</div>'
-		}
-	}
+    div.innerHTML +=
+    '<div class=\"row thumbnail svc-item\">' +
+      '<div class="col-md-6">' +
+        '<img src=\"' + response.data[i].attributes.logoUrl + '\"/>' +
+      '</div>' +
+      '<div class="col-md-6 stakeholderdescription">' +
+        '<h3>' + title + '</h3>' +
+        '<div class=\"row\">' +
+          '<div class="col-md-2">' +
+            country +
+          '</div>' +
+          '<div class="col-md-3">' +
+            orgType +
+          '</div>' +
+          '<div class="col-md-3">' +
+            area +
+          '</div>' +
+          '<div class="col-md-4">' +
+            website +
+          '</div>' +
+        '</div>' +
+      '</div>' +
+    '</div>' +
+    '<br />'
+    ;
+  }
 }
