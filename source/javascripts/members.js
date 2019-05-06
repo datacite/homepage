@@ -1,3 +1,5 @@
+//= require "country_code"
+
 var xmlhttp = new XMLHttpRequest();
 var url = "https://api.datacite.org/providers?page[size]=250";
 
@@ -27,7 +29,7 @@ function formatMembers(response) {
 
   for (var i in response.data) {
     // don't show DataCite providers or members with missing logo
-    if (response.data[i].attributes['logoUrl'] == null || ["DATACITE", "DEMO", "SML"].includes(response.data[i].id.toUpperCase())) {
+    if (["DATACITE", "DEMO", "SML"].includes(response.data[i].id.toUpperCase())) {
       continue;
     }
 
@@ -35,7 +37,7 @@ function formatMembers(response) {
       country = '-';
     }
     else {
-      country = response.data[i].attributes.country;
+      country = getCountryName(response.data[i].attributes.country);
     }
 
     if (response.data[i].attributes.organizationType == null){
@@ -66,30 +68,36 @@ function formatMembers(response) {
       website = '<a href="' + response.data[i].attributes.website + '">' + response.data[i].attributes.website + '</a>';
     }
 
+    if (response.data[i].attributes.logoUrl == null){
+      image = '';
+    }
+    else {
+      image = '<img style=\"height:100px\" src=\"' + response.data[i].attributes.logoUrl + '\"/>';
+    }
+
     div.innerHTML +=
     '<div class=\"row thumbnail svc-item\">' +
-      '<div class="col-md-6">' +
-        '<img src=\"' + response.data[i].attributes.logoUrl + '\"/>' +
+      '<div class="col-md-3">' +
+        image +
       '</div>' +
-      '<div class="col-md-6 stakeholderdescription">' +
+      '<div class="col-md-9 stakeholderdescription">' +
         '<h3>' + title + '</h3>' +
         '<div class=\"row\">' +
-          '<div class="col-md-2">' +
+          '<div class="col-md-2"><strong>Country:</strong> ' +
             country +
           '</div>' +
-          '<div class="col-md-3">' +
+          '<div class="col-md-3"><strong>Org Type:</strong> ' +
             orgType +
           '</div>' +
-          '<div class="col-md-3">' +
+          '<div class="col-md-3"><strong>Focus Area:</strong> ' +
             area +
           '</div>' +
-          '<div class="col-md-4">' +
+          '<div class="col-md-4"><strong>Website:</strong> ' +
             website +
           '</div>' +
         '</div>' +
       '</div>' +
-    '</div>' +
-    '<br />'
+    '</div>'
     ;
   }
 }
