@@ -1,0 +1,88 @@
+---
+title: DataCite - Membership Application Form
+---
+
+<header class="image-bg-fixed-height-small">
+  <div class="jumbotron">
+    <h1>Membership Application Form</h1>
+  </div>
+</header>
+
+<section>
+  <div class="container section-content">
+    <form action="https://test.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+      <input type=hidden name="oid" value="00D5C000000DIg8">
+      <input type=hidden name="retURL" value="http://">
+
+      <!--  ----------------------------------------------------------------------  -->
+      <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+      <!--  these lines if you wish to test in debug mode.                          -->
+      <!--  <input type="hidden" name="debug" value=1>                              -->
+      <!--  <input type="hidden" name="debugEmail" value="sean.canny@gmail.com">    -->
+      <!--  ----------------------------------------------------------------------  -->
+      
+      <h1>Membership Application Form</h1>
+
+      <label for="company">1. Organization's Legal Name</label><br>
+      <input  id="company" maxlength="40" name="company" size="20" type="text" /><br><br>
+
+      <label for="URL">2. Website</label><br>
+      <input  id="URL" maxlength="80" name="URL" size="20" type="text" /><br><br>
+
+      3. Mission of the organisation <br>
+      <textarea  id="00N5C000004CE9a" name="00N5C000004CE9a" rows="3" type="text" wrap="soft"></textarea><br><br>
+
+      4. Reason for joining DataCite<br>
+      <textarea  id="00N5C000004CE9f" name="00N5C000004CE9f" rows="3" type="text" wrap="soft"></textarea><br><br>
+
+      5. Does your organization plan to assign DOIs?<br>
+      <input  id="00N5C000004CE9k" name="00N5C000004CE9k" type="checkbox" value="1" /><br><br>
+
+      6. What is the tax status of your organization?<br>
+      <select  id="00N5C000004CE9p" name="00N5C000004CE9p" title="Tax Status">
+        <option value="">--None--</option>
+        <option value="Non-profit">Non-profit</option>
+        <option value="For-profit">For-profit</option>
+      </select><br><br>
+
+      7. If you are a for-profit organization, what is your annual revenue?<br>
+      <select  id="00N5C000004CE9u" name="00N5C000004CE9u" title="Annual Revenue (For-profit)">
+        <option value="">--None--</option>
+        <option value="&gt;1,000,000€">&gt;1,000,000€</option>
+        <option value="&lt;1,000,000€">&lt;1,000,000€</option>
+      </select><br><br>
+
+      <h2>Contact Information</h2>
+      <h5>Please include primary contact information<h5>
+      <label for="first_name">8. First Name</label><br>
+      <input  id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br><br>
+
+      <label for="last_name">9. Last Name</label><br>
+      <input  id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br><br>
+
+      <label for="email">10. Email</label><br>
+      <input  id="email" maxlength="80" name="email" size="20" type="text" /><br><br>
+
+      <label for="phone">11. Phone</label><br>
+      <input  id="phone" maxlength="40" name="phone" size="20" type="text" /><br><br>
+
+      <h2>Mailing Address</h2>
+      <label for="street">12. Street</label><br>
+      <textarea name="street"></textarea><br><br>
+
+      <label for="city">13. City</label><br>
+      <input  id="city" maxlength="40" name="city" size="20" type="text" /><br><br>
+
+      <label for="state">14. State/Province</label><br>
+      <input  id="state" maxlength="20" name="state" size="20" type="text" /><br><br>
+
+      <label for="zip">15. Zip/Postal Code</label><br>
+      <input  id="zip" maxlength="20" name="zip" size="20" type="text" /><br><br>
+
+      <label for="country">16. Country</label><br>
+      <input  id="country" maxlength="40" name="country" size="20" type="text" /><br><br>
+
+      <input type="submit" name="submit">
+    </form>
+  </div>
+</section>
