@@ -141,7 +141,28 @@ section h1 {
 }
 
 .svc-item {
-    margin-bottom: 30px;
+  border: 0;
+  margin-bottom: 0;
+
+  .stakeholderdescription {
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+  
+    h3 {
+      padding-left: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+  
+    h5 {
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+  }
 }
 
 .svc-item a:hover {
@@ -365,11 +386,10 @@ footer {
   }
 }
 
-.stakeholderdescription {
-  color: black;
-  padding-left: 30px;
-  padding-right: 30px;
-  word-wrap: break-word;
+.member-logo {
+  margin: 20px;
+  max-width: 100%;
+  height: auto;
 }
 
 .documentation {
@@ -378,7 +398,6 @@ footer {
   padding-right: 30px;
   text-align: left;
 }
-
 
 .sidebox {
   margin-top: 20px;

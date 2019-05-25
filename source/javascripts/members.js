@@ -72,30 +72,23 @@ function formatMembers(response) {
       image = '';
     }
     else {
-      image = '<img style=\"height:100px\" src=\"' + response.data[i].attributes.logoUrl + '\"/>';
+      image = '<img class="member-logo" src=\"' + response.data[i].attributes.logoUrl + '\"/>';
     }
 
     div.innerHTML +=
     '<div class=\"row thumbnail svc-item\">' +
-      '<div class="col-md-3">' +
+      '<div class="col-md-4">' +
         image +
       '</div>' +
-      '<div class="col-md-9 stakeholderdescription">' +
-        '<h3>' + title + '</h3>' +
-        '<div class=\"row\">' +
-          '<div class="col-md-2"><strong>Country:</strong> ' +
-            country +
-          '</div>' +
-          '<div class="col-md-3"><strong>Org Type:</strong> ' +
-            orgType +
-          '</div>' +
-          '<div class="col-md-3"><strong>Focus Area:</strong> ' +
-            area +
-          '</div>' +
-          '<div class="col-md-4"><strong>Website:</strong> ' +
-            website +
-          '</div>' +
-        '</div>' +
+      '<div class="col-md-8 stakeholderdescription">' +
+				'<h3>' + title + '</h3>' +
+				website +
+				'<h5>Country</h5>' +
+				country +
+				'<h5>Organization Type</h5>' +
+				orgType +
+				'<h5>Focus Area</h5>' +
+				area +
       '</div>' +
     '</div>'
     ;
