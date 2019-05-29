@@ -35,49 +35,49 @@ The Executive Director provides leadership and oversees DataCite’s day-to-day 
 
 #### Community leadership, advocacy, and public relations
 
-    1. Energize the community with a clear vision for DataCite and clear long-term goals for building services for research data communities 
+1. Energize the community with a clear vision for DataCite and clear long-term goals for building services for research data communities 
 
-    2. Enhance DataCite’s image by being active and visible in the research and infrastructure community and by working closely with and partnering with other organizations
+2. Enhance DataCite’s image by being active and visible in the research and infrastructure community and by working closely with and partnering with other organizations
 
-    3. Serve as chief liaison with DataCite membership
+3. Serve as chief liaison with DataCite membership
 
-    4. Ensure appropriate representation of DataCite by all employees
+4. Ensure appropriate representation of DataCite by all employees
 
-    5. Represent and coordinate representation of DataCite in the research community
+5. Represent and coordinate representation of DataCite in the research community
 
 #### Organizational leadership and management of the organization
 
-    6. Provide strong leadership within DataCite, while ensuring that all voices are heard
+6. Provide strong leadership within DataCite, while ensuring that all voices are heard
 
-    7. Develop and oversee the implementation of DataCite’s strategic plan, organizational goals, objectives, services, and programs in support of DataCite’s mission
+7. Develop and oversee the implementation of DataCite’s strategic plan, organizational goals, objectives, services, and programs in support of DataCite’s mission
 
-    8. Cultivate a strong, responsive, collaborative and accountable team and working environment
+8. Cultivate a strong, responsive, collaborative and accountable team and working environment
 
-    9. Oversee all activities related to staff, including 1) administer board-approved personnel policies; 2) ensure proper hiring and termination procedures, 3) oversee any and all disciplinary actions, 4) provide for adequate supervision and evaluation of all staff
+9. Oversee all activities related to staff, including 1) administer board-approved personnel policies; 2) ensure proper hiring and termination procedures, 3) oversee any and all disciplinary actions, 4) provide for adequate supervision and evaluation of all staff
 
 #### Financial Leadership
 
-    10. Develop and grow resources and diverse funding streams sufficient to ensure the financial health of the organization
+10. Develop and grow resources and diverse funding streams sufficient to ensure the financial health of the organization
 
-    11. Develop, recommend and monitor budgets including reporting to the board
+11. Develop, recommend and monitor budgets including reporting to the board
 
-    12. Provide for proper fiscal governance including approvals, benchmarking, reporting, and auditing
+12. Provide for proper fiscal governance including approvals, benchmarking, reporting, and auditing
 
-    13. Oversee business development and ensure compliance with funding sources and regulatory requirements
+13. Oversee business development and ensure compliance with funding sources and regulatory requirements
 
 #### Executive Board and DataCite Governance
 
-    14. Engage and communicate with DataCite members on their role in governing the organization
+14. Engage and communicate with DataCite members on their role in governing the organization
 
-    15. Assist the Executive Board President in planning the agenda and materials for board meetings
+15. Assist the Executive Board President in planning the agenda and materials for board meetings
 
-    16. Communicate effectively with the board and provide, in a timely and accurate manner, all information necessary for the board to function properly and to make informed decisions
+16. Communicate effectively with the board and provide, in a timely and accurate manner, all information necessary for the board to function properly and to make informed decisions
 
-    17. Initiate and assist in developing policy recommendations and priorities
+17. Initiate and assist in developing policy recommendations and priorities
 
-    18. Plan long-term strategies to ensure that DataCite can successfully fulfill its mission into the future
+18. Plan long-term strategies to ensure that DataCite can successfully fulfill its mission into the future
 
-    19. Facilitate the orientation of new board members
+19. Facilitate the orientation of new board members
 
 The Executive Director reports to DataCite’s Executive Board. The staff includes 9 full-time employees. The following positions report to the Executive Director: Communications Director, Technical Director, Business Manager, and Product Manager. The remaining staff includes a Member Support Manager, a senior application Developer, and two mid-level application Developers. 
 
