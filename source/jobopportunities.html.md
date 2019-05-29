@@ -137,4 +137,4 @@ An ideal candidate for this position will share a DataCite commitment to providi
 
 Commensurate with experience
 
-Submit CV and statement of interest to John Chodacki (DataCite Executive Board President) at [board.president@datacite.org](mailto:board.president@datacite.org).  Applications will be considered beginning July 1, 2019.  
+Submit CV and statement of interest, and three references to John Chodacki (DataCite Executive Board President) at [board.president@datacite.org](mailto:board.president@datacite.org).  Applications will be considered beginning July 1, 2019.  
