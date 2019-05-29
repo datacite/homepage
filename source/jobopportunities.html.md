@@ -9,7 +9,7 @@ DataCite is seeking a dynamic, innovative, and entrepreneurial Executive Directo
 
 ## About DataCite
 
-DataCite is a leading global non-profit organization that provides persistent identifiers (DOIs) and services that enable the research community to identify, locate, access, connect, and cite research data with confidence. Our mix of programs and services are built on a robust infrastructure, user-facing services, and an engaged and informed community. DataCite is committed to openness. DataCite’s strength is rooted in its active membership which includes members from a diverse set of government, academic, non-profit and for-profit organizations. DataCite is governed by its members and a 12-member Executive Board. The current staff includes 9 full-time staff including leaders in the fields of data sharing, data citation, and networked research. More information about DataCite may be found at [https://datacite.org/](https://datacite.org/)
+DataCite is a leading global non-profit organization that provides persistent identifiers (DOIs) and services that enable the research community to identify, locate, access, connect, and cite research data with confidence. Our mix of programs and services are built on a robust infrastructure, user-facing services, and an engaged and informed community. DataCite is committed to openness. DataCite’s strength is rooted in its active membership which includes members from a diverse set of government, academic, non-profit and for-profit organizations. DataCite is governed by its members and a 12-member Executive Board. The current staff includes 9 full-time staff including leaders in the fields of data sharing, data citation, and networked research. More information about DataCite may be found at [https://datacite.org/](https://datacite.org/).
 
 ## Location and travel
 
@@ -55,7 +55,7 @@ The Executive Director provides leadership and oversees DataCite’s day-to-day 
 
     9. Oversee all activities related to staff, including 1) administer board-approved personnel policies; 2) ensure proper hiring and termination procedures, 3) oversee any and all disciplinary actions, 4) provide for adequate supervision and evaluation of all staff
 
-3. **Financial Leadership **
+3. **Financial Leadership**
 
     10. Develop and grow resources and diverse funding streams sufficient to ensure the financial health of the organization
 
@@ -85,7 +85,7 @@ The Executive Director reports to DataCite’s Executive Board. The staff includ
 
 An ideal candidate for this position will share a DataCite commitment to providing the means to create, find, cite, connect, and use research data. The candidates will see the value in developing community-driven, innovative, open, integrated, useable, and sustainable services for research.
 
-### Requirements for the position include:
+#### Requirements for the position include:
 
 1. Demonstrated ability to manage a small, diverse, remote, non-profit team
 
@@ -115,7 +115,7 @@ An ideal candidate for this position will share a DataCite commitment to providi
 
 14. A recognized leader in the scholarly research community and able to demonstrate contributions to open science
 
-### The successful candidate will bring a variety of attributes to DataCite, including:
+#### The successful candidate will bring a variety of attributes to DataCite, including:
 
 1. Ability to think and act creatively to solve problems
 
@@ -133,7 +133,7 @@ An ideal candidate for this position will share a DataCite commitment to providi
 
 8. Ability to establish partnerships
 
-### Salary 
+#### Salary 
 
 Commensurate with experience
 
