@@ -31,9 +31,9 @@ The Executive Director, in strong collaboration with the board and the staff, le
 
 ## Key Responsibilities
 
-The Executive Director provides leadership and oversees DataCite’s day-to-day affairs by focusing on four key areas. 
+The Executive Director provides leadership and oversees DataCite’s day-to-day affairs by focusing on four key areas.
 
-1. **Community leadership, advocacy, and public relations**
+#### Community leadership, advocacy, and public relations
 
     1. Energize the community with a clear vision for DataCite and clear long-term goals for building services for research data communities 
 
@@ -45,7 +45,7 @@ The Executive Director provides leadership and oversees DataCite’s day-to-day 
 
     5. Represent and coordinate representation of DataCite in the research community
 
-2. **Organizational leadership and management of the organization**
+#### Organizational leadership and management of the organization
 
     6. Provide strong leadership within DataCite, while ensuring that all voices are heard
 
@@ -55,7 +55,7 @@ The Executive Director provides leadership and oversees DataCite’s day-to-day 
 
     9. Oversee all activities related to staff, including 1) administer board-approved personnel policies; 2) ensure proper hiring and termination procedures, 3) oversee any and all disciplinary actions, 4) provide for adequate supervision and evaluation of all staff
 
-3. **Financial Leadership**
+#### Financial Leadership
 
     10. Develop and grow resources and diverse funding streams sufficient to ensure the financial health of the organization
 
@@ -65,7 +65,7 @@ The Executive Director provides leadership and oversees DataCite’s day-to-day 
 
     13. Oversee business development and ensure compliance with funding sources and regulatory requirements
 
-4. **Executive Board and DataCite Governance**
+#### Executive Board and DataCite Governance
 
     14. Engage and communicate with DataCite members on their role in governing the organization
 
