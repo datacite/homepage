@@ -103,7 +103,7 @@ An ideal candidate for this position will share a DataCite commitment to providi
 
 8. Ability to think and act creatively to solve problems. Strong organizational abilities including planning, delegating, program development and task facilitation
 
-9. Demonstrated ability to convey a vision and lead an organization strategic future to staff, board, and members
+9. Demonstrated ability to convey a vision and lead an organization’s strategic future
 
 10. Demonstrated ability to bring diverse communities together
 
