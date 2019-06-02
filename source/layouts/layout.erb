@@ -28,12 +28,10 @@
 	  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <script src="//cdn.statuspage.io/se-v2.js"></script>
 
-    <% if ENV['BUGSNAG_JS_KEY'] %>
-	    <script
-	      src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js"
-	      data-apikey="<%= ENV['BUGSNAG_JS_KEY'] %>">
-	    </script>
-	  <% end %>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+		<script>
+		  function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
+		</script>
 
 		<script type="text/javascript">
 	    $(document).ready(function() {
