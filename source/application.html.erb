@@ -11,15 +11,19 @@ title: DataCite - Membership Application Form
 <section>
   <div class="container section-content">
     <form class="form-horizontal" action="https://cs62.lightning.force.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
-      <input type="hidden" name="oid" value="00D5C000000DIg8">
-      <input type="hidden" name="retURL" value="https://www.test.datacite.org/become.html">
+      
+      <!--
       <input type="hidden" name="captcha_settings" value='{"keyname":"GoogleCaptcha","fallback":"true","orgId":"00D1U0000010BGz","ts":""}'>
+      -->
+      
+      <input type="hidden" name="oid" value="00D5C000000DIg8">
+      <input type="hidden" name="retURL" value="https://www.test.datacite.org/">
       
       <!--  ----------------------------------------------------------------------  -->
       <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
       <!--  these lines if you wish to test in debug mode.                          -->
-      <input type="hidden" name="debug" value=1>                              -->
-      <input type="hidden" name="debugEmail" value="sean.canny@gmail.com">    -->
+      <!--  <input type="hidden" name="debug" value=1>                              -->
+      <!--  <input type="hidden" name="debugEmail" value="sean.canny@gmail.com">    -->
       <!--  ----------------------------------------------------------------------  -->
 
       <hr/>
@@ -148,10 +152,13 @@ title: DataCite - Membership Application Form
         </div>
       </div>
       
+      <!--
       <div class="col-sm-offset-4 col-sm-6">
         <div class="g-recaptcha" data-sitekey="6LeUeaYUAAAAAKVaEunr2eveTEZIMNE5gb3jNP5g"></div>
-        <br/>
-      </div>  
+        <br>
+      </div> 
+      -->
+  
       <div class="col-sm-offset-4 col-sm-6">
         <button type="submit" class="btn btn-primary">Submit</button>
       </div>
