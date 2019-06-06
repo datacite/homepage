@@ -5,6 +5,10 @@ layout: service
 
 # Upcoming DataCite Webinars 
 
+
+
+# Past Events
+
 ## MDC Spring Webinar - Wednesday, May 8, 2019 17:00 - 18:00 CET 
 
 Following advice from our workshop attendees at RDA13, we invite you to join us for our spring webinar.
@@ -22,9 +26,6 @@ the project. We will demo how you can contribute usage stats and citations and s
 these numbers with the community. There will also be plenty of time to discuss next steps. 
  
 To register for the webinar, click [here](https://zoom.us/webinar/register/WN_niyE8PoVTMWHj3x4x_RAlA)
-
-# Past Events
-
 
 ## Repository Implementation Webinar - Wednesday, March 26, 2019, 17:00-18.00 CET
 
