@@ -5,7 +5,16 @@ layout: service
 
 # Upcoming DataCite Webinars 
 
+## The DataCite PID Graph - Monday, June 24, 2019 17:00 - 18:00 CET 
 
+Persistent identifiers (PIDs) are not only important to uniquely identify a publication, dataset, or person, but the metadata
+for these persistent identifiers can provide unambiguous linking between persistent identifiers of the same type, e.g. journal
+articles citing other journal articles, or of different types, e.g. linking a researcher and the datasets they produced. Work
+is needed to connect existing persistent identifiers to each other in standardized ways, e.g. to the outputs associated with a
+particular researcher, repository, institution or funder, for discovery and impact assessment. Some of the more complex but
+still important use cases can’t be addressed by simply collecting and aggregating links between two persistent identifiers.
+
+To register for the webinar, click [here](https://zoom.us/webinar/register/WN_Jqnhbq6nRD6vIoNVjVhNWA)
 
 # Past Events
 
