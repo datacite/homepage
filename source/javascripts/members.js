@@ -1,7 +1,7 @@
 //= require "country_code"
 
 var xmlhttp = new XMLHttpRequest();
-var url = "https://api.datacite.org/providers?page[size]=250";
+var url = "https://api.datacite.org/providers?exclude-registration-agencies=true&page[size]=250";
 
 xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
