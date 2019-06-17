@@ -1,5 +1,20 @@
 <!DOCTYPE html>
-<html lang="en"> 
+<html lang="en">
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+<!--  If necessary, please modify the charset parameter to specify the        -->
+<!--  character set of your HTML page.                                        -->
+<!--  ----------------------------------------------------------------------  -->
+<head>
+ 
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+ function timestamp() { var response = document.getElementById("g-recaptcha-response"); if (response == null || response.value.trim() == "") {var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);elems["ts"] = JSON.stringify(new Date().getTime());document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems); } } setInterval(timestamp, 500); 
+</script>
+
+</head>
+
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <FORM> element to your page.             -->
 <!--  ----------------------------------------------------------------------  -->
@@ -55,5 +70,6 @@ Annual Revenue (For-profit):<select  id="00N5C000004CE9u" name="00N5C000004CE9u"
  
 <div class="g-recaptcha" data-sitekey="6LdA86YUAAAAAP2YePPFVdeoehoZxJhY1FZISljh"></div><br>
 <input type="submit" name="submit">
+
 </form>
 </html>
