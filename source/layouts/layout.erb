@@ -39,6 +39,25 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <script src="//cdn.statuspage.io/se-v2.js"></script>
 
+    <!--
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+      function timestamp() {
+        var response = document.getElementById("g-recaptcha-response");
+        if (response == null || response.value.trim() == "") {
+          var elems = JSON.parse(
+            document.getElementsByName("captcha_settings")[0].value
+          );
+          elems["ts"] = JSON.stringify(new Date().getTime());
+          document.getElementsByName(
+            "captcha_settings"
+          )[0].value = JSON.stringify(elems);
+        }
+      }
+      setInterval(timestamp, 500);
+    </script>
+    -->
+    
     <script type="text/javascript">
       $(document).ready(function() {
         var images = [
@@ -67,22 +86,5 @@
     <%= partial "includes/footer.html.erb" %> 
     <%= partial "includes/javascripts.html.erb" %>
     <%= partial "includes/google_analytics.html.erb" %>
-
-    <script src="https://www.google.com/recaptcha/api.js"></script>
-    <script>
-      function timestamp() {
-        var response = document.getElementById("g-recaptcha-response");
-        if (response == null || response.value.trim() == "") {
-          var elems = JSON.parse(
-            document.getElementsByName("captcha_settings")[0].value
-          );
-          elems["ts"] = JSON.stringify(new Date().getTime());
-          document.getElementsByName(
-            "captcha_settings"
-          )[0].value = JSON.stringify(elems);
-        }
-      }
-      setInterval(timestamp, 500);
-    </script>
   </body>
 </html>
