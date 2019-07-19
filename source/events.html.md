@@ -5,6 +5,9 @@ layout: service
 
 # Upcoming DataCite Webinars 
 
+
+# Past Events
+
 ## The DataCite PID Graph - Monday, June 24, 2019 17:00 - 18:00 CET 
 
 Persistent identifiers (PIDs) are not only important to uniquely identify a publication, dataset, or person, but the metadata
@@ -16,7 +19,6 @@ still important use cases can’t be addressed by simply collecting and aggregat
 
 To register for the webinar, click [here](https://zoom.us/webinar/register/WN_Jqnhbq6nRD6vIoNVjVhNWA)
 
-# Past Events
 
 ## MDC Spring Webinar - Wednesday, May 8, 2019 17:00 - 18:00 CET 
 
