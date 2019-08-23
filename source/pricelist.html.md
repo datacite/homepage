@@ -72,7 +72,7 @@ There are two different ways non-profit organizations can use DataCite’s DOI s
 
 A Direct Member is an organization that works with one or more repositories within the same administrative structure as the Direct Member. Each Direct Member pays an annual membership fee of 2000€ and DOI service fees based on the annual number of repositories and DOIs.
 
-<div class="section-img">
+<div class="section-img-small">
   ![](images/direct_member.png)
 </div>
 
