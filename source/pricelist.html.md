@@ -18,50 +18,50 @@ DataCite’s DOI Services are available to members for an additional service fee
 DOI Service Fees are based on the annual number of repositories and the total number of DOIs created annually. Organizations are charged a base rate of 500€ for 1 repository and 500€ for 10,000 DOIs.  Organizations are invoiced the following month for an increase in the number of repositories at a prorated rate.  For example, if a Direct Member or a Consortium Organization is currently registering DOIs for one repository and adds an additional repository, thus changing to the range 2-5 repositories, the organization will be charged a pro-rated fee starting at the 1st of the following month. Any overage in the number of DOIs will be billed the following year.
 
 <table class="table pricing">
-  <thead>
-    <tr>
-      <th colspan="2">Repositories</th>
-      <th colspan="2">DOIs (Digital Object Identifiers)</th>
-    </tr>
-    <tr>
-      <th>Ranges</th>
-      <th>Annual Fee</th>
-      <th>Ranges</th>
-      <th>Annual Fee</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td>0‐1</td>
-    <td>500€</td>
-    <td>0‐10,000</td>
-    <td>500€</td>
-  </tr>
-  <tr>
-    <td>2‐5</td>
-    <td>1,000€</td>
-    <td>10,001‐100,000</td>
-    <td>&gt; 2,000€</td>
-  </tr>
-  <tr>
-    <td>6‐10</td>
-    <td>3,000€</td>
-    <td>100,001 and up</td>
-    <td>3,000€</td>
-  </tr>
-  <tr>
-    <td>11‐50</td>
-    <td>6,000€</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>50 and up</td>
-    <td>10,000€</td>
-    <td></td>
-    <td></td>
-  </tr>
-  </tbody>
+<thead>
+<tr>
+<th colspan="2">Repositories</th>
+<th colspan="2">DOIs (Digital Object Identifiers)</th>
+</tr>
+<tr>
+<th>Ranges</th>
+<th>Annual Fee</th>
+<th>Ranges</th>
+<th>Annual Fee</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0‐1</td>
+<td>500€</td>
+<td>0‐10,000</td>
+<td>500€</td>
+</tr>
+<tr>
+<td>2‐5</td>
+<td>1,000€</td>
+<td>10,001‐100,000</td>
+<td>&gt; 2,000€</td>
+</tr>
+<tr>
+<td>6‐10</td>
+<td>3,000€</td>
+<td>100,001 and up</td>
+<td>3,000€</td>
+</tr>
+<tr>
+<td>11‐50</td>
+<td>6,000€</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50 and up</td>
+<td>10,000€</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
 </table>
 
 ## DOI Service Fees: Direct Member and Consortium Member
@@ -77,27 +77,27 @@ A Direct Member is an organization that works with one or more repositories with
 </div>
 
 <table class="table pricing">
-  <tr>
-    <th class="text-left" colspan="7">Example pricing: Direct Member with 3 repositories and 10,000 DOIs</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Membership Fee</td>
-    <td>Number of Repositories</td>
-    <td>Repository Fee</td>
-    <td>Number of DOIs /year</td>
-    <td>DOI Fee</td>
-    <td>Total Membership Fee and Service Fee</td>
-  </tr>
-  <tr>
-    <td>Direct Member Organization</td>
-    <td> 2000€</td>
-    <td>3</td>
-    <td> 1000€</td>
-    <td>10,000</td>
-    <td>500€</td>
-    <td> 3500€</td>
-  </tr>
+<tr>
+<th class="text-left" colspan="7">Example pricing: Direct Member with 3 repositories and 10,000 DOIs</th>
+</tr>
+<tr>
+<td></td>
+<td>Membership Fee</td>
+<td>Number of Repositories</td>
+<td>Repository Fee</td>
+<td>Number of DOIs /year</td>
+<td>DOI Fee</td>
+<td>Total Membership Fee and Service Fee</td>
+</tr>
+<tr>
+<td>Direct Member Organization</td>
+<td> 2000€</td>
+<td>3</td>
+<td> 1000€</td>
+<td>10,000</td>
+<td>500€</td>
+<td> 3500€</td>
+</tr>
 </table>
 
 ## Consortium Member
@@ -109,54 +109,54 @@ A consortium is a group of like-minded organizations that have come together to 
 </div>
 
 <table class="table pricing">
-  <tr>
-    <th colspan="7">Example pricing: four consortium organizations and a varied number of repositories and DOIs</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Membership Fee (split between organizations)</td>
-    <td>Number of Repositories</td>
-    <td>Repository Fee</td>
-    <td>Number of DOIs /year</td>
-    <td>DOI Fee</td>
-    <td>Total Membership Fee and Service Fee</td>
-  </tr>
-  <tr>
-    <td>Organization 1 (consortium lead)</td>
-    <td> 666€</td>
-    <td>2</td>
-    <td> 1000€</td>
-    <td>8,500</td>
-    <td> 500€</td>
-    <td> 2000€</td>
-  </tr>
-  <tr>
-    <td>Organization 2</td>
-    <td>666€</td>
-    <td>1</td>
-    <td> 500€</td>
-    <td>600</td>
-    <td>500€</td>
-    <td>1500€</td>
-  </tr>
-  <tr>
-    <td>Organization 3</td>
-    <td>666€</td>
-    <td>1</td>
-    <td> 500€</td>
-    <td>1,500</td>
-    <td> 500€</td>
-    <td>1500€</td>
-  </tr>
-  <tr>
-    <td>Totals</td>
-    <td>2000€</td>
-    <td></td>
-    <td> 2000€</td>
-    <td></td>
-    <td>1500€</td>
-    <td> 6500€</td>
-  </tr>
+<tr>
+<th colspan="7">Example pricing: four consortium organizations and a varied number of repositories and DOIs</th>
+</tr>
+<tr>
+<td></td>
+<td>Membership Fee (split between organizations)</td>
+<td>Number of Repositories</td>
+<td>Repository Fee</td>
+<td>Number of DOIs /year</td>
+<td>DOI Fee</td>
+<td>Total Membership Fee and Service Fee</td>
+</tr>
+<tr>
+<td>Organization 1 (consortium lead)</td>
+<td> 666€</td>
+<td>2</td>
+<td> 1000€</td>
+<td>8,500</td>
+<td> 500€</td>
+<td> 2000€</td>
+</tr>
+<tr>
+<td>Organization 2</td>
+<td>666€</td>
+<td>1</td>
+<td> 500€</td>
+<td>600</td>
+<td>500€</td>
+<td>1500€</td>
+</tr>
+<tr>
+<td>Organization 3</td>
+<td>666€</td>
+<td>1</td>
+<td> 500€</td>
+<td>1,500</td>
+<td> 500€</td>
+<td>1500€</td>
+</tr>
+<tr>
+<td>Totals</td>
+<td>2000€</td>
+<td></td>
+<td> 2000€</td>
+<td></td>
+<td>1500€</td>
+<td> 6500€</td>
+</tr>
 </table>
 
 ## For‐profit Organizations
