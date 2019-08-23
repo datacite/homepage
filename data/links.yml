@@ -108,6 +108,8 @@ resources_links:
    url: https://schema.datacite.org
  - name: Support
    url: https://support.datacite.org
+ - name: Price List
+   url: /pricelist.html
 community_links:
  - name: Members
    url: /members.html
