@@ -17,7 +17,8 @@ DataCite’s DOI Services are available to members for an additional service fee
 
 DOI Service Fees are based on the annual number of repositories and the total number of DOIs created annually. Organizations are charged a base rate of 500€ for 1 repository and 500€ for 10,000 DOIs.  Organizations are invoiced the following month for an increase in the number of repositories at a prorated rate.  For example, if a Direct Member or a Consortium Organization is currently registering DOIs for one repository and adds an additional repository, thus changing to the range 2-5 repositories, the organization will be charged a pro-rated fee starting at the 1st of the following month. Any overage in the number of DOIs will be billed the following year.
 
-`<table class="table pricing">
+```{=html}
+<table class="table pricing">
   <thead>
     <tr>
       <th colspan="2">Repositories</th>
@@ -62,7 +63,8 @@ DOI Service Fees are based on the annual number of repositories and the total nu
     <td></td>
   </tr>
   </tbody>
-</table>`{=html}
+</table>
+```
 
 ## DOI Service Fees: Direct Member and Consortium Member
 
@@ -76,7 +78,8 @@ A Direct Member is an organization that works with one or more repositories with
   ![](images/direct_member.png)
 </div>
 
-`<table class="table pricing">
+```{=html}
+<table class="table pricing">
   <tr>
     <th class="text-left" colspan="7">Example pricing: Direct Member with 3 repositories and 10,000 DOIs</th>
   </tr>
@@ -98,7 +101,8 @@ A Direct Member is an organization that works with one or more repositories with
     <td>500€</td>
     <td> 3500€</td>
   </tr>
-</table>`{=html}
+</table>
+```
 
 ## Consortium Member
 
@@ -108,7 +112,8 @@ A consortium is a group of like-minded organizations that have come together to 
   ![](images/consortium.png)
 </div>
 
-`<table class="table pricing">
+```{=html}
+<table class="table pricing">
   <tr>
     <th colspan="7">Example pricing: four consortium organizations and a varied number of repositories and DOIs</th>
   </tr>
@@ -157,13 +162,15 @@ A consortium is a group of like-minded organizations that have come together to 
     <td>1500€</td>
     <td> 6500€</td>
   </tr>
-</table>`{=html}
+</table>
+```
 
 ## For‐profit Organizations
 
 DOI Service Fees are based on the total annual revenue of the organization. The "Start‐up" category is for newly formed organizations and will be determined on a case-by-case basis.
 
-`<table class="table pricing">
+```{=html}
+<table class="table pricing">
   <tr>
     <th>Annual Revenue</th>
     <th>Annual Fee</th>
@@ -180,7 +187,8 @@ DOI Service Fees are based on the total annual revenue of the organization. The 
     <td>&gt; 1,000,000€</td>
     <td>15,000€</td>
   </tr>
-</table>`{=html}
+</table>
+```
 
 ## Payment Methods and Billing Cycle
 
