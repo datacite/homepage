@@ -17,6 +17,7 @@ DataCite’s DOI Services are available to members for an additional service fee
 
 DOI Service Fees are based on the annual number of repositories and the total number of DOIs created annually. Organizations are charged a base rate of 500€ for 1 repository and 500€ for 10,000 DOIs.  Organizations are invoiced the following month for an increase in the number of repositories at a prorated rate.  For example, if a Direct Member or a Consortium Organization is currently registering DOIs for one repository and adds an additional repository, thus changing to the range 2-5 repositories, the organization will be charged a pro-rated fee starting at the 1st of the following month. Any overage in the number of DOIs will be billed the following year.
 
+<div>
 <table class="table pricing">
   <thead>
     <tr>
@@ -63,6 +64,7 @@ DOI Service Fees are based on the annual number of repositories and the total nu
   </tr>
   </tbody>
 </table>
+</div>
 
 ## DOI Service Fees: Direct Member and Consortium Member
 
