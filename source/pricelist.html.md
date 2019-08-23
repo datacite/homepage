@@ -164,24 +164,23 @@ A consortium is a group of like-minded organizations that have come together to 
 DOI Service Fees are based on the total annual revenue of the organization. The "Start‐up" category is for newly formed organizations and will be determined on a case-by-case basis.
 
 <table class="table pricing">
-  <tr>
-    <th>Annual Revenue</th>
-    <th>Annual Fee</th>
-  </tr>
-  <tr>
-    <td>Start-up</td>
-    <td>1,500€</td>
-  </tr>
-  <tr>
-    <td>&lt; 1,000,000€</td>
-    <td>5,000€</td>
-  </tr>
-  <tr>
-    <td>&gt; 1,000,000€</td>
-    <td>15,000€</td>
-  </tr>
+<tr>
+<th>Annual Revenue</th>
+<th>Annual Fee</th>
+</tr>
+<tr>
+<td>Start-up</td>
+<td>1,500€</td>
+</tr>
+<tr>
+<td>&lt; 1,000,000€</td>
+<td>5,000€</td>
+</tr>
+<tr>
+<td>&gt; 1,000,000€</td>
+<td>15,000€</td>
+</tr>
 </table>
-```
 
 ## Payment Methods and Billing Cycle
 
