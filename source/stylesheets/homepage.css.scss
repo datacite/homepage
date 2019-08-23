@@ -331,6 +331,10 @@ footer {
   padding-bottom: 20px;
 }
 
+.section-img p img {
+  width: 750px;
+}
+
 .facets {
   color: $darker-gray;
   font-size: 1em;
@@ -458,6 +462,16 @@ table {
 table.board {
 	width: 90%;
   margin-left: 10px;
+}
+
+table.pricing {
+	width: 90%;
+  margin-left: 50px;
+
+  th {
+    font-size: 16px;
+    width: 25%;
+  }
 }
 
 @media(max-width:768px) {
