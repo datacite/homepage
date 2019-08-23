@@ -23,9 +23,9 @@ before_install:
       AUTO_DEPLOY=false;
     fi
 
-  - wget https://github.com/jgm/pandoc/releases/download/1.15.2/pandoc-1.15.2-1-amd64.deb
-  - sudo dpkg -i pandoc-1.15.2-1-amd64.deb
-  - rm pandoc-1.15.2-1-amd64.deb
+  - wget https://github.com/jgm/pandoc/releases/download/1.17.0.2/pandoc-1.17.0.2-1-amd64.deb
+  - sudo dpkg -i pandoc-1.17.0.2-amd64.deb
+  - rm pandoc-1.17.0.2-amd64.deb
 
 install:
   - bundle install
