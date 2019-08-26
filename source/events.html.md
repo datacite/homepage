@@ -17,9 +17,6 @@ is needed to connect existing persistent identifiers to each other in standardiz
 particular researcher, repository, institution or funder, for discovery and impact assessment. Some of the more complex but
 still important use cases can’t be addressed by simply collecting and aggregating links between two persistent identifiers.
 
-To register for the webinar, click [here](https://zoom.us/webinar/register/WN_Jqnhbq6nRD6vIoNVjVhNWA)
-
-
 ## MDC Spring Webinar - Wednesday, May 8, 2019 17:00 - 18:00 CET 
 
 Following advice from our workshop attendees at RDA13, we invite you to join us for our spring webinar.
@@ -27,16 +24,12 @@ Join us on May 8th at 8am PST/3pm GMT as we demo our new aggregation services at
 intended to spotlight the features and services we can build off of our central infrastructure such as aggregated usage and
 citations. This webinar will be recorded and posted on our website.
 
-To register for the webinar, click [here](https://dataone.zoom.us/webinar/register/WN_9kLWw9AJT3G85qLxi_GSRg)
-
 ## After Make Data Count: the building blocks of data metrics - Wednesday, May 28, 2019 17:00 - 18:00 CET 
 
 During the last 2 years a lot of work took place within the Make Data Count project to take the first steps towards data
 metrics. Now that MDC has come to an end, we would like to show you what infrastructure DataCite has available as a result of
 the project. We will demo how you can contribute usage stats and citations and show the different ways in which we're sharing
 these numbers with the community. There will also be plenty of time to discuss next steps. 
- 
-To register for the webinar, click [here](https://zoom.us/webinar/register/WN_niyE8PoVTMWHj3x4x_RAlA)
 
 ## Repository Implementation Webinar - Wednesday, March 26, 2019, 17:00-18.00 CET
 
@@ -46,8 +39,6 @@ that have implemented or are about to release standardized data metrics: Dataver
 each repository on their implementation process. This recorded discussion between our technical team and repositories,
 providing various perspectives of implementation, should be a helpful guidance for any repository interested in
 implementing!
-
-To register for the webinar, fill out this [form](https://ucop.zoom.us/meeting/regist/4f6fe43b065ba682dc2040ba88984b7b).
 
 ## Google Dataset Search - Wednesday, November 28, 2018, 17:00-18:00 CET
 
