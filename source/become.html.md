@@ -23,8 +23,6 @@ As a [DataCite member](/members.html), organizations show their support for rese
 
 # Types of Membership
 
-There are three types of DataCite membership: 1) Member-only, 2) Direct Member, and 3) Consortium Member. 
-
 ## 1) Member-only
 
 This type of member supports DataCite’s data sharing mission and wants to collaborate with DataCite and/or be part of DataCite’s governance. These members do not register DOIs.
