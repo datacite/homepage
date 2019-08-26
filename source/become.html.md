@@ -11,15 +11,15 @@ We invite members from all types of organizations – including academic institu
 
 As a [DataCite member](/members.html), organizations show their support for research data sharing in the following manner:
 
-- demonstrating an elevated level of commitment to open data and open research. 
+- They demonstrate an elevated level of commitment to open data and open research.
 
-- becoming part of a global data-sharing community, learning, collaborating, and advocating with a leading-edge network of data research experts. 
+- They become part of a global data-sharing community, learning, collaborating, and advocating with a leading-edge network of data research experts. 
 
-- supporting and participating in the creation and management of persistent identifiers (DOIs) for research outputs. 
+- They support and participate in the creation and management of persistent identifiers (DOIs) for research outputs. 
 
-- playing a critical role in advancing DataCite’s data-sharing mission through their financial support. 
+- They play a critical role in advancing DataCite’s data-sharing mission through their financial support. 
 
--  helping to shape the future DataCite – and data research in general – by serving on our Executive Board or DataCite steering groups.
+- They help to shape the future DataCite – and data research in general – by serving on our Executive Board or DataCite steering groups.
 
 # Types of Membership
 
