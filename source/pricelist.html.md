@@ -5,13 +5,13 @@ layout: service
 
 # Membership Fees
 
-DataCite's strength is rooted in its active membership. Our global community of like-minded members includes data centers, libraries, government agencies, research institutions and more. Members are the voting body of the organization and establish our vision and strategy, set our fee structure, and vote or stand for our Executive Board. Membership is open to all organizations that share our research sharing mission. Membership fees support DataCite’s goal of making all research outputs a critical component of the research landscape.
+DataCite's strength is rooted in its active membership. Our global community of like-minded Members includes data centers, libraries, government agencies, research institutions and more. Members are the voting body of the organization and establish our vision and strategy, set our fee structure, and vote or stand for our Executive Board. Membership is open to all organizations that share our research sharing mission. Membership fees support DataCite’s goal of making all research outputs a critical component of the research landscape.
 
 <div class="row text-center">***Annual Membership Fee: 2000 euros***</div>
 
 # DOI Service Fees
 
-DataCite’s DOI Services are available to members for an additional service fee. Our robust infrastructure provides a simple and effective method of DOI creation and management thereby enabling discovery, access, sharing, tracking, and citation. DataCite’s user-facing services -- indexed content, help-desk, support site, and a metadata schema –support a range of diverse content types (data, text, images, software, workflows, and more).
+DataCite’s DOI Services are available to Members for an additional service fee. Our robust infrastructure provides a simple and effective method of DOI creation and management thereby enabling discovery, access, sharing, tracking, and citation. DataCite’s user-facing services -- indexed content, help-desk, support site, and a metadata schema –support a range of diverse content types (data, text, images, software, workflows, and more).
 
 ## DOI Service Fees for Non‐profit Organizations
 
