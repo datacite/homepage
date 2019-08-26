@@ -57,7 +57,7 @@ The repository information provided will be used and displayed throughout DataCi
 
 * [Membership FAQ](https://support.datacite.org/docs/general)
 
-* [Member roles and responsibilities](https://drive.google.com/drive/u/0/folders/1gV_0FJw_gJhbevjUG8GIdhj7jTA4FHYg)
+* [Member roles and responsibilities](/assets/MemberRolesResponsibilities.pdf)
 
 # How to join DataCite ?
 
