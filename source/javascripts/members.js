@@ -54,12 +54,16 @@ function formatMembers(response) {
       area = humanize(response.data[i].attributes.focusArea);
     }
 
-    if (response.data[i].attributes.name == null){
-      title = '-';
+    if (response.data[i].attributes.displayName != null){
+      title = response.data[i].attributes.displayName;
     }
-    else {
+    else if(response.data[i].attributes.name != null){
       title = response.data[i].attributes.name;
     }
+    else {
+      title = '-';
+    }
+    
 
     if (response.data[i].attributes.website == null){
       website = 'Website N/A';
