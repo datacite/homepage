@@ -38,7 +38,8 @@
     <script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <script src="//cdn.statuspage.io/se-v2.js"></script>
-
+		<script src="https://unpkg.com/vue"></script> 
+		<script src="https://unpkg.com/datacite-footer/dist/datacite-footer.min.js"></script>
     <script src="https://www.google.com/recaptcha/api.js"></script>
     <script>
       function timestamp() {
@@ -81,8 +82,8 @@
   <body>
     <%= partial "includes/header.html.erb" %> 
     <%= yield %> 
-    <%= partial "includes/footer.html.erb" %> 
     <%= partial "includes/javascripts.html.erb" %>
     <%= partial "includes/google_analytics.html.erb" %>
+		<datacite-footer></datacite-footer>
   </body>
 </html>
