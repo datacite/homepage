@@ -41,7 +41,7 @@ DOI Service Fees are based on the annual number of repositories and the total nu
 <td>2‐5</td>
 <td>1,000€</td>
 <td>10,001‐100,000</td>
-<td>&gt; 2,000€</td>
+<td>2,000€</td>
 </tr>
 <tr>
 <td>6‐10</td>
@@ -128,7 +128,7 @@ A consortium is a group of like-minded organizations that have come together to 
 <td> 1000€</td>
 <td>8,500</td>
 <td> 500€</td>
-<td> 2000€</td>
+<td> 2166€</td>
 </tr>
 <tr>
 <td>Organization 2</td>
@@ -137,7 +137,7 @@ A consortium is a group of like-minded organizations that have come together to 
 <td> 500€</td>
 <td>600</td>
 <td>500€</td>
-<td>1500€</td>
+<td>1666€</td>
 </tr>
 <tr>
 <td>Organization 3</td>
@@ -146,7 +146,7 @@ A consortium is a group of like-minded organizations that have come together to 
 <td> 500€</td>
 <td>1,500</td>
 <td> 500€</td>
-<td>1500€</td>
+<td>1666€</td>
 </tr>
 <tr>
 <td>Totals</td>
@@ -155,7 +155,7 @@ A consortium is a group of like-minded organizations that have come together to 
 <td> 2000€</td>
 <td></td>
 <td>1500€</td>
-<td> 6500€</td>
+<td> 5500€</td>
 </tr>
 </table>
 
