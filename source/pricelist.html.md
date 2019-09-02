@@ -110,7 +110,7 @@ A consortium is a group of like-minded organizations that have come together to 
 
 <table class="table pricing">
 <tr>
-<th colspan="7">Example pricing: four consortium organizations and a varied number of repositories and DOIs</th>
+<th colspan="7">Example pricing: three consortium organizations and a varied number of repositories and DOIs</th>
 </tr>
 <tr>
 <td></td>
