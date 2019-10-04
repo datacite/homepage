@@ -61,10 +61,8 @@ The repository information provided will be used and displayed throughout DataCi
 
 # How to join DataCite ?
 
-If you are interested in a DataCite membership please fill out the application form and the Member profile, and contact us at [support@datacite.org](mailto:support@datacite.org).
+If you are interested in a DataCite membership please fill out the application form and DataCite staff (reachable via [support@datacite.org](mailto:support@datacite.org)) will be in touch with you.
 
-- [Application form](/assets/datacite_application.pdf) 
-
-- [Member profile form](/assets/datacite_profile.pdf) 
+- [Application form](/application.html) 
 
 - [DataCite Statutes](/documents/statutes.html)
