@@ -2,7 +2,7 @@
 title: DataCite - Job opportunities
 layout: service
 ---
-# Outreach Manager Germany
+# Outreach Manager: Germany (COREF and ORCID-DE projects)
 
 ### Job description
 
