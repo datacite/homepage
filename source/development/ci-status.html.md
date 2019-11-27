@@ -53,6 +53,9 @@ DataCite uses the [Travis CI](https://travis-ci.org/) [continuous integration](h
 #### [Schnauzer](https://github.com/datacite/schnauzer)
 [![Build Status](https://travis-ci.org/datacite/schnauzer.svg?branch=master)](https://travis-ci.org/datacite/schnauzer) [![Maintainability](https://api.codeclimate.com/v1/badges/4032e94f759b56d71885/maintainability)](https://codeclimate.com/github/datacite/schnauzer/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/4032e94f759b56d71885/test_coverage)](https://codeclimate.com/github/datacite/schnauzer/test_coverage)
 
+#### [Sashimi](https://github.com/datacite/sashimi)
+[![Build Status](https://travis-ci.org/datacite/sashimi.svg?branch=master)](https://travis-ci.org/datacite/sashimi) [![Maintainability](https://api.codeclimate.com/v1/badges/a0d15834af2cdc24e22f/maintainability)](https://codeclimate.com/github/datacite/sashimi/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a0d15834af2cdc24e22f/test_coverage)](https://codeclimate.com/github/datacite/sashimi/test_coverage)
+
 #### [Spinone](https://github.com/datacite/spinone)
 [![Build Status](https://travis-ci.org/datacite/spinone.svg?branch=master)](https://travis-ci.org/datacite/spinone) [![Maintainability](https://api.codeclimate.com/v1/badges/5b402959e44ca945cb73/maintainability)](https://codeclimate.com/github/datacite/spinone/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/5b402959e44ca945cb73/test_coverage)](https://codeclimate.com/github/datacite/spinone/test_coverage)
 
