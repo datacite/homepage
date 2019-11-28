@@ -82,6 +82,9 @@ DataCite uses the [Travis CI](https://travis-ci.org/) [continuous integration](h
 #### [Maremma](https://github.com/datacite/maremma)
 [![Build Status](https://travis-ci.org/datacite/maremma.svg?branch=master)](https://travis-ci.org/datacite/maremma) [![Gem Version](https://badge.fury.io/rb/maremma.svg)](https://badge.fury.io/rb/maremma)  [![Maintainability](https://api.codeclimate.com/v1/badges/dddd95f9f6f354b7af93/maintainability)](https://codeclimate.com/github/datacite/lupo/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/5472f0aa3ea85effb47a/test_coverage)](https://codeclimate.com/github/datacite/maremma/test_coverage)
 
+#### [anvl-converter](https://github.com/datacite/anvl-converter)
+[![Gem Version](https://badge.fury.io/rb/anvl-converter.svg)](https://badge.fury.io/rb/anvl-converter) [![Build Status](https://travis-ci.org/datacite/anvl-converter.svg?branch=master)](https://travis-ci.org/datacite/anvl-converter) [![Maintainability](https://api.codeclimate.com/v1/badges/24b09e147fe522875d4c/maintainability)](https://codeclimate.com/github/datacite/anvl-converter/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/24b09e147fe522875d4c/test_coverage)](https://codeclimate.com/github/datacite/anvl-converter/test_coverage)
+
 #### [Omniauth-globus](https://github.com/datacite/omniauth-globus)
 [![Build Status](https://travis-ci.com/datacite/omniauth-globus.svg?branch=master)](https://travis-ci.com/datacite/omniauth-globus)
 [![Gem Version](https://badge.fury.io/rb/omniauth-globus.svg)](https://badge.fury.io/rb/omniauth-globus)
