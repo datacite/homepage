@@ -67,41 +67,41 @@ DataCite uses the [Travis CI](https://travis-ci.org/) [continuous integration](h
 
 ### Rubygems
 
-#### [Bergamasco](https://github.com/datacite/bergamasco)
+#### [anvl-converter](https://github.com/datacite/anvl-converter)
+[![Gem Version](https://badge.fury.io/rb/anvl-converter.svg)](https://badge.fury.io/rb/anvl-converter) [![Build Status](https://travis-ci.org/datacite/anvl-converter.svg?branch=master)](https://travis-ci.org/datacite/anvl-converter) [![Maintainability](https://api.codeclimate.com/v1/badges/24b09e147fe522875d4c/maintainability)](https://codeclimate.com/github/datacite/anvl-converter/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/24b09e147fe522875d4c/test_coverage)](https://codeclimate.com/github/datacite/anvl-converter/test_coverage)
+
+#### [bergamasco](https://github.com/datacite/bergamasco)
 [![Build Status](https://travis-ci.org/datacite/bergamasco.svg?branch=master)](https://travis-ci.org/datacite/bergamasco) [![Gem Version](https://badge.fury.io/rb/bergamasco.svg)](https://badge.fury.io/rb/bergamasco)
 
-#### [Bolognese](https://github.com/datacite/bolognese)
+#### [bolognese](https://github.com/datacite/bolognese)
 [![Build Status](https://travis-ci.org/datacite/bolognese.svg?branch=master)](https://travis-ci.org/datacite/bolognese) [![Gem Version](https://badge.fury.io/rb/bolognese.svg)](https://badge.fury.io/rb/bolognese) [![Maintainability](https://api.codeclimate.com/v1/badges/ae69165425ba32854679/maintainability)](https://codeclimate.com/github/datacite/bolognese/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/ae69165425ba32854679/test_coverage)](https://codeclimate.com/github/datacite/bolognese/test_coverage)
 
-#### [Cirneco](https://github.com/datacite/cirneco)
+#### [cirneco](https://github.com/datacite/cirneco)
 [![Build Status](https://travis-ci.org/datacite/cirneco.svg?branch=master)](https://travis-ci.org/datacite/cirneco) [![Gem Version](https://badge.fury.io/rb/cirneco.svg)](https://badge.fury.io/rb/cirneco) [![Maintainability](https://api.codeclimate.com/v1/badges/cbfe1a7cfd8a68d12118/maintainability)](https://codeclimate.com/github/datacite/cirneco/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/cbfe1a7cfd8a68d12118/test_coverage)](https://codeclimate.com/github/datacite/cirneco/test_coverage)
 
 #### [lita-docker-hub](https://github.com/datacite/lita-docker-hub)
 [![Build Status](https://travis-ci.org/datacite/lita-docker-hub.svg?branch=master)](https://travis-ci.org/datacite/lita-docker-hub) [![Gem Version](https://badge.fury.io/rb/lita-docker-hub.svg)](https://badge.fury.io/rb/lita-docker-hub)
 
-#### [Maremma](https://github.com/datacite/maremma)
+#### [maremma](https://github.com/datacite/maremma)
 [![Build Status](https://travis-ci.org/datacite/maremma.svg?branch=master)](https://travis-ci.org/datacite/maremma) [![Gem Version](https://badge.fury.io/rb/maremma.svg)](https://badge.fury.io/rb/maremma)  [![Maintainability](https://api.codeclimate.com/v1/badges/dddd95f9f6f354b7af93/maintainability)](https://codeclimate.com/github/datacite/lupo/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/5472f0aa3ea85effb47a/test_coverage)](https://codeclimate.com/github/datacite/maremma/test_coverage)
 
-#### [anvl-converter](https://github.com/datacite/anvl-converter)
-[![Gem Version](https://badge.fury.io/rb/anvl-converter.svg)](https://badge.fury.io/rb/anvl-converter) [![Build Status](https://travis-ci.org/datacite/anvl-converter.svg?branch=master)](https://travis-ci.org/datacite/anvl-converter) [![Maintainability](https://api.codeclimate.com/v1/badges/24b09e147fe522875d4c/maintainability)](https://codeclimate.com/github/datacite/anvl-converter/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/24b09e147fe522875d4c/test_coverage)](https://codeclimate.com/github/datacite/anvl-converter/test_coverage)
-
-#### [Omniauth-globus](https://github.com/datacite/omniauth-globus)
+#### [omniauth-globus](https://github.com/datacite/omniauth-globus)
 [![Build Status](https://travis-ci.com/datacite/omniauth-globus.svg?branch=master)](https://travis-ci.com/datacite/omniauth-globus)
 [![Gem Version](https://badge.fury.io/rb/omniauth-globus.svg)](https://badge.fury.io/rb/omniauth-globus)
 [![Maintainability](https://api.codeclimate.com/v1/badges/13f9467872e9a688e9cb/maintainability)](https://codeclimate.com/github/datacite/omniauth-globus/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/13f9467872e9a688e9cb/test_coverage)](https://codeclimate.com/github/datacite/omniauth-globus/test_coverage)
 
-#### [Omniauth-orcid](https://github.com/datacite/omniauth-orcid)
+#### [omniauth-orcid](https://github.com/datacite/omniauth-orcid)
 [![Build Status](https://travis-ci.org/datacite/omniauth-orcid.svg?branch=master)](https://travis-ci.org/datacite/omniauth-orcid)  [![Gem Version](https://badge.fury.io/rb/omniauth-orcid.svg)](https://badge.fury.io/rb/omniauth-orcid)  [![Maintainability](https://api.codeclimate.com/v1/badges/2d1bf6c89c50378bdc3b/maintainability)](https://codeclimate.com/github/datacite/omniauth-orcid/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/2d1bf6c89c50378bdc3b/test_coverage)](https://codeclimate.com/github/datacite/omniauth-orcid/test_coverage)
 
-#### [Orcid_client](https://github.com/datacite/orcid_client)
+#### [orcid_client](https://github.com/datacite/orcid_client)
 [![Build Status](https://travis-ci.org/datacite/orcid_client.svg?branch=master)](https://travis-ci.org/datacite/orcid_client) [![Gem Version](https://badge.fury.io/rb/orcid_client.svg)](https://badge.fury.io/rb/orcid_client)  [![Maintainability](https://api.codeclimate.com/v1/badges/a56103deb5b3182801a8/maintainability)](https://codeclimate.com/github/datacite/orcid_client/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/a56103deb5b3182801a8/test_coverage)](https://codeclimate.com/github/datacite/orcid_client/test_coverage)
 
-#### [Toccatore](https://github.com/datacite/toccatore)
+#### [toccatore](https://github.com/datacite/toccatore)
 [![Build Status](https://travis-ci.org/datacite/toccatore.svg?branch=master)](https://travis-ci.org/datacite/toccatore) [![Gem Version](https://badge.fury.io/rb/toccatore.svg)](https://badge.fury.io/rb/toccatore)
 [![Maintainability](https://api.codeclimate.com/v1/badges/32424721881c5f2d3942/maintainability)](https://codeclimate.com/github/datacite/toccatore/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/32424721881c5f2d3942/test_coverage)](https://codeclimate.com/github/datacite/toccatore/test_coverage)
 
 ### NPM Packages
 
-#### [Mastiff](https://github.com/datacite/mastiff)
+#### [mastiff](https://github.com/datacite/mastiff)
 [![npm version](https://badge.fury.io/js/%40datacite%2Fmastiff.svg)](https://badge.fury.io/js/%40datacite%2Fmastiff)
