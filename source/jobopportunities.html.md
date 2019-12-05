@@ -39,7 +39,7 @@ In this role, you would be the main point of contact within these two projects. 
 * Occasional travel could be part of the job
 
 
-This is a fixed-term contract for 3 years.
+This is a fixed-term contract for 3 years.The remuneration is based on pay scale group 13 TV-L
 
 
 ### To apply
