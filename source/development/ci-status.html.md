@@ -82,6 +82,11 @@ DataCite uses the [Travis CI](https://travis-ci.org/) [continuous integration](h
 #### [lita-docker-hub](https://github.com/datacite/lita-docker-hub)
 [![Build Status](https://travis-ci.org/datacite/lita-docker-hub.svg?branch=master)](https://travis-ci.org/datacite/lita-docker-hub) [![Gem Version](https://badge.fury.io/rb/lita-docker-hub.svg)](https://badge.fury.io/rb/lita-docker-hub)
 
+#### [maltese](https://github.com/datacite/maltese)
+[![Build Status](https://travis-ci.org/datacite/maltese.svg?branch=master)](https://travis-ci.org/datacite/maltese)
+[![Code Climate](https://codeclimate.com/github/datacite/maltese/badges/gpa.svg)](https://codeclimate.com/github/datacite/maltese)
+[![Test Coverage](https://codeclimate.com/github/datacite/maltese/badges/coverage.svg)](https://codeclimate.com/github/datacite/maltese/coverage)
+
 #### [maremma](https://github.com/datacite/maremma)
 [![Build Status](https://travis-ci.org/datacite/maremma.svg?branch=master)](https://travis-ci.org/datacite/maremma) [![Gem Version](https://badge.fury.io/rb/maremma.svg)](https://badge.fury.io/rb/maremma)  [![Maintainability](https://api.codeclimate.com/v1/badges/dddd95f9f6f354b7af93/maintainability)](https://codeclimate.com/github/datacite/lupo/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/5472f0aa3ea85effb47a/test_coverage)](https://codeclimate.com/github/datacite/maremma/test_coverage)
 
