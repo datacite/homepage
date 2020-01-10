@@ -42,7 +42,7 @@ DataCite uses the [Travis CI](https://travis-ci.org/) [continuous integration](h
 [![Build Status](https://travis-ci.org/crosscite/doi-metadata-search.svg)](https://travis-ci.org/crosscite/doi-metadata-search) [![Maintainability](https://api.codeclimate.com/v1/badges/69aca8f548125bd813f3/maintainability)](https://codeclimate.com/github/crosscite/doi-metadata-search/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/69aca8f548125bd813f3/test_coverage)](https://codeclimate.com/github/crosscite/doi-metadata-search/test_coverage)
 
 #### [Levriero](https://github.com/datacite/levriero)
-[![Build Status](https://travis-ci.org/datacite/levriero.svg?branch=master)](https://travis-ci.org/datacite/levriero) [![Code Climate](https://codeclimate.com/github/datacite/levriero/badges/gpa.svg)](https://codeclimate.com/github/datacite/levriero) [![Test Coverage](https://codeclimate.com/github/datacite/levriero/badges/coverage.svg)](https://codeclimate.com/github/datacite/levriero/coverage)
+[![Build Status](https://travis-ci.org/datacite/levriero.svg?branch=master)](https://travis-ci.org/datacite/levriero) [![Code Climate](https://codeclimate.com/github/datacite/levriero/badges/gpa.svg)](https://codeclimate.com/github/datacite/levriero)
 
 #### [Lupo](https://github.com/datacite/lupo)
 [![Build Status](https://travis-ci.org/datacite/lupo.svg?branch=master)](https://travis-ci.org/datacite/lupo) [![Maintainability](https://api.codeclimate.com/v1/badges/dddd95f9f6f354b7af93/maintainability)](https://codeclimate.com/github/datacite/lupo/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/dddd95f9f6f354b7af93/test_coverage)](https://codeclimate.com/github/datacite/lupo/test_coverage)
