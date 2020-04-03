@@ -57,7 +57,7 @@ Fabrica is DataCite’s service used by DataCite members to create and assign DO
 
 ### Support Site 
 
-DataCite maintains a [support site](https://support.datacite.org/) to help the DataCite community understand and use our services. All of DataCite’s support content is on readme.io platform. readme.io fully [complies](https://readme.io/gdpr/) with current privacy regulations.
+DataCite maintains a [support site](https://support.datacite.org/) to help the DataCite community understand and use our services. All of DataCite’s support content is on readme.io platform. readme.io fully [complies](https://readme.com/gdpr) with current privacy regulations.
 
 
 ### DataCite’s Metadata and Identifiers
