@@ -88,7 +88,7 @@ A Direct Member is an organization that works with one or more repositories with
 
 A consortium is a group of like-minded organizations that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. A consortium is composed of two or more non-profit organizations that are under different administrative structures. Each consortium pays a single annual membership fee totaling 2000 euros – the membership fee is often split between organizations within the consortium. Each organization within the consortium pays the organization fee and the DOI fee. One organization within the consortium is designated the consortium lead and fulfills a range of responsibilities.
 
-Consortium fee caps
+###    Consortium fee caps
 
 In order to support growing consortia and the adoption within communities, the total consortium service fee (organization + DOI fee) is capped based on the number of organizations. The total cap is calculated based on the total number of organizations within the consortium:
 
@@ -112,9 +112,6 @@ DOI Service Fees are based on the total annual revenue of the organization. The 
 <tr>
 <th>Annual Revenue</th>
 <th>Annual Fee</th>
-<th>Organization Fee</th>
-<th>DOI Fee</th>
-<th>Annual service fee per organization</th>
 </tr>
 </thead>
 <tr>
