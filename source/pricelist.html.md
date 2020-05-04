@@ -24,42 +24,47 @@ DOI Service Fees are based on the annual number of repositories and the total nu
 <th colspan="2">DOIs (Digital Object Identifiers)</th>
 </tr>
 <tr>
-<th>Ranges</th>
-<th>Annual Fee</th>
-<th>Ranges</th>
-<th>Annual Fee</th>
+<th>Tier</th>
+<th>Annual DOI range</th>
+<th>Organization Fee</th>
+<th>Annual service fee per organization</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>0‐1</td>
+<td>Tier 1</td>
+<td>0 - 1,999</td>
 <td>500€</td>
-<td>0‐10,000</td>
+<td>Graded tier 0.80€ per DOI</td>
+<td>500€ + 0.80€ per DOI</td>
+</tr>
+<tr>
+<td>Tier 2</td>
+<td>2,000 - 10,000</td>
 <td>500€</td>
+<td>1,600€</td>
+<td>2,100€</td>
 </tr>
 <tr>
-<td>2‐5</td>
-<td>1,000€</td>
-<td>10,001‐100,000</td>
-<td>2,000€</td>
-</tr>
-<tr>
-<td>6‐10</td>
-<td>3,000€</td>
-<td>100,001 and up</td>
+<td>Tier 3</td>
+<td>10,001 - 100,000</td>
+<td>500€</td>
+<td>2,500€</td>
 <td>3,000€</td>
 </tr>
 <tr>
-<td>11‐50</td>
-<td>6,000€</td>
-<td></td>
-<td></td>
+<td>Tier 4</td>
+<td>100,001 - 250,000</td>
+<td>500€</td>
+<td>3,500€</td>
+<td>4,000€</td>
 </tr>
 <tr>
-<td>50 and up</td>
-<td>10,000€</td>
-<td></td>
-<td></td>
+<td>Tier 5</td>
+<td>250,001 - 1,000,000</td>
+<td>500€</td>
+<td>8,500€</td>
+<td>9,000€</td>
 </tr>
 </tbody>
 </table>
