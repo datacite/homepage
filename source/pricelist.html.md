@@ -18,11 +18,12 @@ DataCite’s DOI Services are available to Members for an additional service fee
 
 Each non-profit Direct Member or Consortium Organization that makes use of DOI registration services will pay an annual service fee. This fee consists of an Organization fee and tier based DOI registration fee:
 
-Organization Fee
+#### Organization Fee
 
 The organization fee is 500€. This fee includes all the repositories and prefixes needed by an organization to follow best practices. 
 
-DOI Fee
+#### DOI Fee
+
 There are several tiers of for the number of new DOIs registered annually. The tiers accommodate different types of organizations and align with the cost impact supporting the DataCite infrastructure.
 
 <table class="table pricing">
@@ -91,10 +92,13 @@ Consortium fee caps
 
 In order to support growing consortia and the adoption within communities, the total consortium service fee (organization + DOI fee) is capped based on the number of organizations. The total cap is calculated based on the total number of organizations within the consortium:
 
-  5-30 orgs: 1.000 € multiplied by total number of organizations within the consortium
-  31-60 orgs: 700 € multiplied by total number of organizations within the consortium
-  61-100 orgs: 600 € multiplied by total number of organizations within the consortium
-  101+ orgs: 500 € multiplied by total number of organizations within the consortium
+  #### 5-30 orgs: 1.000 € multiplied by total number of organizations within the consortium
+  
+  #### 31-60 orgs: 700 € multiplied by total number of organizations within the consortium
+  
+  #### 61-100 orgs: 600 € multiplied by total number of organizations within the consortium
+  
+  #### 101+ orgs: 500 € multiplied by total number of organizations within the consortium
 
 
 
@@ -102,6 +106,31 @@ In order to support growing consortia and the adoption within communities, the t
 
 DOI Service Fees are based on the total annual revenue of the organization. The "Start‐up" category is for newly formed organizations and will be determined on a case-by-case basis.
 
+<table class="table pricing">
+<thead>
+<tbody>
+<tr>
+<th>Annual Revenue</th>
+<th>Annual Fee</th>
+<th>Organization Fee</th>
+<th>DOI Fee</th>
+<th>Annual service fee per organization</th>
+</tr>
+</thead>
+<tr>
+<td>Start-up</td>
+<td>1500€</td>
+</tr>
+<tr>
+<td><100,000,000€</td>
+<td>5,000€</td>
+</tr>
+<tr>
+<td>>100,000,000€</td>
+<td>15,000€</td>
+</tr>
+</tbody>
+</table>
 
 ## Payment Methods and Billing Cycle
 
@@ -109,6 +138,5 @@ Payments can be made either via bank wire transfer, check or credit card.
 
 DataCite invoices annually at the beginning of the year. Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined.
 
-## Download Price List
 
 More information about changes to pricing [here](https://blog.datacite.org/the-new-datacite-membership-and-fees-model/).
