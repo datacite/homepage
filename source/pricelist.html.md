@@ -1,5 +1,5 @@
 ---
-title: DataCite - Price List 2019
+title: DataCite - Price List 2020
 layout: service
 ---
 
@@ -15,7 +15,15 @@ DataCite’s DOI Services are available to Members for an additional service fee
 
 ## DOI Service Fees for Non‐profit Organizations
 
-DOI Service Fees are based on the annual number of repositories and the total number of DOIs created annually. Organizations are charged a base rate of 500€ for 1 repository and 500€ for 10,000 DOIs.  Organizations are invoiced the following month for an increase in the number of repositories at a prorated rate.  For example, if a Direct Member or a Consortium Organization is currently registering DOIs for one repository and adds an additional repository, thus changing to the range 2-5 repositories, the organization will be charged a pro-rated fee starting at the 1st of the following month. Any overage in the number of DOIs will be billed the following year.
+
+Each non-profit Direct Member or Consortium Organization that makes use of DOI registration services will pay an annual service fee. This fee consists of an Organization fee and tier based DOI registration fee:
+
+    Organization fee
+
+The organization fee is 500. This fee includes all the repositories and prefixes needed by an organization to follow best practices. 
+
+    DOI fee
+There are several tiers of for the number of new DOIs registered annually. The tiers accommodate different types of organizations and align with the cost impact supporting the DataCite infrastructure.
 
 <table class="table pricing">
 <thead>
@@ -74,115 +82,26 @@ There are two different ways non-profit organizations can use DataCite’s DOI s
 
 A Direct Member is an organization that works with one or more repositories within the same administrative structure as the Direct Member. Each Direct Member pays an annual membership fee of 2000€ and DOI service fees based on the annual number of repositories and DOIs.
 
-<div class="section-img-small">
-  ![](images/direct_member.png)
-</div>
-
-<table class="table pricing">
-<tr>
-<th class="text-left" colspan="7">Example pricing: Direct Member with 3 repositories and 10,000 DOIs</th>
-</tr>
-<tr>
-<td></td>
-<td>Membership Fee</td>
-<td>Number of Repositories</td>
-<td>Repository Fee</td>
-<td>Number of DOIs /year</td>
-<td>DOI Fee</td>
-<td>Total Membership Fee and Service Fee</td>
-</tr>
-<tr>
-<td>Direct Member Organization</td>
-<td> 2000€</td>
-<td>3</td>
-<td> 1000€</td>
-<td>10,000</td>
-<td>500€</td>
-<td> 3500€</td>
-</tr>
-</table>
 
 ## Consortium Member
 
-A consortium is a group of like-minded organizations that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. A consortium is composed of two or more non-profit organizations that are under different administrative structures. Each consortium pays a single annual membership fee totaling 2000 euros – the membership fee is often split between organizations within the consortium. Each organization within the consortium pays DOI service fees.  DOI Services Fees are based on the number of repositories and DOIs within a single administrative unit within an organization. One organization within the consortium is designated the consortium lead and fulfills a range of responsibilities.
+A consortium is a group of like-minded organizations that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. A consortium is composed of two or more non-profit organizations that are under different administrative structures. Each consortium pays a single annual membership fee totaling 2000 euros – the membership fee is often split between organizations within the consortium. Each organization within the consortium pays DOI fee. One organization within the consortium is designated the consortium lead and fulfills a range of responsibilities.
 
-<div class="section-img">
-  ![](images/consortium.png)
-</div>
+Consortium fee caps
 
-<table class="table pricing">
-<tr>
-<th colspan="7">Example pricing: three consortium organizations and a varied number of repositories and DOIs</th>
-</tr>
-<tr>
-<td></td>
-<td>Membership Fee (split between organizations)</td>
-<td>Number of Repositories</td>
-<td>Repository Fee</td>
-<td>Number of DOIs /year</td>
-<td>DOI Fee</td>
-<td>Total Membership Fee and Service Fee</td>
-</tr>
-<tr>
-<td>Organization 1 (consortium lead)</td>
-<td> 666€</td>
-<td>2</td>
-<td> 1000€</td>
-<td>8,500</td>
-<td> 500€</td>
-<td> 2166€</td>
-</tr>
-<tr>
-<td>Organization 2</td>
-<td>666€</td>
-<td>1</td>
-<td> 500€</td>
-<td>600</td>
-<td>500€</td>
-<td>1666€</td>
-</tr>
-<tr>
-<td>Organization 3</td>
-<td>666€</td>
-<td>1</td>
-<td> 500€</td>
-<td>1,500</td>
-<td> 500€</td>
-<td>1666€</td>
-</tr>
-<tr>
-<td>Totals</td>
-<td>2000€</td>
-<td></td>
-<td> 2000€</td>
-<td></td>
-<td>1500€</td>
-<td> 5500€</td>
-</tr>
-</table>
+In order to support growing consortia and the adoption within communities, the total consortium service fee (organization + DOI fee) is capped based on the number of organizations. The total cap is calculated based on the total number of organizations within the consortium:
+
+    5-30 orgs: 1.000 € multiplied by total number of organizations within the consortium
+    31-60 orgs: 700 € multiplied by total number of organizations within the consortium
+    61-100 orgs: 600 € multiplied by total number of organizations within the consortium
+    101+ orgs: 500 € multiplied by total number of organizations within the consortium
+
+
 
 ## For‐profit Organizations
 
 DOI Service Fees are based on the total annual revenue of the organization. The "Start‐up" category is for newly formed organizations and will be determined on a case-by-case basis.
 
-<table class="table pricing">
-<tr>
-<th>Annual Revenue</th>
-<th>Annual Fee</th>
-</tr>
-<tr>
-<td>Start-up</td>
-<td>1,500€</td>
-</tr>
-<tr>
-<td>&lt; 1,000,000€</td>
-<td>5,000€</td>
-</tr>
-<tr>
-<td>&gt; 1,000,000€</td>
-<td>15,000€</td>
-</tr>
-</table>
 
 ## Payment Methods and Billing Cycle
 
@@ -192,4 +111,4 @@ DataCite invoices annually at the beginning of the year. Organizations that join
 
 ## Download Price List
 
-The Price List 2019 can be downloaded [here](/assets/DataCitePriceList2019.pdf).
+More information about changes to pricing [here](https://blog.datacite.org/the-new-datacite-membership-and-fees-model/).
