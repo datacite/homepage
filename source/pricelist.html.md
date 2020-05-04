@@ -20,13 +20,10 @@ DOI Service Fees are based on the annual number of repositories and the total nu
 <table class="table pricing">
 <thead>
 <tr>
-<th colspan="2">Repositories</th>
-<th colspan="2">DOIs (Digital Object Identifiers)</th>
-</tr>
-<tr>
 <th>Tier</th>
 <th>Annual DOI range</th>
 <th>Organization Fee</th>
+<th>DOI Fee</th>
 <th>Annual service fee per organization</th>
 </tr>
 </thead>
