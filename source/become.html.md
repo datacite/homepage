@@ -37,7 +37,22 @@ This type of Member is a consumer of DOI services and consists of an organizatio
 
 ## 3) Consortium Member
 
-A consortium is a group of like-minded organizations that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. A consortium is composed of two or more non-profit organizations that are under different administrative structures. Consortia are generally located in a single country or subject-based. Organizations within a consortium can work with one or more repositories.
+A consortium is a group of like-minded organizations that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. Consortia are generally located in a single country or subject-based. Organizations within a consortium can work with one or more repositories.
+
+
+Consortium guidelines
+
+* A consortium is composed of five or more non-profit organizations that are under different administrative structures.
+
+* Consortia should consist of a minimum of five organizations, including the consortium lead. New consortia are expected to reach this number in one year.
+
+* Consortium Organizations that expect to register more than 10.000 DOIs annually should transfer to Direct Membership within the following calendar year, or pay the additional membership fee (2.000 € annually) while remaining part of the consortium. This ensures that there is appropriate cost recovery based on the impact on cost drivers.
+
+* All future consortia should be within one geographic region OR subject area
+
+* Only non-profit organizations can participate in consortia
+
+* Consortium Leads can distribute costs across the Consortium Organizations as per their own policies and structures
 
 <div class="section-img">
   ![](images/consortium.png)
@@ -61,8 +76,6 @@ The repository information provided will be used and displayed throughout DataCi
 
 # How to join DataCite ?
 
-If you are interested in a DataCite membership please fill out the application form and DataCite staff (reachable via [support@datacite.org](mailto:support@datacite.org)) will be in touch with you.
-
-- [Application form](/application.html)
+If you are interested in a DataCite membership please send an email to [support@datacite.org](mailto:support@datacite.org) will get in touch with you.
 
 - [DataCite Statutes](/documents/statutes.html)

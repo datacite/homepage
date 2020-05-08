@@ -92,13 +92,10 @@ A consortium is a group of like-minded organizations that have come together to 
 
 In order to support growing consortia and the adoption within communities, the total consortium service fee (organization + DOI fee) is capped based on the number of organizations. The total cap is calculated based on the total number of organizations within the consortium:
 
-  >5-30 orgs: 1.000 € multiplied by total number of organizations within the consortium
-
-  >31-60 orgs: 700 € multiplied by total number of organizations within the consortium
-
-  >61-100 orgs: 600 € multiplied by total number of organizations within the consortium
-
-  >101+ orgs: 500 € multiplied by total number of organizations within the consortium
+ *  5-30 orgs: 1.000 € multiplied by total number of organizations within the consortium
+ *  31-60 orgs: 700 € multiplied by total number of organizations within the consortium
+ *  61-100 orgs: 600 € multiplied by total number of organizations within the consortium
+ *  101+ orgs: 500 € multiplied by total number of organizations within the consortium
 
 
 
@@ -119,11 +116,11 @@ DOI Service Fees are based on the total annual revenue of the organization. The 
 <td>1500€</td>
 </tr>
 <tr>
-<td>&lt; 100,000,000€</td>
+<td>&lt;100,000,000€</td>
 <td> 5,000€</td>
 </tr>
 <tr>
-<td>&gt; 100,000,000€</td>
+<td>&gt;100,000,000€</td>
 <td>15,000€</td>
 </tr>
 </tbody>
