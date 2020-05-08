@@ -68,7 +68,7 @@ The repository information provided will be used and displayed throughout DataCi
 
 # More information
 
-* [Price list](/feemodel.html)
+* [Fee Model](/feemodel.html)
 
 * [Membership FAQ](https://support.datacite.org/docs/general)
 
@@ -76,6 +76,6 @@ The repository information provided will be used and displayed throughout DataCi
 
 # How to join DataCite ?
 
-If you are interested in a DataCite membership please send an email to [support@datacite.org](mailto:support@datacite.org) will get in touch with you.
+If you are interested in a DataCite membership please send an email to [support@datacite.org](mailto:support@datacite.org) and we will get in touch with you.
 
 - [DataCite Statutes](/documents/statutes.html)
