@@ -1,5 +1,5 @@
 ---
-title: DataCite - Price List 2020
+title: DataCite - Fee Model 2020
 layout: service
 ---
 
