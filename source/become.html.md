@@ -13,11 +13,11 @@ As a [DataCite Member](/members.html), organizations show their support for rese
 
 - They demonstrate an elevated level of commitment to open data and open research.
 
-- They become part of a global data-sharing community, learning, collaborating, and advocating with a leading-edge network of data research experts. 
+- They become part of a global data-sharing community, learning, collaborating, and advocating with a leading-edge network of data research experts.
 
-- They support and participate in the creation and management of persistent identifiers (DOIs) for research outputs. 
+- They support and participate in the creation and management of persistent identifiers (DOIs) for research outputs.
 
-- They play a critical role in advancing DataCite’s data-sharing mission through their financial support. 
+- They play a critical role in advancing DataCite’s data-sharing mission through their financial support.
 
 - They help to shape the future DataCite – and data research in general – by serving on our Executive Board or DataCite steering groups.
 
@@ -53,7 +53,7 @@ The repository information provided will be used and displayed throughout DataCi
 
 # More information
 
-* [Price list](/pricelist.html)
+* [Price list](/feemodel.html)
 
 * [Membership FAQ](https://support.datacite.org/docs/general)
 
@@ -63,6 +63,6 @@ The repository information provided will be used and displayed throughout DataCi
 
 If you are interested in a DataCite membership please fill out the application form and DataCite staff (reachable via [support@datacite.org](mailto:support@datacite.org)) will be in touch with you.
 
-- [Application form](/application.html) 
+- [Application form](/application.html)
 
 - [DataCite Statutes](/documents/statutes.html)
