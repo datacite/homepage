@@ -54,20 +54,17 @@ Depending on the type of DataCite services used, your organization contact may r
 
 Fabrica is DataCite’s service used by DataCite members to create and assign DOIs and associated metadata. The service relies on cookies for use. Fabrica is not a public facing service and those using Fabrica must have an account. Fabrica also collects information about users of the service, including names and emails. This information is used to administer the service. 
 
+### Support Site
 
-### Support Site 
-
-DataCite maintains a [support site](https://support.datacite.org/) to help the DataCite community understand and use our services. All of DataCite’s support content is on readme.io platform. readme.io fully [complies](https://readme.io/gdpr/) with current privacy regulations.
-
+DataCite maintains a [support site](https://support.datacite.org/) to help the DataCite community understand and use our services. All of DataCite’s support content is on readme.io platform. readme.io fully complies with current privacy regulations.
 
 ### DataCite’s Metadata and Identifiers
 
-As part of our services of registering DOIs, we also collect associated metadata. All of DataCite’s metadata and Identifiers registered with DataCite are made available for reuse without restriction through our public APIs and search interfaces. We are open and transparent about the use of our identifiers and metadata. 
+As part of our services of registering DOIs, we also collect associated metadata. All of DataCite’s metadata and Identifiers registered with DataCite are made available for reuse without restriction through our public APIs and search interfaces. We are open and transparent about the use of our identifiers and metadata.
 
 DataCite also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. DataCite only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described in the _Protection of Information_ section below. 
 
 If you are a consumer of our metadata and identifiers and identify yourself in API queries using your account credentials, we will not store or use your email for any other purpose than technical troubleshooting and only if absolutely necessary. You may choose not to use your account credentials for API queries of public content, which won’t identify you at all. More information can be found in our REST API documentation.
-
 
 ### Using Datacite’s Help Desk
 
@@ -76,19 +73,15 @@ If you send a message to our [Help Desk](mailto:support@datacite.org) a “ticke
 
 ### Comments on DataCite’s Blog
 
-Readers of the [DataCite’s Blog](https://blog.datacite.org/) can submit comments on each post. Datacite uses a platform called [Disqus](https://disqus.com/) to enable comments on our blog and you can control your privacy settings with a Disqus account. 
-
+Readers of the [DataCite’s Blog](https://blog.datacite.org/) can submit comments on each post. Datacite uses a platform called [Disqus](https://disqus.com/) to enable comments on our blog and you can control your privacy settings with a Disqus account.
 
 ### Email Communications
 
 DataCite uses email to communicate with DataCite members and users of our services. Email is either personal interaction or via Google Groups. DataCite sends a monthly newsletter and occasional service updates that we believe will be useful to individuals that subscribe to Google Groups. Individuals may remove themselves from mailings by following the unsubscribe link provided in every DataCite email. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.  
 
- 
-
 Aggregated Statistics
 
 DataCite may collect statistics about the behavior of visitors to its website. For instance, DataCite may monitor the most popular pages, support articles, and blog posts on the sites. DataCite may display this information publicly or provide it to others. However, DataCite does not disclose personally-identifying information other than described in the _Protection of Information_ section below.
-
 
 ### Protection of Information
 
@@ -101,7 +94,6 @@ DataCite discloses potentially personally-identifying and personally-identifying
 DataCite will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, DataCite discloses potentially personally-identifying and personally-identifying information only in response to a court order or other governmental request, or when DataCite believes in good faith that disclosure is reasonably necessary to protect the property or rights of DataCite, third parties or the public at large.
 
 If you are a member of DataCite and/or a user of DataCite services and have supplied your email address, and you would like to be removed please send us a request for removal to [support@datacite.org](mailto:support@datacite.org). DataCite takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
 
 ### Privacy Policy Changes
 
