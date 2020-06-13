@@ -21,13 +21,11 @@ set :markdown_engine, :pandoc
 set :markdown, csl: "styles/apa.csl",
                bibliography: "bibliography/references.bib"
 
-# Use sprockets for asset compilation
-activate :sprockets
-sprockets.append_path File.join(root, 'vendor', 'node_modules')
+# Use sprockets with sassc for asset compilation
+activate :sprockets3_sassc
 
 # put configuration variables into .env file
 activate :dotenv
-
 
 ###
 # Helpers
