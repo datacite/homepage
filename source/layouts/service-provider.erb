@@ -1,0 +1,26 @@
+<% wrap_layout :layout do %>
+  <header class="image-bg-fixed-height-small">
+    <div class="jumbotron">
+      <h1><%= current_page.data.title %></h1>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9 section-content" id="content">
+          <%= yield %>
+        </div>
+        <div class="col-md-9 section-content" id="service_provider_container">
+      </div>
+    </div>
+  </section>
+
+  <!-- Load React. -->
+  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+  <script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin></script>
+  
+  <!-- Load our React component. -->
+  <script src="javascripts/service_provider_container.js"></script>
+<% end %>
