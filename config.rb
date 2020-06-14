@@ -40,12 +40,3 @@ helpers do
     ENV['RACK_ENV'] == "stage"
   end
 end
-
-# Build-specific configuration
-# configure :build do
-#   # Minify CSS on build
-#   activate :minify_css
-
-#   # Minify Javascript on build
-#   activate :minify_javascript
-# end

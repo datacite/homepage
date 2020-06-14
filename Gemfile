@@ -12,8 +12,6 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem 'middleman', '~> 4.2'
 gem 'tilt', '~> 2.0', git: "https://github.com/datacite/tilt.git", branch: "pandoc-options"
 gem 'pandoc-ruby', '~> 1.0'
-gem 'middleman-sprockets', '~> 4.1'
 gem 'middleman-dotenv', '~> 2.0'
 gem 'middleman-livereload'
-gem 'middleman4-sprockets3-sassc', '~> 0.0.4'
 gem 'html-proofer', '~> 3.7', '>= 3.7.2'

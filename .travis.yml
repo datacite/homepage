@@ -30,10 +30,7 @@ before_install:
 install:
   - bundle install
   - sudo pip install awscli
-
-before_script:
-  - cd vendor && npm install
-  - cd ../
+  - yarn install --non-interactive
 
 script:
   - bundle exec middleman build -e $RACK_ENV --verbose
