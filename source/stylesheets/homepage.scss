@@ -1,0 +1,493 @@
+/*!
+ * DataCite website
+ */
+
+@import 'application';
+
+$lighter-gray:               #F4F5F5 !default;
+$medium-gray:                #DDDDDD !default;
+$darker-gray:                darken($medium-gray, 40%) !default;
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-top: 50px;
+  font-family: 'Raleway', sans-serif !important;
+  margin-bottom: 340px;
+}
+
+a:hover {
+  background-color: transparent !important;
+}
+
+.navbar-brand {
+  background: url('https://datacite.org/images/datacite.svg') center / contain no-repeat;
+  width: 200px;
+}
+
+.image-bg-fluid-height,
+.image-bg-fixed-height,
+.image-bg-fixed-height-small {
+  text-align: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.image-bg-fluid-height {
+  background: url('https://datacite.org/images/header.jpg') no-repeat center top scroll;
+  background-size: 100% auto;
+  padding: 100px 0;
+}
+
+.image-bg-fixed-height {
+  background: url('https://datacite.org/images/header2.jpg') no-repeat center top scroll;
+  background-size: 100% auto;
+  height: 350px;
+}
+
+.image-bg-extra {
+  background: #dddddd;
+  height: 65px;
+	margin-top: -10px;
+	margin-bottom: -40px;
+}
+
+.image-bg-fixed-height-small {
+  background: url('https://datacite.org/images/header2.jpg') no-repeat center top scroll;
+  background-size: 100% auto;
+  height: 170px;
+}
+
+.jumbotron {
+    background-color:transparent !important;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  font-variant: small-caps;
+  text-shadow: 1px 1px black;
+}
+
+.jumbotron p {
+  color: white;
+  font-size: large;
+  padding: 20px;
+  text-shadow: 1px 1px black;
+}
+
+.jumbotron .btn-primary {
+  background-color: rgba(0,0,0,0.1);
+  border: 2px solid white;
+  border-radius: 0px;
+  text-shadow: 1px 1px black;
+  box-shadow: 1px 1px 1px black;
+}
+
+.bg-primary {
+  background-color: #dddddd;
+}
+
+.img-center {
+  margin: 0 auto;
+}
+
+.caption {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+section {
+  margin: 10px 0 50px 0;
+}
+
+section h1 {
+  text-align: center;
+}
+
+.section-heading {
+  padding-top: 10px;
+  margin-bottom: 10px;
+  font-size: 3em;
+}
+
+.section-lead {
+  margin: 0px;
+}
+
+.section-paragraph {
+  margin: 0px;
+  text-align: center;
+}
+
+.svc-heading {
+  padding-top: 10px;
+  margin-bottom: 30px;
+  font-size: xx-large;
+  color: gray;
+}
+
+.svc-heading-2 {
+  padding-top: 5px;
+  margin-bottom: 0px;
+  font-size: large;
+  color: gray;
+}
+
+.svc-item {
+  border: 0;
+  margin-bottom: 0;
+
+  .stakeholderdescription {
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+  
+    h3 {
+      padding-left: 0;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+  
+    h5 {
+      font-weight: bold;
+      margin-bottom: 0;
+    }
+  }
+}
+
+.svc-item a:hover {
+  background-color: red;
+}
+
+.read-more {
+  text-align: right;
+  margin-right: 10px;
+}
+
+footer {
+  margin: 50px 0 0 0;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+}
+
+.section-content {
+  margin-top: -30px;
+}
+
+.section-content h1 {
+  font-size: x-large;
+  color: gray;
+  font-variant: small-caps;
+  text-align: left;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: gray;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.section-content h2 {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: x-large;
+}
+
+.section-content h2.roadmap {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: x-large;
+  color: gray;
+}
+
+.section-content h3 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.section-content h3.milestone {
+  font-size: 21px;
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
+.section-content p.released, .section-content div.released {
+  font-weight: bold;
+  color: lighten(gray, 20%);
+}
+
+.section-content p, .section-content h4, .section-content pre code {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
+}
+
+.section-content a img {
+  display: inline;
+  margin: 0;
+}
+.label-milestone {
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
+.label-released {
+  color: black;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin-right: 4px;
+  vertical-align: 2px;
+
+  a {
+    color: black;
+  }
+}
+
+.label-project {
+  color: white;
+  background-color: #006b75;
+  margin-right: 4px;
+
+  a {
+    color: white;
+  }
+}
+
+.label-stakeholder {
+  color: black;
+  background-color: #f9cfb9;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
+.label-state {
+  color: black;
+  background-color: #ededed;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
+.label-inactive {
+  color: black;
+  background-color: #c8d1da;
+  margin-right: 4px;
+
+  a {
+    color: black;
+  }
+}
+
+.section-content .search-wide {
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.section-content {
+  ul, ol {
+    padding-left: 70px;
+    padding-right: 50px;
+    text-align: justify;
+  }
+}
+
+.section-content img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.section-img img {
+  width: 750px;
+}
+.section-img-small img {
+  width: 400px;
+}
+
+.facets {
+  color: $darker-gray;
+  font-size: 1em;
+  padding: 0;
+  margin: 0;
+  border: 0 !important;
+  box-shadow: none !important;
+
+  .panel-body {
+    background-color: white;
+  }
+
+  ul {
+    list-style: none;
+    list-style-position: outside;
+    padding-left: 0;
+  }
+  h4 {
+    color: $darker-gray;
+    font-size: 1.25em;
+    border-bottom: 1px solid $darker-gray;
+    padding-bottom: .15em;
+    margin: 0 0 .5em 0;
+  }
+  .link {
+    border-bottom: 0;
+
+    a {
+      color: $darker-gray;
+    }
+  }
+  div {
+    border: 0;
+  }
+  li a, li.active a, li a:hover, li.active a:hover {
+    font-size: 1em;
+    float: left;
+    display: inline;
+    color: $darker-gray;
+    background-color: white;
+    padding: 0 .5em 0 0;
+    margin-left: 0;
+  }
+  .facet-title {
+    float: left;
+    max-width: 170px;
+  }
+  .panel-body {
+    padding-top: 3px;
+  }
+  .panel-body + .panel-body {
+    border-top: none;
+  }
+}
+
+.section-content ol li p {
+  padding-left: 3px;
+}
+
+.member-logo {
+  margin: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+.documentation {
+  color: black;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: left;
+}
+
+.sidebox {
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  color: gray;
+
+  h1 {
+      font-size: x-large;
+      font-variant: small-caps;
+      text-align: left;
+  }
+
+    ul {
+      list-style: none;
+      padding-left: 10px;
+    }
+
+    ul.dashed {
+      margin: 0;
+      list-style-type: none;
+    }
+    ul.dashed > li {
+      text-indent: 0;
+      padding-bottom: 0;
+    }
+    ul.dashed > li:before {
+      content: "- ";
+      text-indent: -5px;
+    }
+
+  li {
+    padding-bottom: 5px;
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 340px;
+  border-top: 80px solid white;
+}
+
+footer h4 {
+  color: gray;
+}
+
+table {
+	width: 30%;
+  margin-left: 80px;
+}
+
+table.board {
+	width: 90%;
+  margin-left: 10px;
+}
+
+table.pricing {
+	width: 90%;
+  margin-left: 50px;
+
+  th {
+    font-size: 16px;
+    width: 25%;
+  }
+}
+
+@media(max-width:768px) {
+  section {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .section-heading {
+    font-size: 2em;
+  }
+}
+
+.thumbnail>img, .thumbnail a>img {
+  max-height: 205px;
+}
