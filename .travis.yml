@@ -1,10 +1,12 @@
-language: ruby
-rvm:
-- 2.6.5
+language: node_js
 node_js:
   - "10"
-cache: bundler
+rvm:
+- 2.6.5
+
 cache:
+  bundler: true
+  yarn: true
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
