@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+
 var xmlhttp = new XMLHttpRequest();
 var url = "https://api.datacite.org/pages?tag=featured";
 
@@ -13,9 +15,9 @@ function formatBlog(response) {
 	response = JSON.parse(response);
 	var div = document.getElementById('bloglist');
 
-	for (var i in response.data){
+  for (var i in response.data){
 		div.innerHTML += '<div class=col-md-4 col-sm-4 svc-item>'
-		  + '<div class=thumbnail>'
+      + '<div class=thumbnail>'
       + '<a href='
       + response.data[i].id
       + '>'

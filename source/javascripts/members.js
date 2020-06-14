@@ -1,3 +1,6 @@
+/* eslint-disable no-undef */
+/* eslint-disable no-prototype-builtins */
+
 var isoCountries = {
   'AF' : 'Afghanistan',
   'AX' : 'Aland Islands',
@@ -276,7 +279,7 @@ function capitalize(word) {
 }
 
 function formatMembers(response) {
-  var response = JSON.parse(response);
+  response = JSON.parse(response);
   var div = document.getElementById('memberslist');
 
   // response.meta.total;
@@ -330,11 +333,11 @@ function formatMembers(response) {
       image = '';
     }
     else {
-      image = '<img class="member-logo" src=\"' + response.data[i].attributes.logoUrl + '\"/>';
+      image = '<img class="member-logo" src="' + response.data[i].attributes.logoUrl + '"/>';
     }
 
     div.innerHTML +=
-    '<div class=\"row thumbnail svc-item\">' +
+    '<div class="row thumbnail svc-item">' +
       '<div class="col-md-4">' +
         image +
       '</div>' +
