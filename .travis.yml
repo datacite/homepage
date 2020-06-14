@@ -1,6 +1,8 @@
 language: ruby
 rvm:
 - 2.6.5
+node_js:
+  - "10"
 cache: bundler
 cache:
   directories:
