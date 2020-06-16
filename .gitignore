@@ -18,7 +18,6 @@
 .DS_Store
 
 # ignore vendored assets and gems
-/vendor/node_modules
 /vendor/bundle
 
 .env
@@ -28,3 +27,5 @@
 .DS_Store
 .sass-cache
 build/
+node_modules
+.tmp

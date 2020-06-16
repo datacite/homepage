@@ -21,8 +21,11 @@ set :markdown_engine, :pandoc
 set :markdown, csl: "styles/apa.csl",
                bibliography: "bibliography/references.bib"
 
-# Use sprockets with sassc for asset compilation
-activate :sprockets3_sassc
+activate :external_pipeline,
+  name: :webpack,
+  command: build? ? './node_modules/webpack/bin/webpack.js --bail' : './node_modules/webpack/bin/webpack.js --watch -d',
+  source: ".tmp/dist",
+  latency: 1
 
 # put configuration variables into .env file
 activate :dotenv
@@ -36,13 +39,4 @@ helpers do
   def stage?
     ENV['RACK_ENV'] == "stage"
   end
-end
-
-# Build-specific configuration
-configure :build do
-  # Minify CSS on build
-  activate :minify_css
-
-  # Minify Javascript on build
-  activate :minify_javascript
 end

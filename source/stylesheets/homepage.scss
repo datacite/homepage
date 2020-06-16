@@ -24,7 +24,7 @@ a:hover {
 }
 
 .navbar-brand {
-  background: url('https://www.datacite.org/images/datacite.svg') center / contain no-repeat;
+  background: url('https://datacite.org/images/datacite.svg') center / contain no-repeat;
   width: 200px;
 }
 
@@ -39,13 +39,13 @@ a:hover {
 }
 
 .image-bg-fluid-height {
-  background: url('../images/header.jpg') no-repeat center top scroll;
+  background: url('https://datacite.org/images/header.jpg') no-repeat center top scroll;
   background-size: 100% auto;
   padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-  background: url('../images/header2.jpg') no-repeat center top scroll;
+  background: url('https://datacite.org/images/header2.jpg') no-repeat center top scroll;
   background-size: 100% auto;
   height: 350px;
 }
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .image-bg-fixed-height-small {
-  background: url('../images/header2.jpg') no-repeat center top scroll;
+  background: url('https://datacite.org/images/header2.jpg') no-repeat center top scroll;
   background-size: 100% auto;
   height: 170px;
 }

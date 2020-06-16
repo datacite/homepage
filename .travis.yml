@@ -1,8 +1,12 @@
-language: ruby
+language: node_js
+node_js:
+  - "10"
 rvm:
 - 2.6.5
-cache: bundler
+
 cache:
+  bundler: true
+  yarn: true
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
@@ -28,15 +32,13 @@ before_install:
   - rm pandoc-1.19.2.1-1-amd64.deb
 
 install:
+  - gem install bundler -v 1.17.3
   - bundle install
   - sudo pip install awscli
-
-before_script:
-  - cd vendor && npm install
-  - cd ../
+  - yarn install --non-interactive
 
 script:
-  - bundle exec middleman build -e $RACK_ENV --verbose
+  - bundle exec middleman build -e $RACK_ENV
   - bundle exec htmlproofer --http-status-ignore "999,403" --allow-hash-href --empty_alt_ignore --only-4xx ./build
 
 deploy:
