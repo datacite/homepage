@@ -16,10 +16,6 @@
 
 # Ignore .DS_store file
 .DS_Store
-
-# ignore vendored assets and gems
-/vendor/bundle
-
 .env
 
 .bundle
@@ -28,4 +24,4 @@
 .sass-cache
 build/
 node_modules
-.tmp
+.tmp/dist
