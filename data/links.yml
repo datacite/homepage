@@ -119,8 +119,6 @@ community_links:
    url: /steering.html
  - name: Roadmap
    url: /roadmap.html
- - name: Events
-   url: /events.html
 contact_links:
  - name: Terms and conditions
    url: /terms.html
