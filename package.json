@@ -3,7 +3,8 @@
   "version": "0.3.0",
   "private": true,
   "scripts": {
-    "build": "webpack --config ./webpack.config.js"
+    "build": "webpack --config ./webpack.config.js",
+    "lint": "./node_modules/.bin/eslint . --ext .js"
   },
   "repository": "",
   "engines": {
@@ -12,13 +13,17 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@babel/preset-react": "^7.10.1",
+    "@babel/preset-react": "^7.10.4",
+    "babel-eslint": "^10.1.0",
     "babel-preset-react-app": "3",
     "bootstrap-sass": "^3.4.1",
     "bootstrap-social": "~5.0.0",
     "es5-shim": "~4.1.0",
     "eslint": "^7.2.0",
     "eslint-loader": "^4.0.2",
+    "lodash": "^4.17.19",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {

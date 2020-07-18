@@ -6,6 +6,7 @@ module.exports = {
   mode: process.env.NODE_ENV === 'production' ? 'production' : 'development',
   entry: {
     blog: './source/javascripts/blog.js',
+    serviceProviders: './source/javascripts/serviceProviders.js',
     members: './source/javascripts/members.js',
     homepage: './source/stylesheets/homepage.scss',
     application: './source/stylesheets/application.scss',
