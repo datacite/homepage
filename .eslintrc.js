@@ -3,6 +3,7 @@ module.exports = exports = {
     es6: true
   },
   extends: "eslint:recommended",
+  parser: "babel-eslint",
   parserOptions: {
     sourceType: "module"
   }
