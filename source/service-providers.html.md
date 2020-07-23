@@ -5,6 +5,8 @@ layout: service-provider
 
 # What is a DataCite Service Provider?
 
-A Service Provider is an organization that has integrated with one of the DataCite APIs to enable other organizations to register DataCite DOIs. DataCite Service Providers do not offer DOIs, but do offer the ability to register DOIs through their platform, using a member’s own log-in credentials.
+A DataCite Registered Service Provider is an organization that has integrated with one of the DataCite APIs in order to allow existing DataCite Members to register DOIs using that Member's own log-in credentials. A CRIS or a repository platform are both examples of a Service Provider. 
+
+In order to be listed as a Registered Service Provider, an organization must apply and must meet [essential requirements](service-provider-requirements.html). 
 
 # DataCite Service Providers
