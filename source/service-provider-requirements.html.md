@@ -33,7 +33,6 @@ DataCite Service Providers are encouraged to . . .
 
 # Benefits for registered Service Providers
 - Registered Service Providers will have their name and basic information about their service listed on the DataCite website. 
-- Registered Service Providers will have their own test accounts so that they can test their integrations. 
 - Registered Service Providers will be part of the controlled list of Service Providers that users can select in Fabrica when updating their repository metadata.
 - Registered Service Providers will be provided with a special registered Service Provider badge to display on their website. 
 - Registered Service Providers will have their own mailing list through which they will receive regular updates from DataCite
