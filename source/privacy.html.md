@@ -26,7 +26,7 @@ Controller in the meaning of Art. 4 No. 7 EU General Data Protection Regulation 
 DataCite e.V.
 German National Library of Science and Technology
 Welfengarten 1B, 30167 Hannover, Germany
-info@datacite.org 
+[info@datacite.org](mailto:info@datacite.org)
 
 
 
