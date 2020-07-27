@@ -20,7 +20,7 @@ If you find content on the DataCite’s website, support site, or blog, that you
 ### 1. DataCite -- Website, Support Site, Blog, and Services
 
 
-DataCite operates a website at [https://datacite.org/](https://datacite.org/), a support site at [https://support.datacite.org/](https://support.datacite.org/) , blog at [https://blog.datacite.org/](https://blog.datacite.org/), Fabrica, a DOI service, at [https://doi.datacite.org/](https://doi.datacite.org/) and a Help Desk at [support@datacite.org](support@datacite.org). It is DataCite’s policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on our please contact our support team.
+DataCite operates a website at [https://datacite.org/](https://datacite.org/), a support site at [https://support.datacite.org/](https://support.datacite.org/) , blog at [https://blog.datacite.org/](https://blog.datacite.org/), Fabrica, a DOI service, at [https://doi.datacite.org/](https://doi.datacite.org/) and a Help Desk at [support@datacite.org](mailto:support@datacite.org). It is DataCite’s policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on our please contact our support team.
 
 Controller in the meaning of Art. 4 No. 7 EU General Data Protection Regulation (GDPR) is:
 DataCite e.V.
