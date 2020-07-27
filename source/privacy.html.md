@@ -17,7 +17,7 @@ If you find content on the DataCite’s website, support site, or blog, that you
 
 
 
-### DataCite -- Website, Support Site, Blog, and Services
+### 1. DataCite -- Website, Support Site, Blog, and Services
 
 
 DataCite operates a website at https://datacite.org/, a support site at https://support.datacite.org/, blog at https://blog.datacite.org/, Fabrica, a DOI service, at https://doi.datacite.org/ and a Help Desk at support@datacite.org. It is DataCite’s policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on our please contact our support team.
@@ -30,7 +30,7 @@ info@datacite.org
 
 
 
-### Site Visitors
+### 2. Site Visitors
 
 Just by merely using this website for information purposes, DataCite, like most site operators, collects personal data of the sort that web browsers and servers typically make available, such as the IP address, the browser type, language preference, referring site, and the date and time of each visitor request. DataCite’s purpose in collecting these information is to better understand how DataCite’s visitors use its sites.
 
@@ -38,8 +38,7 @@ Legal basis for the processing of these data is Art. 6 No. 1 lit. f GDPR.
 
 DataCite will not attribute these data to specific persons, and these data will not be combined with other data sources. After use for the above purposes, the data are erased by DataCite after seven days.
 
-
-### General Treatment of Personally-Identifying Information
+### 3. General Treatment of Personally-Identifying Information
 
 Certain visitors to DataCite’s sites can choose to interact with DataCite in ways that require DataCite to gather personal data. The amount and type of information that DataCite gathers depends on the nature of the interaction.
 
@@ -48,8 +47,15 @@ For example, we ask visitors who send a message to our Help Desk, requesting ass
 For more information, please read the following sections on data processing, in which further details are provided.
 
 
+### 4. Cookies
 
-### DataCite Members
+When you use our website, cookies are also stored on your computer. Cookies are small text data files which are stored on your hard drive and attributed to the browser you are using and with which the place which sets the cookie (in this case, us) receives certain information. Cookies cannot execute any programs or transfer viruses to your computer. They serve the purpose of making the internet offering in general more user friendly and effective.
+We use so-called technically necessary cookies on our website. Technically necessary cookies are cookies that are necessary for our website to function correctly. They help to make our website usable by enabling basic functions such as page navigation and access to secure areas of the website.
+The legal basis for the use of technically necessary cookies is Art. 6 No. 1 lit. f GDPR.
+
+
+
+### 5. DataCite Members, Consortium Organizations & Repositories
 
 If you become a member of DataCite or Consortium Organization (previously referred to as Clients), we ask for contact information (name and email and billing address) to fulfill our business obligations -- contacts include service, technical, voting, and billing contacts. The service contact receives general information about service status and new services. The technical contact is notified of service changes and infrastructure outages. The voting contact receives information pertaining to DataCite’s governance duties; board elections, statute changes, and budget approval. The billing contact receives annual invoices for membership and DOI service fees. We log membership contact and billing information to our Customer Relationship Management (CRM) system, Salesforce. Salesforce fully complies with current privacy regulations.
 
@@ -60,18 +66,18 @@ Depending on the type of DataCite services used, your organization contact may r
 Legal basis for the processing of these data in order to contact a member or an organization is Art. 6 No. 1 lit. a GDPR.
 
 
-### Fabrica 
+### 6. Fabrica 
 
 Fabrica is DataCite’s service used by DataCite members to create and assign DOIs and associated metadata. The service relies on cookies for use. Fabrica is not a public facing service and those using Fabrica must have an account. Fabrica also collects information about users of the service, including names and emails. This information is used to administer the service.
 
 Legal basis for the processing of these data is Art. 6 No. 1 lit. b, f GDPR.
  
 
-### Support Site
+### 7. Support Site
 
 DataCite maintains a support site to help the DataCite community understand and use our services. All of DataCite’s support content is on readme.io platform. readme.io fully complies with current privacy regulations.
 
-### DataCite’s Metadata and Identifiers
+### 8. DataCite’s Metadata and Identifiers
 
 As part of our services of registering DOIs, we also collect associated metadata. All of DataCite’s metadata and Identifiers registered with DataCite are made available for reuse without restriction through our public APIs and search interfaces. We are open and transparent about the use of our identifiers and metadata.
 
@@ -81,12 +87,12 @@ If you are a consumer of our metadata and identifiers and identify yourself in A
 Legal basis for the processing of these data is Art. 6 No. 1 lit. b, f GDPR.
 
 
-### Using Datacite’s Help Desk
+### 9. Using Datacite’s Help Desk
 
 If you send a message to our [Help Desk](mailto:support@datacite.org) a “ticket” along with your email will be logged in our ticketing system, Frontapp. DataCite will not use contact information to resolve questions and any details provided during a support conversation are kept private. From time to time DataCite will add your email to an appropriate mailing list for additional information. Individuals may remove themselves from mailings by following the unsubscribe link provided in every DataCite email. Frontapp fully [complies](https://help.frontapp.com/t/m22vyb/is-front-compliant-with-gdpr) with current privacy regulations. 
 
 
-### Comments on DataCite’s Blog
+### 10. Comments on DataCite’s Blog
 
 Readers of the DataCite’s Blog can submit comments on each post. DataCite uses a platform called Disqus. Disqus is an online service provider, which provides a centralized discussion platform for websites allowing our visitors to post comments on our blog. You can control your privacy settings with a Disqus account.
 
@@ -111,7 +117,7 @@ CA 94105, USA
 Disqus´privacy policy: 
 https://help.disqus.com/customer/portal/articles/466259-privacy
 
-### Email Communications
+### 11. Email Communications
 
 DataCite uses email to communicate with DataCite members and users of our services. Email is either personal interaction or via Google Groups. DataCite sends – on the legal basis of Art. 6 No. 1 lit. f) GDPR - occasional service updates that we believe will be useful to individuals that subscribe to Google Groups. 
 
@@ -123,14 +129,14 @@ Aggregated Statistics
 
 DataCite may collect statistics about the behavior of visitors to its website. For instance, DataCite may monitor the most popular pages, support articles, and blog posts on the sites. DataCite may display this information publicly or provide it to others. However, DataCite does not disclose personally-identifying information other than described in the _Protection of Information_ section below.
 
-### Aggregated Statistics
+### 12. Aggregated Statistics
 
 DataCite may, with the visitors´ prior consent, collect statistics about the behavior of visitors to its website. For instance, DataCite may monitor the most popular pages, support articles, and blog posts on the sites. DataCite may display this information publicly or provide it to others. However, DataCite does not disclose personal data other than described in the Protection of Information section below.
 
 Legal basis for processing personal data for statistic purpose is Art. 6 No. 1 lit. a GPDR.
 
 
-### Protection of Information
+### 13. Protection of Information
 
 DataCite discloses personal data only to those of its employees, contractors and affiliated organizations 
 
@@ -142,7 +148,7 @@ DataCite will not rent or sell personal data to anyone. Other than to its employ
 
 DataCite takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of personal data .
 
-### Your rights
+### 14. Your rights
 
 According to the GDPR, you are entitled to the following rights against DataCite as a data subject:
 Right of access by the data subject (Art. 15 GDPR)
@@ -168,7 +174,7 @@ The exercise of these rights is in general free of charge.
 In addition, you are entitled to lodge a complaint regarding the handling of your personal data with a supervisory authority.
 
 
-### Privacy Policy Changes
+### 15. Privacy Policy Changes
 
 The DataCite Privacy Policy goes into effect as of April 18, 2019. Although most changes are likely to be minor, DataCite may change its Privacy Policy from time to time, and at DataCite’s sole discretion. DataCite encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
