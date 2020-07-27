@@ -20,7 +20,7 @@ If you find content on the DataCite’s website, support site, or blog, that you
 ### 1. DataCite -- Website, Support Site, Blog, and Services
 
 
-DataCite operates a website at https://datacite.org/, a support site at https://support.datacite.org/, blog at https://blog.datacite.org/, Fabrica, a DOI service, at https://doi.datacite.org/ and a Help Desk at support@datacite.org. It is DataCite’s policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on our please contact our support team.
+DataCite operates a website at [https://datacite.org/](https://datacite.org/), a support site at [https://support.datacite.org/](https://support.datacite.org/) , blog at [https://blog.datacite.org/](https://blog.datacite.org/), Fabrica, a DOI service, at [https://doi.datacite.org/](https://doi.datacite.org/) and a Help Desk at [support@datacite.org](support@datacite.org). It is DataCite’s policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on our please contact our support team.
 
 Controller in the meaning of Art. 4 No. 7 EU General Data Protection Regulation (GDPR) is:
 DataCite e.V.
@@ -107,7 +107,7 @@ For any commentary made using Disqus, DataCite will receive the following inform
 If you want to block the transmission and storage of your data and your behavior on our online services through Disqus, you must log out of your Disqus account before you visit our website and delete any cookies placed by Disqus.
 
 For more information visit: 
-https://help.disqus.com/customer/portal/articles/466187
+[https://help.disqus.com/customer/portal/articles/466187](https://help.disqus.com/customer/portal/articles/466187)
 
 Disqus´ contact details:
 Disqus Inc, 
@@ -115,7 +115,7 @@ Disqus Inc,
 CA 94105, USA
 
 Disqus´privacy policy: 
-https://help.disqus.com/customer/portal/articles/466259-privacy
+[https://help.disqus.com/customer/portal/articles/466259-privacy](https://help.disqus.com/customer/portal/articles/466259-privacy)
 
 ### 11. Email Communications
 
