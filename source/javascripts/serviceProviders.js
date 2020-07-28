@@ -262,13 +262,13 @@ function ServiceProvider() {
   const [isLoaded, setIsLoaded] = React.useState(false);
   const [items, setItems] = React.useState([]);
 
-  const cmsUrl = process.env.NODE_ENV == 'production' ? 'https://cms.datacite.org' : 'https://cms.stage.datacite.org';
+  const cmsUrl = 'https://cms.datacite.org';
 
   function ApiError(props) {
     this.status = props.status;
     this.message = props.statusText
     if (!this.message) {
-      if (this.status == 404) this.message = "Not found";
+      if (this.status == 404) this.message = "No data";
     }
   }
 
@@ -322,7 +322,7 @@ function ServiceProvider() {
 
   if (error) {
     return (
-      <div>Error: {error.message}</div>
+      <p><br/>{error.message}</p>
     )
   }
 
