@@ -23,14 +23,14 @@ DataCite Registered Service Providers will…
 - demonstrate that they have registered findable DOIs through their registration.
 - support the submission of metadata to DataCite that is compliant with DataCite Metadata Schema 4 or a more recent version. 
 - provide a secure means for their users to submit DataCite member credentials to them. Plain text over email is not considered secure.
-- provide information about the Service Provider and its service to DataCite. The following information will be provided:
-
-	- A designated contact for the purposes of troubleshooting and being informed about updates to DataCite services. This can be a group email address, e.g. info@service.org
-	- Basic metadata about their service for listing on the DataCite website.
-
-- do their best to adhere to the DataCite Best Practices for Service Providers document.
-- display the DataCite Service Provider badge on their website. 
+_ do their best to adhere to the DataCite Best Practices for Service Providers document.
+- display the DataCite Service Provider badge on their website.
 - provide front-line support to their users, escalating to DataCite support if necessary.
+
+DataCite Registered Service Providers will provide the following information to DataCite staff…
+
+- A designated contact for the purposes of troubleshooting and being informed about updates to DataCite services. This can be a group email address, e.g. info@service.org
+- Basic metadata about their service for listing on the DataCite website.
 
 DataCite Service Providers are encouraged to…
 
