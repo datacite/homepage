@@ -19,7 +19,7 @@ A DataCite Registered Service Provider is an organization that has integrated wi
 
 DataCite Registered Service Providers will…
 
-- integrate with either the REST API or the MDS API for their DOI registration services. 
+- have an existing integration with the REST API or the MDS API for their DOI registration services. Service Providers that do not yet have an integration should integrate with the REST API. 
 - demonstrate that they have registered findable DOIs through their registration.
 - support the submission of metadata to DataCite that is compliant with DataCite Metadata Schema 4 or a more recent version. 
 - provide a secure means for their users to submit DataCite member credentials to them. Plain text over email is not considered secure.
@@ -66,7 +66,7 @@ Service Providers will be asked to re-register with DataCite once a year. At the
 
 # Application process
 
-Service Providers can apply using the form on the website. DataCite staff will review the form and contact you within two weeks of applying to set up a verification call. If necessary, the DataCite board will be consulted.
+Service Providers can apply using [the application form](https://formstack.io/F45B4). DataCite staff will review the form and contact you within two weeks of applying to set up a verification call. If necessary, the DataCite board will be consulted.
 
 If the application is approved, you will be listed on the DataCite website and receive the Service Providers badge. Re-registration is done in January through a self-assessment. You will only be contacted by DataCite if there are questions about your re-registration.
 
