@@ -1,5 +1,5 @@
 ---
-title: Service Provider Requirements
+title: Service Provider Program
 layout: service-requirements
 ---
 
