@@ -268,7 +268,7 @@ function ServiceProvider() {
     this.status = props.status;
     this.message = props.statusText
     if (!this.message) {
-      if (this.status == 404) this.message = "No data";
+      if (this.status == 404) this.message = "Not found";
     }
   }
 
@@ -292,7 +292,7 @@ function ServiceProvider() {
           <h5>Country</h5>
           {getCountryName(item.Country)}
           <h5>Service Type</h5>
-          {item.ServiceType}
+          {startCase(item.ServiceType)}
           <h5>Service Audience</h5>
           {startCase(item.ServiceAudience)}
           <h5>Focus Area</h5>
@@ -322,7 +322,13 @@ function ServiceProvider() {
 
   if (error) {
     return (
-      <p><br/>{error.message}</p>
+      <p>Error: {error.message}</p>
+    )
+  }
+
+  if (items.length == 0) {
+    return (
+      <p>No service providers found.</p>
     )
   }
 
