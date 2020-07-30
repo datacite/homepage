@@ -117,6 +117,8 @@ community_links:
    url: /partners.html
  - name: Steering groups
    url: /steering.html
+ - name: Service providers
+   url: /service-providers.html
  - name: Roadmap
    url: /roadmap.html
 contact_links:
