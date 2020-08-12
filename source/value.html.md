@@ -3,6 +3,10 @@ title: DataCite's Value
 layout: service
 ---
 
+# What We Do 
+
+DataCite is a leading global non-profit organisation that provides persistent identifiers (DOIs) for research data and other research outputs. Organizations within the research community join DataCite as members to be able to assign DOIs to all their research outputs. This way, their outputs become discoverable and associated metadata is made available to the community. DataCite then develops additional services to improve the DOI management experience, making it easier for our members to connect and share their DOIs with the broader research ecosystem and to assess the use of their DOIs within that ecosystem. DataCite is an active participant in the research community and promotes data sharing and citation through community-building efforts and outreach activities.
+
 # Our Value for Members
 
 We want DataCite Members to be successful in achieving their repository management goals. We strive to provide value to our member institutions in the following ways: 
