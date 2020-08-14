@@ -69,7 +69,7 @@ production_links:
    icon: calendar-check-o
 about_links:
  - name: What we do
-   url: /mission.html
+   url: /value.html
  - name: Governance
    url: /governance.html
  - name: Members
