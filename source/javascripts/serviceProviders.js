@@ -303,7 +303,7 @@ function ServiceProvider() {
   }
 
   React.useEffect(() => {
-    fetch(cmsUrl + "/service-providers")
+    fetch(cmsUrl + "/service-providers?_sort=name:asc")
       .then((response) => {
         if (!response.ok) throw new ApiError(response);
         else return response.json();
