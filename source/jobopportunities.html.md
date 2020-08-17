@@ -40,4 +40,4 @@ Develop full-stack product features in an open source software environment, incl
 
 ## To apply
 
-Please send a resume and statement of interest to Martin Fenner \[mfenner@datacite.org](mailto:mfenner@datacite.org).  We only accept applications by individuals. Interviews will start on September 1st. Please don’t hesitate to contact us with any questions.
+Please send a resume and statement of interest to Martin Fenner [mfenner@datacite.org](mailto:mfenner@datacite.org). We only accept applications by individuals. Interviews will start on September 1st. Please don’t hesitate to contact us with any questions.
