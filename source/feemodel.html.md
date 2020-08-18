@@ -116,11 +116,11 @@ DOI Service Fees are based on the total annual revenue of the organization. The 
 <td>1500€</td>
 </tr>
 <tr>
-<td>&lt;100,000,000€</td>
+<td>&lt;1,000,000€</td>
 <td> 5,000€</td>
 </tr>
 <tr>
-<td>&gt;100,000,000€</td>
+<td>&gt;1,000,000€</td>
 <td>15,000€</td>
 </tr>
 </tbody>
