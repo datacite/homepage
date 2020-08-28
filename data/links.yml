@@ -122,9 +122,9 @@ community_links:
  - name: Roadmap
    url: /roadmap.html
 contact_links:
+ - name: Imprint
+   url: /imprint.html
  - name: Terms and conditions
    url: /terms.html
  - name: Privacy policy
    url: /privacy.html
- - name: Acknowledgements
-   url: /acknowledgments.html
