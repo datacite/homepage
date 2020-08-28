@@ -457,8 +457,24 @@ footer {
   border-top: 80px solid white;
 }
 
+footer .container-fluid {
+  background-color: #F7F9F9;
+}
+
+footer .container-fluid {
+  background-color: #F7F9F9;
+}
+
+footer a {
+  color: #939CA2;
+  font-size: 14px;
+}
+
 footer h4 {
-  color: gray;
+  color: #939CA2;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 15px;
 }
 
 table {
@@ -494,4 +510,17 @@ table.pricing {
 
 .thumbnail>img, .thumbnail a>img {
   max-height: 205px;
+}
+
+.footer a.share {
+  margin-right: 6px;
+  font-size: 27px;
+}
+
+.footer h4.share {
+  margin-bottom: 5px;
+}
+
+ul.contact {
+  margin-top: 15px;
 }
