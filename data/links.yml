@@ -1,72 +1,3 @@
-development_links:
- - name: API
-   url: http://localhost:8040
-   icon: cogs
- - name: Assets
-   url: http://localhost:8010
-   icon: file-image-o
- - name: Blog
-   url: http://localhost:8030
-   icon: rss
- - name: Event Data
-   url: http://localhost:8050
-   icon: link
- - name: Homepage
-   url: http://localhost:8060
-   icon: globe
- - name: Profiles
-   url: http://localhost:8080
-   icon: user
- - name: Schema
-   url: http://localhost:8020
-   icon: file-code-o
- - name: Search
-   url: http://localhost:8000
-   icon: search
-labs_links:
- - name: Profiles
-   url: https://profiles.labs.datacite.org
-   icon: user
- - name: Schema
-   url: http://schema.labs.datacite.org
-   icon: file-code-o
- - name: Search
-   url: https://search.labs.datacite.org
-   icon: search
-production_links:
- - name: Blog
-   url: https://blog.datacite.org
-   icon: rss
- - name: Citation Formatter
-   url: http://crosscite.org/citeproc/
-   icon: file-text-o
- - name: Content Resolver
-   url: http://data.datacite.org
-   icon: repeat
- - name: Homepage
-   url:
-   icon: globe
- - name: Event Data
-   url: https://eventdata.datacite.org
-   icon: link
- - name: MDS
-   url: https://mds.datacite.org
-   icon: database
- - name: OAI-PMH
-   url: http://oai.datacite.org
-   icon: table
- - name: Schema
-   url: http://schema.datacite.org
-   icon: file-code-o
- - name: Search
-   url: https://search.datacite.org
-   icon: search
- - name: Statistics
-   url: http://stats.datacite.org
-   icon: bar-chart
- - name: Status
-   url: http://status.datacite.org
-   icon: calendar-check-o
 about_links:
  - name: What we do
    url: /value.html
@@ -83,7 +14,7 @@ about_links:
 services_links:
  - name: Assign DOIs
    url: /dois.html
- - name: Find data
+ - name: Metadata search
    url: /search.html
  - name: Event data
    url: /eventdata.html
