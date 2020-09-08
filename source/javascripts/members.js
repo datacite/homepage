@@ -258,7 +258,7 @@ function getCountryName (countryCode) {
 }
 
 var xmlhttp = new XMLHttpRequest();
-var url = "https://api.datacite.org/providers?exclude-registration-agencies=true&page[size]=400";
+var url = "https://api.datacite.org/providers?member-type=consortium,direct_member,member_only&exclude-registration-agencies=true&page[size]=400";
 
 xmlhttp.onreadystatechange = function() {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
