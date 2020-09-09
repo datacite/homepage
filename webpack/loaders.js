@@ -22,6 +22,15 @@ const ESLintLoader = {
   }
 };
 
+const FileLoader = {
+  test: /\.(png|jpe?g|gif)$/i,
+  use: [
+    {
+      loader: 'file-loader',
+    },
+  ],
+};
+
 const CSSLoader = {
   test: /\.(sa|sc|c)ss$/,
   exclude: /node_modules/,
@@ -66,5 +75,6 @@ const CSSLoader = {
 module.exports = {
   JSLoader: JSLoader,
   ESLintLoader: ESLintLoader,
-  CSSLoader: CSSLoader
+  CSSLoader: CSSLoader,
+  FileLoader: FileLoader
 };

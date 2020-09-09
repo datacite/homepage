@@ -10,12 +10,14 @@ module.exports = {
     members: './source/javascripts/members.js',
     homepage: './source/stylesheets/homepage.scss',
     application: './source/stylesheets/application.scss',
+    doi: './source/stylesheets/doi.scss',
   },
   module: {
     rules: [
       loaders.JSLoader,
       loaders.ESLintLoader,
-      loaders.CSSLoader
+      loaders.CSSLoader,
+      loaders.FileLoader,
     ]
   },
   plugins: [
