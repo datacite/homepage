@@ -1,0 +1,61 @@
+/*doc
+---
+title: Alerts
+name: alerts
+category: Components
+---
+
+```html_example
+<div class="alert alert-success" role="alert">You successfully read this important alert message.</div>
+<div class="alert alert-info" role="alert">This alert needs your attention, but it&#39;s not super important.</div>
+<div class="alert alert-warning" role="alert">Better check yourself, you&#39;re not looking too good.</div>
+<div class="alert alert-danger" role="alert">Change a few things up and try submitting again.</div>
+<div class="alert alert-simple-info" role="alert">This alert is informational.</div>
+```
+*/
+
+.alert{
+    border: 0;
+    border-radius: 0;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    font-size: $font-size-base;
+
+    .container &{
+        border-radius: 4px;
+
+    }
+    .navbar &{
+        border-radius: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 85px;
+        width: 100%;
+        z-index: 3;
+    }
+    .navbar:not(.navbar-transparent) &{
+        top: 70px;
+    }
+}
+.alert-info{
+    background-color: $bg-info;
+    color: $info-states-color;
+}
+.alert-success {
+    background-color: $bg-success;
+    color: $success-states-color;
+}
+.alert-warning {
+    background-color: $bg-warning;
+    color: $warning-states-color;
+}
+.alert-danger {
+    background-color: $bg-danger;
+    color: $danger-states-color;
+}
+.alert-simple-info {
+  background-color: transparent;
+  color: $default-color;
+  padding: 0 0 0 10px;
+}

@@ -1,0 +1,181 @@
+/*doc
+---
+title: Colors
+name: colors
+category: Globals
+---
+
+<div class="row">
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#1abc9c">
+      <div class="caption">
+        <h4 style="color:white">turquoise</h4>
+        <p style="color:white">#1abc9c</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#2ecc71">
+      <div class="caption">
+        <h4 style="color:white">emerald</h4>
+        <p style="color:white">#2ecc71</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#3498db">
+      <div class="caption">
+        <h4 style="color:white">peter-river</h4>
+        <p style="color:white">#3498db</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#9b59b6">
+      <div class="caption">
+        <h4 style="color:white">amethyst</h4>
+        <p style="color:white">#9b59b6</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#f1c40f">
+      <div class="caption">
+        <h4 style="color:white">sun-flower</h4>
+        <p style="color:white">#f1c40f</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#e67e22">
+      <div class="caption">
+        <h4 style="color:white">carrot</h4>
+        <p style="color:white">#e67e22</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#e74c3c">
+      <div class="caption">
+        <h4 style="color:white">alizarin</h4>
+        <p style="color:white">#e74c3c</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#f4f6f7">
+      <div class="caption">
+        <h4>clouds</h4>
+        <p>#f4f6f7</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#bfc5c9">
+      <div class="caption">
+        <h4 style="color:white">silver</h4>
+        <p style="color:white">#bfc5c9</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#6c797a">
+      <div class="caption">
+        <h4 style="color:white">asbestos</h4>
+        <p style="color:white">#6c797a</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="thumbnail" style="background-color:#34495e">
+      <div class="caption">
+        <h4 style="color:white">wet-asphalt</h4>
+        <p style="color:white">#34495e</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+*/
+
+/*      light colors - used for select dropdown         */
+
+$white-color:                #FFFFFF !default;
+$white-bg:                   #FFFFFF !default;
+
+$smoke-bg:                   #F5F5F5 !default;
+$pale-bg:                    #FFFCF5 !default;
+$medium-pale-bg:             #F1EAE0 !default;
+
+$black-bg:                   rgba(30,30,30,.97) !default;
+
+$black-color:                #333333 !default;
+$black-hr:                   #444444 !default;
+
+$lighter-gray:               #F4F5F5 !default;
+$light-gray:                 #E3E3E3 !default;
+$medium-gray:                #DDDDDD !default;
+$dark-gray:                  #9A9A9A !default;
+$darker-gray:                darken($medium-gray, 40%) !default;
+
+$gray-input-bg:              lighten($lighter-gray, 2%) !default;
+$danger-input-bg:            #FFC0A4 !default;
+$success-input-bg:           #ABF3CB !default;
+$other-medium-gray:          #A49E93 !default;
+$transparent-bg:             transparent !default;
+
+$default-color:              #66615B !default;
+$default-bg:                 #66615B !default;
+$default-states-color:       #403D39 !default;
+
+$primary-color:              #7A9E9F !default;
+$primary-bg:                 #7A9E9F !default;
+$primary-states-color:       #427C89 !default;
+
+$success-color:              #7AC29A !default;
+$success-bg:                 #7AC29A !default;
+$success-states-color:       #42A084 !default;
+
+$info-color:                 #68B3C8 !default;
+$info-bg:                    #68B3C8 !default;
+$info-states-color:          #3091B2 !default;
+
+$warning-color:              #F3BB45 !default;
+$warning-bg:                 #F3BB45 !default;
+$warning-states-color:       #BB992F !default;
+
+$danger-color:               #EB5E28 !default;
+$danger-bg:                  #EB5E28 !default;
+$danger-states-color:        #B33C12 !default;
+
+$link-disabled-color:        #666666 !default;
+
+$light-blue:                 rgba($primary-color, .2);
+$light-azure:                rgba($info-color, .2);
+$light-green:                rgba($success-color, .2);
+$light-orange:               rgba($warning-color, .2);
+$light-red:                  rgba($danger-color, .2);
+
+$white-navbar:              rgba(#FFFFFF, .96);
+$blue-navbar:               rgba(#34ACDC, .98);
+$azure-navbar:              rgba(#5BCAFF, .98);
+$green-navbar:              rgba(#4CD964, .98);
+$orange-navbar:             rgba(#FF9500, .98);
+$red-navbar:                rgba(#FF4C40, .98);
+
+$bg-nude:               #FFFCF5 !default;
+$bg-primary:            #8ECFD5 !default;
+$bg-info:               #7CE4FE !default;
+$bg-success:            #8EF3C5 !default;
+$bg-warning:            #FFE28C !default;
+$bg-danger:             #FF8F5E !default;
+
+$filter-blue:         darken($primary-color, 10%);
+$filter-azure:        darken($info-color, 10%);
+$filter-green:        darken($success-color, 10%);
+$filter-orange:       darken($warning-color, 10%);
+$filter-red:          darken($danger-color, 10%);

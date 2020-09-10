@@ -11,6 +11,7 @@ module.exports = {
     homepage: './source/stylesheets/homepage.scss',
     application: './source/stylesheets/application.scss',
     doi: './source/stylesheets/doi.scss',
+    datacite: './source/stylesheets/datacite.scss',
   },
   module: {
     rules: [
