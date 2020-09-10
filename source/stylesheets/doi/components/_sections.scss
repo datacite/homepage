@@ -48,13 +48,14 @@
     margin-top: 0;
     text-align: center;
   }
-  .icon {
-    font-size: 2.5em;
+}
 
-    [class^="fa-"], [class*=" fa-"] {
-      display: inline-block;
-      width: 100%;
-    }
+.icon {
+  font-size: 2.5em;
+
+  [class^="fa-"], [class*=" fa-"] {
+    display: inline-block;
+    margin: 0 auto;
   }
 }
 
