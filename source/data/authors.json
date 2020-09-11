@@ -1,0 +1,374 @@
+{
+  "datacite": {
+    "name": "DataCite",
+    "type": "Organization"
+  },
+  "mfenner": {
+    "name": "Martin Fenner",
+    "given": "Martin",
+    "family": "Fenner",
+    "bio": "DataCite Technical Director",
+    "orcid": "https://orcid.org/0000-0003-1419-2405",
+    "email": "mfenner@datacite.org",
+    "image_url": "https://www.gravatar.com/avatar/434592a097e91261792ebd6b492042bc?s=250&d=mm&r=x",
+    "twitter": "mfenner",
+    "github": "mfenner"
+  },
+  "lrueda": {
+    "name": "Laura Rueda",
+    "given": "Laura",
+    "family": "Rueda",
+    "bio": "DataCite Communications Director",
+    "orcid": "https://orcid.org/0000-0001-5952-7630",
+    "email": "laura.rueda@datacite.org",
+    "image_url": "/images/lrueda.jpg"
+  },
+  "tcruse": {
+    "name": "Trisha Cruse",
+    "given": "Patricia",
+    "family": "Cruse",
+    "bio": "DataCite Executive Director",
+    "orcid": "https://orcid.org/0000-0002-9300-5278",
+    "github": "pcruse",
+    "email": "patricia.cruse@datacite.org",
+    "image_url": "/images/cruse.jpg"
+  },
+  "kgarza": {
+    "name": "Kristian Garza",
+    "given": "Kristian",
+    "family": "Garza",
+    "bio": "DataCite Application Developer",
+    "orcid": "https://orcid.org/0000-0003-3484-6875",
+    "github": "kjgarza",
+    "email": "kgarza@datacite.org",
+    "image_url": "/images/kristian.png"
+  },
+  "rhallett": {
+    "name": "Richard Hallett",
+    "given": "Richard",
+    "family": "Hallett",
+    "bio": "DataCite Application Developer",
+    "orcid": "https://orcid.org/0000-0002-8599-0773",
+    "github": "richardhallett",
+    "email": "rhallett@datacite.org",
+    "image_url": "/images/rhallett.png"
+  },
+    "rdasler": {
+    "name": "Robin Dasler",
+    "given": "Robin",
+    "family": "Dasler",
+    "bio": "DataCite Product Manager",
+    "orcid": "https://orcid.org/0000-0002-4695-7874",
+    "github": "daslerr",
+    "email": "robin.dasler@datacite.org",
+    "image_url": "/images/robin.png"
+  },
+  "bdreyer": {
+    "name": "Britta Dreyer",
+    "given": "Britta",
+    "family": "Dreyer",
+    "bio": "DataCite Business Manager",
+    "orcid": "https://orcid.org/0000-0002-0687-5460",
+    "github": "brittadreyer",
+    "image_url": "/images/bdreyer.png"
+  },
+  "hcousijn": {
+    "name": "Helena Cousijn",
+    "given": "Helena",
+    "family": "Cousijn",
+    "bio": "DataCite Director of Community Engagement and Communications",
+    "orcid": "https://orcid.org/0000-0001-6660-6214",
+    "github": "hcousijn",
+    "image_url": "/images/hcousijn.png"
+  },
+  "jbrase": {
+    "name": "Jan Brase",
+    "given": "Jan",
+    "family": "Brase",
+    "bio": "Head of Research and Development, SUB Goettingen",
+    "orcid": "https://orcid.org/0000-0002-8250-6253",
+    "image_url": "/images/jbrase.jpg"
+   },
+  "fziedorn": {
+    "name": "Frauke Ziedorn",
+    "given": "Frauke",
+    "family": "Ziedorn",
+    "bio": "Research Data Management Consultant, TIB Hannover",
+    "orcid": "https://orcid.org/0000-0002-1143-781X",
+    "image_url": "/images/fziedorn.jpg"
+   },
+  "mhirsch": {
+    "name": "Mary Hirsch",
+    "given": "Mary",
+    "family": "Hirsch",
+    "bio": "DataCite Member Support Manager",
+    "orcid": "https://orcid.org/0000-0002-6628-8225",
+    "github": "maryhirsch",
+    "image_url": "/images/mhirsch.jpg"
+  },
+  "rlammey": {
+    "name": "Rachael Lammey",
+    "given": "Rachael",
+    "family": "Lammey",
+    "bio": "Crossref Head of Community Outreach",
+    "orcid": "https://orcid.org/0000-0001-5800-1434",
+    "github": "rlammey",
+    "image_url": "/images/rlammey.jpg"
+  },
+  "ameadows": {
+    "name": "Alice Meadows",
+    "given": "Alice",
+    "family": "Meadows",
+    "bio": "ORCID Director of Communications",
+    "orcid": "https://orcid.org/0000-0003-2161-3781",
+    "image_url": "/images/ameadows.jpg"
+  },
+  "mgould": {
+    "name": "Maria Gould",
+    "given": "Maria",
+    "family": "Gould",
+    "bio": "Research Data Specialist & Product Manager",
+    "orcid": "http://orcid.org/0000-0002-2916-3423",
+    "image_url": "/images/mariagould.png"
+   }, 
+  "jstarr": {
+    "name": "Joan Starr",
+    "given": "Joan",
+    "family": "Starr",
+    "bio": "EZID Service Manager",
+    "twitter": "joan_starr",
+    "orcid": "https://orcid.org/0000-0002-7285-027X",
+    "image_url": "/images/jstarr.png"
+  },
+  "dlowenberg": {
+    "name": "Daniella Lowenberg",
+    "given": "Daniella",
+    "family": "Lowenberg",
+    "bio": "Research Data Specialist and Product Manager California Digital Library",
+    "orcid": "https://orcid.org/0000-0003-2255-1869",
+    "image_url": "/images/dl.jpg"
+  },
+  "abudden": {
+    "name": "Amber Budden",
+    "given": "Amber",
+    "family": "Budden",
+    "bio": "Director for Community Engagement and Outreach at DataONE",
+    "orcid": "https://orcid.org/0000-0003-2885-3980",
+    "image_url": "/images/abudden.jpg"
+  },
+  "ssanone": {
+    "name": "Susanna Sansone",
+    "given": "Susanna",
+    "family": "Sansone",
+    "bio": "Associate Director, Oxford e-Research Centre",
+    "orcid": "https://orcid.org/0000-0001-5306-5690",
+ },
+  "pmcquilton": {
+    "name": "Peter McQuilton",
+    "given": "Peter",
+    "family": "McQuilton",
+    "bio": "FAIRsharing Coordinator, Oxford e-Research Centre",
+    "orcid": "https://orcid.org/0000-0003-2687-1982",
+  },
+  "jlin": {
+    "name": "Jennifer Lin",
+    "given": "Jennifer",
+    "family": "Lin",
+    "bio": "CrossRef Director of Product Management",
+    "email": "jlin@crossref.org",
+    "twitter": "jenniferlin15",
+    "orcid": "https://orcid.org/0000-0002-9680-2328",
+    "image_url": "/images/jlin.jpg"
+  },
+  "mwitt": {
+    "name": "Michael Witt",
+    "given": "Michael",
+    "family": "Witt",
+    "bio": "Head of the Distributed Data Curation Center, Purdue University",
+    "orcid": "https://orcid.org/0000-0003-4221-7956",
+    "image_url": "/images/mwitt.jpg"
+  },
+  "hpampel": {
+    "name": "Heinz Pampel",
+    "given": "Heinz",
+    "family": "Pampel",
+    "bio": "#OpenAccess: http://oa.helmholtz.de, e-Infrastructures for #OpenScience: http://re3data.org , Innovations in Scholarly Communication: http://wisspub.net",
+    "orcid": "https://orcid.org/0000-0003-3334-2771",
+    "email": "heinz.pampel@gfz-potsdam.de",
+    "twitter": "pampel",
+    "image_url": "/images/hpampel.jpeg"
+  },
+  "ehull": {
+    "name": "Elizabeth Hull",
+    "given": "Elizabeth",
+    "family": "Hull",
+    "bio": "Operations Manager at Dryad",
+    "orcid": "https://orcid.org/0000-0002-8661-6265",
+    "email": "ehull@datadryad.org",
+    "twitter": "datadryad",
+    "image_url": "/images/ehull.jpg"
+  },
+  "ecastro": {
+    "name": "Eleni Castro",
+    "given": "Eleni",
+    "family": "Castro",
+    "bio": "Research Coordinator, Data Curation and Outreach at IQSS, Harvard University",
+    "orcid": "https://orcid.org/0000-0001-9767-8536",
+    "email": "ecastro@fas.harvard.edu",
+    "twitter": "dataverseorg",
+    "image_url": "/images/ecastro.png"
+  },
+  "danielskatz": {
+    "name": "Daniel S. Katz",
+    "given": "Daniel S.",
+    "family": "Katz",
+    "bio": "Assistant Director for Scientific Software and Applications at NCSA, Research Associate Professor at the University of Illinois Urbana-Champaign",
+    "orcid": "https://orcid.org/0000-0001-5934-7525",
+    "twitter": "danielskatz",
+    "image_url": "https://secure.gravatar.com/avatar/3f59e90625547fce79de3e9c0d46867d"
+  },
+  "larsjuhljensen": {
+    "name": "Lars Juhl Jensen",
+    "given": "Lars Juhl",
+    "family": "Jensen",
+    "bio": "Research professor at the Novo Nordisk Foundation Center for Protein Research in Copenhagen where he heads a disease systems biology group.",
+    "orcid": "https://orcid.org/0000-0001-7885-715X",
+    "twitter": "larsjuhljensen",
+    "image_url": "/images/larsjuhljensen.jpg"
+  },
+  "lhaak": {
+    "name": "Laure Haak",
+    "given": "Laure",
+    "family": "Haak",
+    "bio": "ORCID Executive Director.",
+    "orcid": "https://orcid.org/0000-0001-5109-3700",
+    "image_url": "/images/lhaak.png"
+  },
+  "epentz": {
+    "name": "Ed Pentz",
+    "given": "Ed",
+    "family": "Pentz",
+    "bio": "Crossref Executive Director.",
+    "orcid": "https://orcid.org/0000-0002-5993-8592",
+    "image_url": "/images/epentz.png"
+  },
+  "ghendricks": {
+    "name": "Ginny Hendricks",
+    "given": "Ginny",
+    "family": "Hendricks",
+    "bio": "Crossref Director of Member & Community Outreach.",
+    "orcid": "https://orcid.org/0000-0002-0353-2702",
+    "image_url": "/images/ghendricks.png"
+  },
+  "abirukou": {
+    "name": "Aliaksandr Birukou",
+    "given": "Aliaksandr",
+    "family": "Birukou",
+    "bio": "Executive Editor for Computer Science at SpringerNature.",
+    "orcid": "https://orcid.org/0000-0002-4925-9131",
+    "image_url": "/images/abirukou.png"
+  },
+  "lnielsen": {
+    "name": "Lars Holm Nielsen",
+    "given": "Lars Holm",
+    "family": "Nielsen",
+    "bio": "Zenodo Project Leader at CERN.",
+    "orcid": "https://orcid.org/0000-0001-8135-3489",
+    "image_url": "/images/larsholmnielsen.jpeg"
+  },
+  "arfon": {
+    "name": "Arfon Smith",
+    "given": "Arfon",
+    "family": "Smith",
+    "bio": "Head of the Data Science Mission Office at Space Telescope Science Institute.",
+    "orcid": "https://orcid.org/0000-0002-3957-2474",
+    "image_url": "/images/arfon.png"
+  },
+  "jchodacki": {
+    "name": "John Chodacki",
+    "given": "John",
+    "family": "Chodacki",
+    "bio": "Director of the University of California Curation Center (UC3) at California Digital Library (CDL).",
+    "orcid": "https://orcid.org/0000-0002-7378-2408",
+    "image_url": "/images/jchodacki.jpg"
+  },
+  "thabermann": {
+    "name": "Ted Habermann",
+    "given": "Ted",
+    "family": "Habermann",
+    "bio": "Director of Business and Community Development for The HDF Group.",
+    "orcid": "https://orcid.org/0000-0003-3585-6733",
+    "image_url": "/images/thabermann.jpg"
+  },
+  "aaryani": {
+    "name": "Amir Aryani",
+    "given": "Amir",
+    "family": "Aryani",
+    "bio": "Head, Social Data Analytics Lab, Swinburne University",
+    "orcid": "https://orcid.org/0000-0002-4259-9774",
+    "image_url": "/images/aaryani.png"
+  },
+  "nnoy": {
+    "name": "Natasha Noy",
+    "given": "Natasha",
+    "family": "Noy",
+    "bio": "Research Scientist at Google AI.",
+    "image_url": "/images/nnoy.jpg"
+  },
+  "jashton": {
+    "name": "Jan Ashton",
+    "bio": "British Library"
+  },
+  "abarton": {
+    "name": "Amy Barton",
+    "bio": "Purdue University Library"
+  },
+  "aciolek": {
+    "name": "Anne Ciolek-Figiel",
+    "bio": "Inist-CNRS"
+  },
+  "sdietiker": {
+    "name": "Stefanie Dietiker",
+    "bio": "ETH Zurich (New)"
+  },
+  "jelliott": {
+    "name": "Jannean Elliott",
+    "bio": "DOE/OSTI"
+  },
+  "kharzenetter": {
+    "name": "Karoline Harzenetter",
+    "bio": "GESIS"
+  },
+  "bhirschmann": {
+    "name": "Barbara Hirschmann",
+    "bio": "ETH Zurich (Departing)"
+  },
+  "bgenat": {
+    "name": "Berrit Genat",
+    "bio": "TIB"
+  },
+  "jmailloux": {
+    "name": "Jean-Yves Mailloux",
+    "bio": "NRC/CISTI"
+  },
+  "msmaele": {
+    "name": "Madeleine de Smaele",
+    "given": "Madeleine",
+    "family": "de Smaele",
+    "bio": "TU Delft",
+    "orcid": "https://orcid.org/0000-0002-8963-3415",
+    "image_url": "/images/msmaele.jpg"
+  },
+  "myahia": {
+    "name": "Mohamed Yahia",
+    "bio": "Inist-CNRS"
+  },
+  "afarquhar": {
+    "name": "Adam Farquhar",
+    "bio": "British Library"
+  },
+  "tbradford": {
+    "name": "Tina Bradford",
+    "bio": "NRC/CISTI (New)"
+  }
+}
