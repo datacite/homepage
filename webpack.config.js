@@ -8,6 +8,8 @@ module.exports = {
     blog: './source/javascripts/blog.js',
     serviceProviders: './source/javascripts/serviceProviders.js',
     members: './source/javascripts/members.js',
+    consent: './source/javascripts/consent.js',
+    ga: './source/javascripts/ga.js',
     homepage: './source/stylesheets/homepage.scss',
     application: './source/stylesheets/application.scss',
     doi: './source/stylesheets/doi.scss',
