@@ -8,15 +8,17 @@ import ReactDOM from 'react-dom';
 import CookieConsent from 'react-cookie-consent'
 
 const e = React.createElement;
+const domContainer = document.querySelector('#consent');
 
 function Consent() {
   let domain = 'localhost'
+  const cdnUrl = domContainer.attributes.getNamedItem("data-cdn-url").value;
   if (
-    process.env.CDN_URL === 'https://datacite.org'
+    cdnUrl === 'https://datacite.org'
   ) {
     domain = '.datacite.org'
   } else if (
-    process.env.CDN_URL === 'https://www.stage.datacite.org'
+    cdnUrl === 'https://www.stage.datacite.org'
   ) {
     domain = '.stage.datacite.org'
   }
@@ -49,5 +51,4 @@ function Consent() {
   )
 }
 
-const domContainer = document.querySelector('#consent');
 ReactDOM.render(e(Consent), domContainer);
