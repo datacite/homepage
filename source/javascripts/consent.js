@@ -8,24 +8,28 @@ import ReactDOM from 'react-dom';
 import CookieConsent from 'react-cookie-consent'
 
 const e = React.createElement;
-const domContainer = document.querySelector('#consent');
 
 function Consent() {
-  let domain = 'localhost'
-  const cdnUrl = domContainer.attributes.getNamedItem("data-cdn-url").value;
-  if (
-    cdnUrl === 'https://datacite.org'
-  ) {
-    domain = '.datacite.org'
-  } else if (
-    cdnUrl === 'https://www.stage.datacite.org'
-  ) {
-    domain = '.stage.datacite.org'
+  let domain = 'localhost';
+  let hostname = window.location.hostname.split('.');
+  switch (hostname.length) {
+    case 1:
+      domain = 'localhost';
+      break;
+    case 2:
+    case 3:
+      domain = '.datacite.org';
+      break;
+    case 4:
+      domain = '.stage.datacite.org';
   }
+
+  const cookieStyle = { fontSize: '16px', height: '90px' }
+  const linkStyle = { color: '#fecd23' }
 
   return (
     <CookieConsent
-      containerClasses="consent-cookie"
+      style={cookieStyle}
       location="bottom"
       buttonText="Accept"
       declineButtonText="Reject"
@@ -40,7 +44,7 @@ function Consent() {
       selecting “Reject”. Please see our{' '}
       <a
         href="https://datacite.org/privacy.html"
-        className="consent-link"
+        style={linkStyle}
         target="_blank"
         rel="noreferrer"
       >
@@ -51,4 +55,5 @@ function Consent() {
   )
 }
 
+const domContainer = document.querySelector('#consent');
 ReactDOM.render(e(Consent), domContainer);
