@@ -66,15 +66,16 @@ However, we realize that not all content is hosted in repositories and therefore
 
 The repository information provided will be used and displayed throughout DataCite services including search, data usage statistics, Member DOI statistics, and third-party indexing services.
 
+
+# How to join DataCite ?
+
+If you are interested in a DataCite membership please send an enquiry via the [enquiry form](/membership-enquiry.html) and we will get in touch with you. You can also send a direct application using the [membership application form](/membership-application.html).
+
+
 # More information
+
+* [DataCite Statutes](/documents/statutes.html)
 
 * [Fee Model](/feemodel.html)
 
 * [Membership FAQ](https://support.datacite.org/docs/general)
-
-
-# How to join DataCite ?
-
-If you are interested in a DataCite membership please send an email to [support@datacite.org](mailto:support@datacite.org) and we will get in touch with you.
-
-- [DataCite Statutes](/documents/statutes.html)
