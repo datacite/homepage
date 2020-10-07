@@ -49,13 +49,49 @@ For more information, please read the following sections on data processing, in 
 
 ### 4. Cookies
 
+#### 4.1 General information
+
 When you use our website, cookies are also stored on your computer. Cookies are small text data files which are stored on your hard drive and attributed to the browser you are using and with which the place which sets the cookie (in this case, us) receives certain information. Cookies cannot execute any programs or transfer viruses to your computer. They serve the purpose of making the internet offering in general more user friendly and effective.
+
 We use so-called technically necessary cookies on our website. Technically necessary cookies are cookies that are necessary for our website to function correctly. They help to make our website usable by enabling basic functions such as page navigation and access to secure areas of the website.
+
+You can also prevent the storage of cookies with a corresponding setting in your browser software. If you prevent the storage of cookies, we wish to point out that you may not be able to fully use this website.
+
+If you agree, technically not necessary cookies will be used in context with the use of Google Analytics. You will find more detailed information on this in sections 5.
+
+#### 4.2 Detailed information on the cookies used on this website
+
+| Name  | Function | Expiry |
+| ------------- | ------------- | ------------- |
+| Consent Cookie | Technically Necessary | 365 days |
+| Authentication Cookie | Technically Necessary | 30 days |
+| Google Analytics | Statistics  | 1 year |
+
+#### 4.3 Legal basis 
+
 The legal basis for the use of technically necessary cookies is Art. 6 No. 1 lit. f GDPR.
 
+If you have given your consent to the use of technically not necessary cookies, the legal basis for the use of these cookies is Art. 6 No. 1 lit. a GDPR. The consent can be revoked at any time with effect for the future.
 
+### 5. Google Analytics
 
-### 5. DataCite Members, Consortium Organizations & Repositories
+If you have given your consent, DataCite uses Google Analytics to analyze and optimize the use of the website. We use the obtained statistics to improve our offering and design it so that it is more interesting for you as the user. 
+
+Google Analytics employs so-called “cookies“, text files that are stored to your computer in order to facilitate an analysis of your use of the site. The information about your use of this website produced by the cookie is normally transmitted to and stored on a server of Google in the USA.  Recipient of the collected data is Google. In the case of activation of IP anonymization on this website, however, your IP address is first abbreviated within the Member States of the European Union or in other member countries to the Convention on the European Economic Area. The full IP address is only transmitted to and stored on a server of Google in the USA in exceptional situations. At the instruction of the Operator of this website, Google will use this information to analyze your use of the website and compile reports about website activity.
+
+The legal basis for the use of Google Analytics is Art. 6 No. 1 lit. a GDPR
+
+You can revoke your consent at any time with effect for the future by preventing the storage of cookies with a corresponding setting in your browser software; however, we would like to point out that in this case you may not be able to use all functions of this website to their full extent.
+
+You can also prevent the collection of the data produced by the cookie that relates to your use of the website (incl. your IP address) with regard to Google as well as the processing of these data by Google by downloading and installing the browser-Add-on available at the following link: https://tools.google.com/dlpage/gaoptout?hl=de. Alternatively to the browser add-on, especially for browsers on mobile devices, you can prevent the collection of your data by clicking on the following link: Opt-Out Cookie. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you will have to set the opt-out cookie again. To prevent Google Analytics from collecting data across multiple devices, you must opt-out on all devices.
+
+We use Google Analytics with the expanded "_anonymizeIp()". This results in IP addresses being further processed in abbreviated form so that a connection to an individual can accordingly be precluded.
+
+In exceptional situations in which personal data are transmitted to the USA, Google has submitted to the EU-US Privacy Shield, https://www.privacyshield.gov/EU-US-Framework. 
+
+Information on the third party provider: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, telefax: +353 (1) 436 1001. Terms and Conditions for Use: https://policies.google.com/terms?hl=en, overview of data privacy: https://policies.google.com/?hl=en&gl=de, as well as the data privacy statement: https://policies.google.com/privacy?hl=en&gl=de.
+
+### 6. DataCite Members, Consortium Organizations & Repositories
 
 If you become a member of DataCite or Consortium Organization (previously referred to as Clients), we ask for contact information (name and email and billing address) to fulfill our business obligations -- contacts include service, technical, voting, and billing contacts. The service contact receives general information about service status and new services. The technical contact is notified of service changes and infrastructure outages. The voting contact receives information pertaining to DataCite’s governance duties; board elections, statute changes, and budget approval. The billing contact receives annual invoices for membership and DOI service fees. We log membership contact and billing information to our Customer Relationship Management (CRM) system, Salesforce. Salesforce fully complies with current privacy regulations.
 
@@ -66,18 +102,18 @@ Depending on the type of DataCite services used, your organization contact may r
 Legal basis for the processing of these data in order to contact a member or an organization is Art. 6 No. 1 lit. a GDPR.
 
 
-### 6. Fabrica 
+### 7. Fabrica 
 
 Fabrica is DataCite’s service used by DataCite members to create and assign DOIs and associated metadata. The service relies on cookies for use. Fabrica is not a public facing service and those using Fabrica must have an account. Fabrica also collects information about users of the service, including names and emails. This information is used to administer the service.
 
 Legal basis for the processing of these data is Art. 6 No. 1 lit. b, f GDPR.
  
 
-### 7. Support Site
+### 8. Support Site
 
 DataCite maintains a support site to help the DataCite community understand and use our services. All of DataCite’s support content is on readme.io platform. readme.io fully complies with current privacy regulations.
 
-### 8. DataCite’s Metadata and Identifiers
+### 9. DataCite’s Metadata and Identifiers
 
 As part of our services of registering DOIs, we also collect associated metadata. All of DataCite’s metadata and Identifiers registered with DataCite are made available for reuse without restriction through our public APIs and search interfaces. We are open and transparent about the use of our identifiers and metadata.
 
@@ -87,12 +123,12 @@ If you are a consumer of our metadata and identifiers and identify yourself in A
 Legal basis for the processing of these data is Art. 6 No. 1 lit. b, f GDPR.
 
 
-### 9. Using Datacite’s Help Desk
+### 10. Using Datacite’s Help Desk
 
 If you send a message to our [Help Desk](mailto:support@datacite.org) a “ticket” along with your email will be logged in our ticketing system, Frontapp. DataCite will not use contact information to resolve questions and any details provided during a support conversation are kept private. From time to time DataCite will add your email to an appropriate mailing list for additional information. Individuals may remove themselves from mailings by following the unsubscribe link provided in every DataCite email. Frontapp fully [complies](https://help.frontapp.com/t/m22vyb/is-front-compliant-with-gdpr) with current privacy regulations. 
 
 
-### 10. Comments on DataCite’s Blog
+### 11. Comments on DataCite’s Blog
 
 Readers of the DataCite’s Blog can submit comments on each post. DataCite uses a platform called Disqus. Disqus is an online service provider, which provides a centralized discussion platform for websites allowing our visitors to post comments on our blog. You can control your privacy settings with a Disqus account.
 
@@ -117,7 +153,7 @@ CA 94105, USA
 Disqus´privacy policy: 
 [https://help.disqus.com/customer/portal/articles/466259-privacy](https://help.disqus.com/customer/portal/articles/466259-privacy)
 
-### 11. Email Communications
+### 12. Email Communications
 
 DataCite uses email to communicate with DataCite members and users of our services. Email is either personal interaction or via Google Groups. DataCite sends – on the legal basis of Art. 6 No. 1 lit. f) GDPR - occasional service updates that we believe will be useful to individuals that subscribe to Google Groups. 
 
@@ -125,18 +161,15 @@ Legal basis for processing personal data to send you our newsletter is Art. 6 No
 
 Individuals may remove themselves from mailings by following the unsubscribe link provided in every DataCite email. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
 
-Aggregated Statistics
 
-DataCite may collect statistics about the behavior of visitors to its website. For instance, DataCite may monitor the most popular pages, support articles, and blog posts on the sites. DataCite may display this information publicly or provide it to others. However, DataCite does not disclose personally-identifying information other than described in the _Protection of Information_ section below.
-
-### 12. Aggregated Statistics
+### 13. Aggregated Statistics
 
 DataCite may, with the visitors´ prior consent, collect statistics about the behavior of visitors to its website. For instance, DataCite may monitor the most popular pages, support articles, and blog posts on the sites. DataCite may display this information publicly or provide it to others. However, DataCite does not disclose personal data other than described in the Protection of Information section below.
 
 Legal basis for processing personal data for statistic purpose is Art. 6 No. 1 lit. a GPDR.
 
 
-### 13. Protection of Information
+### 14. Protection of Information
 
 DataCite discloses personal data only to those of its employees, contractors and affiliated organizations 
 
@@ -148,7 +181,7 @@ DataCite will not rent or sell personal data to anyone. Other than to its employ
 
 DataCite takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of personal data .
 
-### 14. Your rights
+### 15. Your rights
 
 According to the GDPR, you are entitled to the following rights against DataCite as a data subject:
 Right of access by the data subject (Art. 15 GDPR)
@@ -174,7 +207,7 @@ The exercise of these rights is in general free of charge.
 In addition, you are entitled to lodge a complaint regarding the handling of your personal data with a supervisory authority.
 
 
-### 15. Privacy Policy Changes
+### 16. Privacy Policy Changes
 
 The DataCite Privacy Policy goes into effect as of April 18, 2019. Although most changes are likely to be minor, DataCite may change its Privacy Policy from time to time, and at DataCite’s sole discretion. DataCite encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
