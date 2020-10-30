@@ -209,5 +209,5 @@ In addition, you are entitled to lodge a complaint regarding the handling of you
 
 ### 16. Privacy Policy Changes
 
-The DataCite Privacy Policy goes into effect as of April 18, 2019. Although most changes are likely to be minor, DataCite may change its Privacy Policy from time to time, and at DataCite’s sole discretion. DataCite encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+The DataCite Privacy Policy goes into effect as of October 20, 2020. Although most changes are likely to be minor, DataCite may change its Privacy Policy from time to time, and at DataCite’s sole discretion. DataCite encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
