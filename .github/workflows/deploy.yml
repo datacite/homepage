@@ -7,30 +7,30 @@ jobs:
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     steps:
-        - uses: actions/checkout@v2
-        - uses: actions/setup-ruby@v1
-          with:
-            ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
-        - name: Build and test
-        - run: | 
-            gem install bundler -v 1.17.3
-            bundle install --jobs 4 --retry 3
-            yarn install --non-interactive
-            wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
-            sudo dpkg -i pandoc-1.19.2.1-1-amd64.deb
-            rm pandoc-1.19.2.1-1-amd64.deb
-            
-        - name: Test
-          run: |
-            bundle exec middleman build -e $RACK_ENV
-            bundle exec htmlproofer --http-status-ignore "999,403" --allow-hash-href --empty_alt_ignore --only-4xx ./build
+      - uses: actions/checkout@v2
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+      - name: Build and test
+      - run: | 
+          gem install bundler -v 1.17.3
+          bundle install --jobs 4 --retry 3
+          yarn install --non-interactive
+          wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+          sudo dpkg -i pandoc-1.19.2.1-1-amd64.deb
+          rm pandoc-1.19.2.1-1-amd64.deb
+          
+      - name: Test
+        run: |
+          bundle exec middleman build -e $RACK_ENV
+          bundle exec htmlproofer --http-status-ignore "999,403" --allow-hash-href --empty_alt_ignore --only-4xx ./build
 
-        - name: Deploy
-          uses: reggionick/s3-deploy@v2
-          with:
-            folder: build
-            bucket: ${{ secrets.S3_BUCKET }}
-            bucket-region: ${{ secrets.S3_BUCKET_REGION }}
-            dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
-            invalidation: /
-            delete-removed: true
+      - name: Deploy
+        uses: reggionick/s3-deploy@v2
+        with:
+          folder: build
+          bucket: ${{ secrets.S3_BUCKET }}
+          bucket-region: ${{ secrets.S3_BUCKET_REGION }}
+          dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
+          invalidation: /
+          delete-removed: true
