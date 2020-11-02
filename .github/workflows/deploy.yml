@@ -12,8 +12,6 @@ jobs:
           with:
             ruby-version: '2.6' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
         - name: Build and test
-          env:
-            RACK_ENV: stage
         - run: | 
             gem install bundler -v 1.17.3
             bundle install --jobs 4 --retry 3
