@@ -51,5 +51,3 @@ jobs:
           username: 'GitHub'
           color: 'good'
           text: 'A new version of the homepage has been released.'
-          fields: |
-            [{ "title": ${{ github.event.release.name }}, "value": ${{ github.event.release.body }} }]
