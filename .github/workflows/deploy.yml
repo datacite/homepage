@@ -12,7 +12,7 @@ jobs:
         with:
           ruby-version: '2.6'
       - name: Build and test
-      - run: | 
+        run: | 
           gem install bundler -v 1.17.3
           bundle install --jobs 4 --retry 3
           yarn install --non-interactive
