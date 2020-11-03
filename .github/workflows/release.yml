@@ -1,19 +1,17 @@
-name: Deploy
+name: Release
 on:
-  push:
-    branches:
-      - "master"
+  release:
+    types: [published]
 jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      RACK_ENV: stage
+      RACK_ENV: production
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      S3_BUCKET: ${{ secrets.STAGE_S3_BUCKET }}
-      CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.STAGE_CLOUDFRONT_DISTRIBUTION_ID }}
-      ENV_FILE: .env.stage
-    
+      S3_BUCKET: ${{ secrets.S3_BUCKET }}
+      CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
+      ENV_FILE: .env.production
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-ruby@v1
@@ -39,8 +37,9 @@ jobs:
         uses: reggionick/s3-deploy@v2
         with:
           folder: build
-          bucket: ${{ secrets.STAGE_S3_BUCKET }}
+          bucket: ${{ secrets.S3_BUCKET }}
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
-          dist-id: ${{ secrets.STAGE_CLOUDFRONT_DISTRIBUTION_ID }}
+          dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
           invalidation: /
           delete-removed: true
+          
