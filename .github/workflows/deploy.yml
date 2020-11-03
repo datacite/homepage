@@ -21,13 +21,3 @@ jobs:
           rm pandoc-1.19.2.1-1-amd64.deb
           bundle exec middleman build -e $RACK_ENV
           bundle exec htmlproofer --http-status-ignore "999,403" --allow-hash-href --empty_alt_ignore --only-4xx ./build
-
-      - name: Deploy
-        uses: reggionick/s3-deploy@v2
-        with:
-          folder: build
-          bucket: ${{ secrets.S3_BUCKET }}
-          bucket-region: ${{ secrets.S3_BUCKET_REGION }}
-          dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
-          invalidation: /
-          delete-removed: true
