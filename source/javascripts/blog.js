@@ -1,42 +1,82 @@
+'use strict';
+
+/* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
 
-var xmlhttp = new XMLHttpRequest();
-var url = "https://api.datacite.org/pages?tag=featured";
+import * as React from 'react';
+import ReactDOM from 'react-dom';
+import startCase from 'lodash/startCase'
 
-xmlhttp.onreadystatechange = function() {
-    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-        formatBlog(xmlhttp.responseText);
+const e = React.createElement;
+
+function FeaturedPostItem() {
+  const [error, setError] = React.useState(null);
+  const [isLoaded, setIsLoaded] = React.useState(false);
+  const [items, setItems] = React.useState([]);
+
+  const url = 'https://api.datacite.org/dois?client_id=datacite.blog&query=subjects.subject:featured&page[size]=3&sort=-created';
+
+  function ApiError(props) {
+    this.status = props.status;
+    this.message = props.statusText
+    if (!this.message) {
+      if (this.status == 404) this.message = "Not found";
     }
-};
-xmlhttp.open("GET", url, true);
-xmlhttp.send();
-
-function formatBlog(response) {
-	response = JSON.parse(response);
-	var div = document.getElementById('bloglist');
-
-  for (var i in response.data){
-		div.innerHTML += '<div class=col-md-4 col-sm-4 svc-item>'
-      + '<div class=thumbnail>'
-      + '<a href='
-      + response.data[i].id
-      + '>'
-			+ '<img src=https://blog.datacite.org'
-			+ response.data[i].attributes['image-url']
-			+ ' /></a><br /></div>'
-			+ '<h4>'
-			+ response.data[i].attributes.title
-			+ '</h4>'
-			+ '<p>'
-			+ response.data[i].attributes.description
-			+ '</p>'
-			+ '<p class=read-more>'
-			+ '<a href='
-			+ response.data[i].id
-			+ '>Read more</a></p>'
-			+ '</div></div>'
-		if (i == 2) {
-			break;
-		}
 	}
+
+	const FeaturedPostItem = ({item}) => {
+		const title = item.attributes.titles[0].title;
+		const description = item.attributes.descriptions[0].description
+
+    return (
+      <div key={item.id} className="class=col-md-4 col-sm-4 svc-item">
+				<h4>{title}</h4>
+				<p>{description}</p>
+				<p className="read-more"><a href={'https://doi.org/' + item.id}>Read more</a></p>
+			</div>
+    );
+  }
+	
+	React.useEffect(() => {
+		fetch(url)
+			.then((response) => {
+				if (!response.ok) throw new ApiError(response);
+				else return response.json();
+			})
+			.then(
+				(result) => {
+					setIsLoaded(true);
+					setItems(result.data);
+				},
+				(error) => {
+					setIsLoaded(true);
+					setError(error);
+				}
+			)
+	}, [])
+
+	if (error) {
+		return (
+			<p>Error: {error.message}</p>
+		)
+	}
+
+	if (isLoaded && items.length == 0) {
+		return (
+			<p>No blog posts found.</p>
+		)
+	}
+	
+	return (
+		<div className="memberslist">
+			{items.map(item => (
+				<React.Fragment key={item.id}>
+					<FeaturedPostItem item={item} />
+				</React.Fragment>
+			))}
+		</div>
+	)
 }
+
+const domContainer = document.querySelector('#bloglist');
+ReactDOM.render(e(FeaturedPostItem), domContainer);
