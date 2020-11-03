@@ -49,6 +49,6 @@ jobs:
         uses: adamkdean/simple-slack-notify@1.0.4
         with:
           channel: '#ops'
-          username: 'GitHub'
+          username: 'GitHub Actions'
           color: 'good'
           text: 'A new version of the homepage has been deployed to stage.'
