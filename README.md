@@ -7,3 +7,4 @@
 ## License
 
 **Lupo** is released under the [MIT License](https://github.com/datacite/homepage/blob/master/LICENSE.md).
+
