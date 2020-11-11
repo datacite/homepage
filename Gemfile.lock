@@ -100,7 +100,7 @@ GEM
       rack-livereload (~> 0.3.15)
     mini_portile2 (2.4.0)
     minitest (5.14.1)
-    nokogiri (1.10.9)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     nokogumbo (2.0.2)
       nokogiri (~> 1.8, >= 1.8.4)
@@ -141,6 +141,7 @@ DEPENDENCIES
   middleman (~> 4.2)
   middleman-dotenv (~> 2.0)
   middleman-livereload
+  nokogiri (~> 1.10, >= 1.10.10)
   pandoc-ruby (~> 1.0)
   tilt (~> 2.0)!
   tzinfo-data
