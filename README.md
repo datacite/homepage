@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/datacite/homepage.svg?branch=master)](https://travis-ci.org/datacite/homepage)
+![Release](https://github.com/datacite/homepage/workflows/Release/badge.svg)
 
 # DataCite Homepage
 
