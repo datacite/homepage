@@ -40,7 +40,7 @@ resources_links:
  - name: Support
    url: https://support.datacite.org
  - name: Fee Model
-   url: /feemodel.html
+   url: https://datacite.org/feemodel.html
 community_links:
  - name: Members
    url: /members.html
