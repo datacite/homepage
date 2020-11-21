@@ -44,6 +44,9 @@ jobs:
           invalidation: /
           delete-removed: true
 
+      - name: Generate changelog
+        uses: fabernovel/github-changelog-generator-action@v1
+
       - name: Notify Slack
         uses: adamkdean/simple-slack-notify@1.0.4
         with:
