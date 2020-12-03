@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.60...1.7.61)
+
 ## [1.7.60](https://github.com/datacite/homepage/tree/1.7.60) (2020-12-03)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.59...1.7.60)
