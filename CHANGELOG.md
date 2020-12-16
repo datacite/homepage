@@ -92,6 +92,7 @@
 **Merged pull requests:**
 
 - Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Use webpack [\#97](https://github.com/datacite/homepage/pull/97) ([mfenner](https://github.com/mfenner))
 
 ## [1.7.43](https://github.com/datacite/homepage/tree/1.7.43) (2020-11-11)
 
