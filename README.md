@@ -11,8 +11,6 @@ You will need the following things properly installed on your computer.
 [Ruby](https://www.ruby-lang.org/en/)
 [RubyGems](https://rubygems.org/)
 [Node.js](https://nodejs.org/en/) (with NPM)
-[Pandoc](https://pandoc.org/installing.html)
-[Middleman](https://middlemanapp.com/basics/install/)
 [Bundler](https://bundler.io/)
 
 ## Installation
