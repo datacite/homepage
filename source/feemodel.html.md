@@ -24,7 +24,8 @@ The organization fee is 500€. This fee includes all the repositories and prefi
 
 #### DOI Fee
 
-There are several tiers of for the number of new DOIs registered annually. The tiers accommodate different types of organizations and align with the cost impact supporting the DataCite infrastructure.
+There are several tiers of for the number of new DOIs registered annually. The tiers accommodate different types of organizations and align with the cost impact supporting the DataCite infrastructure. Within a Consortium we calculate the DOI fee per organization, but there is one total DOI fee across all repositories of an organization. The DOI fee is based on the total number of DOIs registered in the previous calendar year. In the first year the DOI fee is based on an estimate of DOIs the organization is planning to register from the start date until December 31st. 
+
 
 <table class="table pricing">
 <thead>
@@ -86,16 +87,18 @@ A Direct Member is an organization that works with one or more repositories with
 
 ## Consortium Member
 
-A consortium is a group of like-minded organizations that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. A consortium is composed of five or more non-profit organizations that are under different administrative structures. Each consortium pays a single annual membership fee totaling 2000 euros – the membership fee is often split between organizations within the consortium. Each organization within the consortium pays the organization fee and the DOI fee. One organization within the consortium is designated the consortium lead and fulfills a range of responsibilities.
+A consortium is a group of organizations within one region or discipline that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. A consortium is composed of five or more non-profit organizations that are under different administrative structures. Each consortium pays a single annual membership fee totaling 2000 euros – the membership fee is often split between organizations within the consortium. Each consortium organization within the consortium pays the organization fee and the DOI fee. One organization within the consortium is designated the consortium lead and fulfills a range of responsibilities.
+
+Please note that Consortium Organizations that expect to register more than 10.000 DOIs annually should transfer to Direct Membership within the following calendar year, or pay the additional membership fee (2.000 € annually) while remaining part of the consortium. This ensures that there is appropriate cost recovery based on the impact on cost drivers.
 
 ###    Consortium fee caps
 
 In order to support growing consortia and the adoption within communities, the total consortium service fee (organization + DOI fee) is capped based on the number of organizations. The total cap is calculated based on the total number of organizations within the consortium:
 
- *  5-30 orgs: 1.000 € multiplied by total number of organizations within the consortium
- *  31-60 orgs: 700 € multiplied by total number of organizations within the consortium
- *  61-100 orgs: 600 € multiplied by total number of organizations within the consortium
- *  101+ orgs: 500 € multiplied by total number of organizations within the consortium
+ *  5-30 orgs: 1.000 € multiplied by total number of consortium organizations within the consortium
+ *  31-60 orgs: 700 € multiplied by total number of consortium organizations within the consortium
+ *  61-100 orgs: 600 € multiplied by total number of consortium organizations within the consortium
+ *  101+ orgs: 500 € multiplied by total number of consortium organizations within the consortium
 
 
 
@@ -130,7 +133,5 @@ DOI Service Fees are based on the total annual revenue of the organization. The 
 
 Payments can be made either via bank wire transfer, check or credit card.
 
-DataCite invoices annually at the beginning of the year. Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined.
+DataCite invoices annually at the beginning of the year. Direct Member and Consortium Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined. The DOI fee will be billed based on an DOI estimate for the first year.
 
-
-More information about changes to pricing [here](https://blog.datacite.org/the-new-datacite-membership-and-fees-model/).
