@@ -40,7 +40,7 @@ Registered Service Providers are listed in our [Service Provider Listing](/servi
 - Advise customers to [add repository software information to the Settings section of their DataCite repository account](https://support.datacite.org/docs/update-repository-settings#software).
 - Implement [Make Data Count](https://makedatacount.org/) for gathering and submitting dataset usage metrics compliant with the [COUNTER Code of Practice for Research Data](https://www.projectcounter.org/code-of-practice-rd-sections/foreword/).
 - Include the [DataCite Data Metrics Badge](https://support.datacite.org/docs/displaying-usage-and-citations-in-your-repository) in their implementations.
-- Advise customers who operate data repositories to submit their repositories to [re3data](https://www.re3data.org/), the Registry of Research Data Repositories, and [add their re3data record to the Settings section of their DataCite repository account](https://support.datacite.org/docs/update-repository-settings#re3data-record). Request addition to re3data using the form at https://www.re3data.org/suggest.
+- Advise customers who operate data repositories to submit their repositories to [re3data](https://www.re3data.org/), the Registry of Research Data Repositories, and [add their re3data record to the Settings section of their DataCite repository account](https://support.datacite.org/docs/update-repository-settings#re3data-record). Request addition to re3data using the form at [https://www.re3data.org/suggest](https://www.re3data.org/suggest).
 
 # Documentation for Service Providers
 
