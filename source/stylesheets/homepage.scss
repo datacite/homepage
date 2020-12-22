@@ -150,14 +150,14 @@ section h1 {
     padding-right: 30px;
     margin-bottom: 20px;
     word-wrap: break-word;
-  
+
     h3 {
       padding-left: 0;
       padding-top: 0;
       padding-bottom: 0;
       margin-bottom: 0;
     }
-  
+
     h5 {
       font-weight: bold;
       margin-bottom: 0;
@@ -395,6 +395,10 @@ footer {
   .panel-body + .panel-body {
     border-top: none;
   }
+}
+
+.section-content li {
+  margin: 1em 0 1em 0;
 }
 
 .section-content ol li p {
