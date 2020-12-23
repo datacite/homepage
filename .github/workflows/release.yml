@@ -23,8 +23,9 @@ jobs:
         shell: bash
         run: |
           echo "::set-output name=BRANCH::$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
+          echo "::set-output name=TAG::$(git tag --points-at HEAD)"
           echo "::set-output name=GIT_SHA::$(git rev-parse HEAD)"
-          echo "::set-output name=GIT_SHA_SHORT::$(git rev-parse --short HEAD)"
+          echo "::set-output name=GIT_SHA_SHORT::$(git rev-parse --short HEAD)"  
         id: extract_variables
 
       - name: Build
@@ -64,5 +65,5 @@ jobs:
              { "title": "Committed by", "value": "<https://github.com/datacite/homepage/commits?author=${{ github.actor }}|${{ github.actor }}>", "short": true },
              { "title": "Commit SHA", "value": "<https://github.com/datacite/homepage/commit/${{ steps.extract_variables.outputs.GIT_SHA }}|${{ steps.extract_variables.outputs.GIT_SHA_SHORT }}>", "short": true },
              { "title": "Repository", "value": "<https://github.com/${{ github.repository }}|${{ github.repository }}>", "short": true },
-             { "title": "Branch", "value": "<https://github.com/datacite/homepage/tree/${{ steps.extract_variables.outputs.BRANCH }}|${{ steps.extract_variables.outputs.BRANCH }}>", "short": true },
-             { "title": "Release", "value": "<https://github.com/datacite/homepage/releases/tag/${{ github.ref }}|${{ github.ref }}>", "short": true }]
+             { "title": "Branch", "value": "<https://github.com/datacite/homepage/tree/master|master>", "short": true },
+             { "title": "Release", "value": "<https://github.com/datacite/homepage/releases/tag/${{ steps.extract_variables.outputs.TAG }}|$${{ steps.extract_variables.outputs.TAG }}>", "short": true }]
