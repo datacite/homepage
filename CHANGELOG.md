@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.7.65](https://github.com/datacite/homepage/tree/1.7.65) (2020-12-23)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.64...1.7.65)
+
+## [1.7.64](https://github.com/datacite/homepage/tree/1.7.64) (2020-12-23)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.63...1.7.64)
+
+## [1.7.63](https://github.com/datacite/homepage/tree/1.7.63) (2020-12-23)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.62...1.7.63)
+
+**Implemented enhancements:**
+
+- Generate changelog for static sites [\#115](https://github.com/datacite/homepage/issues/115)
+
+**Closed issues:**
+
+- More detailed slack messages from GitHub Actions [\#120](https://github.com/datacite/homepage/issues/120)
+
 ## [1.7.62](https://github.com/datacite/homepage/tree/1.7.62) (2020-12-22)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.61...1.7.62)
@@ -7,7 +27,6 @@
 **Merged pull requests:**
 
 - make r3data suggest form URL a link [\#119](https://github.com/datacite/homepage/pull/119) ([lizkrznarich](https://github.com/lizkrznarich))
-- Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
 - Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
