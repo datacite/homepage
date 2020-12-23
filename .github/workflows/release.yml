@@ -58,7 +58,7 @@ jobs:
         with:
           channel: '#ops'
           color: 'good'
-          text: 'A new version of the homepage has been released.'
+          text: 'A new version of the homepage has been <https://datacite.org|released>.'
           failure_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) build failed'
           fields: |
             [{ "title": "Committed by", "value": "<https://github.com/datacite/homepage/commits?author=${{ github.actor }}|${{ github.actor }}>", "short": true },
