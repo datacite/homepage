@@ -99,6 +99,10 @@
 
 - Link from main page broken \(crosscite.org\) [\#88](https://github.com/datacite/homepage/issues/88)
 
+**Merged pull requests:**
+
+- Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [1.7.43](https://github.com/datacite/homepage/tree/1.7.43) (2020-11-11)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.42...1.7.43)
