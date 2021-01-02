@@ -10,7 +10,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 
 # Middleman Gems
 gem 'middleman', '~> 4.2'
-gem 'nokogiri', '~> 1.10', '>= 1.10.10'
+gem 'nokogiri', '~> 1.11.0.rc4'
 gem 'tilt', '~> 2.0', git: "https://github.com/datacite/tilt.git", branch: "pandoc-options"
 gem 'pandoc-ruby', '~> 1.0'
 gem 'middleman-dotenv', '~> 2.0'
