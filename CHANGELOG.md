@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/datacite/homepage/tree/HEAD)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.65...HEAD)
+
+**Fixed bugs:**
+
+- Fix broken links on homepage [\#117](https://github.com/datacite/homepage/issues/117)
+
 ## [1.7.65](https://github.com/datacite/homepage/tree/1.7.65) (2020-12-23)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.64...1.7.65)
@@ -27,6 +35,7 @@
 **Merged pull requests:**
 
 - make r3data suggest form URL a link [\#119](https://github.com/datacite/homepage/pull/119) ([lizkrznarich](https://github.com/lizkrznarich))
+- Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
 - Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
