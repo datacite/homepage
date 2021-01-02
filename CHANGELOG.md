@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.7.68](https://github.com/datacite/homepage/tree/1.7.68) (2021-01-02)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.67...1.7.68)
+
 ## [1.7.67](https://github.com/datacite/homepage/tree/1.7.67) (2021-01-02)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.66...1.7.67)
