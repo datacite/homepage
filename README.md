@@ -1,6 +1,6 @@
-![Release](https://github.com/datacite/homepage/workflows/Release/badge.svg)
-
 # DataCite Homepage
+
+![Release](https://github.com/datacite/homepage/workflows/Release/badge.svg)
 
 ## Prerequisites
 
