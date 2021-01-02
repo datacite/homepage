@@ -1,12 +1,24 @@
 # Changelog
 
-## [Unreleased](https://github.com/datacite/homepage/tree/HEAD)
+## [1.7.67](https://github.com/datacite/homepage/tree/1.7.67) (2021-01-02)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/1.7.65...HEAD)
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.66...1.7.67)
+
+## [1.7.66](https://github.com/datacite/homepage/tree/1.7.66) (2021-01-02)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.65...1.7.66)
 
 **Fixed bugs:**
 
 - Fix broken links on homepage [\#117](https://github.com/datacite/homepage/issues/117)
+
+**Closed issues:**
+
+- Do not display "DataCite Repository Store" on member page [\#122](https://github.com/datacite/homepage/issues/122)
+
+**Merged pull requests:**
+
+- Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [1.7.65](https://github.com/datacite/homepage/tree/1.7.65) (2020-12-23)
 
