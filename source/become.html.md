@@ -69,7 +69,7 @@ The repository information provided will be used and displayed throughout DataCi
 
 # How to join DataCite ?
 
-If you are interested in a DataCite membership please send an enquiry via the [enquiry form](/membership-enquiry.html) and we will get in touch with you. You can also send a direct application using the [membership application form](/membership-application.html).
+If you are interested in a DataCite membership please send an enquiry via the [enquiry form](/membership-enquiry.html) and we will get in touch with you.
 
 
 # More information
