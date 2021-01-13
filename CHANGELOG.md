@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.7.72](https://github.com/datacite/homepage/tree/1.7.72) (2021-01-13)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.71...1.7.72)
+
 ## [1.7.71](https://github.com/datacite/homepage/tree/1.7.71) (2021-01-13)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.69...1.7.71)
@@ -31,6 +35,7 @@
 **Merged pull requests:**
 
 - Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
+- Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.65](https://github.com/datacite/homepage/tree/1.7.65) (2020-12-23)
 
@@ -61,6 +66,7 @@
 - make r3data suggest form URL a link [\#119](https://github.com/datacite/homepage/pull/119) ([lizkrznarich](https://github.com/lizkrznarich))
 - Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
 - Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
+- change title [\#109](https://github.com/datacite/homepage/pull/109) ([kjgarza](https://github.com/kjgarza))
 
 ## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
 
@@ -150,10 +156,6 @@
 **Closed issues:**
 
 - Link from main page broken \(crosscite.org\) [\#88](https://github.com/datacite/homepage/issues/88)
-
-**Merged pull requests:**
-
-- Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.43](https://github.com/datacite/homepage/tree/1.7.43) (2020-11-11)
 
