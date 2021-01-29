@@ -41,5 +41,3 @@ helpers do
   end
 end
 
-# SKV
-set(:port, 5678)
