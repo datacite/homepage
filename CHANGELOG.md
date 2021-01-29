@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/datacite/homepage/tree/HEAD)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.76...HEAD)
+
+**Merged pull requests:**
+
+- Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
+
 ## [1.7.76](https://github.com/datacite/homepage/tree/1.7.76) (2021-01-28)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.75...1.7.76)
