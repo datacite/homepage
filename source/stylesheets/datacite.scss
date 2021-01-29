@@ -87,6 +87,9 @@ Datacite - Bootstrap 3 theme
 @import "datacite/components/graphs";
 @import "datacite/components/markdown";
 
+/* Shared between homepage and blog. */
+@import 'datacite/components/_mobile_cookie_bar';
+
 // Pages
 @import "datacite/pages/register";
 @import "datacite/pages/search";

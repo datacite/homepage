@@ -40,3 +40,6 @@ helpers do
     ENV['RACK_ENV'] == "stage"
   end
 end
+
+# SKV
+set(:port, 5678)
