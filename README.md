@@ -9,7 +9,7 @@ You will need the following things properly installed on your computer.
 [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 [Ruby](https://www.ruby-lang.org/en/)
 [RubyGems](https://rubygems.org/)
-[Node.js](https://nodejs.org/en/) (with NPM)
+[Node.js](https://nodejs.org/en/) (at least version 12)
 [Bundler](https://bundler.io/)
 
 ## Installation
