@@ -87,6 +87,9 @@ Datacite - Bootstrap 3 theme
 @import "doi/components/markdown";
 @import "doi/components/ember-power-select-bootstrap";
 
+/* Shared between homepage and blog. */
+@import 'shared/components/_mobile_cookie_bar';
+
 // Pages
 @import "doi/pages/register";
 @import "doi/pages/search";

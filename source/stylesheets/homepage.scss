@@ -5,7 +5,7 @@
 @import 'application';
 
 /* Shared between homepage and blog. */
-@import 'datacite/components/_mobile_cookie_bar';
+@import 'shared/components/_mobile_cookie_bar';
 
 $lighter-gray:               #F4F5F5 !default;
 $medium-gray:                #DDDDDD !default;
@@ -535,4 +535,3 @@ ul.contact {
 .consent-cookie a {
   color: #FECD23 !important;
 }
-
