@@ -40,3 +40,4 @@ helpers do
     ENV['RACK_ENV'] == "stage"
   end
 end
+
