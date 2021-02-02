@@ -1,8 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/datacite/homepage/tree/HEAD)
+## [1.8.1](https://github.com/datacite/homepage/tree/1.8.1) (2021-02-02)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/1.7.77...HEAD)
+[Full Changelog](https://github.com/datacite/homepage/compare/1.8...1.8.1)
+
+## [1.8](https://github.com/datacite/homepage/tree/1.8) (2021-02-02)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/1.7.77...1.8)
 
 **Merged pull requests:**
 
