@@ -1,32 +1,33 @@
-'use strict';
+"use strict";
 
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
 
-import * as React from 'react';
-import ReactDOM from 'react-dom';
-import CookieConsent from 'react-cookie-consent'
+import * as React from "react";
+import ReactDOM from "react-dom";
+import CookieConsent from "react-cookie-consent";
 
 const e = React.createElement;
 
 function Consent() {
-  let domain = 'localhost';
-  let hostname = window.location.hostname.split('.');
-  switch (hostname.length) {
-    case 1:
-      domain = 'localhost';
-      break;
-    case 2:
-    case 3:
-      domain = '.datacite.org';
-      break;
-    case 4:
-      domain = '.stage.datacite.org';
+  let domain = "localhost";
+  if (window.location.hostname.endsWith(".stage.datacite.org")) {
+    domain = ".stage.datacite.org";
+  } else if (window.location.hostname.endsWith(".test.datacite.org")) {
+    domain = ".test.datacite.org";
+  } else if (window.location.hostname.endsWith(".datacite.org")) {
+    domain = ".datacite.org";
+  } else if (window.location.hostname.endsWith(".vercel.app")) {
+    domain = ".vercel.app";
   }
 
-  const cookieStyle = { fontSize: '16px', height: '95px', flexWrap: 'nowrap !important' }
-  const linkStyle = { color: '#fecd23' }
-  const myContentStyle = {}
+  const cookieStyle = {
+    fontSize: "16px",
+    height: "95px",
+    flexWrap: "nowrap !important",
+  };
+  const linkStyle = { color: "#fecd23" };
+  const myContentStyle = {};
 
   return (
     <CookieConsent
@@ -47,7 +48,7 @@ function Consent() {
     >
       We use cookies on our website. Some are technically necessary, others help
       us improve your user experience. You can decline non-essential cookies by
-      selecting “Reject”. Please see our{' '}
+      selecting “Reject”. Please see our{" "}
       <a
         href="https://datacite.org/privacy.html"
         style={linkStyle}
@@ -55,11 +56,11 @@ function Consent() {
         rel="noreferrer"
       >
         Privacy Policy
-      </a>{' '}
-      for further information about our privacy practices and use of cookies.{' '}
+      </a>{" "}
+      for further information about our privacy practices and use of cookies.{" "}
     </CookieConsent>
-  )
+  );
 }
 
-const domContainer = document.querySelector('#consent');
+const domContainer = document.querySelector("#consent");
 ReactDOM.render(e(Consent), domContainer);
