@@ -11,15 +11,19 @@ const e = React.createElement;
 
 function Consent() {
   let domain = "localhost";
-  if (window.location.hostname.endsWith(".stage.datacite.org")) {
-    domain = ".stage.datacite.org";
-  } else if (window.location.hostname.endsWith(".test.datacite.org")) {
-    domain = ".test.datacite.org";
-  } else if (window.location.hostname.endsWith(".datacite.org")) {
-    domain = ".datacite.org";
-  } else if (window.location.hostname.endsWith(".vercel.app")) {
-    domain = ".vercel.app";
+  let hostname = window.location.hostname.split(".");
+  switch (hostname.length) {
+    case 2:
+    case 3:
+      domain = ".datacite.org";
+      break;
+    case 4:
+      domain = ".stage.datacite.org";
   }
+
+  // handle random hostname from Vercel platform
+  if (window.location.hostname.endsWith(".vercel.app"))
+    domain = window.location.hostname;
 
   const cookieStyle = {
     fontSize: "16px",
