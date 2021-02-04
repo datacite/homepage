@@ -18,7 +18,7 @@ function Consent() {
       domain = ".datacite.org";
       break;
     case 4:
-      domain = ".stage.datacite.org";
+      domain = window.location.hostname;
   }
 
   // handle random hostname from Vercel platform
