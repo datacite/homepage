@@ -1,0 +1,52 @@
+---
+title: DataCite - Partner Services
+---
+
+<header class="image-bg-fixed-height-small">
+  <div class="jumbotron">
+    <h1>
+    Partner Services
+    </h1>
+  </div>
+</header>
+
+<section>
+  <div class="container section-content">
+    <h1>Event Data</h1>
+    <p>
+    <%= link_to 'Event Data', 'https://www.crossref.org/services/event-data/' %>  
+    is a joint service by DataCite and
+    <%= link_to 'Crossref', 'http://crossref.org' %>,  
+    which retrieves and exposes the
+    activity that occurs around research data objects. In particular,
+    Event Data brings to light links between publications and data,
+    citations, software, reuse, documentation, etc. This service follows the
+    <%= link_to 'Scholix Framework', 'http://scholix.org' %> developed by
+    the joint
+    <%= link_to 'Research Data Alliance/ICSU World Data System Data
+    Publishing Services Working Group',
+    'https://rd-alliance.org/groups/rdawds-publishing-data-ig.html' %>.
+  </p>
+  <p>
+    The events are found via the relatedIdentifier and nameIdentifier
+    attributes of <%= link_to 'DataCite Metadata',
+    'http://schema.datacite.org' %>, and via external services (so-called
+    'sources') that collect information about DataCite DOIs. Examples of
+    events include references to related data, data citations in journal
+    articles, and new versions of a work.
+  </p>
+  <h1>DOI Citation Formatter</h1>
+  <p>
+  The 
+    <%= link_to 'DOI Citation Formatter', 'https://citation.crosscite.org/' %> 
+    is a service created in collaboration with 
+    <%= link_to 'Crossref', 'http://crossref.org' %>, 
+    <%= link_to 'mEDRA', 'https://www.medra.org' %>,
+    <%= link_to 'ISTIC', 'http://www.doi.org.cn/portal/index.htm' %> and 
+    <%= link_to 'JaLC', 'https://japanlinkcenter.org/top/english.html' %>. 
+    It provides a simpleinterface to extract metadata automatically from a DOI and build a full citation. 
+    It supports more than 5,000 different citation styles in 45 differentlanguages, using the 
+    <%= link_to 'Citation Style Language', 'http://citationstyles.org' %>.
+  </p>
+  </div>
+</section>
