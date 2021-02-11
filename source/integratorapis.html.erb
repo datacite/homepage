@@ -1,0 +1,47 @@
+---
+title: DataCite - APIs
+---
+
+<header class="image-bg-fixed-height-small">
+  <div class="jumbotron">
+    <h1>
+      Integrate with APIs
+    </h1>
+  </div>
+</header>
+
+<section>
+  <div class="container section-content">
+    <h1>REST API</h1>
+      <p>The DataCite REST API allows any user to retrieve, 
+      query and browse DataCite DOI metadata records. 
+      In addition, DataCite Repositories can register DOIs and 
+      DataCite Members can manage Repositories and prefixes via the API.
+      REST API to create DOIs and harvest metadata. 
+      Find out more about how to use the REST API in our 
+      <%= link_to 'developer documentation', 'https://support.datacite.org/docs/api' %>.
+      </p>
+     <h1>OAI-PMH API</h1>
+      <p>The DataCite OAI-PMH API exposes metadata held in the DataCite Metadata Store (MDS) 
+      using the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH).
+      OAI-PMH is a protocol developed for harvesting metadata descriptions of records. 
+      Every implementation of OAI-PMH supports representing metadata in Dublin Core, 
+      but DataCite's service also supports OAI DataCite and 
+      the original DataCite Metadata Schema used to deposit the record. 
+      Find out more about how to use the OAI-PMH API in our 
+      <%= link_to 'developer documentation', 'https://support.datacite.org/docs/datacite-oai-pmh' %>.
+      </p>
+      <h1>GraphQL API</h1>
+      <p>The DataCite GraphQL API support queries of the DataCite API using the 
+      <%= link_to 'GraphQL query language', 'https://graphql.org/' %>. 
+      The GraphQL API provide access to 
+      <%= link_to 'PID Graph', 'https://blog.datacite.org/introducing-the-pid-graph/' %>
+      which connects resources  that use persistent identifiers (PIDs) provided by DataCite and others 
+      (<%= link_to 'Crossref', 'https://crossref.org/' %>, 
+      <%= link_to 'ORCID', 'https://orcid.org/' %>, 
+      <%= link_to 'ROR', 'https://ror.org/' %>, etc.)
+      Find out more about how to use the GraphQL API in our 
+      <%= link_to 'developer documentation', 'https://support.datacite.org/docs/datacite-graphql-api-guide' %>.
+      </p>
+  </div>
+</section>
