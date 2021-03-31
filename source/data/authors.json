@@ -544,6 +544,7 @@
     "given": "Isabel",
     "family": "Bernal",
     "bio": "CSIC",
+    "image_url": "/images/ibernal.jpg",
     "affiliation": {
       "@id": "https://ror.org/02gfc7t72",
       "name": "Spanish National Research Council",
