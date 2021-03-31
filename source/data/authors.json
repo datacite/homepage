@@ -11,7 +11,11 @@
     "orcid": "https://orcid.org/0000-0003-1419-2405",
     "email": "mfenner@datacite.org",
     "image_url": "https://www.gravatar.com/avatar/434592a097e91261792ebd6b492042bc?s=250&d=mm&r=x",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" },
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    },
     "twitter": "mfenner",
     "github": "mfenner"
   },
@@ -23,15 +27,23 @@
     "orcid": "https://orcid.org/0000-0001-7234-3684",
     "email": "mattbuys@datacite.org",
     "image_url": "/images/mbuys.jpg",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
-   },
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
+  },
   "vferreira": {
     "name": "Veronica Gomes Ferreira",
     "given": "Veronica",
     "family": "Gomes Ferreira",
     "bio": "DataCite intern",
     "image_url": "/images/Veronica.jpeg",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
   "kgarza": {
     "name": "Kristian Garza",
@@ -42,7 +54,11 @@
     "github": "kjgarza",
     "email": "kgarza@datacite.org",
     "image_url": "/images/kristian.png",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
   "rhallett": {
     "name": "Richard Hallett",
@@ -53,9 +69,13 @@
     "github": "richardhallett",
     "email": "rhallett@datacite.org",
     "image_url": "/images/rhallett.png",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
-    "rdasler": {
+  "rdasler": {
     "name": "Robin Dasler",
     "given": "Robin",
     "family": "Dasler",
@@ -64,7 +84,11 @@
     "github": "daslerr",
     "email": "robin.dasler@datacite.org",
     "image_url": "/images/robin.png",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
   "bdreyer": {
     "name": "Britta Dreyer",
@@ -74,7 +98,11 @@
     "orcid": "https://orcid.org/0000-0002-0687-5460",
     "github": "brittadreyer",
     "image_url": "/images/bdreyer.png",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
   "hcousijn": {
     "name": "Helena Cousijn",
@@ -84,7 +112,11 @@
     "orcid": "https://orcid.org/0000-0001-6660-6214",
     "github": "hcousijn",
     "image_url": "/images/hcousijn.png",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
   "swimalaratne": {
     "name": "Sarala Wimalaratne",
@@ -94,7 +126,11 @@
     "orcid": "https://orcid.org/0000-0002-5355-2576",
     "github": "sarala",
     "image_url": "/images/sarala.jpg",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
   "ssansone": {
     "name": "Susanna Sansone",
@@ -102,7 +138,7 @@
     "family": "Sansone",
     "bio": "Associate Director, Oxford e-Research Centre",
     "orcid": "https://orcid.org/0000-0001-5306-5690"
- },
+  },
   "pmcquilton": {
     "name": "Peter McQuilton",
     "given": "Peter",
@@ -117,8 +153,12 @@
     "bio": "Head of Research and Development, SUB Goettingen",
     "orcid": "https://orcid.org/0000-0002-8250-6253",
     "image_url": "/images/jbrase.jpg",
-    "affiliation": { "@id": "https://ror.org/01y9bpm73", "name": "University of Göttingen", "@type": "Organization" }
-   },
+    "affiliation": {
+      "@id": "https://ror.org/01y9bpm73",
+      "name": "University of Göttingen",
+      "@type": "Organization"
+    }
+  },
   "fziedorn": {
     "name": "Frauke Ziedorn",
     "given": "Frauke",
@@ -126,8 +166,12 @@
     "bio": "Research Data Management Consultant, TIB Hannover",
     "orcid": "https://orcid.org/0000-0002-1143-781X",
     "image_url": "/images/fziedorn.jpg",
-    "affiliation": { "@id": "https://ror.org/04aj4c181", "name": "German National Library of Science and Technology", "@type": "Organization" }
-   },
+    "affiliation": {
+      "@id": "https://ror.org/04aj4c181",
+      "name": "German National Library of Science and Technology",
+      "@type": "Organization"
+    }
+  },
   "mhirsch": {
     "name": "Mary Hirsch",
     "given": "Mary",
@@ -136,7 +180,11 @@
     "orcid": "https://orcid.org/0000-0002-6628-8225",
     "github": "maryhirsch",
     "image_url": "/images/mhirsch.jpg",
-    "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   },
   "rlammey": {
     "name": "Rachael Lammey",
@@ -146,7 +194,11 @@
     "orcid": "https://orcid.org/0000-0001-5800-1434",
     "github": "rlammey",
     "image_url": "/images/rlammey.jpg",
-    "affiliation": { "@id": "https://ror.org/02twcfp32", "name": "Crossref", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/02twcfp32",
+      "name": "Crossref",
+      "@type": "Organization"
+    }
   },
   "ameadows": {
     "name": "Alice Meadows",
@@ -155,7 +207,11 @@
     "bio": "ORCID Director of Communications",
     "orcid": "https://orcid.org/0000-0003-2161-3781",
     "image_url": "/images/ameadows.jpg",
-    "affiliation": { "@id": "https://ror.org/04fa4r544", "name": "ORCID", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04fa4r544",
+      "name": "ORCID",
+      "@type": "Organization"
+    }
   },
   "mgould": {
     "name": "Maria Gould",
@@ -164,8 +220,12 @@
     "bio": "Research Data Specialist & Product Manager",
     "orcid": "http://orcid.org/0000-0002-2916-3423",
     "image_url": "/images/mariagould.png",
-    "affiliation": { "@id": "https://ror.org/03yrm5c26", "name": "California Digital Library", "@type": "Organization" }
-   },
+    "affiliation": {
+      "@id": "https://ror.org/03yrm5c26",
+      "name": "California Digital Library",
+      "@type": "Organization"
+    }
+  },
   "jstarr": {
     "name": "Joan Starr",
     "given": "Joan",
@@ -174,7 +234,11 @@
     "twitter": "joan_starr",
     "orcid": "https://orcid.org/0000-0002-7285-027X",
     "image_url": "/images/jstarr.png",
-    "affiliation": { "@id": "https://ror.org/03yrm5c26", "name": "California Digital Library", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/03yrm5c26",
+      "name": "California Digital Library",
+      "@type": "Organization"
+    }
   },
   "dlowenberg": {
     "name": "Daniella Lowenberg",
@@ -183,7 +247,11 @@
     "bio": "Research Data Specialist and Product Manager California Digital Library",
     "orcid": "https://orcid.org/0000-0003-2255-1869",
     "image_url": "/images/dl.jpg",
-    "affiliation": { "@id": "https://ror.org/03yrm5c26", "name": "California Digital Library", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/03yrm5c26",
+      "name": "California Digital Library",
+      "@type": "Organization"
+    }
   },
   "abudden": {
     "name": "Amber Budden",
@@ -192,7 +260,11 @@
     "bio": "Director for Community Engagement and Outreach at DataONE",
     "orcid": "https://orcid.org/0000-0003-2885-3980",
     "image_url": "/images/abudden.jpg",
-    "affiliation": { "@id": "https://ror.org/02t274463", "name": "University of California, Santa Barbara", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/02t274463",
+      "name": "University of California, Santa Barbara",
+      "@type": "Organization"
+    }
   },
   "jlin": {
     "name": "Jennifer Lin",
@@ -203,7 +275,11 @@
     "twitter": "jenniferlin15",
     "orcid": "https://orcid.org/0000-0002-9680-2328",
     "image_url": "/images/jlin.jpg",
-    "affiliation": { "@id": "https://ror.org/02twcfp32", "name": "Crossref", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/02twcfp32",
+      "name": "Crossref",
+      "@type": "Organization"
+    }
   },
   "mwitt": {
     "name": "Michael Witt",
@@ -212,7 +288,11 @@
     "bio": "Head of the Distributed Data Curation Center, Purdue University",
     "orcid": "https://orcid.org/0000-0003-4221-7956",
     "image_url": "/images/mwitt.jpg",
-    "affiliation": { "@id": "https://ror.org/05p8z3f47", "name": "Purdue University", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/05p8z3f47",
+      "name": "Purdue University",
+      "@type": "Organization"
+    }
   },
   "hpampel": {
     "name": "Heinz Pampel",
@@ -223,7 +303,11 @@
     "email": "heinz.pampel@gfz-potsdam.de",
     "twitter": "pampel",
     "image_url": "/images/hpampel.jpeg",
-    "affiliation": { "@id": "https://ror.org/04z8jg394", "name": "Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04z8jg394",
+      "name": "Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences",
+      "@type": "Organization"
+    }
   },
   "ehull": {
     "name": "Elizabeth Hull",
@@ -234,7 +318,11 @@
     "email": "ehull@datadryad.org",
     "twitter": "datadryad",
     "image_url": "/images/ehull.jpg",
-    "affiliation": { "@id": "https://ror.org/00x6h5n95", "name": "Dryad Digital Repository", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/00x6h5n95",
+      "name": "Dryad Digital Repository",
+      "@type": "Organization"
+    }
   },
   "ecastro": {
     "name": "Eleni Castro",
@@ -245,7 +333,11 @@
     "email": "ecastro@fas.harvard.edu",
     "twitter": "dataverseorg",
     "image_url": "/images/ecastro.png",
-    "affiliation": { "@id": "https://ror.org/03vek6s52", "name": "Harvard University", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/03vek6s52",
+      "name": "Harvard University",
+      "@type": "Organization"
+    }
   },
   "danielskatz": {
     "name": "Daniel S. Katz",
@@ -255,7 +347,11 @@
     "orcid": "https://orcid.org/0000-0001-5934-7525",
     "twitter": "danielskatz",
     "image_url": "https://secure.gravatar.com/avatar/3f59e90625547fce79de3e9c0d46867d",
-    "affiliation": { "@id": "https://ror.org/03r10zj06", "name": "National Center for Supercomputing Applications", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/03r10zj06",
+      "name": "National Center for Supercomputing Applications",
+      "@type": "Organization"
+    }
   },
   "larsjuhljensen": {
     "name": "Lars Juhl Jensen",
@@ -265,7 +361,11 @@
     "orcid": "https://orcid.org/0000-0001-7885-715X",
     "twitter": "larsjuhljensen",
     "image_url": "/images/larsjuhljensen.jpg",
-    "affiliation": { "@id": "https://ror.org/04txyc737", "name": "Novo Nordisk Foundation", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04txyc737",
+      "name": "Novo Nordisk Foundation",
+      "@type": "Organization"
+    }
   },
   "lhaak": {
     "name": "Laure Haak",
@@ -274,14 +374,22 @@
     "bio": "ORCID Executive Director.",
     "orcid": "https://orcid.org/0000-0001-5109-3700",
     "image_url": "/images/lhaak.png",
-    "affiliation": { "@id": "https://ror.org/04fa4r544", "name": "ORCID", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/04fa4r544",
+      "name": "ORCID",
+      "@type": "Organization"
+    }
   },
   "epentz": {
     "name": "Ed Pentz",
     "given": "Ed",
     "family": "Pentz",
     "bio": "Crossref Executive Director.",
-    "affiliation": { "@id": "https://ror.org/02twcfp32", "name": "Crossref", "@type": "Organization" },
+    "affiliation": {
+      "@id": "https://ror.org/02twcfp32",
+      "name": "Crossref",
+      "@type": "Organization"
+    },
     "orcid": "https://orcid.org/0000-0002-5993-8592",
     "image_url": "/images/epentz.png"
   },
@@ -290,7 +398,11 @@
     "given": "Ginny",
     "family": "Hendricks",
     "bio": "Crossref Director of Member & Community Outreach.",
-    "affiliation": { "@id": "https://ror.org/02twcfp32", "name": "Crossref", "@type": "Organization" },
+    "affiliation": {
+      "@id": "https://ror.org/02twcfp32",
+      "name": "Crossref",
+      "@type": "Organization"
+    },
     "orcid": "https://orcid.org/0000-0002-0353-2702",
     "image_url": "/images/ghendricks.png"
   },
@@ -299,7 +411,11 @@
     "given": "Aliaksandr",
     "family": "Birukou",
     "bio": "Executive Editor for Computer Science at Springer Nature.",
-    "affiliation": { "@id": "https://ror.org/0117jxy09", "name": "Springer Nature", "@type": "Organization" },
+    "affiliation": {
+      "@id": "https://ror.org/0117jxy09",
+      "name": "Springer Nature",
+      "@type": "Organization"
+    },
     "orcid": "https://orcid.org/0000-0002-4925-9131",
     "image_url": "/images/abirukou.png"
   },
@@ -310,7 +426,11 @@
     "bio": "Zenodo Project Leader at CERN.",
     "orcid": "https://orcid.org/0000-0001-8135-3489",
     "image_url": "/images/larsholmnielsen.jpeg",
-    "affiliation": { "@id": "https://ror.org/01ggx4157", "name": "European Organization for Nuclear Research", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/01ggx4157",
+      "name": "European Organization for Nuclear Research",
+      "@type": "Organization"
+    }
   },
   "arfon": {
     "name": "Arfon Smith",
@@ -319,14 +439,22 @@
     "bio": "Head of the Data Science Mission Office at Space Telescope Science Institute.",
     "orcid": "https://orcid.org/0000-0002-3957-2474",
     "image_url": "/images/arfon.png",
-    "affiliation": { "@id": "https://ror.org/036f5mx38", "name": "Space Telescope Science Institute", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/036f5mx38",
+      "name": "Space Telescope Science Institute",
+      "@type": "Organization"
+    }
   },
   "jchodacki": {
     "name": "John Chodacki",
     "given": "John",
     "family": "Chodacki",
     "bio": "DataCite Board President and Director of the University of California Curation Center (UC3) at California Digital Library (CDL)",
-    "affiliation": { "@id": "https://ror.org/03yrm5c26", "name": "California Digital Library", "@type": "Organization" },
+    "affiliation": {
+      "@id": "https://ror.org/03yrm5c26",
+      "name": "California Digital Library",
+      "@type": "Organization"
+    },
     "orcid": "https://orcid.org/0000-0002-7378-2408",
     "image_url": "/images/jchodacki.jpg"
   },
@@ -343,7 +471,11 @@
     "family": "Aryani",
     "bio": "Head, Social Data Analytics Lab, Swinburne University",
     "orcid": "https://orcid.org/0000-0002-4259-9774",
-    "affiliation": { "@id": "https://ror.org/031rekg67", "name": "Swinburne University", "@type": "Organization" },
+    "affiliation": {
+      "@id": "https://ror.org/031rekg67",
+      "name": "Swinburne University",
+      "@type": "Organization"
+    },
     "image_url": "/images/aaryani.png"
   },
   "nnoy": {
@@ -351,7 +483,11 @@
     "given": "Natasha",
     "family": "Noy",
     "bio": "Research Scientist at Google AI.",
-    "affiliation": { "@id": "https://ror.org/00njsd438", "name": "Google", "@type": "Organization" },
+    "affiliation": {
+      "@id": "https://ror.org/00njsd438",
+      "name": "Google",
+      "@type": "Organization"
+    },
     "image_url": "/images/nnoy.jpg"
   },
   "jashton": {
@@ -397,7 +533,22 @@
     "bio": "TU Delft",
     "orcid": "https://orcid.org/0000-0002-8963-3415",
     "image_url": "/images/msmaele.jpg",
-    "affiliation": { "@id": "https://ror.org/02e2c7k09", "name": "Delft University of Technology", "@type": "Organization" }
+    "affiliation": {
+      "@id": "https://ror.org/02e2c7k09",
+      "name": "Delft University of Technology",
+      "@type": "Organization"
+    }
+  },
+  "ibernal": {
+    "name": "Isabel Bernal",
+    "given": "Isabel",
+    "family": "Bernal",
+    "bio": "CSIC",
+    "affiliation": {
+      "@id": "https://ror.org/02gfc7t72",
+      "name": "Spanish National Research Council",
+      "@type": "Organization"
+    }
   },
   "myahia": {
     "name": "Mohamed Yahia",
@@ -408,14 +559,18 @@
     "bio": "NRC/CISTI (New)"
   },
   "pvierkant": {
-   "name": "Paul Vierkant",
-   "given": "Paul",
-   "family": "Vierkant",
-   "bio": "DataCite Outreach Manager",
-   "orcid": "https://orcid.org/0000-0003-4448-3844",
-   "github": "paulvierkant",
-   "email": "pvierkant@datacite.org",
-   "image_url": "/images/pvierkant.png",
-   "affiliation": { "@id": "https://ror.org/04wxnsj81", "name": "DataCite", "@type": "Organization"}
+    "name": "Paul Vierkant",
+    "given": "Paul",
+    "family": "Vierkant",
+    "bio": "DataCite Outreach Manager",
+    "orcid": "https://orcid.org/0000-0003-4448-3844",
+    "github": "paulvierkant",
+    "email": "pvierkant@datacite.org",
+    "image_url": "/images/pvierkant.png",
+    "affiliation": {
+      "@id": "https://ror.org/04wxnsj81",
+      "name": "DataCite",
+      "@type": "Organization"
+    }
   }
 }
