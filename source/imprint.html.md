@@ -36,4 +36,5 @@ Email: info@datacite.org
 
 #### Copyright
 
-Please find detailed information in our [Privacy policy](/privacy.html).
+Please find detailed information in our [Privacy policy](/privacy.html) and our [data file use policy](https://support.datacite.org/docs/datacite-data-file-use-policy).
+
