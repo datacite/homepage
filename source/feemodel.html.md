@@ -100,6 +100,8 @@ In order to support growing consortia and the adoption within communities, the t
  *  61-100 orgs: 600 € multiplied by total number of consortium organizations within the consortium
  *  101+ orgs: 500 € multiplied by total number of consortium organizations within the consortium
 
+Please note that when the fee cap applies, consortia will be invoiced for new consortium organizations in line with the fee cap and not based on individual estimates.
+
 
 
 ## For‐profit Organizations
@@ -133,5 +135,5 @@ DOI Service Fees are based on the total annual revenue of the organization. The 
 
 Payments can be made either via bank wire transfer, check or credit card.
 
-DataCite invoices annually at the beginning of the year. Direct Member and Consortium Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined. The DOI fee will be billed based on an DOI estimate for the first year.
+DataCite invoices annually at the beginning of the year. Direct Member and Consortium Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined. The DOI fee will be billed based on an DOI estimate for the first year. For Consortia where the fee cap applied, the invoice will be based on the relevant fee cap.
 
