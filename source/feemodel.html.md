@@ -135,5 +135,5 @@ DOI Service Fees are based on the total annual revenue of the organization. The 
 
 Payments can be made either via bank wire transfer, check or credit card.
 
-DataCite invoices annually at the beginning of the year. Direct Member and Consortium Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined. The DOI fee will be billed based on an DOI estimate for the first year. For Consortia where the fee cap applied, the invoice will be based on the relevant fee cap.
+DataCite invoices annually at the beginning of the calendar year. Direct Members and Consortium Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined. The DOI fee will be billed based on their DOI estimate for the first year. There will be no credit if you register less nor an additional charge if you register more DOIs. For Consortia where the fee cap applies, the invoice will be based on the relevant fee cap.
 
