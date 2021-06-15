@@ -135,19 +135,19 @@ Please note that when the fee cap applies, consortia will be invoiced for new co
 
 Within the DataCite community, there are a number of organizations, e.g. technology providers, that provide platforms for deposition of research outputs. Preferably, this is done as part of our Registered Service Providers Program. 
 
-Please note that when a member:
+Please note that when an organization:
 
   (i) Provides DOIs to other, external organizations.
   (ii) Allows organizations to manage their own instance of a (institutional) repository.
   (iii) Allows content to be deposited to a branded platform.
   (iv) Enables metadata curation by an external organization which is considered the publisher
   
-  this member should join as a Consortium Member. DOI services cannot be provided to external organizations under a Direct Membership.
+  this organization should join as a Consortium Member. DOI services cannot be provided to external organizations under a Direct Membership or under a Consortium Organization.
 
 
 ## Payment Methods and Billing Cycle
 
 Payments can be made either via bank wire transfer, check or credit card.
 
-DataCite invoices annually at the beginning of the calendar year. Direct Members and Consortium Organizations that join DataCite during the calendar year will be charged pro-rated fees based on the month joined. The DOI fee will be billed based on their DOI estimate for the first year. There will be no credit if you register less nor an additional charge if you register more DOIs. For Consortia where the fee cap applies, the invoice will be based on the relevant fee cap.
+DataCite invoices annually at the beginning of the calendar year. Direct Members and Consortium Organizations that join DataCite during the calendar year will be charged, in the month after they joined, pro-rated fees based on the month joined. The DOI fee will be billed based on their DOI estimate for the first year. There will be no credit if you register less nor an additional charge if you register more DOIs. For Consortia where the fee cap applies, the invoice will be based on the relevant fee cap.
 
