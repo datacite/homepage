@@ -5,11 +5,11 @@ layout: service
 
 Current Openings (details below)
 ---
-- [link text](#head1)
-- [link text](#head2)
+- [Project Lead - FAIR workflows project](#head1)
+- [Application Developer (remote)](#head2)
 
 
-### <a name="head1"></a>Project Lead - FAIR workflows project
+# <a name="head1"></a>Project Lead - FAIR workflows project
 
 Job Description
 ---
@@ -66,7 +66,7 @@ Why work for us
 Please send a resume and statement of interest to Helena Cousijn (helena.cousijn@datacite.org) by August 15, 2021. Interviews will take place in the second half of August. We would like the candidate to start in this role on October 1. Please don’t hesitate to contact us with any questions.
 
 
-### <a name="head2"></a>Application Developer (remote)
+# <a name="head2"></a>Application Developer (remote)
 
 Job Description
 ---
