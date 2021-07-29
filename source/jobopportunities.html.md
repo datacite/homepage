@@ -3,8 +3,9 @@ title: DataCite - Job opportunities
 layout: service
 ---
 
-Current Openings
----
+
+## Current Openings
+
 - [Project Lead - FAIR workflows project](#head1)
 - [Application Developer (remote)](#head2)
 
