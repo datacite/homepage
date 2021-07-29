@@ -3,9 +3,6 @@ title: DataCite - Job opportunities
 layout: service
 ---
 
-&nbsp;
-&nbsp;
-&nbsp;
 ## Current Openings
 
 - [Project Lead - FAIR workflows project](#head1)
@@ -17,7 +14,7 @@ layout: service
 
 Job Description
 ---
-DataCite is looking for a Project Lead to manage a global Open Science project with partners across Europe and the United States. The role is funded by the Templeton World Charity Foundation, Inc. 
+DataCite is looking for a Project Lead to manage a global Open Science project with partners across Europe and the United States. The role is funded by the Templeton World Charity Foundation, Inc.
 
 DataCite is a leading global non-profit organisation that provides persistent identifiers (DOIs) for research. DataCite was founded in 2009 to support the research community in identifying, locating, accessing, and citing research outputs with confidence. DataCite develops services that enable easier access to research and provide a way for researchers to share and get credit for the outputs they generate.
 
@@ -25,7 +22,7 @@ DataCite and partners recently received funding from the Templeton World Charity
 
 Formally published papers that have been through a traditional peer review and editorial process remain the most important means of communicating science today. A major obstacle is that current research articles provide only a fraction of the information required to fully evaluate a scientific study. Most of the time, there is no underlying information available and no mechanism to easily link to the experimental design, the research data, and the analytical tools that were used to generate the reported outcomes. This challenge prevents the research community from being able to fully understand the results of the research, to replicate its results, and to decisively evaluate,and reuse existing research. Availability of the different outputs of a research project would enable reuse of data and software in order to aggregate findings across studies to evaluate discoveries in the field, and ultimately to assess and accelerate progress.
 
-As a consequence, there is currently a big push to make science Open and FAIR to increase reproducibility and reusability of scientific results. Recognizing the importance of better management of research entities has led to critical advances concerning development of infrastructure for preregistration of studies, data repository platforms, standards for data sharing and ontologies. 
+As a consequence, there is currently a big push to make science Open and FAIR to increase reproducibility and reusability of scientific results. Recognizing the importance of better management of research entities has led to critical advances concerning development of infrastructure for preregistration of studies, data repository platforms, standards for data sharing and ontologies.
 
 The project seeks to contribute to these developments by providing an exemplar workflow which will take the concept of making one’s research FAIR and open, and will provide a concrete example and implementation based on the reality of an entire research investigation lifecycle. In doing so, this will test the challenges of the research team, the time investments, the availability of the metadata and tools needed to ensure FAIR research outputs, and the ability of a dashboard to meaningfully contribute to the research workflow and the impact of research outputs. For FAIR workflows to become standard for all researchers, they will need to have examples, that are easy to implement, of how to make their research outputs FAIR and open, and this project will be impactful as a demonstration.
 
@@ -35,7 +32,7 @@ Responsibilities and duties
 
 The Project Lead has the overall day to day responsibility of the project and reports directly to the Project Director. The core responsibilities of the Project Lead include:
 - Coordination between project partners
-- Development and documentation of the end-to-end workflow 
+- Development and documentation of the end-to-end workflow
 - Close alignment with research group to establish use cases
 - Stakeholder engagement to verify use cases and solutions
 - Communication of FAIR workflows and Open Science best practices
