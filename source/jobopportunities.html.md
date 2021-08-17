@@ -132,5 +132,5 @@ Why work for us
 - Adaptable - We embrace change and uncertainty and work together to adapt to new situations
 
 ### To apply
-Please send a resume and statement of interest to Richard Hallett [rhallett@datacite.org](mailto:rhallett@datacite.org) by August 15, 2021. We only accept applications by individuals.
-Interviews will take place in the second half of August. We would like the candidate to start in this role on October 1. Please don’t hesitate to contact us with any questions.
+Please send a resume and statement of interest to Richard Hallett [rhallett@datacite.org](mailto:rhallett@datacite.org) by August 27, 2021. We only accept applications by individuals.
+Interviews will take place in the second half of August through to first few weeks of September. We would like the candidate to start in this role on October 1, but we are flexible. Please don’t hesitate to contact us with any questions.
