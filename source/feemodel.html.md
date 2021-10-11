@@ -149,5 +149,7 @@ Please note that when an organization:
 
 Payments can be made either via bank wire transfer, check or credit card.
 
-DataCite invoices annually at the beginning of the calendar year. Direct Members and Consortium Organizations that join DataCite during the calendar year will be charged, in the month after they joined, pro-rated fees based on the month joined. The DOI fee will be billed based on their DOI estimate for the first year. There will be no credit if you register less nor an additional charge if you register more DOIs. For Consortia where the fee cap applies, the invoice will be based on the relevant fee cap.
+DataCite invoices annually at the beginning of the calendar year. Direct Members and Consortium Organizations that join DataCite during the calendar year will be charged, in the month after they joined, pro-rated fees based on the month joined. The DOI fee will be billed based on their DOI estimate for the first year. There will be no credit if you register less nor an additional charge if you register more DOIs. There is no refund is a Consortium Organization leaves the Consortium during the year. For Consortia where the fee cap applies, the invoice will be based on the relevant fee cap.
+
+In case undisputed fee payments are late more than ninety (90) days, repository accounts will become temporarily inactive until the payments are made.
 
