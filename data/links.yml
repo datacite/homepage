@@ -38,6 +38,8 @@ community_links:
    url: /service-providers.html
  - name: Roadmap
    url: /roadmap.html
+ - name: FAIR Workflows
+   url: /fair-workflows.html
 contact_links:
  - name: Imprint
    url: /imprint.html
