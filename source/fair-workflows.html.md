@@ -3,6 +3,7 @@ title: Implementing FAIR Workflows Project
 layout: service
 ---
 # What is the Implementing FAIR Workflows Project?
+
 <img src="/images/FAIR_Workflows/TWCF_Logo_Light_Horizontal.png" width="700">
 <img src="/images/FAIR_Workflows/FAIR_logo.png" width="300">
 
@@ -249,5 +250,5 @@ Follow the [DataCite twitter](https://twitter.com/DataCite) for updates
 
 
 
-
 _This project was made possible through the support of a grant from Templeton World Charity Foundation, Inc. The opinions expressed in this publication are those of the author(s) and do not necessarily reflect the views of Templeton World Charity Foundation, Inc._
+
