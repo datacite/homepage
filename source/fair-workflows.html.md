@@ -4,7 +4,8 @@ layout: service
 ---
 # What is the Implementing FAIR Workflows Project?
 
-<img src="/images/FAIR_Workflows/FAIR_logo.png" width="400">
+<img src="/images/FAIR_Workflows/TWCF_Logo_Light_Horizontal.png" width="700">
+<img src="/images/FAIR_Workflows/FAIR_logo.png" width="300">
 
 <table class="table pricing">
 <thead>
@@ -16,7 +17,7 @@ layout: service
 </thead>
 <tr>
 <td>Project Directors</td>
-<td>Dr. Helena Cousijn (DataCite), Prof. Lucia Melloni ([MPIAE](https://www.aesthetics.mpg.de/))</td>
+<td>Dr. Helena Cousijn (DataCite), Prof. Lucia Melloni ([MPIEA](https://www.aesthetics.mpg.de/))</td>
 </tr>
 <tr>
 <td>Project Organization</td>
@@ -66,7 +67,7 @@ Implementing FAIR Workflows: A proof of concept study in the field of consciousn
 </tr>
 <tr>
 <td>Lead</td>
-<td>MPIAE</td>
+<td>MPIEA</td>
 <td>Responsible for the research studys, data management and research assets during the project. Test the workflows and provide input and examples.</td>
 </tr>
 <tr>
@@ -246,4 +247,8 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 # Contact
 Project lead: xiaoli.chen@datacite.org
 Follow the [DataCite twitter](https://twitter.com/DataCite) for updates
+
+
+
+_This project was made possible through the support of a grant from Templeton World Charity Foundation, Inc. The opinions expressed in this publication are those of the author(s) and do not necessarily reflect the views of Templeton World Charity Foundation, Inc._
 
