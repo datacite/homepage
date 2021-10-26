@@ -3,12 +3,12 @@ title: Implementing FAIR Workflows Project
 layout: service
 ---
 # What is the Implementing FAIR Workflows Project?
-
-<img src="/images/FAIR_Workflows/FAIR_logo.png" width="400">
+<img src="/images/FAIR_Workflows/TWCF_Logo_Light_Horizontal.png" width="700">
+<img src="/images/FAIR_Workflows/FAIR_logo.png" width="300">
 
 | Funder | Templeton World Charity Fundation |
 | ------ | ------ |
-| Project Directors | Dr. Helena Cousijn (DataCite), Prof. Lucia Melloni ([MPIAE](https://www.aesthetics.mpg.de/))|
+| Project Directors | Dr. Helena Cousijn (DataCite), Prof. Lucia Melloni ([MPIEA](https://www.aesthetics.mpg.de/))|
 | Project Organization | DataCite |
 | Duration | 36 Months (October 2021 - September 2024)|
 
@@ -36,7 +36,7 @@ Implementing FAIR Workflows: A proof of concept study in the field of consciousn
 |     Type  | Organization                | Role         |
 |:---------:|:---------------------------:|:------------:|
 | Lead      | DataCite                    | Coordination of development of the workflow across partners, development of a dashboard on top of the PID Graph.  |
-| Lead      | MPIAE                       | Responsible for the research studys, data management and research assets during the project. Test the workflows and provide input and examples.  |
+| Lead      | MPIEA                       | Responsible for the research studys, data management and research assets during the project. Test the workflows and provide input and examples.  |
 | Partner   | CDL                         | Providing consulting, technical and product management resources from UC3 Research Data Management team, integration of metadata templates into the DMP Tool and mapping of the proposed PID Graph into DMP IDs and DMP Hub.  |
 | Partner   | ARDC                        | Providing access to RAiDs and assisting in the integration of RAiDs into the PID graph and corresponding interface.  |
 | Partner   | Dryad                       | Providing the primary digital repository for the project; integration of metadata.   |
@@ -97,3 +97,8 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 Project lead: xiaoli.chen@datacite.org
 Follow the [DataCite twitter](https://twitter.com/DataCite) for updates
 
+
+
+
+
+_This project was made possible through the support of a grant from Templeton World Charity Foundation, Inc. The opinions expressed in this publication are those of the author(s) and do not necessarily reflect the views of Templeton World Charity Foundation, Inc._
