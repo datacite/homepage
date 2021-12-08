@@ -19,6 +19,9 @@ jobs:
       - uses: actions/setup-ruby@v1
         with:
           ruby-version: '2.6'
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
 
       - name: Extract variables
         shell: bash
@@ -56,15 +59,15 @@ jobs:
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy
-        uses: reggionick/s3-deploy@v3
-        with:
-          folder: build
-          bucket: ${{ secrets.STAGE_S3_BUCKET }}
-          bucket-region: ${{ secrets.S3_BUCKET_REGION }}
-          dist-id: ${{ secrets.STAGE_CLOUDFRONT_DISTRIBUTION_ID }}
-          invalidation: /
-          delete-removed: true
+#       - name: Deploy
+#         uses: reggionick/s3-deploy@v3
+#         with:
+#           folder: build
+#           bucket: ${{ secrets.STAGE_S3_BUCKET }}
+#           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
+#           dist-id: ${{ secrets.STAGE_CLOUDFRONT_DISTRIBUTION_ID }}
+#           invalidation: /
+#           delete-removed: true
 
       - name: Notify Slack
         uses: edge/simple-slack-notify@master
