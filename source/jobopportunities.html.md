@@ -174,38 +174,38 @@ In this role, you will be responsible for engagement and outreach activities wit
 
 Your responsibilities
 ---
-Be the primary point of contact for DataCite members registering IGSN IDs for samples
-Provide support to IGSN Allocating Agents as part of the transition process to IGSN registration through DataCite
-Grow the samples community through outreach efforts
-Engage in samples advocacy within the Open Science community
-Represent the samples community within DataCite
-Contribute to the DataCite metadata schema and align with IGSN metadata
+- Be the primary point of contact for DataCite members registering IGSN IDs for samples
+- Provide support to IGSN Allocating Agents as part of the transition process to IGSN registration through DataCite
+- Grow the samples community through outreach efforts
+- Engage in samples advocacy within the Open Science community
+- Represent the samples community within DataCite
+- Contribute to the DataCite metadata schema and align with IGSN metadata
 
 
 Required skills and qualifications
 ---
-University degree; a degree related to geosciences is a plus
-Outreach experience
-Project management skills
-Passionate about open research
-Knowledge of the Samples research landscape
-Interest in PIDs and metadata
-Strong English written and oral communication skills
-Planning and organizational skills
-Experience working in an international environment
-Comfortable working remotely
-Travel could be part of the job
+- University degree; a degree related to geosciences is a plus
+- Outreach experience
+- Project management skills
+- Passionate about open research
+- Knowledge of the Samples research landscape
+- Interest in PIDs and metadata
+- Strong English written and oral communication skills
+- Planning and organizational skills
+- Experience working in an international environment
+- Comfortable working remotely
+- Travel could be part of the job
 
 This is a fixed-term contract for 2 years. Based on performance and upcoming projects, there may be an opportunity to transition to a permanent contract.
 
 Why work for us
 ---
-Remote position.
-Competitive local salary.
-30 days vacation time annually, plus 1 day paid extra for volunteer work of your choice.
-Flexible working hours.
-Option to work in a co-working space with a paid contribution from us.
-Opportunity to learn something new every day.
+- Remote position.
+- Competitive local salary.
+- 30 days vacation time annually, plus 1 day paid extra for volunteer work of your choice.
+- Flexible working hours.
+- Option to work in a co-working space with a paid contribution from us.
+- Opportunity to learn something new every day.
 
 
 ### To apply
