@@ -54,7 +54,8 @@ Requirements
 - Familiarity with cloud computing and DevOps practices including Infrastructure as Code
 - Excellent communication skills, and the flexibility that is needed for working in a small, distributed team
 
-Nice to have
+Nice to haves:
+
 - Experience with AWS, Terraform and Git/Github
 - Experience with Django or similar
 - Strong interest in open science and data sharing
