@@ -103,6 +103,66 @@ Implementing FAIR Workflows: A proof of concept study in the field of consciousn
 </tbody>
 </table>
 
+# Advisory Committee
+<table class="table pricing">
+<thead>
+<tbody>
+<tr>
+<th>Advisor</th>
+<th>Organization</th>
+</tr>
+</thead>
+<tr>
+<td>Adrian Burton</td>
+<td>Australian Research Data Commons</td>
+</tr>
+<tr>
+<td>Jennifer Kemp</td>
+<td>Crossref</td>
+</tr>
+<tr>
+<td>Nici Pfeiffer</td>
+<td>Center of Open Science</td>
+</tr>
+<tr>
+<td>Helena Cousijn</td>
+<td>DataCite</td>
+</tr>
+<tr>
+<td>Lucia Melloni</td>
+<td>Max Planck Institute for Empirical Aesthetics</td>
+</tr>
+<tr>
+<td>Russell Poldrack</td>
+<td>OpenNeuro</td>
+</tr>
+<tr>
+<td>Franco Pestilli</td>
+<td>University of Texas</td>
+</tr>
+<tr>
+<td>Rachael Kotarski</td>
+<td>British Library</td>
+</tr>
+<tr>
+<td>Helena Ledmyr</td>
+<td>International Neuroinformatics Coordinating Facility</td>
+</tr>
+<tr>
+<td>Dylan Roskams-Edris</td>
+<td>Tanenbaum Open Science Institute / NeuroHub</td>
+</tr>
+<tr>
+<td>Jean-Baptiste Poline</td>
+<td>NeuroHub (Lead PI), NeuroDataScience Director, INCF chair of scientific council</td>
+</tr>
+<tr>
+<td>Bryan Lawrence Caron</td>
+<td>NeuroHub - Montreal Neurological Institute</td>
+</tr>
+</tbody>
+</table>
+## External Advisors
 
 # Work packages
 
@@ -117,6 +177,7 @@ Develop a specification for an end-to-end FAIR workflow for researchers that ena
 <th>Deliverable</th>
 <th>Description</th>
 <th>Lead</th>
+<th>Output</th>
 </tr>
 </thead>
 <tr>
@@ -148,6 +209,7 @@ Apply the end-to-end FAIR workflow specification to a pre-registered multi-modal
 <th>Deliverable</th>
 <th>Description</th>
 <th>Lead</th>
+<th>Output</th>
 </tr>
 </thead>
 <tr>
@@ -184,6 +246,7 @@ Provide an open interface that allows researchers to track connections between D
 <th>Deliverable</th>
 <th>Description</th>
 <th>Lead</th>
+<th>Output</th>
 </tr>
 </thead>
 <tr>
@@ -210,6 +273,7 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 <th>Deliverable</th>
 <th>Description</th>
 <th>Lead</th>
+<th>Output</th>
 </tr>
 </thead>
 <tr>
@@ -221,6 +285,7 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 <td>D4.2</td>
 <td>Develop a project communication plan.</td>
 <td>DataCite, MPIEA</td>
+<td>[Communication Plan](https://doi.org/10.5281/zenodo.6302912)</td>
 </tr>
 <tr>
 <td>D4.3</td>
@@ -246,7 +311,9 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 
 # Contact
 Project lead: xiaoli.chen@datacite.org
-Follow the [DataCite twitter](https://twitter.com/DataCite) for updates
+
+
+Follow the [DataCite twitter](https://twitter.com/DataCite) for updates.
 
 
 
