@@ -4,81 +4,87 @@ layout: service
 ---
 ## Current Openings
 
-- [Technical Community Manager](#head1)
+- [Technical Lead (remote)](#head1)
 
-# <a name="head1"></a>Technical Community Manager
-
-DataCite is a community-led organisation with a vision to connect research and identify knowledge. We have been providing the means to create, find, cite, connect, and use research through Persistent Identifiers (PIDs) across 50 countries globally since 2009. Organizations within the research community join DataCite as members to be able to assign DOIs to all their research outputs. This way, their outputs become discoverable and associated metadata is made available to the community. DataCite then develops additional services to improve the DOI management experience, making it easier for our members to connect and share their DOIs with the broader research ecosystem and to assess the use of their DOIs within that ecosystem. DataCite is an active participant in the research community and promotes data sharing and citation through community-building efforts and outreach activities.
-
-At its core, DataCite is an infrastructure organization that provides open research infrastructure to organizations around the world. This position will be part of the Community Engagement team who work closely with DataCite members and the broader community to support adoption, advocate for community change, and ensure that we deliver value through implementation of our services. Alongside the Community Engagement team, the Engineering team design, develop, maintain and launch our services.  The Technical Community Manager will be responsible to link efforts across these teams, align with the community workflows, and lead on adoption efforts.This includes engaging with new and existing members, service providers and other stakeholders in the community to understand their workflows and systems, and guide their implementations and integrations. Preferably the candidate is based in the Americas.
+# <a name="head1">Technical Lead (remote)</a>
 
 
-Your responsibilities
+Job Description
 ---
-(1) Build strategies to drive adoption and technical implementation
-- Continuously evaluate workflows and demonstrate value for community stakeholders through embedding DataCite services in their workflows
-- Communicate the stakeholder value proposition across the various DataCite services
-- Lead the DataCite Service Providers program
-- Monitor the use of DataCite services to track key adoption metrics
-- Provide input into the product design specifications as needed
-- Develop relevant materials and demonstrate best practices in order to improve adoption
+DataCite is looking for a Technical Lead to join the DataCite development team in a fully remote position. You will be involved in furthering the technology in our services that support our mission.
 
-(2) Lead the DataCite Adoption team
-- Manage a small team responsible for Adoption, Technical Workflows, and Support
-- Develop the DataCite adoption strategy and align with the DataCite strategic plan
-- Be the internal point of contact for the DataCite Engineering team to ensure alignment
-
-(3) Organize community efforts towards adoption of data metrics
-- Advocate for adoption of responsible, meaningful approaches to research data assessment
-- Coordinate with community stakeholders to define the adoption strategies of data usage and data citation best practices
-- Convene community stakeholders to build on the established Community of Practice
-
-(4) Ensure project outcomes are adopted as part of DataCite's core services
-- Develop adoption strategies for the various project activities and outputs
-- Work with Early Adopters to provide exemplar implementations and best practices
-- Actively participate in community groups and meetings to ensure alignment across community initiatives
-
-(5) Coordinate further development and adoption of the DataCite metadata schema
-- Be the DataCite representative on the Metadata Working Group
-- Collate member, service provider, and other community stakeholder feedback for the Metadata Working Group and share adoption and implementation use cases
-- Work with members, service providers and other community stakeholders on implementation of metadata best practices
-
-
-Required skills and qualifications
+About DataCite
 ---
-- University degree
-- Familiar with research infrastructure and the open science landscape
-- Sufficient technical skills to advise members on integrations, including experience with making and troubleshooting requests to RESTful APIs and familiarity with XML and JSON data structures
-- Experience with Git/Github and basic knowledge of one or more scripting languages such as Python, Javascript, Ruby or PHP
-- Familiarity/comfort with command line tools, such as cURL
-- Knowledge of data metrics and the various community efforts
-- Passionate about metadata
-- Ability to work with a  distributed team across time zones
-- Strong, compelling, and clear written, oral, and visual communication
-- Self-motivated to succeed and take initiative and seek continuous improvement
+DataCite is a leading global non-profit organization that provides persistent identifiers (DOIs) for research outputs. DataCite was founded in 2009 to support the research community in identifying, locating, accessing, and citing research outputs with confidence. DataCite develops services that enable easier access to research and provide a way for researchers to share and get credit for the outputs they generate.
 
-Desired skills
+DataCite is currently involved in various European and international projects. We are looking for a Technical Lead based in Europe to lead, implement and deliver technical solutions to support these projects and the wider DataCite community.
+
+
+### Working at DataCite
+
+We are a fully remote team, this means we don't have a physical office, we work where it's most comfortable. The team is distributed across several European countries, Japan, Canada and the United States, supporting a global community of organizational members across 48 countries.
+
+The DataCite development team has built and maintains the software that is running DataCite services, and our codebase has been made openly available under a permissive open source license. The languages, frameworks, and tools the team is using are constantly evolving, adjusting to the needs of DataCite members, and evolving community practices.
+
+All our work is publically available on https://github.com/datacite
+
+Responsibilities and duties
 ---
-- Outreach experience, particularly engaging with global and technical audiences
-- Data science skills
-- Familiarity with product management
-- Familiarity with one or more digital repository platforms (DSpace, Dataverse, ePrints, Invenio, Samvera, etc)
-- Experience with tools such as Salesforce and Wordpress is a plus
-- Experience working in an international environment
-- Comfortable working remotely
+- Work closely with Product Designer and Software Engineering Manager to architect and develop new features and services, from conception to launch.
+- Be responsible for the overall systems development life cycle including the design, development and maintenance of discovery and harvester services.
+- Investigate design approaches, prototype new technology and evaluate technical feasibility.
+- Develop full-stack product features in an open source software environment, including user-facing front-end services and backend APIs.
+- Software refactoring and making sure services run smoothly.
+- Test, deploy and monitor applications, and react to problems.
+- Collaborate with product design and other stakeholders within the engineering team to provide a quality and iterative environment.
+- Advocate for product quality, security and performance.
+- Follow industry best practices for a high scale web environment and work with the team to provide suggestions for improvement.
+- Technical support for DataCite members and third parties, including supporting technical documentation.
+- Report on status of development, quality, operations and system performance to internal and external stakeholders.
+- Help to improve engineering processes and tools to increase team effectiveness.
+- Have the opportunity to hire and shape the team to best execute on the product.
+- Mentor and coach software engineers in order to improve their skills, and make them more effective software engineers.
 
+
+Requirements
+---
+
+- Based in an EMEA timezone, preferably in Europe. 
+- Bachelor’s degree in Computer Science or related field.
+- 7+ years of experience building successful production software systems.
+- 2+ years of people management experience.
+- Proficiency with fundamental front-end technologies, HTML/CSS/Javascript.
+- 7+ years of experience with server-side languages such as Ruby, Python, Java or .NET.
+- Hands-on experience developing, deploying, and maintaining web applications, including system administration, error tracking, and support.
+- Familiarity with relational databases and search engines such as ElasticSearch.
+- Familiarity with DevOps practices, Infrastructure as Code using Terraform and cloud providers (AWS).
+- Excellent communication skills, and the flexibility that is needed for working in a small, distributed team.
+
+Nice to haves:
+
+- Experience with Ruby and Rails.
+- Interest and/or experience with React and Next.js.
+- Strong interest in open science and data sharing.
+- Experience with performance investigation and optimisation.
+- Understanding of code review processes.
+- Good technical documentation skills.
+- Computer science education or equivalent experience.
+- Interest to learn and use other programming languages.
+- Familiarity with events driven architecture, distributed systems, serverless architecture and async processing.
+
+Above all what we value are smart and engaged software engineers who care about the work they do and the quality of the end result, this makes up for any lack of experience you may have in any of the above requirements.
 
 Why work for us
 ---
-- Remote position.
-- Competitive local salary.
-- 30 days vacation time annually, plus 1 day paid extra for volunteer work of your choice.
-- Flexible working hours.
-- Option to work in a co-working space with a paid contribution from us.
-- Opportunity to learn something new every day.
 
+- Fully remote position.
+- Competitive local salary.
+- 30 days vacation time annually and 1 day paid extra for volunteer work of your choice.
+- Flexible working hours.
+- Option to work in co-working with a paid contribution from us.
+- Opportunity to learn something new every day, we are an evolving community and team.
+- Adaptable - We embrace change and uncertainty and work together to adapt to new situations.
 
 ### To apply
-
-Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>] by the 7th of February 2022. Interviews will take place in February. We would like the candidate to start as soon as possible. Please don’t hesitate to contact us with any questions.
-
+Please send a resume and statement of interest to Sarala Wimalaratne (sarala@datacite.org) by April 30, 2022. We only accept applications by individuals.
+Interviews will take place in the first half of May. We would like the candidate to start in this role on 1st of June. Please don’t hesitate to contact us with any questions.
