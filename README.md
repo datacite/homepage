@@ -2,26 +2,37 @@
 
 ![Release](https://github.com/datacite/homepage/workflows/Release/badge.svg)
 
-## Prerequisites
+# Local development
 
-You will need the following things properly installed on your computer.
+Note: does not work with Ruby 3.x+ or Node 15.x+ . To run locally without installing older versions of Ruby/Node, follow the Docker steps
 
-[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-[Ruby](https://www.ruby-lang.org/en/)
-[RubyGems](https://rubygems.org/)
-[Node.js](https://nodejs.org/en/) (at least version 12)
-[Bundler](https://bundler.io/)
+## Run directly on your OS
 
-## Installation
+### Prerequisites
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Ruby v2.6](https://www.ruby-lang.org/en/)
+- [RubyGems](https://rubygems.org/)
+- [Node.js v14.x](https://nodejs.org/en/) (at least version 12)
+- [Bundler](https://bundler.io/)
 
+### Install and start
 1. `git clone <repository-url> this repository`
 2. `cd homepage`
 3. `yarn`
+4. `bundle exec middleman server`
+5. `Visit the app at http://localhost:4567`
 
-## Running / Development
+### Run in Docker
 
-1. `bundle exec middleman server`
-2. `Visit the app at http://localhost:4567`
+### Prerequisites
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Docker desktop](https://www.docker.com/products/docker-desktop/)
+
+### Install and start
+1. `git clone <repository-url> this repository`
+2. `cd homepage`
+3. `docker-compose up -d`
+5. `Visit the app at http://localhost:4567`
 
 ## License
 
