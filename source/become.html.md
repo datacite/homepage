@@ -5,66 +5,76 @@ layout: service
 
 # Why join DataCite ?
 
-Data are essential building blocks of scholarship and research. Being able to share data effectively is therefore extremely important. At DataCite, we develop and support tools and methods that make data more accessible and more useful.
+DataCite is a global community of organizations and researchers identifying and citing research outputs and resources. We provide services to create persistent records of research, enable discovery and reuse, and support workflows throughout the research lifecycle.
 
-We invite Members from all types of organizations – including academic institutions, research organizations, government agencies, publishers, libraries, and funders – to join our global network committed to supporting data sharing through partnership, advocacy, and by developing tools and services that accelerate data sharing, use, and reuse. Together, we will be at the forefront of helping to transform scholarship and the role of research data in our society.
+We invite members from all types of organizations – including academic institutions, research organizations, government agencies, publishers, libraries, and funders – to join our global network committed to connecting research through partnership, advocacy, and by developing tools and services that accelerate sharing, use, and reuse of research outputs. Together, we are at the forefront of helping to transform scholarship by including all research output to serve society.
 
-As a [DataCite Member](/members.html), organizations show their support for research data sharing in the following manner:
+[DataCite Member organizations](/members.html) show their support in the following manner:
 
-- They demonstrate an elevated level of commitment to open data and open research.
-
-- They become part of a global data-sharing community, learning, collaborating, and advocating with a leading-edge network of data research experts.
-
+- They demonstrate an elevated level of commitment to open research.
+- They become part of a global community, learning, collaborating, and advocating with a leading-edge network of research experts.
 - They support and participate in the creation and management of persistent identifiers (DOIs) for research outputs.
+- They play a critical role in advancing DataCite’s mission through their financial support.
+- They help to shape DataCite’s future by serving on our [Executive Board](/governance.html) or [steering groups](/steering.html).
 
-- They play a critical role in advancing DataCite’s data-sharing mission through their financial support.
-
-- They help to shape the future DataCite – and data research in general – by serving on our Executive Board or DataCite steering groups.
 
 # Types of Membership
 
 ## 1) Member-only
 
-This type of member supports DataCite’s data sharing mission and wants to collaborate with DataCite and/or be part of DataCite’s governance. These Members do not register DOIs.
+This type of member supports DataCite’s research sharing mission and wants to collaborate with DataCite and/or be part of DataCite’s governance. These Members do not register DOIs.
 
 ## 2) Direct Member
 
-This type of Member is a consumer of DOI services and consists of an organization that works with one or more repositories within their organization. The repositories are under the same administrative structure as the organization.
+This type of member supports DataCite's research sharing mission and is an organization that works with one or more repositories within their organization. The repositories are under the same administrative structure as the organization.
 
 <div class="section-img-small">
-  ![](images/direct_member.png)
+  ![](images/direct_member_2022.png)
 </div>
 
-## 3) Consortium Member
+## 3) Consortium
 
 A consortium is a group of like-minded organizations that have come together to collectively participate in DataCite’s community and governance activities and use DataCite’s DOI services. Consortia are generally located in a single country or subject-based. Organizations within a consortium can work with one or more repositories.
 
-
 Consortium guidelines
 
-* A consortium is composed of five or more non-profit organizations that are under different administrative structures.
+* A consortium is composed of five or more organizations that are under different administrative structures.
 
 * Consortia should consist of a minimum of five organizations, including the consortium lead. New consortia are expected to reach this number in one year.
 
-* Consortium Organizations that expect to register more than 10.000 DOIs annually should transfer to Direct Membership within the following calendar year, or pay the additional membership fee (2.000 € annually) while remaining part of the consortium. This ensures that there is appropriate cost recovery based on the impact on cost drivers.
+* All future Consortium Organizations should either be within one geographic region OR subject area.
 
-* All future consortia should be within one geographic region OR subject area
+* One organization within the consortium is designated the Consortium Lead and fulfills a range of responsibilities.
 
-* Only non-profit organizations can participate in consortia
+* Consortium Leads can distribute costs across the Consortium Organizations as per their own policies and structures.
 
-* Consortium Leads can distribute costs across the Consortium Organizations as per their own policies and structures
 
 <div class="section-img">
-  ![](images/consortium.png)
+  ![](images/consortium_member_diagram_2022.png)
 </div>
 
-# Repositories
+# Registering DataCite DOIs
 
-Repositories play a key role in the DataCite Member model. We define a repository as a service operated by research organizations, where research materials are stored, managed and made accessible. A repository is a single unit and DataCite links the repository to information in re3data, where additional repository metadata are available.
+<div class="section-img">
+  ![](images/OrganizationsV6.png)
+</div>
 
-However, we realize that not all content is hosted in repositories and therefore DataCite also includes periodicals as a designation. The term periodicals include journals, proceedings, books, blogs, and working paper series.
+# Information for platforms
 
-The repository information provided will be used and displayed throughout DataCite services including search, data usage statistics, Member DOI statistics, and third-party indexing services.
+<div class="section-img">
+  ![](images/PlatformsV6.png)
+</div>
+
+Within the DataCite community, there are a number of organizations, e.g. technology providers, that provide platforms for deposition of research outputs. Preferably, this is done as part of our Registered Service Providers Program.
+
+Please note that when an organization:
+
+* Provides DOIs to other, external organizations.
+* Allows organizations to manage their own instance of a (institutional) repository.
+* Allows content to be deposited to a branded platform.
+* Enables metadata curation by an external organization which is considered the publisher.
+
+this organization should join as a Consortium. Direct Members and Consortium Organizations cannot provide DOI services to external organizations.
 
 
 # How to join DataCite ?
