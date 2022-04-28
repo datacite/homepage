@@ -1,5 +1,5 @@
 ---
-title: DataCite - Fee Model 2022
+title: DataCite - Fee Model 2021
 layout: service
 ---
 
