@@ -20,6 +20,8 @@ Each Direct Member or Consortium Organization that makes use of DOI registration
 
 ## Organization Fee
 
+#### Non-profit Organizations
+
 The organization fee is 500€ per year. This fee includes all the repositories and prefixes needed by an organization to follow best practices.
 
 #### For‐profit Organizations
@@ -138,10 +140,64 @@ Please note that when the fee cap applies, consortia will be invoiced for new co
 
 ## Application of the fee structure
 
-<div class="section-img-small">
-  ![](images/FeesV5.png)
-</div>
+<img src="images/FeesV6.png" class="img-responsive" alt="DataCite Fee Model. Table available under the heading Text version.">
 
+<div class="panel-group search-wide" id="fee-model-accordion" role="tablist" aria-multiselectable="true">
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="fee-model-heading">
+<h5 class="panel-title">
+<a role="button" data-toggle="collapse" data-parent="#fee-model-accordion" href="#fee-model-description" aria-expanded="true" aria-controls="fee-model-description">Text version</a>
+</h4>
+</div>
+<div id="fee-model-description" class="panel-collapse collapse" role="tabpanel" aria-labelledby="fee-model-heading">
+ <div class="panel-body">
+  <table class="table pricing">
+<thead>
+<tbody>
+<tr>
+<th></th>
+<th>Membership fee 2.000€</th>
+<th>Organization service fee 500€</th>
+<th>DOI registration fee 0,80€-8.500€</th>
+</tr>
+</thead>
+<tr>
+<td>Research Group</td>
+<td>no</td>
+<td>no</td>
+<td>no</td>
+</tr>
+<tr>
+<td>Repository</td>
+<td>no</td>
+<td>no</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Consortium Organization</td>
+<td>no</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Direct Member</td>
+<td>yes</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Consortium Lead</td>
+<td>yes</td>
+<td>yes, for each organization</td>
+<td>yes, for each organization</td>
+</tr>
+</tbody>
+</table>
+ </div>
+ </div>
+ </div>
+ </div>
+ 
 
 ## Payment Methods and Billing Cycle
 
