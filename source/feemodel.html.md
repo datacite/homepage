@@ -7,7 +7,7 @@ layout: service
 
 DataCite's strength is rooted in its active membership. Our global community of like-minded organizational members includes data centers, libraries, government agencies, research institutions and more. Members are the voting body of the organization and establish our vision and strategy, set our fee structure, and vote or stand for our Executive Board. Membership is open to all organizations that share our research sharing mission. Membership fees support DataCite’s goal to enable the discovery and reuse of research outputs in a global transition to Open Science.
 
-<div class="row text-center">***Annual Membership Fee: 2000€**</div>
+<div class="row text-center">***Annual Membership Fee: 2000€***</div>
 
 </br>
 This fee applies to Member-only organizations, to Direct Members, and to a Consortium as a whole.
@@ -73,51 +73,45 @@ There are several tiers for the number of new DOIs registered annually. The tier
 <table class="table pricing">
 <thead>
 <tr>
-<th>Tier</th>
 <th>Annual DOI range</th>
-<th>Organization Fee</th>
+<th>Tier</th>
 <th>DOI Fee</th>
-<th>Annual service fee per organization</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Tier 1</td>
 <td>0 - 1.999</td>
-<td>500€</td>
-<td>Graded tier 0,80€ per DOI</td>
-<td>500€ + 0,80€ per DOI</td>
+<td>Tier 1</td>
+<td>0,80€ per DOI</td>
 </tr>
 <tr>
-<td>Tier 2</td>
 <td>2.000 - 10.000</td>
-<td>500€</td>
+<td>Tier 2</td>
 <td>1.600€</td>
-<td>2.100€</td>
 </tr>
 <tr>
-<td>Tier 3</td>
 <td>10.001 - 100.000</td>
-<td>500€</td>
+<td>Tier 3</td>
 <td>2.500€</td>
-<td>3.000€</td>
 </tr>
 <tr>
-<td>Tier 4</td>
 <td>100.001 - 250.000</td>
-<td>500€</td>
+<td>Tier 4</td>
 <td>3.500€</td>
-<td>4.000€</td>
 </tr>
 <tr>
-<td>Tier 5</td>
 <td>250.001 - 1.000.000</td>
-<td>500€</td>
+<td>Tier 5</td>
 <td>8.500€</td>
-<td>9.000€</td>
 </tr>
 </tbody>
 </table>
+
+For example, if the member registered 100 DOIs (across repositories) in the previous year, the total service fee will be as follows: 
+
+- Organization fee: 500€
+- DOI fee: 80€ (100x,80€)
+- ***Total annual service fee: 580€***
 
 
 ## Consortium
