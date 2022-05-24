@@ -105,7 +105,7 @@ There are several tiers for the number of new DOIs registered annually. The tier
 <td>8.500€</td>
 </tr>
  <tr>
-<td>21.000.001 - 2.000.000</td>
+<td>1.000.001 - 2.000.000</td>
 <td>Tier 6</td>
 <td>13.000€</td>
 </tr>
