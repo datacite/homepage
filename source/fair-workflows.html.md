@@ -307,7 +307,50 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 
 # More information
 
-## Event calendar (TBA)
+## Event calendar
+
+<table class="table pricing">
+<thead>
+<tbody>
+<tr>
+<th>Date</th>
+<th>Conference</th>
+<th>Presentation</th>
+<th>Slides</th>
+</tr>
+</thead>
+<tr>
+<td>May 12 2022</td>
+<td>euroCRIS 2022</td>
+<td>Implementing FAIR Workflows along the Research Lifecycle</td>
+<td>[Link](https://dspacecris.eurocris.org/handle/11366/1970)</td>
+</tr>
+<tr>
+<td>June 14 2022</td>
+<td>IDCC</td>
+<td>Accelerating Reuse by Implementing FAIR Workflows</td>
+<td>[Link]()</td>
+</tr>
+<tr>
+<td>June 22 2022</td>
+<td>RDA</td>
+<td># Building enhanced FAIR Workflows through use of PIDs within and between interoperable research tools</td>
+<td>[Link](https://www.rd-alliance.org/building-enhanced-fair-workflows-through-use-pids-within-and-between-interoperable-research-tools)</td>
+</tr>
+<tr>
+<td>Sept 1 2022</td>
+<td>Open Science Festival</td>
+<td>PID & FAIR Workflows</td>
+<td>[Link](https://opensciencefestival.nl/call-for-sessions-2022/)</td>
+</tr>
+<tr>
+<td>Sept 12 2022</td>
+<td>INCF Assembly</td>
+<td>FAIR Workflows for Neuroscience Research</td>
+<td>[Link]()</td>
+</tr>
+</tbody>
+</table>
 
 # Contact
 Project lead: xiaoli.chen@datacite.org
