@@ -329,25 +329,25 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 <td>June 14 2022</td>
 <td>[IDCC 2022](https://www.dcc.ac.uk/idcc22/programme)</td>
 <td>Accelerating Reuse by Implementing FAIR Workflows</td>
-<td>[Link]()</td>
+<td>Link</td>
 </tr>
 <tr>
 <td>June 22 2022</td>
 <td>[RDA 19 Plenary](https://www.rd-alliance.org/rdas-19th-plenary-programme-0)</td>
 <td>[Building enhanced FAIR Workflows through use of PIDs within and between interoperable research tools](https://www.rd-alliance.org/building-enhanced-fair-workflows-through-use-pids-within-and-between-interoperable-research-tools)</td>
-<td>[Link]()</td>
+<td>Link</td>
 </tr>
 <tr>
 <td>Sept 1 2022</td>
 <td>[Open Science Festival](https://opensciencefestival.nl/)</td>
 <td>PID & FAIR Workflows</td>
-<td>[Link]()</td>
+<td>Link</td>
 </tr>
 <tr>
 <td>Sept 12 2022</td>
 <td>[INCF Assembly](https://neuroinformatics.incf.org/)</td>
 <td>[FAIR Workflows for Neuroscience Research](https://neuroinformatics.incf.org/2022/sessions)</td>
-<td>[Link]()</td>
+<td>Link</td>
 </tr>
 </tbody>
 </table>
