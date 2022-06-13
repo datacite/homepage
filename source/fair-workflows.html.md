@@ -338,12 +338,6 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 <td>Link</td>
 </tr>
 <tr>
-<td>Sept 1 2022</td>
-<td>[Open Science Festival](https://opensciencefestival.nl/)</td>
-<td>PID & FAIR Workflows</td>
-<td>Link</td>
-</tr>
-<tr>
 <td>Sept 12 2022</td>
 <td>[INCF Assembly](https://neuroinformatics.incf.org/)</td>
 <td>[FAIR Workflows for Neuroscience Research](https://neuroinformatics.incf.org/2022/sessions)</td>
