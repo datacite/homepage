@@ -36,7 +36,9 @@ All sessions take place on September 22, 2022.
 </tr>
 <tr>
 <td>[08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08)</td>
-<td>Training</td>
+<td>Training
+<br>
+(DataCite members and consortium organizations only)</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z)</td>
 </tr>
 <tr>
@@ -63,7 +65,9 @@ All sessions take place on September 22, 2022.
 </tr>
 <tr>
 <td>[17:00-19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T17)</td>
-<td>Training</td>
+<td>Training
+<br>
+(DataCite members and consortium organizations only)</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZIudOGgrjspGt1fdnSklSLW4-gU0eNYoGrJ)</td>
 </tr>
 </tbody>
