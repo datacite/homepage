@@ -24,8 +24,8 @@ All sessions take place on September 22, 2022.
 <tbody>
 <tr>
 <td>[06:00-07:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T06)</td>
-<td> DataCite: Now and in the future
-<br>
+<td>DataCite: Now and in the future
+<br><br>
 (multiple languages available)</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_MY6lrEI2S5WdGthT8C33Qg)</td>
 </tr>
@@ -37,7 +37,7 @@ All sessions take place on September 22, 2022.
 <tr>
 <td>[08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08)</td>
 <td>DataCite Training: Making the most of DataCite’s services
-<br>
+<br><br>
 (DataCite members and consortium organizations only)</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z)</td>
 </tr>
@@ -54,7 +54,7 @@ All sessions take place on September 22, 2022.
 <tr>
 <td>[15:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T15)</td>
 <td> DataCite: Now and in the future
-<br>
+<br><br>
 (multiple languages available)</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_LsLF5wcqQwe4Chclx4wCjQ)</td>
 </tr>
@@ -66,7 +66,7 @@ All sessions take place on September 22, 2022.
 <tr>
 <td>[17:00-19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T17)</td>
 <td>DataCite Training: Making the most of DataCite’s services
-<br>
+<br><br>
 (DataCite members and consortium organizations only)</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZIudOGgrjspGt1fdnSklSLW4-gU0eNYoGrJ)</td>
 </tr>
@@ -85,9 +85,13 @@ Multi-language versions will be available.
 
 The session will be recorded and then made publicly available along with the slides.
 
+<hr>
+
 #### Product roadmap
 
 Session description coming soon.
+
+<hr>
 
 #### DataCite Training: Making the most of DataCite’s services
 
@@ -98,11 +102,15 @@ DataCite Advanced Training: Topics will include the DataCite metadata schema, ma
 
 The training session is open to DataCite members and consortium organizations only.
 
+<hr>
+
 #### PID Service Providers
 
 Speakers: TBA
 
 Session description coming soon.
+
+<hr>
 
 #### DataCite Registered Service Providers
 
