@@ -36,19 +36,19 @@ All sessions take place on September 22, 2022.
 </tr>
 <tr>
 <td>[08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08)</td>
-<td>Training
+<td>DataCite Training
 <br>
 (DataCite members and consortium organizations only)</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z)</td>
 </tr>
 <tr>
 <td>[13:00-14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T13)</td>
-<td>PID Providers</td>
+<td>PID Service Providers</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_5ZJzNYbbTmOs8ET42D2Vyg)</td>
 </tr>
 <tr>
 <td>[14:00-15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T14)</td>
-<td>Service Providers</td>
+<td>DataCite Registered Service Providers</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_miWjp7xGTD6bc1sQoJ960A)</td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ All sessions take place on September 22, 2022.
 </tr>
 <tr>
 <td>[17:00-19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T17)</td>
-<td>Training
+<td>DataCite Training
 <br>
 (DataCite members and consortium organizations only)</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZIudOGgrjspGt1fdnSklSLW4-gU0eNYoGrJ)</td>
@@ -89,14 +89,25 @@ The session will be recorded and then made publicly available along with the sli
 
 Session description coming soon.
 
-#### Training
+#### DataCite Training
+
+Join us for training on DataCite’s services, metadata, and more! There will be two simultaneous tracks available.
+
+DataCite Core Training: Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
+DataCite Advanced Training: Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
+
+The training session is open to DataCite members and consortium organizations only.
+
+#### PID Service Providers
+
+Speakers: TBA
 
 Session description coming soon.
 
-#### PID Providers
+#### DataCite Registered Service Providers
 
-Session description coming soon.
+DataCite’s registered service providers program helps to ensure that members have access to high-quality DataCite integrations that support DOI registration best practices. Join this session to learn more about several of our registered service providers, including updates on upcoming new features.
 
-#### Service Providers
+Speakers: TBA
 
-Session description coming soon.
+The session will be recorded and then made publicly available along with the slides.
