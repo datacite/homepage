@@ -49,7 +49,7 @@ Implementing FAIR Workflows: A proof of concept study in the field of consciousn
 
 ## Project partners
 
-<img src="/images/FAIR_Workflows/partners_logo.png" width="750">
+<img src="/images/FAIR_Workflows/partners-logo.png" width="750">
 
 <table class="table pricing">
 <thead>
