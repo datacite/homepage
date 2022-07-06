@@ -25,8 +25,8 @@ All sessions take place on September 22, 2022.
 <tr>
 <td>[06:00-07:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T06)</td>
 <td>DataCite: Now and in the future
-<br><br>
-(multiple languages available)</td>
+<br>
+*(multiple languages available)*</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_MY6lrEI2S5WdGthT8C33Qg)</td>
 </tr>
 <tr>
@@ -37,8 +37,8 @@ All sessions take place on September 22, 2022.
 <tr>
 <td>[08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08)</td>
 <td>DataCite Training: Making the most of DataCite’s services
-<br><br>
-(DataCite members and consortium organizations only)</td>
+<br>
+*(DataCite members and consortium organizations only)*</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z)</td>
 </tr>
 <tr>
@@ -54,8 +54,8 @@ All sessions take place on September 22, 2022.
 <tr>
 <td>[15:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T15)</td>
 <td> DataCite: Now and in the future
-<br><br>
-(multiple languages available)</td>
+<br>
+*(multiple languages available)*</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_LsLF5wcqQwe4Chclx4wCjQ)</td>
 </tr>
 <tr>
@@ -66,8 +66,8 @@ All sessions take place on September 22, 2022.
 <tr>
 <td>[17:00-19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T17)</td>
 <td>DataCite Training: Making the most of DataCite’s services
-<br><br>
-(DataCite members and consortium organizations only)</td>
+<br>
+*(DataCite members and consortium organizations only)*</td>
 <td>[Registration](https://datacite.zoom.us/meeting/register/tZIudOGgrjspGt1fdnSklSLW4-gU0eNYoGrJ)</td>
 </tr>
 </tbody>
@@ -85,6 +85,11 @@ Multi-language versions will be available.
 
 The session will be recorded and then made publicly available along with the slides.
 
+[Register for session 1](https://datacite.zoom.us/webinar/register/WN_MY6lrEI2S5WdGthT8C33Qg) ([06:00-07:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T06))
+
+[Register for session 2](https://datacite.zoom.us/webinar/register/WN_LsLF5wcqQwe4Chclx4wCjQ) ([15:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T15))
+
+
 <hr>
 
 #### DataCite Roadmap: Together shaping priorities for 2023
@@ -95,17 +100,25 @@ Participants would be using both Miro and Menti.
 
 The session will be recorded and then made publicly available along with the slides.
 
+[Register for session 1](https://datacite.zoom.us/webinar/register/WN_K5w1cwWzRICIvC7psHGyiA) ([07:00-08:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T07))
+
+[Register for session 2](https://datacite.zoom.us/webinar/register/WN_wPOWXHybQamYw2ZZoqz4vw) ([16:00-17:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T16))
+
 <hr>
 
 #### DataCite Training: Making the most of DataCite’s services
 
 Join us for training on DataCite’s services, metadata, and more! There will be two simultaneous tracks available.
 
-1. DataCite Core Training: Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
+* DataCite Core Training: Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
 
-2. DataCite Advanced Training: Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
+* DataCite Advanced Training: Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
 
-The training session is open to DataCite members and consortium organizations only.
+The training sessions are open to DataCite members and consortium organizations only.
+
+[Register for session 1](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z) ([08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08))
+
+[Register for session 2](https://datacite.zoom.us/meeting/register/tZIudOGgrjspGt1fdnSklSLW4-gU0eNYoGrJ) ([17:00-19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T17))
 
 <hr>
 
@@ -117,6 +130,8 @@ Speakers: TBA
 
 The session will be recorded and then made publicly available along with the slides.
 
+[Register for session](https://datacite.zoom.us/webinar/register/WN_5ZJzNYbbTmOs8ET42D2Vyg) ([13:00-14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T13))
+
 <hr>
 
 #### DataCite Service Providers
@@ -126,3 +141,5 @@ DataCite’s registered service providers program helps to ensure that members h
 Speakers: TBA
 
 The session will be recorded and then made publicly available along with the slides.
+
+[Register for session](https://datacite.zoom.us/webinar/register/WN_miWjp7xGTD6bc1sQoJ960A) ([14:00-15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T14))
