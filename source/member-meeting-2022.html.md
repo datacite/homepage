@@ -101,9 +101,8 @@ The session will be recorded and then made publicly available along with the sli
 
 Join us for training on DataCite’s services, metadata, and more! There will be two simultaneous tracks available.
 
-1. DataCite Core Training: Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
-
-2. DataCite Advanced Training: Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
+DataCite Core Training: Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
+DataCite Advanced Training: Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
 
 The training session is open to DataCite members and consortium organizations only.
 
