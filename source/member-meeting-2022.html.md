@@ -119,6 +119,8 @@ Join us for training on DataCite’s services, metadata, and more! There will be
 - *DataCite Core Training:* Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
 - *DataCite Advanced Training:* Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
 
+<div id="speaker-list">
+
 Speakers for *DataCite Core Training:*
 
 - Britta Dreyer (Director of Operations & Finance) 
@@ -129,6 +131,7 @@ Speakers for *DataCite Core Training:*
 
 Speakers for *DataCite Advanced Training:*
 
+
 - Mary Hirsch (Member Support Manager)
 - Xiaoli Chen (FAIR Workflows Project Lead)
 - Mike Bennett (Application Developer)
@@ -136,6 +139,8 @@ Speakers for *DataCite Advanced Training:*
 - Kelly Stathis (Technical Community Manager) 
 - Liz Krznarich (Technical Lead, ROR)
 - Cody Ross (Application Support Engineer)
+
+</div>
 
 The training session is open to DataCite members and consortium organizations only.
 
@@ -166,6 +171,8 @@ The session will be recorded and then made publicly available along with the sli
 DataCite’s registered service providers program helps to ensure that members have access to high-quality DataCite integrations that support DOI registration best practices. Join this session to learn more about several of our registered service providers, including updates on upcoming new features.
 
 Speakers: TBA
+
+This session is open to anyone with an interest.
 
 The session will be recorded and then made publicly available along with the slides.
 
