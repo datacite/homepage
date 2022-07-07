@@ -83,6 +83,8 @@ Speaker: Matt Buys (Executive Director, DataCite)
 
 Multi-language versions will be available.
 
+This session is open to anyone with an interest.
+
 The session will be recorded and then made publicly available along with the slides.
 
 [Register for session 1](https://datacite.zoom.us/webinar/register/WN_MY6lrEI2S5WdGthT8C33Qg) ([06:00-07:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T06))
@@ -94,9 +96,13 @@ The session will be recorded and then made publicly available along with the sli
 
 #### DataCite Roadmap: Together shaping priorities for 2023
 
-In this session we will take a look at the roadmap over the past 12 months and then will have an interactive session about your priorities for 2023.  
+In this session we will take a look at the roadmap over the past 12 months and then will have an interactive session about your priorities for 2023. 
 
 Participants would be using both Miro and Menti. 
+
+Speakers: Sarala Wimalaratne (Engineering Director, DataCite) and Kristian Garza (Product Design Manager, DataCite) 
+
+This session is open to anyone with an interest.
 
 The session will be recorded and then made publicly available along with the slides.
 
@@ -110,11 +116,30 @@ The session will be recorded and then made publicly available along with the sli
 
 Join us for training on DataCite’s services, metadata, and more! There will be two simultaneous tracks available.
 
-* DataCite Core Training: Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
+- *DataCite Core Training:* Topics will include DOI fundamentals, metadata basics, making the most of Fabrica, and an overview of DataCite’s services and communication channels.
+- *DataCite Advanced Training:* Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
 
-* DataCite Advanced Training: Topics will include the DataCite metadata schema, making connections to other PIDs, DataCite’s APIs, and IGSN.
+Speakers for *DataCite Core Training:*
 
-The training sessions are open to DataCite members and consortium organizations only.
+- Britta Dreyer (Director of Operations & Finance) 
+- Helena Cousijn (Community Engagement Director)
+- Mary Hirsch (Member Support Manager)
+- Gabriela Mejias (Community Manager) 
+- Paul Vierkant (Outreach Manager)
+
+Speakers for *DataCite Advanced Training:*
+
+- Mary Hirsch (Member Support Manager)
+- Xiaoli Chen (FAIR Workflows Project Lead)
+- Mike Bennett (Application Developer)
+- Rorie Edmunds (Samples Community Manager) 
+- Kelly Stathis (Technical Community Manager) 
+- Liz Krznarich (Technical Lead, ROR)
+- Cody Ross (Application Support Engineer)
+
+The training session is open to DataCite members and consortium organizations only.
+
+The training will not be recorded.
 
 [Register for session 1](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z) ([08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08))
 
@@ -127,6 +152,8 @@ The training sessions are open to DataCite members and consortium organizations 
 Providers of persistent identifier (PID) services collaborate to enable seamless scholarly communication. But what are they actually doing to realize this? How do PID service providers integrate other PIDs into their services? This open community session gives each PID service provider the opportunity to let us see scholarly communication through their eyes. Throughout the session you will be able to ask the PID service providers anything about their services.
 
 Speakers: TBA
+
+This session is open to anyone with an interest.
 
 The session will be recorded and then made publicly available along with the slides.
 
