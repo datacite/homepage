@@ -9,6 +9,12 @@ As in the last two years, this member meeting will be virtual. We will host seve
 
 The member meeting will be held on **September 22, 2022** from 06:00-19:00 UTC.
 
+In this year's meeting, for the first time, we invite participation from the wider community in all of sessions except the trainings!
+
+* The training sessions are only for *DataCite Direct Members, Consortium Leads, Consortium Organizations and Member Only organizations*.
+* All of the other sessions listed are open to the public, feel free to register.
+
+
 ## Schedule and Registration
 
 All sessions take place on September 22, 2022.
@@ -96,11 +102,11 @@ The session will be recorded and then made publicly available along with the sli
 
 #### DataCite Roadmap: Together shaping priorities for 2023
 
-In this session we will take a look at the roadmap over the past 12 months and then will have an interactive session about your priorities for 2023. 
+In this session we will take a look at the roadmap over the past 12 months and then will have an interactive session about your priorities for 2023.
 
-Participants would be using both Miro and Menti. 
+Participants would be using both Miro and Menti.
 
-Speakers: Sarala Wimalaratne (Engineering Director, DataCite) and Kristian Garza (Product Design Manager, DataCite) 
+Speakers: Sarala Wimalaratne (Engineering Director, DataCite) and Kristian Garza (Product Design Manager, DataCite)
 
 This session is open to anyone with an interest.
 
@@ -123,10 +129,10 @@ Join us for training on DataCite’s services, metadata, and more! There will be
 
 Speakers for *DataCite Core Training:*
 
-- Britta Dreyer (Director of Operations & Finance) 
+- Britta Dreyer (Director of Operations & Finance)
 - Helena Cousijn (Community Engagement Director)
 - Mary Hirsch (Member Support Manager)
-- Gabriela Mejias (Community Manager) 
+- Gabriela Mejias (Community Manager)
 - Paul Vierkant (Outreach Manager)
 
 Speakers for *DataCite Advanced Training:*
@@ -135,8 +141,8 @@ Speakers for *DataCite Advanced Training:*
 - Mary Hirsch (Member Support Manager)
 - Xiaoli Chen (FAIR Workflows Project Lead)
 - Mike Bennett (Application Developer)
-- Rorie Edmunds (Samples Community Manager) 
-- Kelly Stathis (Technical Community Manager) 
+- Rorie Edmunds (Samples Community Manager)
+- Kelly Stathis (Technical Community Manager)
 - Liz Krznarich (Technical Lead, ROR)
 - Cody Ross (Application Support Engineer)
 
