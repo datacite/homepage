@@ -37,8 +37,6 @@ Responsibilities and duties
 
 Requirements
 ---
-
-- Based in an EMEA timezone, preferably in Europe.
 - Proven experience as a Full stack Developer.
 - Proficiency with fundamental front-end technologies, HTML/CSS/Javascript
 - 3+ years of experience with server-side languages such as Ruby, Python, Java or .NET
@@ -74,3 +72,5 @@ Why work for us
 
 ### To apply
 Please send a resume and statement of interest to Sarala Wimalaratne (sarala@datacite.org). We only accept applications by individuals. We would like the candidate to start in this role as soon as possible. Please don’t hesitate to contact us with any questions.
+
+DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
