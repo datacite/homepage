@@ -1,11 +1,19 @@
 <% wrap_layout :layout do %>
-  <header class="image-bg-fixed-height-small">
-    <div class="jumbotron">
-      <h1><%= current_page.data.title %></h1>
-    </div>
-  </header>
+<header class="image-bg-fixed-height-small">
+  <div class="jumbotron">
+    <h1><%= current_page.data.title %></h1>
+  </div>
+</header>
 
-  <div class="container">
+<div class="container">
+  <div class="row">
+    <div class="col-md-9 section-content" id="content">
+      <%= yield %>
+    </div class="row">
+    <button type="button" class="btn btn-primary btn-lg">Submit Feature Idea</button>
+<button type="button" class="btn btn-secondary btn-lg">Submit Metadata Schema Suggestion</button>
+    <div>
+    </div>
     <iframe class="roadmap" src="https://portal.productboard.com/71qotggkmbccdwzokuudjcsb" frameborder="0" style="position:relative;top:1em;left:0;width:100%;min-height:1300px;"></iframe>
   </div>
-<% end %>
+  <% end %>

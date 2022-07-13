@@ -22,7 +22,7 @@ body {
   margin-bottom: 340px;
 }
 
-a:hover {
+a:not(.btn-roadmap):hover {
   background-color: transparent !important;
 }
 
@@ -539,3 +539,8 @@ ul.contact {
 #speaker-list li {
   margin: 0 0 0 0;
 }
+
+.B1 {
+  margin-right: 4px;
+  background-color: "none";
+ }
