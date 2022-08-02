@@ -49,7 +49,7 @@ All sessions take place on September 22, 2022.
 </tr>
 <tr>
 <td>[13:00-14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T13)</td>
-<td>How do open PID services work together?</td>
+<td>How do open infrastructures work together?</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_5ZJzNYbbTmOs8ET42D2Vyg)</td>
 </tr>
 <tr>
@@ -158,9 +158,9 @@ The training will not be recorded.
 
 <hr>
 
-#### How do open PID services work together?
+#### How do open infrastructures work together?
 
-Providers of persistent identifier (PID) services collaborate to enable seamless scholarly communication. But what are they actually doing to realize this? How do PID service providers integrate other PIDs into their services? This open community session gives each PID service provider the opportunity to let us see scholarly communication through their eyes. Throughout the session you will be able to ask the PID service providers anything about their services.
+Providers of open infrastructures collaborate to enable seamless scholarly communication. But what are they actually doing to realize this? How do open infrastructures integrate metadata of other providers into their services? This open community session gives open infrastructures the opportunity to let us see scholarly communication through their eyes. Throughout the session you will be able to ask the panelists anything about their services.
 
 Speakers: TBA
 
