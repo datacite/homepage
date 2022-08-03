@@ -297,6 +297,8 @@ function ServiceProvider() {
           {startCase(item.ServiceAudience)}
           <h5>Focus Area</h5>
           {startCase(item.FocusArea)}
+          <h5>Supported Integrations</h5>
+          {item.SupportedIntegrations}
         </div>
       </div>
     );
