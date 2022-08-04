@@ -176,6 +176,8 @@ The session will be recorded and then made publicly available along with the sli
 
 DataCite’s registered [service providers program](https://datacite.org/service-provider-program.html) helps to ensure that members have access to high-quality DataCite integrations that support DOI registration best practices. Join this session to hear from several of our registered service providers. Bring your questions about repository integrations!
 
+<div id="speaker-list">
+
 Speakers:
 
 - Sonia Barbosa - The Dataverse Project
@@ -183,6 +185,7 @@ Speakers:
 - Ian Matthews - Redivis
 - Taylor Mudd - Cayuse
 
+</div>
 
 This session is open to anyone with an interest.
 
