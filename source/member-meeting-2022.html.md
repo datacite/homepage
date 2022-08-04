@@ -54,7 +54,7 @@ All sessions take place on September 22, 2022.
 </tr>
 <tr>
 <td>[14:00-15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T14)</td>
-<td>DataCite Service Providers</td>
+<td>DataCite Service Providers Forum</td>
 <td>[Registration](https://datacite.zoom.us/webinar/register/WN_miWjp7xGTD6bc1sQoJ960A)</td>
 </tr>
 <tr>
@@ -172,11 +172,17 @@ The session will be recorded and then made publicly available along with the sli
 
 <hr>
 
-#### DataCite Service Providers
+#### DataCite Service Providers Forum
 
-DataCite’s registered service providers program helps to ensure that members have access to high-quality DataCite integrations that support DOI registration best practices. Join this session to learn more about several of our registered service providers, including updates on upcoming new features.
+DataCite’s registered [service providers program](https://datacite.org/service-provider-program.html) helps to ensure that members have access to high-quality DataCite integrations that support DOI registration best practices. Join this session to hear from several of our registered service providers. Bring your questions about repository integrations!
 
-Speakers: TBA
+Speakers:
+
+- Sonia Barbosa - The Dataverse Project
+- Will Fyson - CoSector, Univeristy of London (EPrints)
+- Ian Matthews - Redivis
+- Taylor Mudd - Cayuse
+
 
 This session is open to anyone with an interest.
 
