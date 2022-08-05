@@ -182,7 +182,7 @@ Speakers:
 
 - Sonia Barbosa - The Dataverse Project
 - Will Fyson - CoSector, Univeristy of London (EPrints)
-- Ian Matthews - Redivis
+- Ian Mathews - Redivis
 - Taylor Mudd - Cayuse
 
 </div>
