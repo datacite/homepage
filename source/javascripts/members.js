@@ -257,17 +257,25 @@ function getCountryName(countryCode) {
   }
 }
 
-var xmlhttp = new XMLHttpRequest();
-var url =
-  "https://api.datacite.org/providers?query=-id:txvt&member-type=consortium,direct_member,member_only&exclude-registration-agencies=true&page[size]=400";
+function getMembers(member_type) {
+  var xmlhttp = new XMLHttpRequest();
+  var url =
+    "https://api.datacite.org/providers?query=-id:txvt&member-type={{member_type}}&exclude-registration-agencies=true&page[size]=400".replace("{{member_type}}", member_type);
 
-xmlhttp.onreadystatechange = function () {
-  if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-    formatMembers(xmlhttp.responseText);
-  }
-};
-xmlhttp.open("GET", url, true);
-xmlhttp.send();
+  xmlhttp.onreadystatechange = function () {
+    if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+      formatMembers(xmlhttp.responseText, member_type);
+    }
+  };
+  xmlhttp.open("GET", url, true);
+  xmlhttp.send();
+}
+
+member_types = ["direct_member", "consortium", "member_only"];
+for (x in member_types) {
+  console.log(member_types[x]);
+  getMembers(member_types[x]);
+}
 
 function humanize(str) {
   var words = str.match(/[A-Za-z][a-z]*/g) || [];
@@ -279,9 +287,9 @@ function capitalize(word) {
   return word.charAt(0).toUpperCase() + word.substring(1);
 }
 
-function formatMembers(response) {
+function formatMembers(response, member_type) {
   response = JSON.parse(response);
-  var div = document.getElementById("memberslist");
+  var div = document.getElementById(member_type);
 
   // response.meta.total;
 
@@ -297,12 +305,6 @@ function formatMembers(response) {
       country = "-";
     } else {
       country = getCountryName(response.data[i].attributes.country);
-    }
-
-    if (response.data[i].attributes.organizationType == null) {
-      orgType = "-";
-    } else {
-      orgType = humanize(response.data[i].attributes.organizationType);
     }
 
     if (response.data[i].attributes.focusArea == null) {
@@ -351,8 +353,6 @@ function formatMembers(response) {
       website +
       "<h5>Country</h5>" +
       country +
-      "<h5>Organization Type</h5>" +
-      orgType +
       "<h5>Focus Area</h5>" +
       area +
       "</div>" +
