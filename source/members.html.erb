@@ -36,6 +36,31 @@ title: DataCite - Members
 
     <h1>DataCite Members</h1>
     <script src="javascripts/members.js?version=1.0.59"></script>
-    <div id="memberslist"></div>
+    <div id="memberslist" class="panel-group search-wide" role="tablist" aria-multiselectable="true">
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <h2 id="direct_member_header" class="panel-title">
+             <a role="button" data-toggle="collapse" data-parent="" href="#direct_member" aria-expanded="true" aria-controls="direct_member">Direct Members</a>
+          </h2>
+        </div>
+        <div id="direct_member" class="member-list panel-collapse collapse"></div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <h2 id="consortium_header" class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="" href="#consortium" aria-expanded="true" aria-controls="consortium">Consortia</a>
+          </h2>
+        </div>
+        <div id="consortium" class="member-list panel-collapse collapse"></div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab">
+          <h2 id="member_only_header" class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="" href="#member_only" aria-expanded="true" aria-controls="member_only">Supporting Members</a>
+          </h2>
+        </div>
+        <div id="member_only" class="member-list panel-collapse collapse"></div>
+      </div>
+    </div>
   </div>
 </section>
