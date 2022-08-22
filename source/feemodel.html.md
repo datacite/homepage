@@ -206,11 +206,15 @@ Please note that when the fee cap applies, consortia will be invoiced for new co
  </div>
  </div>
  </div>
- 
+
 
 ## Payment Methods and Billing Cycle
 
-DataCite invoices annually at the beginning of the calendar year. Direct Members and Consortium Members that join DataCite during the calendar year will be invoiced, in the month after they joined, pro-rated fees based on the month joined. When Consortium Organizations are added during the calendar year, the Consortium Member will be invoiced, in the month after the Consortium Organizations joined, pro-rated fees based on the month joined. The DOI fee will be billed based on their DOI estimate for the first year. There will be no credit if they register less nor an additional charge if they register more DOIs. There is no refund if a Consortium Organization leaves the Consortium during the year. For Consortia where the fee cap applies, the invoice will be based on the relevant fee cap.
+DataCite invoices annually at the beginning of the calendar year.
+
+Direct Members that join DataCite during the calendar year will be invoiced, in the month after they joined, pro-rated fees based on the month joined. The DOI fee will be billed based on their DOI estimate for the first year. There will be no credit if they register less nor an additional charge if they register more DOIs.
+
+Consortium Members that join DataCite during the calendar year will be invoiced, in the month after they joined, pro-rated fees based on the month joined. When Consortium Organizations are added during the calendar year, the Consortium Member will be invoiced, in the month after the Consortium Organizations joined, pro-rated fees based on the month joined. The DOI fee will be billed based on each Consortium Organization’s DOI estimate for the first year. There will be no credit if a Consortium Organization registers fewer DOIs than estimated, nor an additional charge if they register more DOIs. There is no refund if a Consortium Organization leaves the Consortium during the year. For Consortia where the fee cap applies, the invoice will be based on the relevant fee cap.
 
 Payments can be made either via bank wire transfer, check or credit card.
 
