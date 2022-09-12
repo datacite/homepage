@@ -181,7 +181,7 @@ DataCite’s registered [service providers program](https://datacite.org/service
 Speakers:
 
 - Sonia Barbosa - The Dataverse Project
-- Will Fyson - CoSector, Univeristy of London (EPrints)
+- Will Fyson - CoSector, University of London (EPrints)
 - Ian Mathews - Redivis
 - Taylor Mudd - Cayuse
 
