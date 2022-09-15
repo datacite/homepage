@@ -162,7 +162,18 @@ The training will not be recorded.
 
 Providers of open infrastructures collaborate to enable seamless scholarly communication. But what are they actually doing to realize this? How do open infrastructures integrate metadata of other providers into their services? This open community session gives open infrastructures the opportunity to let us see scholarly communication through their eyes. Throughout the session you will be able to ask the panelists anything about their services.
 
-Speakers: TBA
+<div id="speaker-list">
+
+Speakers:
+
+- Patrica Feeney (Crossref)
+- Helena Cousijn (DataCite)
+- Jens Klump (IGSN)
+- Paloma Marín-Arraiza (ORCID)
+- Shawn Ross (RAiD)
+- Amanda French (ROR)
+
+</div>
 
 This session is open to anyone with an interest.
 
