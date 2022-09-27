@@ -24,7 +24,6 @@ All sessions take place on September 22, 2022.
 <tr>
 <th>Time</th>
 <th>Session</th>
-<th>Registration</th>
 </tr>
 </thead>
 <tbody>
@@ -33,48 +32,40 @@ All sessions take place on September 22, 2022.
 <td>DataCite: Now and in the future
 <br>
 *(multiple languages available)*</td>
-<td>[Registration](https://datacite.zoom.us/webinar/register/WN_MY6lrEI2S5WdGthT8C33Qg)</td>
 </tr>
 <tr>
 <td>[07:00-08:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T07)</td>
 <td>Datacite Roadmap: Together shaping priorities for 2023</td>
-<td>[Registration](https://datacite.zoom.us/webinar/register/WN_K5w1cwWzRICIvC7psHGyiA)</td>
 </tr>
 <tr>
 <td>[08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08)</td>
 <td>DataCite Training: Making the most of DataCite’s services
 <br>
 *(DataCite members and consortium organizations only)*</td>
-<td>[Registration](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z)</td>
 </tr>
 <tr>
 <td>[13:00-14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T13)</td>
 <td>How do open infrastructures work together?</td>
-<td>[Registration](https://datacite.zoom.us/webinar/register/WN_5ZJzNYbbTmOs8ET42D2Vyg)</td>
 </tr>
 <tr>
 <td>[14:00-15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T14)</td>
 <td>DataCite Service Providers Forum</td>
-<td>[Registration](https://datacite.zoom.us/webinar/register/WN_miWjp7xGTD6bc1sQoJ960A)</td>
 </tr>
 <tr>
 <td>[15:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T15)</td>
 <td> DataCite: Now and in the future
 <br>
 *(multiple languages available)*</td>
-<td>[Registration](https://datacite.zoom.us/webinar/register/WN_LsLF5wcqQwe4Chclx4wCjQ)</td>
 </tr>
 <tr>
 <td>[16:00-17:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T16)</td>
 <td>Datacite Roadmap: Together shaping priorities for 2023</td>
-<td>[Registration](https://datacite.zoom.us/webinar/register/WN_wPOWXHybQamYw2ZZoqz4vw)</td>
 </tr>
 <tr>
 <td>[17:00-19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T17)</td>
 <td>DataCite Training: Making the most of DataCite’s services
 <br>
 *(DataCite members and consortium organizations only)*</td>
-<td>[Registration](https://datacite.zoom.us/meeting/register/tZIudOGgrjspGt1fdnSklSLW4-gU0eNYoGrJ)</td>
 </tr>
 </tbody>
 </table>
@@ -93,10 +84,23 @@ This session is open to anyone with an interest.
 
 The session will be recorded and then made publicly available along with the slides.
 
-[Register for session 1](https://datacite.zoom.us/webinar/register/WN_MY6lrEI2S5WdGthT8C33Qg) ([06:00-07:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T06))
+Recordings:
 
-[Register for session 2](https://datacite.zoom.us/webinar/register/WN_LsLF5wcqQwe4Chclx4wCjQ) ([15:00-16:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T15))
+* [DataCite: Now and in the future](https://youtu.be/D2jRHAsRt10)
+* [DataCite: agora e no futuro](https://youtu.be/WswcIAeK5aY)
+* [DataCite 现在与未来科研互联，发现新知](https://youtu.be/5J_7jswaK-c)
+* [DataCite: aujourd'hui et à l'avenir](https://youtu.be/Xiut6gpTFIM)
+* [DataCite: jetzt und in Zukunft](https://youtu.be/xByQAOEuTZY)
+* [DataCite: ahora y en el futuro](https://youtu.be/hCIOWOJ_TIg)
 
+Slides: coming soon
+
+* DataCite: Now and in the future
+* DataCite: agora e no futuro
+* DataCite 现在与未来科研互联，发现新知
+* DataCite: aujourd'hui et à l'avenir
+* DataCite: jetzt und in Zukunft
+* DataCite: ahora y en el futuro
 
 <hr>
 
@@ -110,11 +114,9 @@ Speakers: Sarala Wimalaratne (Engineering Director, DataCite) and Kristian Garza
 
 This session is open to anyone with an interest.
 
-The session will be recorded and then made publicly available along with the slides.
+**Recording:** coming soon
 
-[Register for session 1](https://datacite.zoom.us/webinar/register/WN_K5w1cwWzRICIvC7psHGyiA) ([07:00-08:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T07))
-
-[Register for session 2](https://datacite.zoom.us/webinar/register/WN_wPOWXHybQamYw2ZZoqz4vw) ([16:00-17:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T16))
+**Slides:** coming soon
 
 <hr>
 
@@ -152,10 +154,6 @@ The training session is open to DataCite members and consortium organizations on
 
 The training will not be recorded.
 
-[Register for session 1](https://datacite.zoom.us/meeting/register/tZ0ld-ytrDgoHtREL_HWpgS2gP72Y1RnrQ7Z) ([08:00-10:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T08))
-
-[Register for session 2](https://datacite.zoom.us/meeting/register/tZIudOGgrjspGt1fdnSklSLW4-gU0eNYoGrJ) ([17:00-19:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T17))
-
 <hr>
 
 #### How do open infrastructures work together?
@@ -177,9 +175,9 @@ Speakers:
 
 This session is open to anyone with an interest.
 
-The session will be recorded and then made publicly available along with the slides.
+**Recording:** [How do open infrastructures work together?](https://youtu.be/c43cb80WR2o)
 
-[Register for session](https://datacite.zoom.us/webinar/register/WN_5ZJzNYbbTmOs8ET42D2Vyg) ([13:00-14:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T13))
+**Slides:** coming soon
 
 <hr>
 
@@ -200,6 +198,6 @@ Speakers:
 
 This session is open to anyone with an interest.
 
-The session will be recorded and then made publicly available along with the slides.
+**Recording:** [DataCite Service Providers Forum](https://youtu.be/7MTZrDDHZwM)
 
-[Register for session](https://datacite.zoom.us/webinar/register/WN_miWjp7xGTD6bc1sQoJ960A) ([14:00-15:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220922T14))
+**Slides:** coming soon
