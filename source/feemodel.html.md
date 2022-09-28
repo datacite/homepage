@@ -5,21 +5,21 @@ layout: service
 
 # DataCite - Fee Model 2022
 
-* Fee Structure
-  * Membership Fees
-  * Service Fees
-     * Organization Fee
-     * DOI Fee
-* Application of the Fee Structure
-  * Direct Member
-  * Consortium
-  * Multiplier for For‐profit Organizations
-* Payment Methods and Billing Cycle
+* <a href="#fee-structure">Fee Structure</a>
+     * <a href="#membership-fee">Membership Fee</a>
+     * <a href="#service-fees">Service Fees</a>
+          * <a href="#organization-fee">Organization Fee</a>
+          * <a href="#doi-fee">DOI Fee</a>
+* <a href="#application-of-the-fee-structure">Application of the Fee Structure</a>
+     * <a href="#direct-member">Direct Member</a>
+     * <a href="#consortium">Consortium</a>
+     * <a href="#multiplier-for-forprofit-organizations">Multiplier for For‐profit Organizations</a>
+* <a href="#payment-methods-and-billing-cycle">Payment Methods and Billing Cycle</a>
 
 
 # Fee Structure
 
-## Membership Fees
+## Membership Fee
 
 DataCite's strength is rooted in its active membership. Our global community of like-minded organizational members includes data centers, libraries, government agencies, research institutions and more. Members are the voting body of the organization and establish our vision and strategy, set our fee structure, and vote or stand for our Executive Board. Membership is open to all organizations that share our research sharing mission. Membership fees support DataCite’s goal to enable the discovery and reuse of research outputs in a global transition to Open Science.
 
@@ -121,11 +121,11 @@ There are several tiers for the number of new DOIs registered annually. The tier
 
 The following fees apply to Direct Members:
 
-* Membership Fees:
-   * Annual Membership Fee: 2.000€
+* Membership Fee:
+     * Annual Membership Fee: 2.000€
 * Service Fees:
-   * Organization Fee: 500€
-   * DOI Fee: based on usage
+     * Organization Fee: 500€
+     * DOI Fee: based on usage
 
 <br>
 
@@ -190,7 +190,7 @@ A consortium is a group of organizations within one region or discipline that ha
 
 The following fees apply to a consortium:
 
-* Membership Fees: Each consortium pays a single Annual Membership Fee totaling 2.000€.
+* Membership Fee: Each consortium pays a single Annual Membership Fee totaling 2.000€.
 * Service Fees: For each consortium organization within the consortium, the consortium pays the Organization Fee and the DOI Fee.
 
 Please note that consortium organizations that expect to register more than 10.000 DOIs annually should transfer to Direct Membership within the following calendar year, or pay the additional membership fee (2.000€ annually) while remaining part of the consortium. This ensures that there is appropriate cost recovery based on the impact of cost drivers.
@@ -212,7 +212,7 @@ Please note that when the fee cap applies, consortia will be invoiced for new co
 
 #### Example: Consortium fee calculation
 
-* Membership Fees: The Annual Membership Fee applies (2.000€).
+* Membership Fee: The Annual Membership Fee applies (2.000€).
 * Service Fees: The example consortium has 5 organizations which registered the following number of DOIs in the previous year:
 
 <table class="table pricing">
@@ -282,16 +282,16 @@ Please note that when the fee cap applies, consortia will be invoiced for new co
 
 The total membership and service fees in this example are 6.396€, calculated as follows:
 
-* Membership Fees: 2.000€
-   * Annual Membership Fee: 2.000€
+* Membership Fee: 2.000€
+     * Annual Membership Fee: 2.000€
 * Service Fees: 4.396€
-   * See Annual Service Fee Calculation above. In this example, the Service Fees (4.396€) are less than the applicable service fee cap of 5.000€ (5 x 1.000€).
+     * See Annual Service Fee Calculation above. In this example, the Service Fees (4.396€) are less than the applicable service fee cap of 5.000€ (5 x 1.000€).
 
 <br>
 
 #### Example: Consortium fee calculation with fee cap applied
 
-* Membership Fees: The Annual Membership Fee applies (2.000€).
+* Membership Fee: The Annual Membership Fee applies (2.000€).
 * Service Fees: The example consortium has 5 organizations which registered the following number of DOIs in the previous year:
 
 <table class="table pricing">
@@ -380,10 +380,10 @@ The total membership and service fees in this example are 6.396€, calculated a
 
 The total membership and service fees in this example are 7.000€, calculated as follows:
 
-* Membership Fees: 2.000€
-   * Annual Membership Fee: 2.000€
+* Membership Fee: 2.000€
+     * Annual Membership Fee: 2.000€
 * Service Fees: 5.000€
-   * In this example, the calculated Service Fees exceeded the applicable fee cap of 5.000€ (5 x 1.000€), so the fee cap is applied.
+     * In this example, the calculated Service Fees exceeded the applicable fee cap of 5.000€ (5 x 1.000€), so the fee cap is applied.
 
 <br>
 
