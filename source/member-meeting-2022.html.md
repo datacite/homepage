@@ -90,17 +90,17 @@ Recordings:
 * [DataCite: agora e no futuro](https://youtu.be/WswcIAeK5aY)
 * [DataCite 现在与未来科研互联，发现新知](https://youtu.be/5J_7jswaK-c)
 * [DataCite: aujourd'hui et à l'avenir](https://youtu.be/Xiut6gpTFIM)
-* [DataCite: jetzt und in Zukunft](https://youtu.be/xByQAOEuTZY)
+* [DataCite: Jetzt und in Zukunft](https://youtu.be/xByQAOEuTZY)
 * [DataCite: ahora y en el futuro](https://youtu.be/hCIOWOJ_TIg)
 
-Slides: coming soon
+Slides:
 
-* DataCite: Now and in the future
-* DataCite: agora e no futuro
-* DataCite 现在与未来科研互联，发现新知
-* DataCite: aujourd'hui et à l'avenir
-* DataCite: jetzt und in Zukunft
-* DataCite: ahora y en el futuro
+* [DataCite: Now and in the future](https://doi.org/10.5281/zenodo.7120823)
+* [DataCite: agora e no futuro](https://doi.org/10.5281/zenodo.7121147)
+* [DataCite 现在与未来科研互联，发现新知](https://doi.org/10.5281/zenodo.7129091)
+* [DataCite: aujourd'hui et à l'avenir](https://doi.org/10.5281/zenodo.7129097)
+* [DataCite: Jetzt und in Zukunft](https://doi.org/10.5281/zenodo.7129121)
+* [DataCite: ahora y en el futuro](https://doi.org/10.5281/zenodo.7129133)
 
 <hr>
 
@@ -114,9 +114,7 @@ Speakers: Sarala Wimalaratne (Engineering Director, DataCite) and Kristian Garza
 
 This session is open to anyone with an interest.
 
-**Recording:** coming soon
-
-**Slides:** coming soon
+*If you have any additional feedback, please don’t hesitate to go to our [roadmap](https://datacite.org/roadmap.html) and leave your comments there!*
 
 <hr>
 
@@ -154,6 +152,20 @@ The training session is open to DataCite members and consortium organizations on
 
 The training will not be recorded.
 
+**Slides - Core Training:**
+
+* [What is a DOI?  and why do you need them?](https://doi.org/10.5281/zenodo.7129608)
+* [Metadata Basics](https://doi.org/10.5281/zenodo.7129580)
+* [DataCite Fabrica & DataCite Commons Training](https://doi.org/10.5281/zenodo.7129546)
+* [DataCite Communication Basics](https://doi.org/10.5281/zenodo.7129528)
+
+**Slides - Advanced Training:**
+
+* [DataCite Metadata Schema Overview](https://doi.org/10.5281/zenodo.7129621)
+* [Making connections with DataCite DOI metadata](https://doi.org/10.5281/zenodo.7129640)
+* [DataCite APIs and metadata formats](https://doi.org/10.5281/zenodo.7129675)
+* [IGSN IDs: Use & Registration DataCite Training](https://doi.org/10.5281/zenodo.7129691)
+
 <hr>
 
 #### How do open infrastructures work together?
@@ -177,7 +189,15 @@ This session is open to anyone with an interest.
 
 **Recording:** [How do open infrastructures work together?](https://youtu.be/c43cb80WR2o)
 
-**Slides:** coming soon
+**Slides:**
+
+* [How do open infrastructures work together? - Crossref](https://doi.org/10.5281/zenodo.7129718)
+* [An Introduction to DataCite](https://doi.org/10.5281/zenodo.7129739)
+* [How do open infrastructures work together? - IGSN](https://doi.org/10.5281/zenodo.7129752)
+* [How do open infrastructures work together? - ORCID](https://doi.org/10.5281/zenodo.7129770)
+* [RAiD: The PID for Research Projects](https://doi.org/10.5281/zenodo.7129776)
+* [How do open infrastructures work together? - ROR](https://zenodo.org/record/7129812#.Yzeb5uzMKAk:~:text=10.5281/zenodo.7129811)
+
 
 <hr>
 
@@ -200,4 +220,4 @@ This session is open to anyone with an interest.
 
 **Recording:** [DataCite Service Providers Forum](https://youtu.be/7MTZrDDHZwM)
 
-**Slides:** coming soon
+**Slides:** [DataCite Service Providers Forum](https://doi.org/10.5281/zenodo.7129840)
