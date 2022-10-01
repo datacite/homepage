@@ -82,8 +82,6 @@ Multi-language versions will be available.
 
 This session is open to anyone with an interest.
 
-The session will be recorded and then made publicly available along with the slides.
-
 Recordings:
 
 * [DataCite: Now and in the future](https://youtu.be/D2jRHAsRt10)
