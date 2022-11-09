@@ -9,7 +9,7 @@ layout: service
   <img class="img-responsive" src="images/DataCite-Logos_DC-Connect.png"></img>
 </div>
 
-#### Date: March 20, 2022
+#### Date: March 20, 2023
 
 #### Time: 13:00-16:30 CET
 
