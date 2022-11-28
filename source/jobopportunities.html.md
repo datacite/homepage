@@ -4,9 +4,75 @@ layout: service
 ---
 ## Current Openings
 
-- [Application Developer (remote)](#head1)
+- [Regional Engagement Specialists](#head1)
+- [Application Developer (remote)](#head2)
 
-# <a name="head1">Application Developer (remote)</a>
+# <a name="head1">Regional Engagement Specialists (remote)</a>
+
+DataCite is an open infrastructure organization that aims  to transcend discipline and geographic boundaries.  During 2022, DataCite began to implement the next iteration of the [DataCite Strategic Plan](DataCite Strategic Plan). As part of the strategic plan implementation, we identified global adoption as a key cross-pillar theme -- which brings together focussed engagement, adoption and implementation strategies
+
+In order to support the growth of DataCite's international community,  focussed regional support and engagement within lesser represented and emerging regions is needed. Through focused regional engagement activities across the different regions, DataCite would be better able to support equitable access to our infrastructure services, ensuring that researchers and research organizations globally have the opportunity to benefit from open infrastructure services.
+
+Therefore, **DataCite is seeking to hire three Regional Engagement Specialists** for an initial period of 1 year, preferably based in Africa, Latin-America, the Middle East or South/South-East Asia, or with extensive experience with one of these regions.
+
+The candidates will be members of the DataCite Community Engagement team, which collaborates directly with our community to facilitate adoption, promote change, and deliver value through the use of our open infrastructure services.
+
+Responsibilities
+---
+
+#### (1) Lead engagement activities in the region
+* Carry out an analysis of the needs and education opportunities per region
+* Seek collaborative opportunities in different regions to interact with local communities
+* Explore the benefits of setting up a DataCite ambassadors program with people from different countries * communicating in different languages
+
+#### (2) Develop educational materials and find dissemination opportunities
+* Consolidate basic information about DataCite, its role in the region, and participation opportunities in the region in different languages
+* Provide best practices and policy guidance to facilitate communication between stakeholders
+* Provide case studies on how different groups use DataCite - demonstrate that participation is possible with limited technical resources e.g. through DataCite DOI Fabrica
+
+#### (3) Assist organizations in setting up the necessary open science infrastructure
+* Analyze the infrastructure landscape and  use of different platforms per region
+* Collaborate with repository platforms/service providers on providing integrations for certain regions
+* Set up user groups where users of the same platform can benefit from each other's expertise and/or reuse each other's code for integrations
+
+Required skills and qualifications
+---
+* University degree
+* Familiar with research infrastructure and the open science landscape 
+* Sufficient technical skills to advise members on adoption and integration
+* Passionate about open science
+* Familiar with a not-for-profit environment and the transparency that entails
+* Ability to work with a  distributed team across time zones
+* Strong, compelling, and clear written, oral, and visual communication
+* Self-motivated to succeed and take initiative and seek continuous improvement
+
+Desired skills
+---
+* Outreach experience, particularly engaging with global and technical audiences
+* Brings a good network in the relevant region
+* Experience working in an international environment
+* Comfortable working remotely
+
+Why work for us
+---
+* Remote position.
+* Competitive local salary.
+* 30 days vacation time annually, plus 1 day paid extra for volunteer work of your choice.
+* Flexible working hours.
+* Option to work in a co-working space with a paid contribution from DataCite.
+* Opportunity to learn something new every day.
+
+About DataCite
+---
+DataCite brings rigor to the scholarly record by connecting research outputs and resources–from data and preprint to images and samples. We support the creation and management of metadata records including persistent identifiers (PIDs), enhance research workflows with service integration, and enable the discovery and reuse of research outputs and resources.
+
+To apply
+---
+Please send a resume and statement of interest to Helena Cousijn (helena.cousijn@datacite.org). We only accept applications by individuals. We would like the candidate to start in this role in January 2023. Please don’t hesitate to contact us with any questions.
+
+DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
+
+# <a name="head2">Application Developer (remote)</a>
 
 
 Job Description
