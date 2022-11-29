@@ -66,11 +66,15 @@ About DataCite
 ---
 DataCite brings rigor to the scholarly record by connecting research outputs and resources–from data and preprint to images and samples. We support the creation and management of metadata records including persistent identifiers (PIDs), enhance research workflows with service integration, and enable the discovery and reuse of research outputs and resources.
 
+We are a global community of communities that share a common interest: To ensure that research outputs and resources are freely available and connected so that their reuse can advance knowledge across and between disciplines.
+
+Diversity, Equity, and Inclusion
+---
+DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, and physical or mental disability. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
+
 To apply
 ---
-Please send a resume and statement of interest to Helena Cousijn (helena.cousijn@datacite.org). We only accept applications by individuals. We would like the candidate to start in this role in January 2023. Please don’t hesitate to contact us with any questions.
-
-DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
+Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>] by the 15th of January, 2023. Interviews will start late January. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 60-minute online interview which will include an exercise you’ll have a chance to prepare for. Feel free to contact us should you have any questions about the role.
 
 # <a name="head2">Application Developer (remote)</a>
 
