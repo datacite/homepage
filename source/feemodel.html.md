@@ -206,7 +206,7 @@ In order to support growing consortia and the adoption within communities, the t
 * 61-100 organizations: 600€ multiplied by total number of consortium organizations within the consortium
 * 101+ organizations: 500€ multiplied by total number of consortium organizations within the consortium
 
-Please note that when the fee cap applies, consortia will be invoiced for new consortium organizations in line with the fee cap and not based on individual estimates. The consortium fee caps do not apply to for-profit consortium organizations.
+Please note that when the fee cap applies, consortia will be invoiced for new consortium organizations in line with the fee cap and not based on individual estimates. The consortium fee caps do not apply to for-profit consortium organizations registering 2.000 or more DOIs annually.
 
 <br>
 
