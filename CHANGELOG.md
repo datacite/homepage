@@ -1,5 +1,9 @@
 # Changelog
 
+## [v.1.9.132](https://github.com/datacite/homepage/tree/v.1.9.132) (2022-12-16)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.131...v.1.9.132)
+
 ## [v.1.9.131](https://github.com/datacite/homepage/tree/v.1.9.131) (2022-12-14)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.130...v.1.9.131)
