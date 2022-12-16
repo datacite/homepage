@@ -33,7 +33,7 @@ This is an in person event that will not be recorded or streamed. Slides of the 
     * Antonia Schrader (Helmholtz, Germany)
     * Gül Akcaova (SURF, Netherlands)
     * Chris Brown (JISC, UK)
-    * Rebecca Ross (CRKN, Canada)
+    * John Aspler (CRKN, Canada) and Lee Wilson (Digital Research Alliance of Canada)
 * 14:40 Break (10 min)
 * 14:50 Follow up and Q&A (20 min)
 * 15:10 Discussion in groups about national strategies (60 min)
