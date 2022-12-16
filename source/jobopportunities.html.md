@@ -74,7 +74,7 @@ DataCite is committed to a policy of non-discrimination and equal opportunity fo
 
 To apply
 ---
-Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>] by the 15th of January, 2023. Interviews will start late January. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 60-minute online interview which will include an exercise you’ll have a chance to prepare for. Feel free to contact us should you have any questions about the role.
+Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>] by the 1st of February, 2023. Interviews will start mid February. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 60-minute online interview which will include an exercise you’ll have a chance to prepare for. Feel free to contact us should you have any questions about the role.
 
 # <a name="head2">Application Developer (remote)</a>
 
