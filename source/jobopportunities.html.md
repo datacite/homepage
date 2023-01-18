@@ -43,7 +43,7 @@ Required skills and qualifications
 * Passionate about open science
 * Familiar with a not-for-profit environment and the transparency that entails
 * Ability to work with a  distributed team across time zones
-* Strong, compelling, and clear written, oral, and visual communication
+* Strong, compelling, and clear written, oral, and visual communication in English
 * Self-motivated to succeed and take initiative and seek continuous improvement
 
 Desired skills
