@@ -184,7 +184,7 @@ Develop a specification for an end-to-end FAIR workflow for researchers that ena
 <td>D1.1</td>
 <td>Documentation of the end-to-end workflow specification, made publicly available with a registered DOI.</td>
 <td>DataCite, MPIEA</td>
-  <td>[Wofklows Specification](https://doi.org/10.5281/zenodo.7382642)</td>
+  <td>[Workflows Specification](https://doi.org/10.5281/zenodo.7382642)</td>
 </tr>
 <tr>
 <td>D1.2</td>
