@@ -13,9 +13,9 @@ DataCite is an open infrastructure organization that aims  to transcend discipli
 
 In order to support the growth of DataCite's international community,  focussed regional support and engagement within lesser represented and emerging regions is needed. Through focused regional engagement activities across the different regions, DataCite would be better able to support equitable access to our infrastructure services, ensuring that researchers and research organizations globally have the opportunity to benefit from open infrastructure services.
 
-Therefore, **DataCite is seeking to hire three Regional Engagement Specialists** for an initial period of 1 year, preferably based in Africa, Latin-America, the Middle East or South/South-East Asia, or with extensive experience with one of these regions.
+Therefore, **DataCite is seeking to hire a Regional Engagement Specialist for Latin America** for an initial period of 1 year, preferably based in Latin-America, or with extensive experience with one of these regions.
 
-The candidates will be members of the DataCite Community Engagement team, which collaborates directly with our community to facilitate adoption, promote change, and deliver value through the use of our open infrastructure services.
+The candidate will be members of the DataCite Community Engagement team, which collaborates directly with our community to facilitate adoption, promote change, and deliver value through the use of our open infrastructure services.
 
 Responsibilities
 ---
@@ -74,7 +74,7 @@ DataCite is committed to a policy of non-discrimination and equal opportunity fo
 
 To apply
 ---
-Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>] by the 1st of February, 2023. Interviews will start mid February. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 60-minute online interview which will include an exercise you’ll have a chance to prepare for. Feel free to contact us should you have any questions about the role.
+Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>] by February 15, 2023. Interviews will start the third week of February. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 60-minute online interview which will include an exercise you’ll have a chance to prepare for. Feel free to contact us should you have any questions about the role.
 
 # <a name="head2">Application Developer (remote)</a>
 

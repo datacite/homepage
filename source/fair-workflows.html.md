@@ -184,6 +184,7 @@ Develop a specification for an end-to-end FAIR workflow for researchers that ena
 <td>D1.1</td>
 <td>Documentation of the end-to-end workflow specification, made publicly available with a registered DOI.</td>
 <td>DataCite, MPIEA</td>
+  <td>[Wofklows Specification](https://doi.org/10.5281/zenodo.7382642)</td>
 </tr>
 <tr>
 <td>D1.2</td>
@@ -280,6 +281,7 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 <td>D4.1</td>
 <td>Develop a dissemination plan, identifying key stakeholders, gathering feedback and defining an adoption roadmap. </td>
 <td>DataCite, MPIEA</td>
+  <td>[Dissemination Plan](https://doi.org/10.5281/zenodo.7034858)</td>
 </tr>
 <tr>
 <td>D4.2</td>
@@ -329,19 +331,19 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 <td>June 14 2022</td>
 <td>[IDCC 2022](https://www.dcc.ac.uk/idcc22/programme)</td>
 <td>Accelerating Reuse by Implementing FAIR Workflows</td>
-<td>Link</td>
+<td>[Link](https://doi.org/10.5281/zenodo.6641241)</td>
 </tr>
 <tr>
 <td>June 22 2022</td>
 <td>[RDA 19 Plenary](https://www.rd-alliance.org/rdas-19th-plenary-programme-0)</td>
 <td>[Building enhanced FAIR Workflows through use of PIDs within and between interoperable research tools](https://www.rd-alliance.org/building-enhanced-fair-workflows-through-use-pids-within-and-between-interoperable-research-tools)</td>
-<td>Link</td>
+<td>[Link](https://docs.google.com/presentation/d/1yZl9tMk_qIU81lUlVkVnw05exhybc4DrMllXZ0ns9Go/edit?usp=sharing)</td>
 </tr>
 <tr>
 <td>Sept 12 2022</td>
 <td>[INCF Assembly](https://neuroinformatics.incf.org/)</td>
 <td>[FAIR Workflows for Neuroscience Research](https://neuroinformatics.incf.org/2022/sessions)</td>
-<td>Link</td>
+<td>[Link](https://drive.google.com/drive/folders/1XAI8B7fY0uGpNCAliW_s9lxIoSX-ls6R?usp=sharing)</td>
 </tr>
 </tbody>
 </table>
