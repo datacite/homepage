@@ -1,5 +1,13 @@
 # Changelog
 
+## [v.1.9.141](https://github.com/datacite/homepage/tree/v.1.9.141) (2023-02-01)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.140...v.1.9.141)
+
+**Merged pull requests:**
+
+- Update content [\#206](https://github.com/datacite/homepage/pull/206) ([gmejias](https://github.com/gmejias))
+
 ## [v.1.9.140](https://github.com/datacite/homepage/tree/v.1.9.140) (2023-01-27)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.139...v.1.9.140)
