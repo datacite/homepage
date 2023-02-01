@@ -4,7 +4,7 @@ layout: service
 ---
 ## Current Openings
 
-- [Regional Engagement Specialists](#head1)
+- [Regional Engagement Specialist](#head1)
 - [Application Developer (remote)](#head2)
 
 # <a name="head1">Regional Engagement Specialists (remote)</a>
@@ -38,7 +38,7 @@ Responsibilities
 Required skills and qualifications
 ---
 * University degree
-* Familiar with research infrastructure and the open science landscape 
+* Familiar with research infrastructure and the open science landscape
 * Sufficient technical skills to advise members on adoption and integration
 * Passionate about open science
 * Familiar with a not-for-profit environment and the transparency that entails
