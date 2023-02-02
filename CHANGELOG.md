@@ -1,5 +1,9 @@
 # Changelog
 
+## [v.1.9.142](https://github.com/datacite/homepage/tree/v.1.9.142) (2023-02-02)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.141...v.1.9.142)
+
 ## [v.1.9.141](https://github.com/datacite/homepage/tree/v.1.9.141) (2023-02-01)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.140...v.1.9.141)
@@ -202,15 +206,15 @@
 
 ## [v1.9.96](https://github.com/datacite/homepage/tree/v1.9.96) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.96)
-
-## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.94)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.96)
 
 ## [v1.9.95](https://github.com/datacite/homepage/tree/v1.9.95) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.95)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.95)
+
+## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.94)
 
 ## [v1.9.93](https://github.com/datacite/homepage/tree/v1.9.93) (2022-07-13)
 
