@@ -1,5 +1,13 @@
 # Changelog
 
+## [v.1.9.145](https://github.com/datacite/homepage/tree/v.1.9.145) (2023-02-15)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.144...v.1.9.145)
+
+**Merged pull requests:**
+
+- Update Regional Engagement Specialist Ad [\#207](https://github.com/datacite/homepage/pull/207) ([gmejias](https://github.com/gmejias))
+
 ## [v.1.9.144](https://github.com/datacite/homepage/tree/v.1.9.144) (2023-02-06)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.143...v.1.9.144)
@@ -214,15 +222,15 @@
 
 ## [v1.9.96](https://github.com/datacite/homepage/tree/v1.9.96) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.96)
-
-## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.94)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.96)
 
 ## [v1.9.95](https://github.com/datacite/homepage/tree/v1.9.95) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.95)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.95)
+
+## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.94)
 
 ## [v1.9.93](https://github.com/datacite/homepage/tree/v1.9.93) (2022-07-13)
 
@@ -735,6 +743,7 @@
 **Merged pull requests:**
 
 - Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
+- Minor mood staff page: alphabetize staff. [\#114](https://github.com/datacite/homepage/pull/114) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.76](https://github.com/datacite/homepage/tree/1.7.76) (2021-01-28)
 
@@ -872,7 +881,6 @@
 
 **Merged pull requests:**
 
-- Minor mood staff page: alphabetize staff. [\#114](https://github.com/datacite/homepage/pull/114) ([svogt0511](https://github.com/svogt0511))
 - Minor mods staff page: twitter handle, re-order by last name, minor t… [\#113](https://github.com/datacite/homepage/pull/113) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.44](https://github.com/datacite/homepage/tree/1.7.44) (2020-11-12)
