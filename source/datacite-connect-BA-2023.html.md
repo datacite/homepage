@@ -27,19 +27,9 @@ Se trata de un acto presencial que no se grabará ni retransmitirá. Puedes util
 Regístrate en este enlace y contáctanos a través de support(at)datacite.org si tienes preguntas.
 
 
-La inscripción para DataCite Connect es gratuita. Rogamos a todos los participantes que lean y respeten nuestro [Código de conducta](https://datacite.org/code-of-conduct.html).
-
+La inscripción para DataCite Connect es gratuita. Rogamos a todos los participantes que lean y respeten nuestro [Código de conducta (en inglés)](https://datacite.org/code-of-conduct.html).
 
 <hr>
-
-## Agenda
-
-* 09:00 Wellcome
-* 09: 10 Lightning talk: DataCite in Latin America
-* 09:25 Q&A
-* 09:40 Ice-breaker
-* 10:00 Group discussion
-* 10:50 Goodbye
 
 ## Registration
 
