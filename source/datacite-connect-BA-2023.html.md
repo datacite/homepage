@@ -21,13 +21,14 @@ El evento DataCite Connect Buenos Aires ofrece un foro para la discusión y la c
 
 Se trata de un acto presencial que no se grabará ni retransmitirá. Puedes utilizar el hashtag #DataCiteConnect23 para compartir tu experiencia en redes sociales.
 
- <span class="bold-text">Si estás planeando asistir, regístrate también para el evento "Identificadores persistentes y ciencia abierta en América Latina", co-organizado junto a ORCID y ROR. Los detalles y la inscripción se encuentran en esta página.</span>
-
- ¡Nos vemos en Buenos Aires!
 Regístrate en este enlace y contáctanos a través de support(at)datacite.org si tienes preguntas.
 
+¡Nos vemos en Buenos Aires!
 
 La inscripción para DataCite Connect es gratuita. Rogamos a todos los participantes que lean y respeten nuestro [Código de conducta (en inglés)](https://datacite.org/code-of-conduct.html).
+
+ <span class="bold-text">Si estás planeando asistir, regístrate también para el evento "Identificadores persistentes y ciencia abierta en América Latina", co-organizado junto a ORCID y ROR. Los detalles y la inscripción se encuentran en esta página.</span>
+
 
 <hr>
 
