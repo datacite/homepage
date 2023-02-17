@@ -13,7 +13,7 @@ layout: service
 
 #### Hora: 9-11 (hora local)
 
-#### Lugar: Novotel Buenos Aires, Av. Corrientes 1334, C1043ABN CABA, Argentina (en colaboración con la [csv,conf,v7)](https://csvconf.com/)
+#### Lugar: Novotel Buenos Aires, Av. Corrientes 1334, C1043ABN CABA, Argentina (en colaboración con la [csv,conf,v7](https://csvconf.com/))
 
 <hr>
 
