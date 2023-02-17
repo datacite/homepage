@@ -5,23 +5,30 @@ layout: service
 
 # DataCite Connect Buenos Aires (#DataCiteConnect23)
 
-<div class="section-img-small">
-  <img class="img-responsive" src="images/DataCite-Logos_DC-Connect.png"></img>
+<div class="section-img-lg">
+  <img class="img-responsive" src="images/DataCite_Connect_Buenos_Aires_2023.png"></img>
 </div>
 
-#### Date: April 18, 2023
+#### Fecha: 18 de abril de 2023
 
-#### Time: 9-11 (local time)
+#### Hora: 9-11 (hora local)
 
-#### Location: Novotel Buenos Aires, Buenos Aires, Argentina (in colocation with the [csv,conf,v7)](https://csvconf.com/)
+#### Lugar: Novotel Buenos Aires, Av. Corrientes 1334, C1043ABN CABA, Argentina (en colaboración con la [csv,conf,v7)](https://csvconf.com/)
 
 <hr>
 
-The DataCite Connect event in Buenos Aires provides a forum for discussion and networking for DataCite members in Latin America. The session will focus on discussing regional perspectives around DataCite infrastructure adoption and how the DataCite community can engage in, contribute to, and support their implementation. Participants will have the chance to exchange success stories and challenges around communications, integrations and ideas for future regional cooperation. There will be plenty of time for networking and Q&A!
+El evento DataCite Connect Buenos Aires ofrece un foro para la discusión y la creación de redes para los miembros de DataCite en América Latina. La sesión se centrará en discutir las perspectivas regionales en torno a la adopción de infraestructura de DataCite y cómo la comunidad puede participar, contribuir y apoyar su implementación. Los participantes tendrán la oportunidad de intercambiar historias de éxito y desafíos en torno a las comunicaciones, integraciones e ideas para la futura cooperación regional. Habrá mucho tiempo para establecer contactos y preguntas y respuestas.
 
-This is an in person event that will not be recorded or streamed. Make sure to use the hashtag #DataCiteConnect23 when sharing your experience on socials.
+Se trata de un acto presencial que no se grabará ni retransmitirá. Puedes utilizar el hashtag #DataCiteConnect23 para compartir tu experiencia en redes sociales.
 
-If you are planning to attend, please make sure you also register for “PIDs and open science in Latin America”, an event co-organized with ORCID and ROR. Details and registration on this page. 
+ <span class="bold-text">Si estás planeando asistir, regístrate también para el evento "Identificadores persistentes y ciencia abierta en América Latina", co-organizado junto a ORCID y ROR. Los detalles y la inscripción se encuentran en esta página.</span>
+
+ ¡Nos vemos en Buenos Aires!
+Regístrate en este enlace y contáctanos a través de support(at)datacite.org si tienes preguntas.
+
+
+La inscripción para DataCite Connect es gratuita. Rogamos a todos los participantes que lean y respeten nuestro [Código de conducta](https://datacite.org/code-of-conduct.html).
+
 
 <hr>
 
@@ -33,3 +40,7 @@ If you are planning to attend, please make sure you also register for “PIDs an
 * 09:40 Ice-breaker
 * 10:00 Group discussion
 * 10:50 Goodbye
+
+## Registration
+
+Registration link TBA.
