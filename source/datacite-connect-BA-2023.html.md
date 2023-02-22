@@ -27,4 +27,4 @@ Se trata de un acto presencial que no se grabará ni retransmitirá. Puedes util
 
 La inscripción para DataCite Connect es gratuita. Rogamos a todos los participantes que lean y respeten nuestro [Código de conducta (en inglés)](https://datacite.org/code-of-conduct.html).
 
- <span class="bold-text">Si estás planeando asistir, regístrate también para el evento "Identificadores persistentes y ciencia abierta en América Latina", co-organizado junto a ORCID y ROR. Los detalles y la inscripción se encuentran en esta página.</span>
+ <span class="bold-text">Si estás planeando asistir, regístrate también para el evento "Identificadores persistentes y ciencia abierta en América Latina", co-organizado junto a ORCID y ROR. Los detalles y la inscripción se encuentran en [esta página](https://datacite.org/pids-latam-2023.html).</span>
