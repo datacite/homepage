@@ -44,6 +44,8 @@ community_links:
    url: /datacite-connect-2023.html
  - name: DataCite Connect Buenos Aires 2023
    url: /datacite-connect-BA-2023.html
+ - name: Identificadores persistentes (PIDs) y ciencia abierta en Latinoamérica
+   url: /latam-pid-workshop.html
 contact_links:
  - name: Imprint
    url: /imprint.html
