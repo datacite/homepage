@@ -6,17 +6,8 @@ layout: service
 # Identificadores persistentes (PIDs) y ciencia abierta en Latinoamérica
 
 
-<div class="section-img-small">
-  <img class="img-responsive" src="assets/DataCite-Logos_primary.png"></img>
-</div>
-<div class="section-img-small">
-  <img class="img-responsive" src="images/partner_orcid.jpg"></img>
-</div>
-<div class="section-img-xsmall">
-  <img class="img-responsive" src="images/ror-logo.svg"></img>
-</div>
-<div class="section-img-xxsmall">
-  <img class="img-responsive" src="images/csv_conf_logo.png"></img>
+<div class="section-img-lg">
+  <img class="img-responsive" src="images/pid-workshop-latam-2023.jpg"></img>
 </div>
 
 DataCite, ORCID y ROR tienen el agrado de invitar a la comunidad de investigación latinoamericana a participar de un evento enteramente dedicado a los identificadores persistentes y la ciencia abierta en la región. Dirigido a directores y gestores de investigación, bibliotecarios y personal técnico, en este encuentro hablaremos sobre los beneficios de los identificadores persistentes y cómo su adopción contribuye a la ciencia abierta y a un ecosistema de investigación más abierto y robusto. Se presentarán casos de uso de instituciones argentinas e internacionales y habrá amplio espacio para la discusión y el networking. La inscripción es gratuita pero las plazas son limitadas, así que recomendamos que se registren a la brevedad.
