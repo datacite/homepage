@@ -1,5 +1,13 @@
 # Changelog
 
+## [v.1.9.147](https://github.com/datacite/homepage/tree/v.1.9.147) (2023-02-23)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.146...v.1.9.147)
+
+**Merged pull requests:**
+
+- Update bio [\#209](https://github.com/datacite/homepage/pull/209) ([gmejias](https://github.com/gmejias))
+
 ## [v.1.9.146](https://github.com/datacite/homepage/tree/v.1.9.146) (2023-02-22)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.145...v.1.9.146)
@@ -230,15 +238,15 @@
 
 ## [v1.9.96](https://github.com/datacite/homepage/tree/v1.9.96) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.96)
-
-## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.94)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.96)
 
 ## [v1.9.95](https://github.com/datacite/homepage/tree/v1.9.95) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.95)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.95)
+
+## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.94)
 
 ## [v1.9.93](https://github.com/datacite/homepage/tree/v1.9.93) (2022-07-13)
 
@@ -692,10 +700,6 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.9...1.9.1)
 
-**Merged pull requests:**
-
-- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
-
 ## [1.9](https://github.com/datacite/homepage/tree/1.9) (2021-02-11)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.8.9...1.9)
@@ -743,14 +747,11 @@
 **Merged pull requests:**
 
 - Styles for mobile cookie banner. [\#124](https://github.com/datacite/homepage/pull/124) ([svogt0511](https://github.com/svogt0511))
+- Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.77](https://github.com/datacite/homepage/tree/1.7.77) (2021-01-29)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.76...1.7.77)
-
-**Merged pull requests:**
-
-- Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.76](https://github.com/datacite/homepage/tree/1.7.76) (2021-01-28)
 
@@ -897,6 +898,7 @@
 
 **Merged pull requests:**
 
+- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
 - Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.43](https://github.com/datacite/homepage/tree/1.7.43) (2020-11-11)
