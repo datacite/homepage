@@ -1,5 +1,9 @@
 # Changelog
 
+## [v.1.9.148](https://github.com/datacite/homepage/tree/v.1.9.148) (2023-02-27)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.147...v.1.9.148)
+
 ## [v.1.9.147](https://github.com/datacite/homepage/tree/v.1.9.147) (2023-02-23)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.146...v.1.9.147)
@@ -148,10 +152,6 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.114...v.1.9.115)
 
-**Merged pull requests:**
-
-- Member meeting update [\#195](https://github.com/datacite/homepage/pull/195) ([KellyStathis](https://github.com/KellyStathis))
-
 ## [v.1.9.114](https://github.com/datacite/homepage/tree/v.1.9.114) (2022-09-28)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.113...v.1.9.114)
@@ -270,6 +270,7 @@
 
 **Merged pull requests:**
 
+- Member meeting update [\#195](https://github.com/datacite/homepage/pull/195) ([KellyStathis](https://github.com/KellyStathis))
 - remove space between speakers [\#189](https://github.com/datacite/homepage/pull/189) ([KellyStathis](https://github.com/KellyStathis))
 - update session descriptions [\#188](https://github.com/datacite/homepage/pull/188) ([KellyStathis](https://github.com/KellyStathis))
 - add session times to descriptions [\#187](https://github.com/datacite/homepage/pull/187) ([KellyStathis](https://github.com/KellyStathis))
@@ -700,6 +701,10 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.9...1.9.1)
 
+**Merged pull requests:**
+
+- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
+
 ## [1.9](https://github.com/datacite/homepage/tree/1.9) (2021-02-11)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.8.9...1.9)
@@ -747,11 +752,14 @@
 **Merged pull requests:**
 
 - Styles for mobile cookie banner. [\#124](https://github.com/datacite/homepage/pull/124) ([svogt0511](https://github.com/svogt0511))
-- Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.77](https://github.com/datacite/homepage/tree/1.7.77) (2021-01-29)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.76...1.7.77)
+
+**Merged pull requests:**
+
+- Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.76](https://github.com/datacite/homepage/tree/1.7.76) (2021-01-28)
 
@@ -898,7 +906,6 @@
 
 **Merged pull requests:**
 
-- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
 - Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.43](https://github.com/datacite/homepage/tree/1.7.43) (2020-11-11)
