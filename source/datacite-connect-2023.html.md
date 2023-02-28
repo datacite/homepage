@@ -29,7 +29,7 @@ This is an in person event that will not be recorded or streamed. Slides of the 
 * 13:30 DataCite Lightning Talk (15 min)
 * 13:45 National PID and open science strategies (55 min)
     * Natasha Simons (ARDC, Australia)
-    * Petra Černohlávková (NTK, Czechia)
+    * Petra Černohlávková, Hana Heringová (NTK, Czechia)
     * Antonia Schrader (Helmholtz, Germany)
     * Gül Akcaova (SURF, Netherlands)
     * Chris Brown (JISC, UK)
