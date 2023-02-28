@@ -19,7 +19,7 @@ layout: service
 
 El evento DataCite Connect Buenos Aires ofrece un foro para la discusión y la creación de redes para los miembros de DataCite en América Latina. La sesión se centrará en discutir las perspectivas regionales en torno a la adopción de infraestructura de DataCite y cómo la comunidad puede participar, contribuir y apoyar su implementación. Los participantes tendrán la oportunidad de intercambiar historias de éxito y desafíos en torno a las comunicaciones, integraciones e ideas para la futura cooperación regional. Habrá mucho tiempo para establecer contactos y preguntas y respuestas.
 
-Se trata de un acto presencial que no se grabará ni retransmitirá. Puedes utilizar el hashtag #DataCiteConnect23 para compartir tu experiencia en redes sociales.
+Se trata de un evento presencial que no se grabará ni retransmitirá. Puedes utilizar el hashtag #DataCiteConnect23 para compartir tu experiencia en redes sociales.
 
  <span class="bold-text">[Regístrate en este enlace](https://www.eventbrite.com/e/datacite-connect-buenos-aires-dataciteconnect23-tickets-556391831947)</span> y contáctanos a través de support(at)datacite.org si tienes preguntas.
 
