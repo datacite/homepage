@@ -7,13 +7,13 @@ layout: service
 - [Regional Engagement Specialist](#head1)
 - [Application Developer (remote)](#head2)
 
-# <a name="head1">Regional Engagement Specialists (remote)</a>
+# <a name="head1">Regional Engagement Specialist (remote)</a>
 
 DataCite is an open infrastructure organization that aims  to transcend discipline and geographic boundaries.  During 2022, DataCite began to implement the next iteration of the [DataCite Strategic Plan](DataCite Strategic Plan). As part of the strategic plan implementation, we identified global adoption as a key cross-pillar theme -- which brings together focussed engagement, adoption and implementation strategies
 
 In order to support the growth of DataCite's international community,  focussed regional support and engagement within lesser represented and emerging regions is needed. Through focused regional engagement activities across the different regions, DataCite would be better able to support equitable access to our infrastructure services, ensuring that researchers and research organizations globally have the opportunity to benefit from open infrastructure services.
 
-Therefore, **DataCite is seeking to hire a Regional Engagement Specialist for the Middle East or South/South-East Asia** for an initial period of 1 year, preferably based in the Middle East or South/South-East Asia, or with extensive experience with one of these regions.
+Therefore, **DataCite is seeking to hire a Regional Engagement Specialist for the Middle East or South/South-East Asia** for an initial period of 1 year, preferably based in the Middle East or South/South-East Asia, or with extensive experience with one of these regions. This is a full-time position.
 
 The candidate will be members of the DataCite Community Engagement team, which collaborates directly with our community to facilitate adoption, promote change, and deliver value through the use of our open infrastructure services.
 
