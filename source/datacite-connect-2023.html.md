@@ -32,7 +32,7 @@ This is an in person event that will not be recorded or streamed. Slides of the 
     * Petra Černohlávková, Hana Heringová (NTK, Czechia)
     * Antonia Schrader (Helmholtz, Germany)
     * Gül Akcaova (SURF, Netherlands)
-    * Chris Brown (JISC, UK)
+    * Adam Vials Moore (JISC, UK)
     * John Aspler (CRKN, Canada) and Lee Wilson (Digital Research Alliance of Canada)
 * 14:40 Break (10 min)
 * 14:50 Follow up and Q&A (20 min)
