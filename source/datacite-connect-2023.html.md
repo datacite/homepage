@@ -27,18 +27,19 @@ This is an in person event that will not be recorded or streamed. Slides of the 
 
 * 13:00 Speed dating! (30 min)
 * 13:30 DataCite Lightning Talk (15 min)
-* 13:45 National PID and open research strategies (55 min)
+* 13:45 National PID and open research strategies (70 min)
     * Natasha Simons (ARDC, Australia)
     * Petra Černohlávková, Hana Heringová (NTK, Czechia)
     * Antonia Schrader (Helmholtz, Germany)
     * Gül Akcaova (SURF, Netherlands)
     * Adam Vials Moore (JISC, UK)
-    * John Aspler (CRKN, Canada) and Lee Wilson (Digital Research Alliance of Canada)
-* 14:40 Break (10 min)
-* 14:50 Follow up and Q&A (20 min)
-* 15:10 Discussion in groups about national strategies (60 min)
-* 16:10 Summary & Wrap up (30 min)
-* 16:30 Time to connect
+    * John Aspler (CRKN, Canada) and Lee Wilson (Digital Research Alliance of Canada, Canada)
+    * Jia Liu (Computer Network Information Center, Chinese Academy of Science, China)
+* 14:55 Follow up and Q&A (20 min)
+* 15:15 Break (20 min)
+* 15:35 Discussion in groups about national strategies (60 min)
+* 16:35 Summary & Wrap up (15 min)
+* 16:50 Time to connect
 
 ## Registration
 
