@@ -17,7 +17,7 @@ layout: service
 
 <hr>
 
-The DataCite Connect event in Gothenburg provides a forum for discussion and networking for DataCite members and the broader community. The session will focus on national PID and Open Science strategies and how the DataCite community can engage in, contribute to, and support their implementation. Participants will learn about on-going efforts across different regions and will have the chance to work together to identify and discuss alignments between national strategies and their current/future plans that leverage the DataCite infrastructure and services. The outcomes of the meeting will help DataCite members and community to better understand the PID landscape in other regions, connect with PID champions and establish new collaborations. There will be plenty of time for Q&A!
+The DataCite Connect event in Gothenburg provides a forum for discussion and networking for DataCite members and the broader community. The session will focus on national PID and Open Research strategies and how the DataCite community can engage in, contribute to, and support their implementation. Participants will learn about on-going efforts across different regions and will have the chance to work together to identify and discuss alignments between national strategies and their current/future plans that leverage the DataCite infrastructure and services. The outcomes of the meeting will help DataCite members and community to better understand the PID landscape in other regions, connect with PID champions and establish new collaborations. There will be plenty of time for Q&A!
 
 This is an in person event that will not be recorded or streamed. Slides of the speakers will be made available afterwards. Make sure to use the hashtag #DataCiteConnect23 when sharing your experience on socials.
 
@@ -27,7 +27,7 @@ This is an in person event that will not be recorded or streamed. Slides of the 
 
 * 13:00 Speed dating! (30 min)
 * 13:30 DataCite Lightning Talk (15 min)
-* 13:45 National PID and open science strategies (55 min)
+* 13:45 National PID and open research strategies (55 min)
     * Natasha Simons (ARDC, Australia)
     * Petra Černohlávková, Hana Heringová (NTK, Czechia)
     * Antonia Schrader (Helmholtz, Germany)
