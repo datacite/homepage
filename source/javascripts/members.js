@@ -294,9 +294,16 @@ function formatMembers(response, member_type) {
   // response.meta.total;
 
   for (var i in response.data) {
+
     // don't show DataCite providers or members with missing logo
     if (
       ["DATACITE", "DEMO", "SML"].includes(response.data[i].id.toUpperCase())
+    ) {
+      continue;
+    }
+    // don't show inactive members
+    if (
+      (response.data[i].attributes.isActive == false)
     ) {
       continue;
     }
