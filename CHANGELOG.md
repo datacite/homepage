@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/datacite/homepage/tree/HEAD)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.152...HEAD)
+
+**Merged pull requests:**
+
+- exclude inactive members from member list [\#218](https://github.com/datacite/homepage/pull/218) ([lizkrznarich](https://github.com/lizkrznarich))
+
 ## [v.1.9.152](https://github.com/datacite/homepage/tree/v.1.9.152) (2023-03-02)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.151...v.1.9.152)
@@ -530,6 +538,7 @@
 - re-add fair workflows page [\#150](https://github.com/datacite/homepage/pull/150) ([lizkrznarich](https://github.com/lizkrznarich))
 - Fair workflows page [\#149](https://github.com/datacite/homepage/pull/149) ([lizkrznarich](https://github.com/lizkrznarich))
 - add fair workflows page to the website under community tab [\#148](https://github.com/datacite/homepage/pull/148) ([xchen101](https://github.com/xchen101))
+- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
 
 ## [1.9.48](https://github.com/datacite/homepage/tree/1.9.48) (2021-10-18)
 
@@ -707,7 +716,6 @@
 **Merged pull requests:**
 
 - Issue datacite/datacite\#1215 - Consent cookie banner blocks access to… [\#128](https://github.com/datacite/homepage/pull/128) ([svogt0511](https://github.com/svogt0511))
-- Styles for mobile cookie banner. [\#124](https://github.com/datacite/homepage/pull/124) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.9.6](https://github.com/datacite/homepage/tree/1.9.6) (2021-03-03)
 
@@ -736,10 +744,6 @@
 ## [1.9.1](https://github.com/datacite/homepage/tree/1.9.1) (2021-02-15)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.9...1.9.1)
-
-**Merged pull requests:**
-
-- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
 
 ## [1.9](https://github.com/datacite/homepage/tree/1.9) (2021-02-11)
 
@@ -784,6 +788,10 @@
 ## [1.8](https://github.com/datacite/homepage/tree/1.8) (2021-02-02)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.77...1.8)
+
+**Merged pull requests:**
+
+- Styles for mobile cookie banner. [\#124](https://github.com/datacite/homepage/pull/124) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.77](https://github.com/datacite/homepage/tree/1.7.77) (2021-01-29)
 
@@ -833,6 +841,10 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.65...1.7.66)
 
+**Merged pull requests:**
+
+- Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
+
 ## [1.7.65](https://github.com/datacite/homepage/tree/1.7.65) (2020-12-23)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.64...1.7.65)
@@ -853,7 +865,6 @@
 
 - make r3data suggest form URL a link [\#119](https://github.com/datacite/homepage/pull/119) ([lizkrznarich](https://github.com/lizkrznarich))
 - Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
-- Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
 
@@ -934,7 +945,7 @@
 
 **Merged pull requests:**
 
-- Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
+- Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.43](https://github.com/datacite/homepage/tree/1.7.43) (2020-11-11)
