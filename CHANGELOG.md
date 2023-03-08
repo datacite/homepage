@@ -1,8 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/datacite/homepage/tree/HEAD)
+## [v.1.9.154](https://github.com/datacite/homepage/tree/v.1.9.154) (2023-03-08)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.152...HEAD)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.153...v.1.9.154)
+
+## [v.1.9.153](https://github.com/datacite/homepage/tree/v.1.9.153) (2023-03-08)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.152...v.1.9.153)
 
 **Merged pull requests:**
 
@@ -538,7 +542,6 @@
 - re-add fair workflows page [\#150](https://github.com/datacite/homepage/pull/150) ([lizkrznarich](https://github.com/lizkrznarich))
 - Fair workflows page [\#149](https://github.com/datacite/homepage/pull/149) ([lizkrznarich](https://github.com/lizkrznarich))
 - add fair workflows page to the website under community tab [\#148](https://github.com/datacite/homepage/pull/148) ([xchen101](https://github.com/xchen101))
-- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
 
 ## [1.9.48](https://github.com/datacite/homepage/tree/1.9.48) (2021-10-18)
 
@@ -745,6 +748,10 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.9...1.9.1)
 
+**Merged pull requests:**
+
+- Services update [\#126](https://github.com/datacite/homepage/pull/126) ([sarala](https://github.com/sarala))
+
 ## [1.9](https://github.com/datacite/homepage/tree/1.9) (2021-02-11)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.8.9...1.9)
@@ -865,6 +872,7 @@
 
 - make r3data suggest form URL a link [\#119](https://github.com/datacite/homepage/pull/119) ([lizkrznarich](https://github.com/lizkrznarich))
 - Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
+- Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
 
@@ -945,7 +953,6 @@
 
 **Merged pull requests:**
 
-- Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump rack from 2.2.2 to 2.2.3 [\#112](https://github.com/datacite/homepage/pull/112) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.43](https://github.com/datacite/homepage/tree/1.7.43) (2020-11-11)
