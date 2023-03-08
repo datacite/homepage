@@ -1,9 +1,9 @@
 ---
-title: DataCite - Fee Model 2022
+title: DataCite - Fee Model 2023
 layout: service
 ---
 
-# DataCite - Fee Model 2022
+# DataCite - Fee Model 2023
 
 * <a href="#fee-structure">Fee Structure</a>
      * <a href="#membership-fee">Membership Fee</a>
