@@ -1,5 +1,13 @@
 # Changelog
 
+## [v.1.9.155](https://github.com/datacite/homepage/tree/v.1.9.155) (2023-03-17)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.154...v.1.9.155)
+
+**Merged pull requests:**
+
+- Update global-access-program.html.md [\#219](https://github.com/datacite/homepage/pull/219) ([gmejias](https://github.com/gmejias))
+
 ## [v.1.9.154](https://github.com/datacite/homepage/tree/v.1.9.154) (2023-03-08)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.153...v.1.9.154)
@@ -23,20 +31,20 @@
 
 ## [v.1.9.151](https://github.com/datacite/homepage/tree/v.1.9.151) (2023-03-01)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.150...v.1.9.151)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.149...v.1.9.151)
 
 **Merged pull requests:**
 
 - Add FT requirement [\#214](https://github.com/datacite/homepage/pull/214) ([gmejias](https://github.com/gmejias))
 - Update speaker name [\#213](https://github.com/datacite/homepage/pull/213) ([gmejias](https://github.com/gmejias))
 
-## [v.1.9.150](https://github.com/datacite/homepage/tree/v.1.9.150) (2023-02-28)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.149...v.1.9.150)
-
 ## [v.1.9.149](https://github.com/datacite/homepage/tree/v.1.9.149) (2023-02-28)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.148...v.1.9.149)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.150...v.1.9.149)
+
+## [v.1.9.150](https://github.com/datacite/homepage/tree/v.1.9.150) (2023-02-28)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.148...v.1.9.150)
 
 **Merged pull requests:**
 
