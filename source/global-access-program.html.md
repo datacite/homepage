@@ -20,7 +20,7 @@ We will continue our work with local communities and local organizations,  and w
 
 DataCite will play a more proactive role in supporting local communities to develop and adopt  the necessary infrastructure to integrate PIDs in their workflows, according to their needs and opportunities. 
 
-## Resourcing and fees
+## Resourcing
 
 To lower the barrier to access PID infrastructure, the program will establish  a Global Access Fund to enable potential members to set up the infrastructure needed and adopt DOI registration services. The Global Access Fund will be launched in mid 2023.
 
