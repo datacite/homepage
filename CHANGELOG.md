@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/datacite/homepage/tree/HEAD)
+## [v.1.9.156](https://github.com/datacite/homepage/tree/v.1.9.156) (2023-04-04)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.155...HEAD)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.155...v.1.9.156)
 
 **Merged pull requests:**
 
@@ -39,20 +39,20 @@
 
 ## [v.1.9.151](https://github.com/datacite/homepage/tree/v.1.9.151) (2023-03-01)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.149...v.1.9.151)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.150...v.1.9.151)
 
 **Merged pull requests:**
 
 - Add FT requirement [\#214](https://github.com/datacite/homepage/pull/214) ([gmejias](https://github.com/gmejias))
 - Update speaker name [\#213](https://github.com/datacite/homepage/pull/213) ([gmejias](https://github.com/gmejias))
 
-## [v.1.9.149](https://github.com/datacite/homepage/tree/v.1.9.149) (2023-02-28)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.150...v.1.9.149)
-
 ## [v.1.9.150](https://github.com/datacite/homepage/tree/v.1.9.150) (2023-02-28)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.148...v.1.9.150)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.149...v.1.9.150)
+
+## [v.1.9.149](https://github.com/datacite/homepage/tree/v.1.9.149) (2023-02-28)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.148...v.1.9.149)
 
 **Merged pull requests:**
 
@@ -302,15 +302,15 @@
 
 ## [v1.9.96](https://github.com/datacite/homepage/tree/v1.9.96) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.96)
-
-## [v1.9.95](https://github.com/datacite/homepage/tree/v1.9.95) (2022-07-15)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.95)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.96)
 
 ## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.94)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.94)
+
+## [v1.9.95](https://github.com/datacite/homepage/tree/v1.9.95) (2022-07-15)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.95)
 
 ## [v1.9.93](https://github.com/datacite/homepage/tree/v1.9.93) (2022-07-13)
 
