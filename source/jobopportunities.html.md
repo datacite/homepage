@@ -4,54 +4,57 @@ layout: service
 ---
 ## Current Openings
 
-- [Regional Engagement Specialist](#head1)
+- [Operations & HR Manager (remote)](#head1)
 - [Application Developer (remote)](#head2)
 
-# <a name="head1">Regional Engagement Specialist (remote)</a>
+# <a name="head1">Operations & HR Manager (remote)</a>
 
-DataCite is an open infrastructure organization that aims  to transcend discipline and geographic boundaries.  During 2022, DataCite began to implement the next iteration of the [DataCite Strategic Plan](DataCite Strategic Plan). As part of the strategic plan implementation, we identified global adoption as a key cross-pillar theme -- which brings together focussed engagement, adoption and implementation strategies
+DataCite is seeking an experienced Operations & HR Manager to support the Operations & Finance Director in managing the day-to-day operations and HR functions of the organization. The ideal candidate will be a detail-oriented, organized, and efficient individual with excellent communication skills. The location of the candidate will be preferable EMEA or North America East Coast. This is a full-time or part-time position at 20-30 hours per week.
 
-In order to support the growth of DataCite's international community,  focussed regional support and engagement within lesser represented and emerging regions is needed. Through focused regional engagement activities across the different regions, DataCite would be better able to support equitable access to our infrastructure services, ensuring that researchers and research organizations globally have the opportunity to benefit from open infrastructure services.
 
-Therefore, **DataCite is seeking to hire a Regional Engagement Specialist for the Middle East or South/South-East Asia** for an initial period of 1 year, preferably based in the Middle East or South/South-East Asia, or with extensive experience with one of these regions. This is a full-time position.
+About DataCite
+---
+DataCite is a community-led organisation with a vision to connect research and identify knowledge.  We have been providing the means to create, find, cite, connect, and use research across 48 countries globally since 2009.  In addition to DataCite core services, we support the scaling efforts of  several identifier communities through governance, sustainability, insurance, and technical implementation. 
 
-The candidate will be members of the DataCite Community Engagement team, which collaborates directly with our community to facilitate adoption, promote change, and deliver value through the use of our open infrastructure services.
+
+Working at DataCite
+---
+We are a fully remote team, which means we don't have a physical office. The team is distributed across five continents, supporting a global community of organizational members across 50 countries. 
+
 
 Responsibilities
 ---
 
-#### (1) Lead engagement activities in the region
-* Carry out an analysis of the needs and education opportunities per region
-* Seek collaborative opportunities in different regions to interact with local communities
-* Explore the benefits of setting up a DataCite ambassadors program with people from different countries * communicating in different languages
+#### (1) HR Policies and Payroll:
+* Assist with the development, implementation, and maintenance of HR policies and procedures
+* Assist with payroll and benefits administration
+* Create onboarding plans and educate newly hired employees on HR policies, internal procedures, and regulations
+* Recruit, interview, and facilitate the hiring of qualified job applicants for open positions in collaboration with the directors
 
-#### (2) Develop educational materials and find dissemination opportunities
-* Consolidate basic information about DataCite, its role in the region, and participation opportunities in the region in different languages
-* Provide best practices and policy guidance to facilitate communication between stakeholders
-* Provide case studies on how different groups use DataCite - demonstrate that participation is possible with limited technical resources e.g. through DataCite DOI Fabrica
+#### (2) Operations and Financial Controls:
+* Support day-to-day operations of the organization
+* Assist with the development, implementation, and maintenance of financial controls and procedures
+* Ensure legal compliance and best practices in all financial-related matters
+* Assist with budgeting, forecasting, and financial reporting
+* Oversee expense management and accounts payable/receivable
 
-#### (3) Assist organizations in setting up the necessary open science infrastructure
-* Analyze the infrastructure landscape and  use of different platforms per region
-* Collaborate with repository platforms/service providers on providing integrations for certain regions
-* Set up user groups where users of the same platform can benefit from each other's expertise and/or reuse each other's code for integrations
+#### (3) General Organizational Support:
+* Support a positive organizational culture
+* Assist with employee engagement initiatives
+* Assist with training and development programs
 
-Required skills and qualifications
+
+
+Requirements
 ---
-* University degree
-* Familiar with research infrastructure and the open science landscape
-* Sufficient technical skills to advise members on adoption and integration
-* Passionate about open science
-* Familiar with a not-for-profit environment and the transparency that entails
-* Ability to work with a  distributed team across time zones
-* Strong, compelling, and clear written, oral, and visual communication in English
-* Self-motivated to succeed and take initiative and seek continuous improvement
+* Bachelor's degree in Business Administration or related field is preferable
+* At least 3 years of experience in HR, operations and/or finance management
+* Knowledge of HR policies and procedures, payroll, financial controls, budgeting, and forecasting
+* Excellent communication and interpersonal skills
+* Strong problem-solving and analytical skills
+* Experience with project management and ability to work independently and as part of a team
+* Strong organizational skills with attention to detail and ability to multitask
 
-Desired skills
----
-* Outreach experience, particularly engaging with global and technical audiences
-* Brings a good network in the relevant region
-* Experience working in an international environment
-* Comfortable working remotely
 
 Why work for us
 ---
@@ -62,22 +65,15 @@ Why work for us
 * Option to work in a co-working space with a paid contribution from DataCite.
 * Opportunity to learn something new every day.
 
-About DataCite
----
-DataCite brings rigor to the scholarly record by connecting research outputs and resources–from data and preprint to images and samples. We support the creation and management of metadata records including persistent identifiers (PIDs), enhance research workflows with service integration, and enable the discovery and reuse of research outputs and resources.
-
-We are a global community of communities that share a common interest: To ensure that research outputs and resources are freely available and connected so that their reuse can advance knowledge across and between disciplines.
-
-Diversity, Equity, and Inclusion
----
-DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, and physical or mental disability. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
 
 To apply
 ---
-Please send a resume and statement of interest to Helena Cousijn [<helena.cousijn@datacite.org>] by March 15, 2023. Interviews will start the last week of February. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 60-minute online interview which will include an exercise you’ll have a chance to prepare for. Feel free to contact us should you have any questions about the role.
+Please send a resume and statement of interest to Britta Dreyer [<britta.dreyer@datacite.org>] by April 25, 2023. Please don’t hesitate to contact us with any questions.
+
+DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
+
 
 # <a name="head2">Application Developer (remote)</a>
-
 
 Job Description
 ---
