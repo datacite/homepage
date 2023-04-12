@@ -5,7 +5,6 @@ layout: service
 ## Current Openings
 
 - [Operations & HR Manager (remote)](#head1)
-- [Application Developer (remote)](#head2)
 
 # <a name="head1">Operations & HR Manager (remote)</a>
 
