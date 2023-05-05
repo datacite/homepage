@@ -29,7 +29,7 @@ Registered Service Providers are listed in our [Service Provider Listing](/servi
 *Note: Registering DOIs in the production environment requires DataCite member credentials. Service Providers should collaborate with a customer who is an existing DataCite member to identify findable DOI examples. If the Service Provider does not yet have any DataCite members as customers, provisional registration based on a demonstration using the [DataCite test environment](https://doi.test.datacite.org) is possible.  See our [Testing Guide](https://support.datacite.org/docs/testing-guide) for more information about the test environment.*
 3. Support submission of DOI metadata that is compliant with DataCite Metadata Schema v4 or higher. See [schema.datacite.org](https://schema.datacite.org/) for schema information.
 4. In cases where customers must share their DataCite credentials with you, provide a secure means for them to do so (ex: encrypted email, password manager, etc). Plain text over email is not secure.
-5. Do their best to adhere to the [DataCite Best Practices for Service Providers](https://datacite.org/documents/DataCite_BestPractices_ServiceProviders_v1.pdf)
+5. Do their best to adhere to the [DataCite Best Practices for Service Providers](https://support.datacite.org/docs/best-practices-for-service-providers)
 6. Display the DataCite Service Provider badge on their website (badge image file will be provided upon successful registration).
 7. Provide first-line support to their users, escalating to DataCite support (support@datacite.org) if necessary
 8. Provide a designated contact email that DataCite staff can use to request assistance with troubleshooting member support issues and to inform the Service Provider about updates to DataCite services. This can be a group email address, e.g. info@service.org
@@ -44,7 +44,7 @@ Registered Service Providers are listed in our [Service Provider Listing](/servi
 
 # Documentation for Service Providers
 
-- DataCite Service Providers are expected to [DataCite Best Practices for Service Providers](/documents/DataCite_BestPractices_ServiceProviders_v1.pdf).
+- DataCite Service Providers are expected to [DataCite Best Practices for Service Providers](https://support.datacite.org/docs/best-practices-for-service-providers).
 - Additional documentation can be found on the  [DataCite support site](https://support.datacite.org).
 
 # Benefits of Service Provider Registration
@@ -58,7 +58,7 @@ Registered Service Providers are:
 - Invited to join quarterly quarterly calls where Service Providers can learn about and provide input on upcoming DataCite features/changes and discuss best practices with other Service Providers.
 
 # Become a Registered Service Provider
-1. Review the [DataCite Best Practices for Service Providers](https://datacite.org/documents/DataCite_BestPractices_ServiceProviders_v1.pdf) and ensure that you are following these best practices and that you meet the requirements listed above.
+1. Review the [DataCite Best Practices for Service Providers](https://support.datacite.org/docs/best-practices-for-service-providers) and ensure that you are following these best practices and that you meet the requirements listed above.
 2. Complete the [Service Provider application form ](https://formstack.io/F45B4). After you complete the form, you will receive an automated email requesting that you electronically sign a PDF copy of the completed form. If you don’t receive the signature request email, please check your spam/junk folder.
 3. DataCite staff will review your application and contact you within 2 weeks to schedule a verification call. If necessary, the DataCite board will be consulted.
 4. During the verification call, you will be asked to demonstrate your integration and provide examples of findable DOIs that have been registered using your integration. This call will be recorded for DataCite internal use (with permission from those on the call).
