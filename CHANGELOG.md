@@ -1,5 +1,17 @@
 # Changelog
 
+## [v.1.9.160](https://github.com/datacite/homepage/tree/v.1.9.160) (2023-05-24)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.159...v.1.9.160)
+
+## [v.1.9.159](https://github.com/datacite/homepage/tree/v.1.9.159) (2023-05-10)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.158...v.1.9.159)
+
+**Merged pull requests:**
+
+- Update steering.html.erb [\#221](https://github.com/datacite/homepage/pull/221) ([xchen101](https://github.com/xchen101))
+
 ## [v.1.9.158](https://github.com/datacite/homepage/tree/v.1.9.158) (2023-04-12)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.157...v.1.9.158)
@@ -310,15 +322,15 @@
 
 ## [v1.9.96](https://github.com/datacite/homepage/tree/v1.9.96) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.96)
-
-## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.94)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.95...v1.9.96)
 
 ## [v1.9.95](https://github.com/datacite/homepage/tree/v1.9.95) (2022-07-15)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.95)
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.94...v1.9.95)
+
+## [v1.9.94](https://github.com/datacite/homepage/tree/v1.9.94) (2022-07-15)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v1.9.93...v1.9.94)
 
 ## [v1.9.93](https://github.com/datacite/homepage/tree/v1.9.93) (2022-07-13)
 
@@ -431,10 +443,6 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v1.9.73...v1.9.74)
 
-**Merged pull requests:**
-
-- update team page - add Kelly [\#168](https://github.com/datacite/homepage/pull/168) ([KellyStathis](https://github.com/KellyStathis))
-
 ## [v1.9.73](https://github.com/datacite/homepage/tree/v1.9.73) (2022-04-01)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v1.9.72...v1.9.73)
@@ -478,6 +486,7 @@
 
 **Merged pull requests:**
 
+- update team page - add Kelly [\#168](https://github.com/datacite/homepage/pull/168) ([KellyStathis](https://github.com/KellyStathis))
 - remove latest news section and add text link to blog [\#157](https://github.com/datacite/homepage/pull/157) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [v1.9.64](https://github.com/datacite/homepage/tree/v1.9.64) (2022-02-01)
@@ -657,7 +666,6 @@
 
 **Merged pull requests:**
 
-- Update steering.html.erb [\#142](https://github.com/datacite/homepage/pull/142) ([sarala](https://github.com/sarala))
 - Update partnerservices.html.erb with re3data [\#141](https://github.com/datacite/homepage/pull/141) ([kjgarza](https://github.com/kjgarza))
 
 ## [1.9.27](https://github.com/datacite/homepage/tree/1.9.27) (2021-07-08)
@@ -742,6 +750,7 @@
 
 **Merged pull requests:**
 
+- Update steering.html.erb [\#142](https://github.com/datacite/homepage/pull/142) ([sarala](https://github.com/sarala))
 - Issue datacite/datacite\#1215 - Consent cookie banner blocks access to… [\#128](https://github.com/datacite/homepage/pull/128) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.9.6](https://github.com/datacite/homepage/tree/1.9.6) (2021-03-03)
