@@ -1,5 +1,9 @@
 # Changelog
 
+## [v.1.9.162](https://github.com/datacite/homepage/tree/v.1.9.162) (2023-06-09)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.161...v.1.9.162)
+
 ## [v.1.9.161](https://github.com/datacite/homepage/tree/v.1.9.161) (2023-05-25)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.160...v.1.9.161)
@@ -442,6 +446,7 @@
 - add bios for Cody and Rorie; clean up indentation [\#171](https://github.com/datacite/homepage/pull/171) ([KellyStathis](https://github.com/KellyStathis))
 - Fee model updates [\#170](https://github.com/datacite/homepage/pull/170) ([KellyStathis](https://github.com/KellyStathis))
 - add docker files for local dev [\#169](https://github.com/datacite/homepage/pull/169) ([lizkrznarich](https://github.com/lizkrznarich))
+- update Americas EG list [\#156](https://github.com/datacite/homepage/pull/156) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [v1.9.74](https://github.com/datacite/homepage/tree/v1.9.74) (2022-04-26)
 
@@ -503,10 +508,6 @@
 ## [v1.9.63](https://github.com/datacite/homepage/tree/v1.9.63) (2022-01-31)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v1.9.62...v1.9.63)
-
-**Merged pull requests:**
-
-- update Americas EG list [\#156](https://github.com/datacite/homepage/pull/156) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [v1.9.62](https://github.com/datacite/homepage/tree/v1.9.62) (2022-01-24)
 
@@ -638,7 +639,6 @@
 **Merged pull requests:**
 
 - update Americas expert group list [\#144](https://github.com/datacite/homepage/pull/144) ([lizkrznarich](https://github.com/lizkrznarich))
-- Update steering.html.erb [\#142](https://github.com/datacite/homepage/pull/142) ([sarala](https://github.com/sarala))
 
 ## [1.9.35](https://github.com/datacite/homepage/tree/1.9.35) (2021-07-29)
 
@@ -674,6 +674,7 @@
 
 **Merged pull requests:**
 
+- Update steering.html.erb [\#142](https://github.com/datacite/homepage/pull/142) ([sarala](https://github.com/sarala))
 - Update partnerservices.html.erb with re3data [\#141](https://github.com/datacite/homepage/pull/141) ([kjgarza](https://github.com/kjgarza))
 
 ## [1.9.27](https://github.com/datacite/homepage/tree/1.9.27) (2021-07-08)
@@ -783,6 +784,7 @@
 **Merged pull requests:**
 
 - Statutes update [\#127](https://github.com/datacite/homepage/pull/127) ([sarala](https://github.com/sarala))
+- Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [1.9.1](https://github.com/datacite/homepage/tree/1.9.1) (2021-02-15)
 
@@ -847,7 +849,6 @@
 **Merged pull requests:**
 
 - Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
-- Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [1.7.76](https://github.com/datacite/homepage/tree/1.7.76) (2021-01-28)
 
@@ -889,6 +890,10 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.65...1.7.66)
 
+**Merged pull requests:**
+
+- Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
+
 ## [1.7.65](https://github.com/datacite/homepage/tree/1.7.65) (2020-12-23)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.64...1.7.65)
@@ -908,7 +913,6 @@
 **Merged pull requests:**
 
 - make r3data suggest form URL a link [\#119](https://github.com/datacite/homepage/pull/119) ([lizkrznarich](https://github.com/lizkrznarich))
-- Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
 - Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
