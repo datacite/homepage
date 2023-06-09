@@ -1,5 +1,9 @@
 # Changelog
 
+## [v.1.9.161](https://github.com/datacite/homepage/tree/v.1.9.161) (2023-05-25)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.160...v.1.9.161)
+
 ## [v.1.9.160](https://github.com/datacite/homepage/tree/v.1.9.160) (2023-05-24)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.159...v.1.9.160)
@@ -443,6 +447,10 @@
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v1.9.73...v1.9.74)
 
+**Merged pull requests:**
+
+- update team page - add Kelly [\#168](https://github.com/datacite/homepage/pull/168) ([KellyStathis](https://github.com/KellyStathis))
+
 ## [v1.9.73](https://github.com/datacite/homepage/tree/v1.9.73) (2022-04-01)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v1.9.72...v1.9.73)
@@ -486,7 +494,6 @@
 
 **Merged pull requests:**
 
-- update team page - add Kelly [\#168](https://github.com/datacite/homepage/pull/168) ([KellyStathis](https://github.com/KellyStathis))
 - remove latest news section and add text link to blog [\#157](https://github.com/datacite/homepage/pull/157) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [v1.9.64](https://github.com/datacite/homepage/tree/v1.9.64) (2022-02-01)
@@ -631,6 +638,7 @@
 **Merged pull requests:**
 
 - update Americas expert group list [\#144](https://github.com/datacite/homepage/pull/144) ([lizkrznarich](https://github.com/lizkrznarich))
+- Update steering.html.erb [\#142](https://github.com/datacite/homepage/pull/142) ([sarala](https://github.com/sarala))
 
 ## [1.9.35](https://github.com/datacite/homepage/tree/1.9.35) (2021-07-29)
 
@@ -750,7 +758,6 @@
 
 **Merged pull requests:**
 
-- Update steering.html.erb [\#142](https://github.com/datacite/homepage/pull/142) ([sarala](https://github.com/sarala))
 - Issue datacite/datacite\#1215 - Consent cookie banner blocks access to… [\#128](https://github.com/datacite/homepage/pull/128) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.9.6](https://github.com/datacite/homepage/tree/1.9.6) (2021-03-03)
@@ -840,6 +847,7 @@
 **Merged pull requests:**
 
 - Styles for mobile cookie banner.. [\#123](https://github.com/datacite/homepage/pull/123) ([svogt0511](https://github.com/svogt0511))
+- Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [1.7.76](https://github.com/datacite/homepage/tree/1.7.76) (2021-01-28)
 
@@ -880,10 +888,6 @@
 ## [1.7.66](https://github.com/datacite/homepage/tree/1.7.66) (2021-01-02)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/1.7.65...1.7.66)
-
-**Merged pull requests:**
-
-- Steering groups and staff pages updates [\#121](https://github.com/datacite/homepage/pull/121) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [1.7.65](https://github.com/datacite/homepage/tree/1.7.65) (2020-12-23)
 
