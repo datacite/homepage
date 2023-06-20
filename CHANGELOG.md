@@ -1,5 +1,9 @@
 # Changelog
 
+## [v.1.9.163](https://github.com/datacite/homepage/tree/v.1.9.163) (2023-06-20)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.162...v.1.9.163)
+
 ## [v.1.9.162](https://github.com/datacite/homepage/tree/v.1.9.162) (2023-06-09)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.161...v.1.9.162)
@@ -446,7 +450,6 @@
 - add bios for Cody and Rorie; clean up indentation [\#171](https://github.com/datacite/homepage/pull/171) ([KellyStathis](https://github.com/KellyStathis))
 - Fee model updates [\#170](https://github.com/datacite/homepage/pull/170) ([KellyStathis](https://github.com/KellyStathis))
 - add docker files for local dev [\#169](https://github.com/datacite/homepage/pull/169) ([lizkrznarich](https://github.com/lizkrznarich))
-- update Americas EG list [\#156](https://github.com/datacite/homepage/pull/156) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [v1.9.74](https://github.com/datacite/homepage/tree/v1.9.74) (2022-04-26)
 
@@ -508,6 +511,10 @@
 ## [v1.9.63](https://github.com/datacite/homepage/tree/v1.9.63) (2022-01-31)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v1.9.62...v1.9.63)
+
+**Merged pull requests:**
+
+- update Americas EG list [\#156](https://github.com/datacite/homepage/pull/156) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [v1.9.62](https://github.com/datacite/homepage/tree/v1.9.62) (2022-01-24)
 
@@ -784,7 +791,6 @@
 **Merged pull requests:**
 
 - Statutes update [\#127](https://github.com/datacite/homepage/pull/127) ([sarala](https://github.com/sarala))
-- Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
 
 ## [1.9.1](https://github.com/datacite/homepage/tree/1.9.1) (2021-02-15)
 
@@ -913,6 +919,7 @@
 **Merged pull requests:**
 
 - make r3data suggest form URL a link [\#119](https://github.com/datacite/homepage/pull/119) ([lizkrznarich](https://github.com/lizkrznarich))
+- Update service providers text [\#118](https://github.com/datacite/homepage/pull/118) ([lizkrznarich](https://github.com/lizkrznarich))
 - Bump ini from 1.3.5 to 1.3.8 [\#116](https://github.com/datacite/homepage/pull/116) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.7.61](https://github.com/datacite/homepage/tree/1.7.61) (2020-12-03)
