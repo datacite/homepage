@@ -27,6 +27,10 @@ layout: service
 <td>Duration </td>
 <td>36 Months (October 2021 - September 2024)</td>
 </tr>
+  <tr>
+<td>DOI </td>
+<td>https://doi.org/10.54224/20568 </td>
+</tr>
 </tbody>
 </table>
 
@@ -222,6 +226,7 @@ Apply the end-to-end FAIR workflow specification to a pre-registered multi-modal
 <td>D2.2</td>
 <td>Develop and/or extend existing metadata templates that are interoperable with the DataCite schema.</td>
 <td>DataCite, MPIEA, CEDAR</td>
+  <td>[Metadata Template Development for Cognitive Neuroscience Research](https://doi.org/10.5281/zenodo.7970618) </td>
 </tr>
 <tr>
 <td>D2.3</td>
@@ -259,6 +264,11 @@ Provide an open interface that allows researchers to track connections between D
 <td>D3.2</td>
 <td>Guide that researchers can use to implement FAIR workflows into their research.</td>
 <td>DataCite, MPIEA</td>
+</tr>
+  <tr>
+<td>D3.3</td>
+<td>Guide for funders to support FAIR Workflows and enable output tracking</td>
+<td>DataCite</td>
 </tr>
 </tbody>
 </table>
@@ -344,6 +354,12 @@ Develop an adoption and dissemination plan and engage with a range of stakeholde
 <td>[INCF Assembly](https://neuroinformatics.incf.org/)</td>
 <td>[FAIR Workflows for Neuroscience Research](https://neuroinformatics.incf.org/2022/sessions)</td>
 <td>[Link](https://drive.google.com/drive/folders/1XAI8B7fY0uGpNCAliW_s9lxIoSX-ls6R?usp=sharing)</td>
+</tr>
+<tr>
+<td>May 17 2023</td>
+<td>[Edinburgh Open Research Conference](http://journals.ed.ac.uk/eor/index)</td>
+<td>[Making Research FAIR With a PID-centric Workflow](https://doi.org/10.2218/eor.2023.8117)</td>
+<td>[Link](http://journals.ed.ac.uk/eor/article/view/8117/11873)</td>
 </tr>
 </tbody>
 </table>
