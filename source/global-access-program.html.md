@@ -22,6 +22,6 @@ DataCite will play a more proactive role in supporting local communities to deve
 
 ## Resourcing
 
-To lower the barrier to access PID infrastructure, the program will establish  a Global Access Fund to enable potential members to set up the infrastructure needed and adopt DOI registration services. The Global Access Fund will be launched in mid 2023.
+To lower the barrier to access PID infrastructure, the program will establish a <a href="/global-access-fund.html">Global Access Fund</a> to enable potential members to set up the infrastructure needed and adopt DOI registration services. The Global Access Fund will be launched in 2023.
 
 For questions about the GAP, reach out to Gabriela Mejias (gabi.mejias@datacite.org), Program Manager.
