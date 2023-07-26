@@ -11,13 +11,13 @@ The Global Access Fund (GAF) was established to enable organizations worldwide t
 
 The Global Access Fund will allocate funding to projects in the following areas:
 
-#### <span class="bold-text">(1) Outreach  and engagement activities</span> to support increasing awareness and adoption of global and local solutions and connect to community initiatives, such as:
+#### <span class="bold-text">(1) Outreach  and engagement activities to support increasing awareness and adoption of global and local solutions and connect to community initiatives, such as:</span>
 - Capacity building to deliver training to research administrators and librarians on open infrastructure and service fundamentals (DOIs, metadata, APIs), implementation (e.g. DataCite API integration in a repository and other systems, metadata curation) and demonstrating the value of the connection to local infrastructure services to the community.
 - Events (Webinars, workshops, virtual communication campaigns) to promote open infrastructure, discuss and amplify membership and adoption strategies and plans leveraging local initiatives.
 - Outreach resource development to deliver content (videos, social media content, podcast, tutorials, etc.) that document use cases, success stories, and benefits of DataCite infrastructure in local/regional contexts. Preference would be given to innovative formats and materials in languages other than English.
 
 
-#### <span class="bold-text">(2) Open Infrastructure development and integration<span> to enable and increase the adoption of DataCite infrastructure and related services, such as:
+#### <span class="bold-text">(2) Open Infrastructure development and integration to enable and increase the adoption of DataCite infrastructure and related services, such as:<span>
 
 - Repository, publishing, and other system development and implementation to allow organizations to integrate DataCite APIs and metadata 
 - DataCite API integrations to connect local and national systems with the DataCite Registry
