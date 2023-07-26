@@ -1,5 +1,13 @@
 # Changelog
 
+## [v.1.9.164](https://github.com/datacite/homepage/tree/v.1.9.164) (2023-07-26)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.163...v.1.9.164)
+
+**Merged pull requests:**
+
+- Update fair-workflows.html.md [\#222](https://github.com/datacite/homepage/pull/222) ([xchen101](https://github.com/xchen101))
+
 ## [v.1.9.163](https://github.com/datacite/homepage/tree/v.1.9.163) (2023-06-20)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.162...v.1.9.163)
@@ -71,20 +79,20 @@
 
 ## [v.1.9.151](https://github.com/datacite/homepage/tree/v.1.9.151) (2023-03-01)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.150...v.1.9.151)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.149...v.1.9.151)
 
 **Merged pull requests:**
 
 - Add FT requirement [\#214](https://github.com/datacite/homepage/pull/214) ([gmejias](https://github.com/gmejias))
 - Update speaker name [\#213](https://github.com/datacite/homepage/pull/213) ([gmejias](https://github.com/gmejias))
 
-## [v.1.9.150](https://github.com/datacite/homepage/tree/v.1.9.150) (2023-02-28)
-
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.149...v.1.9.150)
-
 ## [v.1.9.149](https://github.com/datacite/homepage/tree/v.1.9.149) (2023-02-28)
 
-[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.148...v.1.9.149)
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.150...v.1.9.149)
+
+## [v.1.9.150](https://github.com/datacite/homepage/tree/v.1.9.150) (2023-02-28)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.148...v.1.9.150)
 
 **Merged pull requests:**
 
