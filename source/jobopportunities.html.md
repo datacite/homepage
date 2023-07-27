@@ -5,7 +5,7 @@ layout: service
 ## Current Openings
 
 - [Application Developer (remote)](#head1)
-- [Operations & HR Manager (remote)](#head2)
+- [Metadata Specialist (remote)](#head2)
 
 # <a name="head1">Application Developer (remote)</a>
 
@@ -76,67 +76,63 @@ Please send a resume and statement of interest to Sarala Wimalaratne (sarala@dat
 
 DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
 
-# <a name="head2">Operations & HR Manager (remote)</a>
+# <a name="head2">Metadata Specialist (remote)</a>
 
-DataCite is seeking an experienced Operations & HR Manager to support the Operations & Finance Director in managing the day-to-day operations and HR functions of the organization. The ideal candidate will be a detail-oriented, organized, and efficient individual with excellent communication skills. The location of the candidate will be preferable EMEA or North America East Coast. This is a full-time or part-time position at 20-30 hours per week.
-
+Job Description
+---
+DataCite is looking for a Metadata Specialist to join the DataCite community engagement team. This is a fully remote position for an initial period of 1 year to support the initialization phase of the PID4NFDI project. This is a full time or part time position at 30-38.5 hours per week. In this phase, the Metadata Specialist will analyze which technical measures and metadata harmonization processes are needed to improve the ease-of-use and integration of scalable PID services within the NFDI.  
 
 About DataCite
 ---
-DataCite is a community-led organisation with a vision to connect research and identify knowledge.  We have been providing the means to create, find, cite, connect, and use research across 48 countries globally since 2009.  In addition to DataCite core services, we support the scaling efforts of  several identifier communities through governance, sustainability, insurance, and technical implementation. 
+DataCite is a community-led organization with a vision to connect research and advance knowledge. We are a global community that share a common interest: to ensure that research outputs and resources are openly available and connected so that their reuse can advance knowledge across and between disciplines, now and in the future.
 
+As a community, we make research more effective with metadata that connects research outputs and resources–from samples and images to data and preprints. We enable the creation and management of persistent identifiers (PIDs), integrate services to improve research workflows, and facilitate the discovery and reuse of research outputs and resources.
 
-Working at DataCite
+About PID4NFDI
 ---
-We are a fully remote team, which means we don't have a physical office. The team is distributed across five continents, supporting a global community of organizational members across 50 countries. 
+[NFDI](https://www.nfdi.de/?lang=en) is Germany’s national research data infrastructure organization, which operates through various NFDI consortia to coordinate national infrastructure and strategies for research data management (RDM). The aim of the national research data infrastructure (NFDI) is to systematically manage scientific and research data, provide long-term data storage, backup and accessibility, and network the data both nationally and internationally. PID4NFDI is a new project which aims to develop an NFDI-wide PID strategy that captures the existing consortium- and community-focused solutions and requirements, and provides a blueprint for further development phases to roll out a portfolio of services that covers the various RDM use cases and the exceptional variety of requirements of the NFDI consortia.
 
-
-Responsibilities
+Working at Datacite
 ---
+We are a fully remote team, which means we don't have a physical office. The team is distributed across four continents, supporting a global community of organizational members across 50 countries.
 
-#### (1) HR Policies and Payroll:
-* Assist with the development, implementation, and maintenance of HR policies and procedures
-* Assist with payroll and benefits administration
-* Create onboarding plans and educate newly hired employees on HR policies, internal procedures, and regulations
-* Recruit, interview, and facilitate the hiring of qualified job applicants for open positions in collaboration with the directors
-
-#### (2) Operations and Financial Controls:
-* Support day-to-day operations of the organization
-* Assist with the development, implementation, and maintenance of financial controls and procedures
-* Ensure legal compliance and best practices in all financial-related matters
-* Assist with budgeting, forecasting, and financial reporting
-* Oversee expense management and accounts payable/receivable
-
-#### (3) General Organizational Support:
-* Support a positive organizational culture
-* Assist with employee engagement initiatives
-* Assist with training and development programs
-
-
+Responsibilities and duties
+---
+- Analyze how existing metadata in open scholarly infrastructure fits together—including DataCite DOI metadata, local repository metadata, and harvester metadata.
+- Identify, define, and refine metadata best practices.
+- Support the development of the DataCite Metadata Schema, in coordination with the DataCite team and the Metadata Working Group.
+- Coordinate with PID4NFDI project partners.
 
 Requirements
 ---
-* Bachelor's degree in Business Administration or related field is preferable
-* At least 3 years of experience in HR, operations and/or finance management
-* Knowledge of HR policies and procedures, payroll, financial controls, budgeting, and forecasting
-* Excellent communication and interpersonal skills
-* Strong problem-solving and analytical skills
-* Experience with project management and ability to work independently and as part of a team
-* Strong organizational skills with attention to detail and ability to multitask
+- University degree.
+- Familiarity with research infrastructure and the open science landscape.
+- Knowledge of the German research landscape and NFDI.
+- Experience with open scholarly metadata and metadata standards.
+- Data science skills.
+- Clear written, oral, and visual communication in English.
+- Ability to work with a distributed team across time zones.
+- Self-motivated to succeed and take initiative and seek continuous improvement.
 
+Nice to haves:
+
+- Based in Germany.
+- Experience with a relevant scripting language, such as Python or R, that can be used for metadata analysis.
+- Experience working with large datasets.
 
 Why work for us
 ---
-* Remote position.
-* Competitive local salary.
-* 30 days vacation time annually, plus 1 day paid extra for volunteer work of your choice.
-* Flexible working hours.
-* Option to work in a co-working space with a paid contribution from DataCite.
-* Opportunity to learn something new every day.
-
+- Fully remote position.
+- Competitive local salary.
+- 30 days vacation time annually and 1 day paid extra for volunteer work of your choice.
+- Flexible working hours.
+- Option to work in co-working with a paid contribution from us.
+- Opportunity to learn something new every day, we are an evolving community and team
+- Adaptable - We embrace change and uncertainty and work together to adapt to new situations
 
 To apply
 ---
-Please send a resume and statement of interest to Britta Dreyer [<britta.dreyer@datacite.org>] by April 25, 2023. Please don’t hesitate to contact us with any questions.
+
+Please send a resume and statement of interest to Kelly Stathis (kelly.stathis@datacite.org) by August 20, 2023. We only accept applications by individuals. We would like the candidate to start around October 2023. Please don’t hesitate to contact us with any questions.
 
 DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
