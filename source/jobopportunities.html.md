@@ -118,7 +118,7 @@ Requirements
 
 Nice to haves:
 
-- Based in Germany.
+- Based in Germany and German language proficiency.
 - Experience with a relevant scripting language, such as Python or R, that can be used for metadata analysis.
 - Experience working with large datasets.
 
