@@ -1,5 +1,9 @@
 # Changelog
 
+## [v.1.9.168](https://github.com/datacite/homepage/tree/v.1.9.168) (2023-08-14)
+
+[Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.167...v.1.9.168)
+
 ## [v.1.9.167](https://github.com/datacite/homepage/tree/v.1.9.167) (2023-08-10)
 
 [Full Changelog](https://github.com/datacite/homepage/compare/v.1.9.166...v.1.9.167)
@@ -1013,7 +1017,6 @@
 **Merged pull requests:**
 
 - Minor mood staff page: alphabetize staff. [\#114](https://github.com/datacite/homepage/pull/114) ([svogt0511](https://github.com/svogt0511))
-- Minor mods staff page: twitter handle, re-order by last name, minor t… [\#113](https://github.com/datacite/homepage/pull/113) ([svogt0511](https://github.com/svogt0511))
 
 ## [1.7.44](https://github.com/datacite/homepage/tree/1.7.44) (2020-11-12)
 
