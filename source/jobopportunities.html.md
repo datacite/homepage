@@ -6,6 +6,7 @@ layout: service
 
 - [Application Developer (remote)](#head1)
 - [Metadata Specialist (remote)](#head2)
+- [Product Manager (remote)](#head3)
 
 # <a name="head1">Application Developer (remote)</a>
 
@@ -136,5 +137,61 @@ To apply
 ---
 
 Please send a resume and statement of interest to Kelly Stathis (kelly.stathis@datacite.org) by August 20, 2023. We only accept applications by individuals. We would like the candidate to start around October 2023. Please don’t hesitate to contact us with any questions.
+
+DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
+
+# <a name="head3">Product Manager (remote)</a>
+
+Job Description
+---
+DataCite is looking for an experienced, technical minded Product Manager to join our team to guide DataCite products and services that will empower the community to improve data citation practices. The list of services include APIs for harvesting our metadata and connections, APIs for storing and retrieving data citations and simple interfaces for showing matrix of aggregated data citations.
+
+About DataCite
+---
+DataCite is a community-led organization with a vision to connect research and advance knowledge. We are a global community that share a common interest: to ensure that research outputs and resources are openly available and connected so that their reuse can advance knowledge across and between disciplines, now and in the future.
+
+As a community, we make research more effective with metadata that connects research outputs and resources–from samples and images to data and preprints. We enable the creation and management of persistent identifiers (PIDs), integrate services to improve research workflows, and facilitate the discovery and reuse of research outputs and resources.
+
+Working at DataCite
+---
+We are a fully remote team, which means we don't have a physical office. The team is distributed across four continents, supporting a global community of organizational members across 50 countries.
+
+Responsibilities
+---
+- Collaborate with cross-functional teams to guide products from inception through to launch focusing on our community needs and growth
+- Gather and prioritize product requirements, working closely with the internal teams and the community
+- Conduct user research and identify community needs
+- Create and maintain user stories, wireframes and product specifications
+- Collaborate with the development team to ensure that products meet quality standards
+- Conduct data analysis, and gather user feedback to make data-driven decisions and drive product improvements
+- Conduct product demos, present at conferences, and engage with community to gather feedback and insights
+- Collaborate with stakeholders to define and track key product metrics and OKRs
+- Stay updated with trends, emerging technologies, and best practices in product management.
+
+
+Qualifications
+---
+- Bachelor's degree or equivalent practical experience
+- 4 years of experience in product management
+- Ability to influence multiple stakeholders without direct authority
+- Excellent communication and presentation skills, with the ability to effectively communicate complex ideas to both technical and non-technical audiences
+- Strong project management and organizational skills, with the ability to prioritize and manage multiple projects simultaneously
+- Knowledge of UX/UI design principles
+- Experience in scholarly communications and/or information services industries is beneficial
+
+Why Work For Us
+---
+- Fully remote position.
+- Competitive local salary.
+- 30 days vacation time annually and 1 day paid extra for volunteer work of your choice.
+- Flexible working hours.
+- Option to work in co-working with a paid contribution from us.
+- Opportunity to learn something new every day, we are an evolving community and team
+- Adaptable - We embrace change and uncertainty and work together to adapt to new situations
+
+
+To Apply
+---
+Please send a resume and statement of interest to Sydney Keefe (sydney.keefe@datacite.org) by August 30, 2023. We only accept applications by individuals. Please don’t hesitate to contact us with any questions.
 
 DataCite is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. DataCite will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
